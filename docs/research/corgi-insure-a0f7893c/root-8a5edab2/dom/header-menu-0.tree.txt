@@ -1,0 +1,166 @@
+<div .pointer-events-auto.hidden.w-fit.overflow-clip.border-b-[1px].border-r-[1px].border-l-[1px].border-[#e1e1e1].bg-[rgba(255,255,255,0.85)].px-4> [175,92,1090,319] @role=region
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(0, 0, 0); backgroundColor:rgba(255, 255, 255, 0.85); padding:24px 16px; margin:0px 0px 0px 175px; width:1090px; height:319px; display:block; borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip }
+  <div> [192,116,1056,270]
+    { width:1056px; height:270px; display:block }
+    <div .relative.flex.items-stretch.[--dropdown-column-width:176px].2xl:[--dropdown-column-width:200px].min-[1680px]:[--dropdown-column-width:220px]> [192,116,1056,270]
+      { width:1056px; height:270px; display:flex; alignItems:stretch; position:relative }
+      <div .pointer-events-none.absolute.top-1/2.left-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [192,-949,1,2400]
+        { width:1px; height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:135px; right:1055px }
+        <div .h-full.w-[1px].bg-[#e1e1e1]> [192,-949,1,2400]
+          { backgroundColor:rgb(225, 225, 225); width:1px; height:2400px; display:block }
+      <div .pointer-events-none.absolute.top-1/2.right-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [1247,-949,1,2400]
+        { width:1px; height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:135px; left:1055px }
+        <div .h-full.w-[1px].bg-[#e1e1e1]> [1247,-949,1,2400]
+          { backgroundColor:rgb(225, 225, 225); width:1px; height:2400px; display:block }
+      <div .pointer-events-none.absolute.top-[30px].left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [-480,146,2400,1]
+        { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; top:30px; left:528px; right:-1872px }
+      <div .pointer-events-none.absolute.bottom-0.left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [-480,385,2400,1]
+        { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; top:269px; left:528px; right:-1872px }
+      <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [368,-949,1,2400]
+        { width:1px; height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:135px; left:176px; right:879px }
+        <div .h-full.w-[1px].bg-[#e1e1e1]> [368,-949,1,2400]
+          { backgroundColor:rgb(225, 225, 225); width:1px; height:2400px; display:block }
+      <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [720,-949,1,2400]
+        { width:1px; height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:135px; left:528px; right:527px }
+        <div .h-full.w-[1px].bg-[#e1e1e1]> [720,-949,1,2400]
+          { backgroundColor:rgb(225, 225, 225); width:1px; height:2400px; display:block }
+      <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [896,-949,1,2400]
+        { width:1px; height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:135px; left:704px; right:351px }
+        <div .h-full.w-[1px].bg-[#e1e1e1]> [896,-949,1,2400]
+          { backgroundColor:rgb(225, 225, 225); width:1px; height:2400px; display:block }
+      <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [192,116,176,270]
+        { width:176px; height:270px; display:flex; flexDirection:column; gap:8px }
+        <div .pl-2> [192,116,176,24]
+          { padding:0px 0px 0px 8px; width:176px; height:24px; display:block }
+          <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [200,121,52,16] "By Stage"
+            { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); display:inline; textTransform:uppercase }
+        <div .flex.flex-1.flex-col.gap-2.p-2> [192,148,176,238]
+          { padding:8px; width:176px; height:238px; display:flex; flexDirection:column; gap:8px }
+          <button .flex.w-full.items-center.gap-2.rounded-lg.p-2.text-left.transition-colors.hover:bg-[#f6f6f6]> [200,156,160,33]
+            { padding:8px; width:160px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [208,164,16,16] "psychiatry"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [232,164,120,17] "Pre-seed & Seed"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:120px; height:16.7969px; display:block }
+          <button .flex.w-full.items-center.gap-2.rounded-lg.p-2.text-left.transition-colors.hover:bg-[#f6f6f6]> [200,197,160,33]
+            { padding:8px; width:160px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [208,205,16,16] "eco"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [232,205,120,17] "Series A"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:120px; height:16.7969px; display:block }
+          <button .flex.w-full.items-center.gap-2.rounded-lg.p-2.text-left.transition-colors.hover:bg-[#f6f6f6]> [200,238,160,33]
+            { padding:8px; width:160px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [208,246,16,16] "park"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [232,246,120,17] "Growth"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:120px; height:16.7969px; display:block }
+          <button .flex.w-full.items-center.gap-2.rounded-lg.p-2.text-left.transition-colors.hover:bg-[#f6f6f6]> [200,278,160,33]
+            { padding:8px; width:160px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [208,287,16,16] "widgets"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [232,286,120,17] "Custom"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:120px; height:16.7969px; display:block }
+          <div .mt-auto> [200,354,160,24]
+            { margin:34.8125px 0px 0px; width:160px; height:24px; display:block }
+            <a .text-[14px].font-medium.tracking-[-0.18px].text-[#ff5c00].hover:underline> [200,357,50,18] "View all" @href=/startup-insurance
+              { fontSize:14px; fontWeight:500; lineHeight:21px; letterSpacing:-0.18px; color:rgb(255, 92, 0); display:inline; cursor:pointer }
+      <div .flex.w-[calc(var(--dropdown-column-width,240px)*2)].shrink-0.flex-col.gap-2> [368,116,352,270]
+        { width:352px; height:270px; display:flex; flexDirection:column; gap:8px }
+        <div .pl-2> [368,116,352,24]
+          { padding:0px 0px 0px 8px; width:352px; height:24px; display:block }
+          <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [376,121,72,16] "By Industry"
+            { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); display:inline; textTransform:uppercase }
+        <div .grid.grid-cols-2.gap-2.p-2> [368,148,352,171]
+          { padding:8px; width:352px; height:171.188px; display:grid; gap:8px; gridTemplateColumns:164px 164px }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [376,156,164,33] @href=/saas
+            { padding:8px; width:164px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [384,164,16,16] "cloud"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [408,164,124,17] "SaaS"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:124px; height:16.7969px; display:block }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [548,156,164,33] @href=/ai
+            { padding:8px; width:164px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [556,164,16,16] "smart_toy"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [580,164,124,17] "AI"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:124px; height:16.7969px; display:block }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [376,197,164,33] @href=/fintech
+            { padding:8px; width:164px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [384,205,16,16] "account_balance"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [408,205,124,17] "Fintech"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:124px; height:16.7969px; display:block }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [548,197,164,33] @href=/crypto
+            { padding:8px; width:164px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [556,205,16,16] "currency_bitcoin"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [580,205,124,17] "Crypto"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:124px; height:16.7969px; display:block }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [376,238,164,33] @href=/market
+            { padding:8px; width:164px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [384,246,16,16] "store"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [408,246,124,17] "Marketplace"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:124px; height:16.7969px; display:block }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [548,238,164,33] @href=/health-tech
+            { padding:8px; width:164px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [556,246,16,16] "monitor_heart"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [580,246,124,17] "Health-tech"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:124px; height:16.7969px; display:block }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [376,278,164,33] @href=https://trucking.corgi.insure/
+            { padding:8px; width:164px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [384,287,16,16] "local_shipping"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [408,286,124,17] "Trucking"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:124px; height:16.7969px; display:block }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [548,278,164,33] @href=https://getgolden.insure/
+            { padding:8px; width:164px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [556,287,16,16] "sports_soccer"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [580,286,124,17] "Sports"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:124px; height:16.7969px; display:block }
+      <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [720,116,176,270]
+        { width:176px; height:270px; display:flex; flexDirection:column; gap:8px }
+        <div .pl-2> [720,116,176,24]
+          { padding:0px 0px 0px 8px; width:176px; height:24px; display:block }
+          <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [728,121,62,16] "Software"
+            { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); display:inline; textTransform:uppercase }
+        <div .flex.flex-col.gap-2.p-2> [720,148,176,49]
+          { padding:8px; width:176px; height:48.7969px; display:flex; flexDirection:column; gap:8px }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [728,156,160,33] @href=https://dataroom.corgi.com
+            { padding:8px; width:160px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [736,164,16,16] "lock"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [760,164,120,17] "Dataroom"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:120px; height:16.7969px; display:block }
+      <div .flex.w-[calc(var(--dropdown-column-width,240px)*2)].shrink-0.flex-col.self-stretch> [896,116,352,270]
+        { width:352px; height:270px; display:flex; flexDirection:column }
+        <div .flex.h-[30px].items-center.pl-2> [896,116,352,30]
+          { padding:0px 0px 0px 8px; width:352px; height:30px; display:flex; alignItems:center }
+          <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [904,122,66,18] "Highlights"
+            { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); width:66.2812px; height:18px; display:block; textTransform:uppercase }
+        <div .flex.min-h-[240px].flex-1.overflow-hidden.rounded-[20px].border-[1px].border-[#e1e1e1]> [896,146,352,240]
+          { width:352px; height:240px; display:flex; borderRadius:20px; border:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:hidden }
+          <a .group.relative.flex.flex-1.flex-col.items-start.justify-end.gap-1.overflow-hidden.border-r-[1px]> [897,147,184,238] @href=/book-a-demo
+            { padding:8px; width:183.5px; height:238px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; gap:4px; borderRight:1px solid rgb(225, 225, 225); position:relative; overflow:hidden; cursor:pointer }
+            <img .absolute.inset-0.h-full.w-full.object-cover.object-[20%_center]> [897,147,183,238] @alt=Book a demo @src=/images/book a demo image.png IMG /images/book%20a%20demo%20image.png nat1370x804
+              { width:182.5px; height:238px; maxWidth:100%; display:block; position:absolute; overflow:clip; objectFit:cover }
+            <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [897,147,183,238]
+              { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; width:182.5px; height:238px; display:block; position:absolute }
+            <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [905,330,74,14] "Book a demo"
+              { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); width:74.0312px; height:14.3906px; display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+            <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [905,348,167,29] "For customers who want guidance."
+              { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); width:166.5px; height:28.7812px; display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+          <div .relative.flex.flex-1.overflow-hidden> [1081,147,167,238]
+            { width:166.5px; height:238px; display:flex; position:relative; overflow:hidden }
+            <a .group.absolute.inset-0.flex.flex-col.items-start.justify-end.gap-1.overflow-hidden.bg-white> [1081,147,167,238] @href=/press-releases/series-b
+              { backgroundColor:rgb(255, 255, 255); padding:8px; width:166.5px; height:238px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; gap:4px; position:absolute; transition:opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1); overflow:hidden; cursor:pointer }
+              <img .absolute.inset-0.h-full.w-full.object-cover> [1081,147,167,238] @alt=$1.3B valuation @src=/images/press-releases/series-b-thumbnail.png IMG /images/press-releases/series-b-thumbnail.png nat1024x520
+                { width:166.5px; height:238px; maxWidth:100%; display:block; position:absolute; overflow:clip; objectFit:cover }
+              <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [1081,147,167,238]
+                { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; width:166.5px; height:238px; display:block; position:absolute }
+              <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [1089,330,87,14] "$1.3B valuation"
+                { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); width:87.1406px; height:14.3906px; display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+              <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [1089,348,151,29] "Corgi raises $160M Series B."
+                { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); width:150.5px; height:28.7812px; display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }

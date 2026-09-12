@@ -1,0 +1,120 @@
+<div .pointer-events-auto.hidden.w-fit.overflow-clip.border-b-[1px].border-r-[1px].border-l-[1px].border-[#e1e1e1].bg-[rgba(255,255,255,0.85)].px-4> [175,92,994,319] @role=region
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(0, 0, 0); backgroundColor:rgba(255, 255, 255, 0.85); padding:24px 16px; margin:0px 0px 0px 175px; width:994px; height:319px; display:block; borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip }
+  <div> [192,116,960,270]
+    { width:960px; height:270px; display:block }
+    <div .relative.flex.items-start> [192,116,960,270]
+      { width:960px; height:270px; display:flex; alignItems:flex-start; position:relative }
+      <div .pointer-events-none.absolute.top-1/2.left-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [192,-949,1,2400]
+        { width:1px; height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:135px; right:959px }
+        <div .h-full.w-[1px].bg-[#e1e1e1]> [192,-949,1,2400]
+          { backgroundColor:rgb(225, 225, 225); width:1px; height:2400px; display:block }
+      <div .pointer-events-none.absolute.top-1/2.right-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [1151,-949,1,2400]
+        { width:1px; height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:135px; left:959px }
+        <div .h-full.w-[1px].bg-[#e1e1e1]> [1151,-949,1,2400]
+          { backgroundColor:rgb(225, 225, 225); width:1px; height:2400px; display:block }
+      <div .pointer-events-none.absolute.top-[30px].left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [-528,146,2400,1]
+        { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; top:30px; left:480px; right:-1920px }
+      <div .pointer-events-none.absolute.bottom-0.left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [-528,385,2400,1]
+        { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; top:269px; left:480px; right:-1920px }
+      <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [432,-949,1,2400]
+        { width:1px; height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:135px; left:240px; right:719px }
+        <div .h-full.w-[1px].bg-[#e1e1e1]> [432,-949,1,2400]
+          { backgroundColor:rgb(225, 225, 225); width:1px; height:2400px; display:block }
+      <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [672,-949,1,2400]
+        { width:1px; height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:135px; left:480px; right:479px }
+        <div .h-full.w-[1px].bg-[#e1e1e1]> [672,-949,1,2400]
+          { backgroundColor:rgb(225, 225, 225); width:1px; height:2400px; display:block }
+      <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [192,116,240,162]
+        { width:240px; height:162.391px; display:flex; flexDirection:column; gap:8px }
+        <div .pl-2> [192,116,240,24]
+          { padding:0px 0px 0px 8px; width:240px; height:24px; display:block }
+          <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [200,121,66,16] "Literature"
+            { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); display:inline; textTransform:uppercase }
+        <div .flex.flex-col.gap-2.p-2> [192,148,240,130]
+          { padding:8px; width:240px; height:130.391px; display:flex; flexDirection:column; gap:8px }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [200,156,224,33] @href=/press-releases
+            { padding:8px; width:224px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [208,164,16,16] "newspaper"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [232,164,184,17] "Corgi Press"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:184px; height:16.7969px; display:block }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [200,197,224,33] @href=/featured-articles
+            { padding:8px; width:224px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [208,205,16,16] "auto_awesome"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [232,205,184,17] "Featuring Corgi"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:184px; height:16.7969px; display:block }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [200,238,224,33] @href=/blog
+            { padding:8px; width:224px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [208,246,16,16] "edit"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [232,246,184,17] "Blog"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:184px; height:16.7969px; display:block }
+      <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [432,116,240,244]
+        { width:240px; height:243.984px; display:flex; flexDirection:column; gap:8px }
+        <div .pl-2> [432,116,240,24]
+          { padding:0px 0px 0px 8px; width:240px; height:24px; display:block }
+          <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [440,121,120,16] "Corgi the Company"
+            { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); display:inline; textTransform:uppercase }
+        <div .flex.flex-col.gap-2.p-2> [432,148,240,212]
+          { padding:8px; width:240px; height:211.984px; display:flex; flexDirection:column; gap:8px }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [440,156,224,33] @href=/about
+            { padding:8px; width:224px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [448,164,16,16] "info"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [472,164,184,17] "About"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:184px; height:16.7969px; display:block }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [440,197,224,33] @href=/careers
+            { padding:8px; width:224px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [448,205,16,16] "verified"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [472,205,184,17] "Careers"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:184px; height:16.7969px; display:block }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [440,238,224,33] @href=https://thecorgi.cafe/
+            { padding:8px; width:224px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [448,246,16,16] "coffee"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [472,246,184,17] "Corgi Cafe"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:184px; height:16.7969px; display:block }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [440,278,224,33] @href=https://thecorgi.cafe/corgi-bus
+            { padding:8px; width:224px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [448,287,16,16] "directions_bus"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [472,286,184,17] "Corgi Bus"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:184px; height:16.7969px; display:block }
+          <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [440,319,224,33] @href=https://corgifunds.com/
+            { padding:8px; width:224px; height:32.7969px; display:flex; alignItems:center; gap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [448,328,16,16] "candlestick_chart"
+              { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block }
+            <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [472,327,184,17] "Corgi ETFs"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:184px; height:16.7969px; display:block }
+      <div .flex.w-[calc(var(--dropdown-column-width,240px)*2)].shrink-0.flex-col.self-stretch> [672,116,480,270]
+        { width:480px; height:270px; display:flex; flexDirection:column }
+        <div .flex.h-[30px].items-center.pl-2> [672,116,480,30]
+          { padding:0px 0px 0px 8px; width:480px; height:30px; display:flex; alignItems:center }
+          <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [680,122,66,18] "Highlights"
+            { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); width:66.2812px; height:18px; display:block; textTransform:uppercase }
+        <div .flex.min-h-[240px].flex-1.overflow-hidden.rounded-[20px].border-[1px].border-[#e1e1e1]> [672,146,480,240]
+          { width:480px; height:240px; display:flex; borderRadius:20px; border:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:hidden }
+          <a .group.relative.flex.flex-1.flex-col.items-start.justify-end.gap-1.overflow-hidden.border-r-[1px]> [673,147,248,238] @href=/book-a-demo
+            { padding:8px; width:247.5px; height:238px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; gap:4px; borderRight:1px solid rgb(225, 225, 225); position:relative; overflow:hidden; cursor:pointer }
+            <img .absolute.inset-0.h-full.w-full.object-cover.object-[20%_center]> [673,147,247,238] @alt=Book a demo @src=/images/book a demo image.png IMG /images/book%20a%20demo%20image.png nat1370x804
+              { width:246.5px; height:238px; maxWidth:100%; display:block; position:absolute; overflow:clip; objectFit:cover }
+            <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [673,147,247,238]
+              { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; width:246.5px; height:238px; display:block; position:absolute }
+            <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [681,344,74,14] "Book a demo"
+              { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); width:74.0312px; height:14.3906px; display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+            <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [681,363,185,14] "For customers who want guidance."
+              { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); width:185.312px; height:14.3906px; display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+          <div .relative.flex.flex-1.overflow-hidden> [921,147,231,238]
+            { width:230.5px; height:238px; display:flex; position:relative; overflow:hidden }
+            <a .group.absolute.inset-0.flex.flex-col.items-start.justify-end.gap-1.overflow-hidden.bg-white> [921,147,231,238] @href=/press-releases/series-b
+              { backgroundColor:rgb(255, 255, 255); padding:8px; width:230.5px; height:238px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; gap:4px; position:absolute; transition:opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1); overflow:hidden; cursor:pointer }
+              <img .absolute.inset-0.h-full.w-full.object-cover> [921,147,231,238] @alt=$1.3B valuation @src=/images/press-releases/series-b-thumbnail.png IMG /images/press-releases/series-b-thumbnail.png nat1024x520
+                { width:230.5px; height:238px; maxWidth:100%; display:block; position:absolute; overflow:clip; objectFit:cover }
+              <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [921,147,231,238]
+                { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; width:230.5px; height:238px; display:block; position:absolute }
+              <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [929,344,87,14] "$1.3B valuation"
+                { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); width:87.1406px; height:14.3906px; display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+              <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [929,363,151,14] "Corgi raises $160M Series B."
+                { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); width:150.891px; height:14.3906px; display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
