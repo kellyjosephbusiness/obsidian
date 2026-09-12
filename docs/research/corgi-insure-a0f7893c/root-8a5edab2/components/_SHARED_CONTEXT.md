@@ -21,3 +21,6 @@
 - The extracted computed-style trees (exact getComputedStyle values at 1440, 768 and 390) are at `docs/research/corgi-insure-a0f7893c/root-8a5edab2/dom/<name>.tree.txt`, `dom/tablet/`, `dom/mobile/` — consult them for any value not in the spec. The site's own compiled component source (readable JSX) is in `docs/research/corgi-insure-a0f7893c/root-8a5edab2/js/pretty/` when a spec points to it.
 - Respect `prefers-reduced-motion` where the site does (marquees/physics stop).
 - Verify with `npx tsc --noEmit` and `npm run lint` before finishing; then commit on your worktree branch.
+
+## Heading sizes (correction)
+Section `<h2>` headings measure 28px @390, 40px @768, 48px @1440 — that is the `--h2-*` scale. Use `text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]` (never `--h1-*`, which is the hero-only 36/48/60 scale).

@@ -1,0 +1,2497 @@
+{
+ "nodes": [
+  {
+   "tag": "div",
+   "cls": "",
+   "rect": [
+    0,
+    112,
+    390,
+    672
+   ],
+   "styles": {
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "24px",
+    "color": "rgb(0, 0, 0)",
+    "width": "390px",
+    "height": "671.969px",
+    "display": "block",
+    "flexDirection": "row",
+    "border": "0px solid rgb(44, 44, 44)",
+    "borderBottom": "0px solid rgb(44, 44, 44)",
+    "borderTop": "0px solid rgb(44, 44, 44)",
+    "transition": "all",
+    "opacity": "1"
+   },
+   "children": [
+    {
+     "tag": "button",
+     "cls": "flex w-full items-center justify-between border-b-[1px] border-[#e1e1e1] bg-[rgba(255,255,255,0.85)] px-4 py-4 md:px-6 text-[14px] backdrop-blur-[6px] leading-[1.2] tracking-[-0.21px] font-medium text-[#191919]",
+     "rect": [
+      0,
+      112,
+      390,
+      50
+     ],
+     "text": "Tech companies",
+     "styles": {
+      "fontSize": "14px",
+      "fontWeight": "500",
+      "lineHeight": "16.8px",
+      "letterSpacing": "-0.21px",
+      "color": "rgb(25, 25, 25)",
+      "backgroundColor": "rgba(255, 255, 255, 0.85)",
+      "padding": "16px",
+      "width": "390px",
+      "height": "49.7969px",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "borderBottom": "1px solid rgb(225, 225, 225)",
+      "borderTop": "0px solid rgb(225, 225, 225)",
+      "transition": "all",
+      "backdropFilter": "blur(6px)",
+      "opacity": "1"
+     },
+     "children": [
+      {
+       "tag": "span",
+       "cls": "h-4 w-4 shrink-0 transition-transform duration-200 rotate-180",
+       "rect": [
+        358,
+        128,
+        16,
+        16
+       ],
+       "text": "keyboard_arrow_down",
+       "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "color": "rgb(25, 25, 25)",
+        "width": "16px",
+        "height": "16px",
+        "display": "block",
+        "flexDirection": "row",
+        "border": "0px solid rgb(44, 44, 44)",
+        "borderBottom": "0px solid rgb(44, 44, 44)",
+        "borderTop": "0px solid rgb(44, 44, 44)",
+        "transition": "transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), translate 0.2s cubic-bezier(0.4, 0, 0.2, 1), scale 0.2s cubic-bezier(0.4, 0, 0.2, 1), rotate 0.2s cubic-bezier(0.4, 0, 0.2, 1)",
+        "opacity": "1"
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "tag": "div",
+     "cls": "relative overflow-hidden border-b-[1px] border-[#e1e1e1] bg-[rgba(255,255,255,0.85)] backdrop-blur-[6px]",
+     "rect": [
+      0,
+      162,
+      390,
+      622
+     ],
+     "styles": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(255, 255, 255, 0.85)",
+      "width": "390px",
+      "height": "622.172px",
+      "display": "block",
+      "flexDirection": "row",
+      "borderBottom": "1px solid rgb(225, 225, 225)",
+      "borderTop": "0px solid rgb(225, 225, 225)",
+      "position": "relative",
+      "overflow": "hidden",
+      "transition": "all",
+      "backdropFilter": "blur(6px)",
+      "opacity": "1"
+     },
+     "children": [
+      {
+       "tag": "div",
+       "cls": "relative px-4 pb-4 md:px-6",
+       "rect": [
+        0,
+        162,
+        390,
+        621
+       ],
+       "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px 16px 16px",
+        "width": "390px",
+        "height": "621.172px",
+        "display": "block",
+        "flexDirection": "row",
+        "border": "0px solid rgb(44, 44, 44)",
+        "borderBottom": "0px solid rgb(44, 44, 44)",
+        "borderTop": "0px solid rgb(44, 44, 44)",
+        "position": "relative",
+        "transition": "all",
+        "opacity": "1"
+       },
+       "children": [
+        {
+         "tag": "div",
+         "cls": "relative flex flex-col",
+         "rect": [
+          16,
+          162,
+          358,
+          605
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "width": "358px",
+          "height": "605.172px",
+          "display": "flex",
+          "flexDirection": "column",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "position": "relative",
+          "transition": "all",
+          "opacity": "1"
+         },
+         "children": [
+          {
+           "tag": "div",
+           "cls": "pointer-events-none absolute top-0 left-0 h-[2400px] w-[1px] bg-[#e1e1e1]",
+           "rect": [
+            16,
+            162,
+            1,
+            2400
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(225, 225, 225)",
+            "width": "1px",
+            "height": "2400px",
+            "display": "block",
+            "flexDirection": "row",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "position": "absolute",
+            "transition": "all",
+            "opacity": "1"
+           },
+           "children": []
+          },
+          {
+           "tag": "div",
+           "cls": "pointer-events-none absolute top-0 right-0 h-[2400px] w-[1px] bg-[#e1e1e1]",
+           "rect": [
+            373,
+            162,
+            1,
+            2400
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(225, 225, 225)",
+            "width": "1px",
+            "height": "2400px",
+            "display": "block",
+            "flexDirection": "row",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "position": "absolute",
+            "transition": "all",
+            "opacity": "1"
+           },
+           "children": []
+          },
+          {
+           "tag": "div",
+           "cls": "relative flex",
+           "rect": [
+            16,
+            162,
+            358,
+            368
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "width": "358px",
+            "height": "368.375px",
+            "display": "flex",
+            "flexDirection": "row",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "position": "relative",
+            "transition": "all",
+            "opacity": "1"
+           },
+           "children": [
+            {
+             "tag": "div",
+             "cls": "relative flex flex-1 flex-col gap-2",
+             "rect": [
+              16,
+              162,
+              179,
+              368
+             ],
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "width": "179px",
+              "height": "368.375px",
+              "display": "flex",
+              "flexDirection": "column",
+              "gap": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "position": "relative",
+              "transition": "all",
+              "opacity": "1"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "cls": "relative flex items-center px-2 pt-2",
+               "rect": [
+                16,
+                162,
+                179,
+                26
+               ],
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "padding": "8px 8px 0px",
+                "width": "179px",
+                "height": "26px",
+                "display": "flex",
+                "flexDirection": "row",
+                "alignItems": "center",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "position": "relative",
+                "transition": "all",
+                "opacity": "1"
+               },
+               "children": [
+                {
+                 "tag": "span",
+                 "cls": "text-[12px] uppercase tracking-[-0.18px] text-[#4a4a4a]",
+                 "rect": [
+                  24,
+                  170,
+                  52,
+                  18
+                 ],
+                 "text": "By Stage",
+                 "styles": {
+                  "fontSize": "12px",
+                  "fontWeight": "400",
+                  "lineHeight": "18px",
+                  "letterSpacing": "-0.18px",
+                  "color": "rgb(74, 74, 74)",
+                  "width": "52.2031px",
+                  "height": "18px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "all",
+                  "textTransform": "uppercase",
+                  "opacity": "1"
+                 },
+                 "children": []
+                }
+               ]
+              },
+              {
+               "tag": "div",
+               "cls": "relative flex flex-1 flex-col gap-2 p-2",
+               "rect": [
+                16,
+                196,
+                179,
+                334
+               ],
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "padding": "8px",
+                "width": "179px",
+                "height": "334.375px",
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "8px",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "position": "relative",
+                "transition": "all",
+                "opacity": "1"
+               },
+               "children": [
+                {
+                 "tag": "button",
+                 "cls": "flex w-full items-center gap-2 rounded-lg p-2 text-left transition-colors hover:bg-[#f6f6f6]",
+                 "rect": [
+                  24,
+                  204,
+                  163,
+                  33
+                 ],
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "8px",
+                  "width": "163px",
+                  "height": "32.7969px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "alignItems": "center",
+                  "gap": "8px",
+                  "borderRadius": "8px",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "span",
+                   "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+                   "rect": [
+                    32,
+                    212,
+                    16,
+                    16
+                   ],
+                   "text": "psychiatry",
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "16px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "16px",
+                    "height": "16px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+                   "rect": [
+                    56,
+                    212,
+                    123,
+                    17
+                   ],
+                   "text": "Pre-seed & Seed",
+                   "styles": {
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "lineHeight": "16.8px",
+                    "letterSpacing": "-0.21px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "123px",
+                    "height": "16.7969px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "button",
+                 "cls": "flex w-full items-center gap-2 rounded-lg p-2 text-left transition-colors hover:bg-[#f6f6f6]",
+                 "rect": [
+                  24,
+                  245,
+                  163,
+                  33
+                 ],
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "8px",
+                  "width": "163px",
+                  "height": "32.7969px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "alignItems": "center",
+                  "gap": "8px",
+                  "borderRadius": "8px",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "span",
+                   "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+                   "rect": [
+                    32,
+                    253,
+                    16,
+                    16
+                   ],
+                   "text": "eco",
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "16px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "16px",
+                    "height": "16px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+                   "rect": [
+                    56,
+                    253,
+                    123,
+                    17
+                   ],
+                   "text": "Series A",
+                   "styles": {
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "lineHeight": "16.8px",
+                    "letterSpacing": "-0.21px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "123px",
+                    "height": "16.7969px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "button",
+                 "cls": "flex w-full items-center gap-2 rounded-lg p-2 text-left transition-colors hover:bg-[#f6f6f6]",
+                 "rect": [
+                  24,
+                  285,
+                  163,
+                  33
+                 ],
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "8px",
+                  "width": "163px",
+                  "height": "32.7969px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "alignItems": "center",
+                  "gap": "8px",
+                  "borderRadius": "8px",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "span",
+                   "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+                   "rect": [
+                    32,
+                    294,
+                    16,
+                    16
+                   ],
+                   "text": "park",
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "16px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "16px",
+                    "height": "16px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+                   "rect": [
+                    56,
+                    293,
+                    123,
+                    17
+                   ],
+                   "text": "Growth",
+                   "styles": {
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "lineHeight": "16.8px",
+                    "letterSpacing": "-0.21px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "123px",
+                    "height": "16.7969px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "button",
+                 "cls": "flex w-full items-center gap-2 rounded-lg p-2 text-left transition-colors hover:bg-[#f6f6f6]",
+                 "rect": [
+                  24,
+                  326,
+                  163,
+                  33
+                 ],
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "8px",
+                  "width": "163px",
+                  "height": "32.7969px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "alignItems": "center",
+                  "gap": "8px",
+                  "borderRadius": "8px",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "span",
+                   "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+                   "rect": [
+                    32,
+                    335,
+                    16,
+                    16
+                   ],
+                   "text": "widgets",
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "16px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "16px",
+                    "height": "16px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+                   "rect": [
+                    56,
+                    334,
+                    123,
+                    17
+                   ],
+                   "text": "Custom",
+                   "styles": {
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "lineHeight": "16.8px",
+                    "letterSpacing": "-0.21px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "123px",
+                    "height": "16.7969px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "div",
+                 "cls": "mt-auto",
+                 "rect": [
+                  24,
+                  498,
+                  163,
+                  24
+                 ],
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "margin": "131.188px 0px 0px",
+                  "width": "163px",
+                  "height": "24px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "all",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "a",
+                   "cls": "text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#ff5c00] hover:underline",
+                   "rect": [
+                    24,
+                    501,
+                    49,
+                    18
+                   ],
+                   "text": "View all",
+                   "@href": "/startup-insurance",
+                   "styles": {
+                    "fontSize": "14px",
+                    "fontWeight": "500",
+                    "lineHeight": "16.8px",
+                    "letterSpacing": "-0.21px",
+                    "color": "rgb(255, 92, 0)",
+                    "display": "inline",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "div",
+                 "cls": "pointer-events-none absolute top-0 left-1/2 h-[1px] w-[200vw] -translate-x-1/2 bg-[#e1e1e1]",
+                 "rect": [
+                  -284,
+                  196,
+                  780,
+                  1
+                 ],
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgb(225, 225, 225)",
+                  "width": "780px",
+                  "height": "1px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "position": "absolute",
+                  "transition": "all",
+                  "opacity": "1"
+                 },
+                 "children": []
+                }
+               ]
+              }
+             ]
+            },
+            {
+             "tag": "div",
+             "cls": "absolute top-0 bottom-0 left-1/2 w-[1px] bg-[#e1e1e1]",
+             "rect": [
+              195,
+              162,
+              1,
+              368
+             ],
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "backgroundColor": "rgb(225, 225, 225)",
+              "width": "1px",
+              "height": "368.375px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "position": "absolute",
+              "transition": "all",
+              "opacity": "1"
+             },
+             "children": []
+            },
+            {
+             "tag": "div",
+             "cls": "relative flex flex-1 flex-col gap-2",
+             "rect": [
+              195,
+              162,
+              179,
+              368
+             ],
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "width": "179px",
+              "height": "368.375px",
+              "display": "flex",
+              "flexDirection": "column",
+              "gap": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "position": "relative",
+              "transition": "all",
+              "opacity": "1"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "cls": "relative flex items-center px-2 pt-2",
+               "rect": [
+                195,
+                162,
+                179,
+                26
+               ],
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "padding": "8px 8px 0px",
+                "width": "179px",
+                "height": "26px",
+                "display": "flex",
+                "flexDirection": "row",
+                "alignItems": "center",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "position": "relative",
+                "transition": "all",
+                "opacity": "1"
+               },
+               "children": [
+                {
+                 "tag": "span",
+                 "cls": "text-[12px] uppercase tracking-[-0.18px] text-[#4a4a4a]",
+                 "rect": [
+                  203,
+                  170,
+                  72,
+                  18
+                 ],
+                 "text": "By Industry",
+                 "styles": {
+                  "fontSize": "12px",
+                  "fontWeight": "400",
+                  "lineHeight": "18px",
+                  "letterSpacing": "-0.18px",
+                  "color": "rgb(74, 74, 74)",
+                  "width": "72.0938px",
+                  "height": "18px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "all",
+                  "textTransform": "uppercase",
+                  "opacity": "1"
+                 },
+                 "children": []
+                }
+               ]
+              },
+              {
+               "tag": "div",
+               "cls": "relative flex flex-col gap-2 p-2",
+               "rect": [
+                195,
+                196,
+                179,
+                334
+               ],
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "padding": "8px",
+                "width": "179px",
+                "height": "334.375px",
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "8px",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "position": "relative",
+                "transition": "all",
+                "opacity": "1"
+               },
+               "children": [
+                {
+                 "tag": "a",
+                 "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+                 "rect": [
+                  203,
+                  204,
+                  163,
+                  33
+                 ],
+                 "@href": "/saas",
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "8px",
+                  "width": "163px",
+                  "height": "32.7969px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "alignItems": "center",
+                  "gap": "8px",
+                  "borderRadius": "8px",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "span",
+                   "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+                   "rect": [
+                    211,
+                    212,
+                    16,
+                    16
+                   ],
+                   "text": "cloud",
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "16px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "16px",
+                    "height": "16px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+                   "rect": [
+                    235,
+                    212,
+                    123,
+                    17
+                   ],
+                   "text": "SaaS",
+                   "styles": {
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "lineHeight": "16.8px",
+                    "letterSpacing": "-0.21px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "123px",
+                    "height": "16.7969px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "a",
+                 "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+                 "rect": [
+                  203,
+                  245,
+                  163,
+                  33
+                 ],
+                 "@href": "/ai",
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "8px",
+                  "width": "163px",
+                  "height": "32.7969px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "alignItems": "center",
+                  "gap": "8px",
+                  "borderRadius": "8px",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "span",
+                   "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+                   "rect": [
+                    211,
+                    253,
+                    16,
+                    16
+                   ],
+                   "text": "smart_toy",
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "16px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "16px",
+                    "height": "16px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+                   "rect": [
+                    235,
+                    253,
+                    123,
+                    17
+                   ],
+                   "text": "AI",
+                   "styles": {
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "lineHeight": "16.8px",
+                    "letterSpacing": "-0.21px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "123px",
+                    "height": "16.7969px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "a",
+                 "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+                 "rect": [
+                  203,
+                  285,
+                  163,
+                  33
+                 ],
+                 "@href": "/fintech",
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "8px",
+                  "width": "163px",
+                  "height": "32.7969px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "alignItems": "center",
+                  "gap": "8px",
+                  "borderRadius": "8px",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "span",
+                   "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+                   "rect": [
+                    211,
+                    294,
+                    16,
+                    16
+                   ],
+                   "text": "account_balance",
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "16px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "16px",
+                    "height": "16px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+                   "rect": [
+                    235,
+                    293,
+                    123,
+                    17
+                   ],
+                   "text": "Fintech",
+                   "styles": {
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "lineHeight": "16.8px",
+                    "letterSpacing": "-0.21px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "123px",
+                    "height": "16.7969px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "a",
+                 "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+                 "rect": [
+                  203,
+                  326,
+                  163,
+                  33
+                 ],
+                 "@href": "/crypto",
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "8px",
+                  "width": "163px",
+                  "height": "32.7969px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "alignItems": "center",
+                  "gap": "8px",
+                  "borderRadius": "8px",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "span",
+                   "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+                   "rect": [
+                    211,
+                    335,
+                    16,
+                    16
+                   ],
+                   "text": "currency_bitcoin",
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "16px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "16px",
+                    "height": "16px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+                   "rect": [
+                    235,
+                    334,
+                    123,
+                    17
+                   ],
+                   "text": "Crypto",
+                   "styles": {
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "lineHeight": "16.8px",
+                    "letterSpacing": "-0.21px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "123px",
+                    "height": "16.7969px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "a",
+                 "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+                 "rect": [
+                  203,
+                  367,
+                  163,
+                  33
+                 ],
+                 "@href": "/market",
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "8px",
+                  "width": "163px",
+                  "height": "32.7969px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "alignItems": "center",
+                  "gap": "8px",
+                  "borderRadius": "8px",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "span",
+                   "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+                   "rect": [
+                    211,
+                    375,
+                    16,
+                    16
+                   ],
+                   "text": "store",
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "16px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "16px",
+                    "height": "16px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+                   "rect": [
+                    235,
+                    375,
+                    123,
+                    17
+                   ],
+                   "text": "Marketplace",
+                   "styles": {
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "lineHeight": "16.8px",
+                    "letterSpacing": "-0.21px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "123px",
+                    "height": "16.7969px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "a",
+                 "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+                 "rect": [
+                  203,
+                  408,
+                  163,
+                  33
+                 ],
+                 "@href": "/health-tech",
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "8px",
+                  "width": "163px",
+                  "height": "32.7969px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "alignItems": "center",
+                  "gap": "8px",
+                  "borderRadius": "8px",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "span",
+                   "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+                   "rect": [
+                    211,
+                    416,
+                    16,
+                    16
+                   ],
+                   "text": "monitor_heart",
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "16px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "16px",
+                    "height": "16px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+                   "rect": [
+                    235,
+                    416,
+                    123,
+                    17
+                   ],
+                   "text": "Health-tech",
+                   "styles": {
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "lineHeight": "16.8px",
+                    "letterSpacing": "-0.21px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "123px",
+                    "height": "16.7969px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "a",
+                 "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+                 "rect": [
+                  203,
+                  449,
+                  163,
+                  33
+                 ],
+                 "@href": "https://trucking.corgi.insure/",
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "8px",
+                  "width": "163px",
+                  "height": "32.7969px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "alignItems": "center",
+                  "gap": "8px",
+                  "borderRadius": "8px",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "span",
+                   "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+                   "rect": [
+                    211,
+                    457,
+                    16,
+                    16
+                   ],
+                   "text": "local_shipping",
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "16px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "16px",
+                    "height": "16px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+                   "rect": [
+                    235,
+                    457,
+                    123,
+                    17
+                   ],
+                   "text": "Trucking",
+                   "styles": {
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "lineHeight": "16.8px",
+                    "letterSpacing": "-0.21px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "123px",
+                    "height": "16.7969px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "a",
+                 "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+                 "rect": [
+                  203,
+                  489,
+                  163,
+                  33
+                 ],
+                 "@href": "https://getgolden.insure/",
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "8px",
+                  "width": "163px",
+                  "height": "32.7969px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "alignItems": "center",
+                  "gap": "8px",
+                  "borderRadius": "8px",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "span",
+                   "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+                   "rect": [
+                    211,
+                    498,
+                    16,
+                    16
+                   ],
+                   "text": "sports_soccer",
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "16px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "16px",
+                    "height": "16px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+                   "rect": [
+                    235,
+                    497,
+                    123,
+                    17
+                   ],
+                   "text": "Sports",
+                   "styles": {
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "lineHeight": "16.8px",
+                    "letterSpacing": "-0.21px",
+                    "color": "rgb(74, 74, 74)",
+                    "width": "123px",
+                    "height": "16.7969px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "div",
+                 "cls": "pointer-events-none absolute top-0 left-1/2 h-[1px] w-[200vw] -translate-x-1/2 bg-[#e1e1e1]",
+                 "rect": [
+                  -105,
+                  196,
+                  780,
+                  1
+                 ],
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgb(225, 225, 225)",
+                  "width": "780px",
+                  "height": "1px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "position": "absolute",
+                  "transition": "all",
+                  "opacity": "1"
+                 },
+                 "children": []
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "tag": "div",
+           "cls": "relative flex flex-1 flex-col gap-2",
+           "rect": [
+            16,
+            530,
+            358,
+            83
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "width": "358px",
+            "height": "82.7969px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "8px",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "position": "relative",
+            "transition": "all",
+            "opacity": "1"
+           },
+           "children": [
+            {
+             "tag": "div",
+             "cls": "relative flex items-center px-2 pt-2",
+             "rect": [
+              16,
+              530,
+              358,
+              26
+             ],
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px 8px 0px",
+              "width": "358px",
+              "height": "26px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "position": "relative",
+              "transition": "all",
+              "opacity": "1"
+             },
+             "children": [
+              {
+               "tag": "span",
+               "cls": "text-[12px] uppercase tracking-[-0.18px] text-[#4a4a4a]",
+               "rect": [
+                24,
+                538,
+                62,
+                18
+               ],
+               "text": "Software",
+               "styles": {
+                "fontSize": "12px",
+                "fontWeight": "400",
+                "lineHeight": "18px",
+                "letterSpacing": "-0.18px",
+                "color": "rgb(74, 74, 74)",
+                "width": "61.9844px",
+                "height": "18px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "transition": "all",
+                "textTransform": "uppercase",
+                "opacity": "1"
+               },
+               "children": []
+              },
+              {
+               "tag": "div",
+               "cls": "pointer-events-none absolute top-0 left-1/2 h-[1px] w-[200vw] -translate-x-1/2 bg-[#e1e1e1]",
+               "rect": [
+                -195,
+                530,
+                780,
+                1
+               ],
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "backgroundColor": "rgb(225, 225, 225)",
+                "width": "780px",
+                "height": "1px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "position": "absolute",
+                "transition": "all",
+                "opacity": "1"
+               },
+               "children": []
+              }
+             ]
+            },
+            {
+             "tag": "div",
+             "cls": "relative flex flex-col gap-2 p-2",
+             "rect": [
+              16,
+              564,
+              358,
+              49
+             ],
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "358px",
+              "height": "48.7969px",
+              "display": "flex",
+              "flexDirection": "column",
+              "gap": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "position": "relative",
+              "transition": "all",
+              "opacity": "1"
+             },
+             "children": [
+              {
+               "tag": "a",
+               "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+               "rect": [
+                24,
+                572,
+                342,
+                33
+               ],
+               "@href": "https://dataroom.corgi.com",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "padding": "8px",
+                "width": "342px",
+                "height": "32.7969px",
+                "display": "flex",
+                "flexDirection": "row",
+                "alignItems": "center",
+                "gap": "8px",
+                "borderRadius": "8px",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                "opacity": "1"
+               },
+               "children": [
+                {
+                 "tag": "span",
+                 "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+                 "rect": [
+                  32,
+                  581,
+                  16,
+                  16
+                 ],
+                 "text": "lock",
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "16px",
+                  "color": "rgb(74, 74, 74)",
+                  "width": "16px",
+                  "height": "16px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "all",
+                  "opacity": "1"
+                 },
+                 "children": []
+                },
+                {
+                 "tag": "span",
+                 "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+                 "rect": [
+                  56,
+                  580,
+                  302,
+                  17
+                 ],
+                 "text": "Dataroom",
+                 "styles": {
+                  "fontSize": "14px",
+                  "fontWeight": "400",
+                  "lineHeight": "16.8px",
+                  "letterSpacing": "-0.21px",
+                  "color": "rgb(74, 74, 74)",
+                  "width": "302px",
+                  "height": "16.7969px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "transition": "all",
+                  "opacity": "1"
+                 },
+                 "children": []
+                }
+               ]
+              },
+              {
+               "tag": "div",
+               "cls": "pointer-events-none absolute top-0 left-1/2 h-[1px] w-[200vw] -translate-x-1/2 bg-[#e1e1e1]",
+               "rect": [
+                -195,
+                564,
+                780,
+                1
+               ],
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "backgroundColor": "rgb(225, 225, 225)",
+                "width": "780px",
+                "height": "1px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "position": "absolute",
+                "transition": "all",
+                "opacity": "1"
+               },
+               "children": []
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "tag": "div",
+           "cls": "relative flex flex-col gap-2",
+           "rect": [
+            16,
+            613,
+            358,
+            154
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "width": "358px",
+            "height": "154px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "8px",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "position": "relative",
+            "transition": "all",
+            "opacity": "1"
+           },
+           "children": [
+            {
+             "tag": "div",
+             "cls": "relative flex items-center px-2 pt-2",
+             "rect": [
+              16,
+              613,
+              358,
+              26
+             ],
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px 8px 0px",
+              "width": "358px",
+              "height": "26px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "position": "relative",
+              "transition": "all",
+              "opacity": "1"
+             },
+             "children": [
+              {
+               "tag": "span",
+               "cls": "text-[12px] uppercase tracking-[-0.18px] text-[#4a4a4a]",
+               "rect": [
+                24,
+                621,
+                66,
+                18
+               ],
+               "text": "Highlights",
+               "styles": {
+                "fontSize": "12px",
+                "fontWeight": "400",
+                "lineHeight": "18px",
+                "letterSpacing": "-0.18px",
+                "color": "rgb(74, 74, 74)",
+                "width": "66.2812px",
+                "height": "18px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "transition": "all",
+                "textTransform": "uppercase",
+                "opacity": "1"
+               },
+               "children": []
+              },
+              {
+               "tag": "div",
+               "cls": "pointer-events-none absolute top-0 left-1/2 h-[1px] w-[200vw] -translate-x-1/2 bg-[#e1e1e1]",
+               "rect": [
+                -195,
+                613,
+                780,
+                1
+               ],
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "backgroundColor": "rgb(225, 225, 225)",
+                "width": "780px",
+                "height": "1px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "position": "absolute",
+                "transition": "all",
+                "opacity": "1"
+               },
+               "children": []
+              }
+             ]
+            },
+            {
+             "tag": "div",
+             "cls": "relative flex h-[120px] md:h-[160px]",
+             "rect": [
+              16,
+              647,
+              358,
+              120
+             ],
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "width": "358px",
+              "height": "120px",
+              "display": "flex",
+              "flexDirection": "row",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "position": "relative",
+              "transition": "all",
+              "opacity": "1"
+             },
+             "children": [
+              {
+               "tag": "div",
+               "cls": "pointer-events-none absolute top-0 left-1/2 h-[1px] w-[200vw] -translate-x-1/2 bg-[#e1e1e1]",
+               "rect": [
+                -195,
+                647,
+                780,
+                1
+               ],
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "backgroundColor": "rgb(225, 225, 225)",
+                "width": "780px",
+                "height": "1px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "position": "absolute",
+                "transition": "all",
+                "opacity": "1"
+               },
+               "children": []
+              },
+              {
+               "tag": "div",
+               "cls": "flex flex-1 overflow-hidden rounded-[20px] border-[1px] border-[#e1e1e1]",
+               "rect": [
+                16,
+                647,
+                358,
+                120
+               ],
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "width": "358px",
+                "height": "120px",
+                "display": "flex",
+                "flexDirection": "row",
+                "borderRadius": "20px",
+                "border": "1px solid rgb(225, 225, 225)",
+                "borderBottom": "1px solid rgb(225, 225, 225)",
+                "borderTop": "1px solid rgb(225, 225, 225)",
+                "overflow": "hidden",
+                "transition": "all",
+                "opacity": "1"
+               },
+               "children": [
+                {
+                 "tag": "a",
+                 "cls": "group relative flex flex-1 flex-col items-start justify-end gap-0.5 overflow-hidden border-r-[1px] border-[#e1e1e1] p-2",
+                 "rect": [
+                  17,
+                  648,
+                  187,
+                  118
+                 ],
+                 "@href": "/book-a-demo",
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "padding": "8px",
+                  "width": "186.5px",
+                  "height": "118px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "flex-end",
+                  "alignItems": "flex-start",
+                  "gap": "2px",
+                  "borderBottom": "0px solid rgb(225, 225, 225)",
+                  "borderTop": "0px solid rgb(225, 225, 225)",
+                  "position": "relative",
+                  "overflow": "hidden",
+                  "transition": "all",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "img",
+                   "cls": "absolute inset-0 h-full w-full object-cover object-[20%_center]",
+                   "rect": [
+                    17,
+                    648,
+                    186,
+                    118
+                   ],
+                   "img": {
+                    "src": "https://www.corgi.insure/images/book%20a%20demo%20image.png"
+                   },
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "24px",
+                    "color": "rgb(0, 0, 0)",
+                    "width": "185.5px",
+                    "height": "118px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "position": "absolute",
+                    "overflow": "clip",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "div",
+                   "cls": "pointer-events-none absolute inset-0 bg-gradient-to-b from-white/0 from-[28%] via-white/[0.55] via-[46%] to-white/90 to-[64%]",
+                   "rect": [
+                    17,
+                    648,
+                    186,
+                    118
+                   ],
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "24px",
+                    "color": "rgb(0, 0, 0)",
+                    "width": "185.5px",
+                    "height": "118px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "position": "absolute",
+                    "transition": "all",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "relative text-[11px] font-bold leading-[1.2] tracking-[-0.17px] text-[#191919] transition-colors group-hover:text-[#ff5c00]",
+                   "rect": [
+                    25,
+                    716,
+                    68,
+                    13
+                   ],
+                   "text": "Book a demo",
+                   "styles": {
+                    "fontSize": "11px",
+                    "fontWeight": "700",
+                    "lineHeight": "13.2px",
+                    "letterSpacing": "-0.17px",
+                    "color": "rgb(25, 25, 25)",
+                    "width": "67.8125px",
+                    "height": "13.1875px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "position": "relative",
+                    "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  },
+                  {
+                   "tag": "span",
+                   "cls": "relative text-[11px] leading-[1.2] tracking-[-0.17px] text-[#191919] transition-colors group-hover:text-[#ff5c00]",
+                   "rect": [
+                    25,
+                    732,
+                    170,
+                    26
+                   ],
+                   "text": "For customers who want guidance.",
+                   "styles": {
+                    "fontSize": "11px",
+                    "fontWeight": "400",
+                    "lineHeight": "13.2px",
+                    "letterSpacing": "-0.17px",
+                    "color": "rgb(25, 25, 25)",
+                    "width": "169.5px",
+                    "height": "26.375px",
+                    "display": "block",
+                    "flexDirection": "row",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "position": "relative",
+                    "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                    "opacity": "1"
+                   },
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "tag": "div",
+                 "cls": "relative flex flex-1 overflow-hidden bg-white",
+                 "rect": [
+                  204,
+                  648,
+                  170,
+                  118
+                 ],
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgb(255, 255, 255)",
+                  "width": "169.5px",
+                  "height": "118px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "position": "relative",
+                  "overflow": "hidden",
+                  "transition": "all",
+                  "opacity": "1"
+                 },
+                 "children": [
+                  {
+                   "tag": "a",
+                   "cls": "group absolute inset-0 flex flex-col items-start justify-end gap-0.5 overflow-hidden bg-white p-2 transition-opacity duration-500 opacity-100",
+                   "rect": [
+                    204,
+                    648,
+                    170,
+                    118
+                   ],
+                   "@href": "/press-releases/series-b",
+                   "styles": {
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "lineHeight": "24px",
+                    "color": "rgb(0, 0, 0)",
+                    "backgroundColor": "rgb(255, 255, 255)",
+                    "padding": "8px",
+                    "width": "169.5px",
+                    "height": "118px",
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "justifyContent": "flex-end",
+                    "alignItems": "flex-start",
+                    "gap": "2px",
+                    "border": "0px solid rgb(44, 44, 44)",
+                    "borderBottom": "0px solid rgb(44, 44, 44)",
+                    "borderTop": "0px solid rgb(44, 44, 44)",
+                    "position": "absolute",
+                    "overflow": "hidden",
+                    "transition": "opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+                    "opacity": "1"
+                   },
+                   "children": [
+                    {
+                     "tag": "img",
+                     "cls": "absolute inset-0 h-full w-full object-cover",
+                     "rect": [
+                      204,
+                      648,
+                      170,
+                      118
+                     ],
+                     "img": {
+                      "src": "https://www.corgi.insure/images/press-releases/series-b-thumbnail.png"
+                     },
+                     "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "lineHeight": "24px",
+                      "color": "rgb(0, 0, 0)",
+                      "width": "169.5px",
+                      "height": "118px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px solid rgb(44, 44, 44)",
+                      "borderBottom": "0px solid rgb(44, 44, 44)",
+                      "borderTop": "0px solid rgb(44, 44, 44)",
+                      "position": "absolute",
+                      "overflow": "clip",
+                      "transition": "all",
+                      "opacity": "1"
+                     },
+                     "children": []
+                    },
+                    {
+                     "tag": "div",
+                     "cls": "pointer-events-none absolute inset-0 bg-gradient-to-b from-white/0 from-[28%] via-white/[0.55] via-[46%] to-white/90 to-[64%]",
+                     "rect": [
+                      204,
+                      648,
+                      170,
+                      118
+                     ],
+                     "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "lineHeight": "24px",
+                      "color": "rgb(0, 0, 0)",
+                      "width": "169.5px",
+                      "height": "118px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px solid rgb(44, 44, 44)",
+                      "borderBottom": "0px solid rgb(44, 44, 44)",
+                      "borderTop": "0px solid rgb(44, 44, 44)",
+                      "position": "absolute",
+                      "transition": "all",
+                      "opacity": "1"
+                     },
+                     "children": []
+                    },
+                    {
+                     "tag": "span",
+                     "cls": "relative text-[11px] font-bold leading-[1.2] tracking-[-0.17px] text-[#191919] transition-colors group-hover:text-[#ff5c00]",
+                     "rect": [
+                      212,
+                      730,
+                      80,
+                      13
+                     ],
+                     "text": "$1.3B valuation",
+                     "styles": {
+                      "fontSize": "11px",
+                      "fontWeight": "700",
+                      "lineHeight": "13.2px",
+                      "letterSpacing": "-0.17px",
+                      "color": "rgb(25, 25, 25)",
+                      "width": "79.7969px",
+                      "height": "13.1875px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px solid rgb(44, 44, 44)",
+                      "borderBottom": "0px solid rgb(44, 44, 44)",
+                      "borderTop": "0px solid rgb(44, 44, 44)",
+                      "position": "relative",
+                      "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                      "opacity": "1"
+                     },
+                     "children": []
+                    },
+                    {
+                     "tag": "span",
+                     "cls": "relative text-[11px] leading-[1.2] tracking-[-0.17px] text-[#191919] transition-colors group-hover:text-[#ff5c00]",
+                     "rect": [
+                      212,
+                      745,
+                      138,
+                      13
+                     ],
+                     "text": "Corgi raises $160M Series B.",
+                     "styles": {
+                      "fontSize": "11px",
+                      "fontWeight": "400",
+                      "lineHeight": "13.2px",
+                      "letterSpacing": "-0.17px",
+                      "color": "rgb(25, 25, 25)",
+                      "width": "138.172px",
+                      "height": "13.1875px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px solid rgb(44, 44, 44)",
+                      "borderBottom": "0px solid rgb(44, 44, 44)",
+                      "borderTop": "0px solid rgb(44, 44, 44)",
+                      "position": "relative",
+                      "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                      "opacity": "1"
+                     },
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "tag": "div",
+               "cls": "pointer-events-none absolute bottom-0 left-1/2 h-[1px] w-[200vw] -translate-x-1/2 bg-[#e1e1e1]",
+               "rect": [
+                -195,
+                766,
+                780,
+                1
+               ],
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "backgroundColor": "rgb(225, 225, 225)",
+                "width": "780px",
+                "height": "1px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "position": "absolute",
+                "transition": "all",
+                "opacity": "1"
+               },
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
