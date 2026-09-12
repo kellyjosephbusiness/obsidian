@@ -1,0 +1,230 @@
+<section .relative.overflow-clip.border-b.border-[#e1e1e1].bg-[#f6f6f6].px-4.py-16.md:px-6.md:py-20.lg:hidden> [0,4024,390,1330]
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(29, 29, 29); backgroundColor:rgb(246, 246, 246); padding:64px 16px; width:390px; height:1329.59px; display:block; borderBottom:1px solid rgb(225, 225, 225); position:relative; overflow:clip; overflowX:clip; overflowY:clip }
+  <div .relative.mx-auto.flex.max-w-[1600px].flex-col.gap-4.md:gap-6> [16,4088,358,1201]
+    { width:358px; height:1200.59px; maxWidth:1600px; display:flex; flexDirection:column; gap:16px; rowGap:16px; columnGap:16px; position:relative }
+    <div .pointer-events-none.absolute.-bottom-16.-top-16.left-0.w-px.bg-[#e1e1e1].md:-bottom-20.md:-top-20> [16,4024,1,1329]
+      { backgroundColor:rgb(225, 225, 225); width:1px; height:1328.59px; display:block; position:absolute; top:-64px; right:357px; bottom:-64px; inset:-64px 357px -64px 0px }
+    <div .pointer-events-none.absolute.-bottom-16.-top-16.right-0.w-px.bg-[#e1e1e1].md:-bottom-20.md:-top-20> [373,4024,1,1329]
+      { backgroundColor:rgb(225, 225, 225); width:1px; height:1328.59px; display:block; position:absolute; top:-64px; left:357px; bottom:-64px }
+    <div .flex.flex-col.px-4.md:px-6> [16,4088,358,84]
+      { padding:0px 16px; width:358px; height:84px; display:flex; flexDirection:column }
+      <h2 .font-medium.font-mono.text-[#191919]> [32,4088,326,84] "Get Quoted Instantly or Book a Demo With a Specialist"
+        { fontSize:28px; fontWeight:500; fontFamily:f37Bolton; lineHeight:28px; letterSpacing:-0.896px; color:rgb(25, 25, 25); width:326px; height:84px; display:block }
+    <div .relative.flex.flex-col> [16,4188,358,1101]
+      { width:358px; height:1100.59px; display:flex; flexDirection:column; position:relative }
+      <div .pointer-events-none.absolute.left-1/2.top-0.h-px.w-screen.-translate-x-1/2.bg-[#e1e1e1]> [0,4188,390,1]
+        { backgroundColor:rgb(225, 225, 225); width:390px; height:1px; display:block; position:absolute; left:179px; right:-211px; bottom:1099.59px; inset:0px -211px 1099.59px 179px; translate:-50% }
+      <div .pointer-events-none.absolute.bottom-0.left-1/2.h-px.w-screen.-translate-x-1/2.bg-[#e1e1e1]> [0,5287,390,1]
+        { backgroundColor:rgb(225, 225, 225); width:390px; height:1px; display:block; position:absolute; top:1099.59px; left:179px; right:-211px; translate:-50% }
+      <div .grid.grid-cols-1.items-center> [16,4188,358,502]
+        { width:358px; height:501.5px; display:grid; alignItems:center; gridTemplateColumns:358px; gridTemplateRows:228.781px 272.719px }
+        <div> [16,4188,358,229]
+          { width:358px; height:228.781px; display:block }
+          <div .flex.flex-col.items-center.justify-center.gap-9.p-4.md:px-6.md:py-8.lg:py-0> [16,4188,358,229]
+            { padding:16px; width:358px; height:228.781px; display:flex; flexDirection:column; justifyContent:center; alignItems:center; gap:36px; rowGap:36px; columnGap:36px }
+            <div .flex.w-full.flex-col.gap-3.lg:max-w-[480px]> [32,4204,326,98]
+              { width:326px; height:98.3906px; display:flex; flexDirection:column; gap:12px; rowGap:12px; columnGap:12px }
+              <h3 .font-bold.text-[18px].md:text-[20px].leading-none.tracking-[-0.032em].text-[#191919]> [32,4204,326,36] "Self-Serve: Apply, get quoted in minutes, and bind same-day."
+                { fontSize:18px; fontWeight:700; lineHeight:18px; letterSpacing:-0.576px; color:rgb(25, 25, 25); width:326px; height:36px; display:block }
+              <p .text-body.text-[#4a4a4a]> [32,4252,326,50] "Complete the online application, review your quote, pay securely, and receive your quote in minutes. No calls or back-and-forth required."
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:326px; height:50.3906px; display:block }
+            <div .flex.w-full.flex-col.gap-3.lg:max-w-[480px]> [32,4338,326,62]
+              { width:326px; height:62.3906px; display:flex; flexDirection:column; gap:12px; rowGap:12px; columnGap:12px }
+              <p .text-body.font-medium.text-[#191919]> [32,4338,326,17] "Best for:"
+                { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(25, 25, 25); width:326px; height:16.7969px; display:block }
+              <p .text-body.text-[#4a4a4a]> [32,4367,326,34] "Founders and operators who know what coverage they need and want a fast, frictionless experience."
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:326px; height:33.5938px; display:block }
+        <div> [16,4417,358,273]
+          { width:358px; height:272.719px; display:block }
+          <div .@container.relative.flex.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1]> [16,4417,358,273]
+            { width:358px; height:272.719px; display:flex; flexDirection:column; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); position:relative; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .relative.aspect-[800/465].overflow-clip.bg-[#ff7d33].p-[1.09cqw]> [17,4418,356,207]
+              { backgroundColor:rgb(255, 125, 51); padding:3.8804px; width:356px; height:206.922px; display:block; position:relative; overflow:clip; overflowX:clip; overflowY:clip; aspectRatio:800 / 465 }
+              <div .@container.absolute.left-1/2.top-[9.7%].aspect-[701/778].w-[87.625%].-translate-x-1/2.rounded-[1.63cqw].bg-[#f9f9f9].shadow-[0_0_1.63cqw_rgba(25,25,25,0.5)]> [39,4438,312,346]
+                { backgroundColor:rgb(249, 249, 249); width:311.938px; height:346.188px; display:block; borderRadius:5.8028px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:absolute; top:20.0625px; left:178px; right:-133.938px; bottom:-159.328px; aspectRatio:701 / 778; translate:-50% }
+                <div .flex.h-full.w-full.flex-col.gap-[5.2cqw].rounded-[1.56cqw].bg-[#f9f9f9].p-[7.5cqw].pt-[9cqw]> [39,4438,312,346]
+                  { backgroundColor:rgb(249, 249, 249); padding:28.0744px 23.3953px 23.3953px; width:311.938px; height:346.188px; display:flex; flexDirection:column; gap:16.2208px; rowGap:16.2208px; columnGap:16.2208px; borderRadius:4.86622px }
+                  <div .flex.flex-col.gap-[0.78cqw]> [62,4466,265,24]
+                    { width:265.156px; height:23.5156px; display:flex; flexDirection:column; gap:2.43311px; rowGap:2.43311px; columnGap:2.43311px }
+                    <h3 .font-mono.font-normal.leading-none.tracking-[-0.04em].text-[#1d1d1d].text-[4.17cqw]> [62,4466,265,13] "Financial details"
+                      { fontSize:13.0078px; fontFamily:f37Bolton; lineHeight:13.0078px; letterSpacing:-0.520312px; width:265.156px; height:13px; display:block }
+                    <p .text-[2.08cqw].leading-tight.text-[#4e4e4e]> [62,4481,265,8] "Please provide financial details about your company."
+                      { fontSize:6.4883px; lineHeight:8.11037px; color:rgb(78, 78, 78); width:265.156px; height:8.09375px; display:block }
+                  <div .flex.gap-[1.56cqw]> [62,4505,265,37]
+                    { width:265.156px; height:36.8906px; display:flex; gap:4.86622px; rowGap:4.86622px; columnGap:4.86622px }
+                    <div .flex.min-w-0.flex-1.flex-col.gap-[1.14cqw]> [62,4505,130,37]
+                      { width:130.141px; height:36.8906px; display:flex; flexDirection:column; flex:1 1 0%; gap:3.55609px; rowGap:3.55609px; columnGap:3.55609px }
+                      <span .truncate.font-medium.leading-normal.text-[#1d1d1d].text-[2cqw]> [62,4505,130,9] "Revenue in the last 12 months ($) *"
+                        { fontSize:6.23875px; fontWeight:500; lineHeight:9.35812px; width:130.141px; height:9.34375px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                      <input .min-h-[max(24px,5.14cqw)].min-w-0.w-full.rounded-[1.71cqw].border.border-[#bdbdbd].bg-white.px-[1.71cqw].py-[1.14cqw].font-normal> [62,4518,130,24] @aria-label=Revenue in the last 12 months @placeholder=$100T
+                        { fontSize:7.11217px; lineHeight:7.11218px; backgroundColor:rgb(255, 255, 255); padding:3.55609px 5.33413px; width:130.141px; height:24px; minHeight:24px; display:block; borderRadius:5.33413px; border:1px solid rgb(189, 189, 189); borderTop:1px solid rgb(189, 189, 189); borderBottom:1px solid rgb(189, 189, 189); borderLeft:1px solid rgb(189, 189, 189); borderRight:1px solid rgb(189, 189, 189); transition:0.15s cubic-bezier(0.4, 0, 0.2, 1); overflow:clip; overflowX:clip; overflowY:clip; cursor:text }
+                    <div .flex.min-w-0.flex-1.flex-col.gap-[1.14cqw]> [197,4505,130,37]
+                      { width:130.156px; height:36.8906px; display:flex; flexDirection:column; flex:1 1 0%; gap:3.55609px; rowGap:3.55609px; columnGap:3.55609px }
+                      <span .truncate.font-medium.leading-normal.text-[#1d1d1d].text-[2cqw]> [197,4505,130,9] "Projected revenue in next 12 months ($) *"
+                        { fontSize:6.23875px; fontWeight:500; lineHeight:9.35812px; width:130.156px; height:9.34375px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                      <input .min-h-[max(24px,5.14cqw)].min-w-0.w-full.rounded-[1.71cqw].border.border-[#bdbdbd].bg-white.px-[1.71cqw].py-[1.14cqw].font-normal> [197,4518,130,24] @aria-label=Projected revenue in next 12 months @placeholder=$500T
+                        { fontSize:7.11217px; lineHeight:7.11218px; backgroundColor:rgb(255, 255, 255); padding:3.55609px 5.33413px; width:130.156px; height:24px; minHeight:24px; display:block; borderRadius:5.33413px; border:1px solid rgb(189, 189, 189); borderTop:1px solid rgb(189, 189, 189); borderBottom:1px solid rgb(189, 189, 189); borderLeft:1px solid rgb(189, 189, 189); borderRight:1px solid rgb(189, 189, 189); transition:0.15s cubic-bezier(0.4, 0, 0.2, 1); overflow:clip; overflowX:clip; overflowY:clip; cursor:text }
+                  <div .flex.flex-col.gap-[1.04cqw]> [62,4559,265,78]
+                    { width:265.156px; height:78.1406px; display:flex; flexDirection:column; gap:3.24415px; rowGap:3.24415px; columnGap:3.24415px }
+                    <span .text-[2.08cqw].font-medium.text-[#1d1d1d]> [62,4559,265,10] "Upload any financial statements if available"
+                      { fontSize:6.4883px; fontWeight:500; lineHeight:9.73245px; width:265.156px; height:9.71875px; display:block }
+                    <div .relative> [62,4571,265,65]
+                      { width:265.156px; height:65.1875px; display:block; position:relative }
+                      <div .flex.flex-col.items-center.justify-center.gap-[0.78cqw].rounded-[1.56cqw].border.border-dashed.border-[#999].px-[2.6cqw]> [62,4571,265,65]
+                        { backgroundColor:rgb(255, 222, 204); padding:14.5987px 8.11038px; width:265.156px; height:65.1875px; display:flex; flexDirection:column; justifyContent:center; alignItems:center; gap:2.43311px; rowGap:2.43311px; columnGap:2.43311px; borderRadius:4.86622px; border:1px dashed rgb(153, 153, 153); borderTop:1px dashed rgb(153, 153, 153); borderBottom:1px dashed rgb(153, 153, 153); borderLeft:1px dashed rgb(153, 153, 153); borderRight:1px dashed rgb(153, 153, 153) }
+                        <svg .[object.SVGAnimatedString]> [190,4587,10,10] SVG(345b) viewBox="0 0 24 24"
+                          { width:9.71875px; height:9.71875px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden; verticalAlign:middle }
+                        <p .text-[2.08cqw].font-medium.text-[#1d1d1d]> [167,4599,56,10] "Drop the files here"
+                          { fontSize:6.4883px; fontWeight:500; lineHeight:9.73245px; width:55.7188px; height:9.71875px; display:block }
+                        <p .text-[2.08cqw].text-[#4e4e4e]> [152,4611,87,10] "Max 3 files, up to 50MB each"
+                          { fontSize:6.4883px; lineHeight:9.73245px; color:rgb(78, 78, 78); width:86.6094px; height:9.71875px; display:block }
+                      <div .pointer-events-none.absolute.top-[36%].left-[80%].flex.items-center.gap-[0.78cqw]> [215,4579,119,12]
+                        { width:118.688px; height:11.5938px; display:flex; alignItems:center; gap:2.43311px; rowGap:2.43311px; columnGap:2.43311px; position:absolute; top:23.4531px; left:212.125px; right:-65.6562px; bottom:30.1406px; transform:matrix(1, 0, 0, 1, -59.3438, -15.5969); transition:transform 0.4s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.35s cubic-bezier(0.4, 0, 0.2, 1) }
+                        <div .relative.h-[3.72cqw].w-[3.0cqw].shrink-0> [215,4579,9,12]
+                          { width:9.34375px; height:11.5938px; display:block; flex:0 0 auto; position:relative }
+                        <div .relative> [227,4580,107,10]
+                          { width:106.922px; height:9.875px; display:block; position:relative }
+                  <div .flex.gap-[1.56cqw]> [62,4653,265,37]
+                    { width:265.156px; height:36.8906px; display:flex; gap:4.86622px; rowGap:4.86622px; columnGap:4.86622px }
+                    <div .flex.min-w-0.flex-1.flex-col.gap-[1.14cqw]> [62,4653,130,37]
+                      { width:130.141px; height:36.8906px; display:flex; flexDirection:column; flex:1 1 0%; gap:3.55609px; rowGap:3.55609px; columnGap:3.55609px }
+                      <span .truncate.font-medium.leading-normal.text-[#1d1d1d].text-[2cqw]> [62,4653,130,9] "Funding raised, if applicable ($)"
+                        { fontSize:6.23875px; fontWeight:500; lineHeight:9.35812px; width:130.141px; height:9.34375px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                      <input .min-h-[max(24px,5.14cqw)].min-w-0.w-full.rounded-[1.71cqw].border.border-[#bdbdbd].bg-white.px-[1.71cqw].py-[1.14cqw].font-normal> [62,4666,130,24] @aria-label=Funding raised @placeholder=Enter amount
+                        { fontSize:7.11217px; lineHeight:7.11218px; backgroundColor:rgb(255, 255, 255); padding:3.55609px 5.33413px; width:130.141px; height:24px; minHeight:24px; display:block; borderRadius:5.33413px; border:1px solid rgb(189, 189, 189); borderTop:1px solid rgb(189, 189, 189); borderBottom:1px solid rgb(189, 189, 189); borderLeft:1px solid rgb(189, 189, 189); borderRight:1px solid rgb(189, 189, 189); transition:0.15s cubic-bezier(0.4, 0, 0.2, 1); overflow:clip; overflowX:clip; overflowY:clip; cursor:text }
+                    <div .flex.min-w-0.flex-1.flex-col.gap-[1.14cqw]> [197,4653,130,37]
+                      { width:130.156px; height:36.8906px; display:flex; flexDirection:column; flex:1 1 0%; gap:3.55609px; rowGap:3.55609px; columnGap:3.55609px }
+                      <span .truncate.font-medium.leading-normal.text-[#1d1d1d].text-[2cqw]> [197,4653,130,9] "Funding date, if applicable"
+                        { fontSize:6.23875px; fontWeight:500; lineHeight:9.35812px; width:130.156px; height:9.34375px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                      <input .min-h-[max(24px,5.14cqw)].min-w-0.w-full.rounded-[1.71cqw].border.border-[#bdbdbd].bg-white.px-[1.71cqw].py-[1.14cqw].font-normal> [197,4666,130,24] @aria-label=Funding date @placeholder=MM/DD/YYYY
+                        { fontSize:7.11217px; lineHeight:7.11218px; backgroundColor:rgb(255, 255, 255); padding:3.55609px 5.33413px; width:130.156px; height:24px; minHeight:24px; display:block; borderRadius:5.33413px; border:1px solid rgb(189, 189, 189); borderTop:1px solid rgb(189, 189, 189); borderBottom:1px solid rgb(189, 189, 189); borderLeft:1px solid rgb(189, 189, 189); borderRight:1px solid rgb(189, 189, 189); transition:0.15s cubic-bezier(0.4, 0, 0.2, 1); overflow:clip; overflowX:clip; overflowY:clip; cursor:text }
+                  <div .flex.items-center.justify-between.pt-[0.5cqw]> [62,4706,265,27]
+                    { padding:1.55969px 0px 0px; width:265.156px; height:27.0938px; display:flex; justifyContent:space-between; alignItems:center }
+                    <div .pressable-button.pressable-smooth-corner.rounded-[1.56cqw].bg-[#575757]> [62,4708,36,26]
+                      { backgroundColor:rgb(87, 87, 87); padding:0px 0px 1.55969px; width:36.3125px; height:25.5469px; display:block; borderRadius:4.86622px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+                      <button .pressable-smooth-corner.flex.items-center.justify-center.border-transparent.hover:bg-[#4a4a4a].active:bg-[#7b7b7b].btn-text-small.min-h-[24px].rounded-[1.56cqw]> [62,4708,36,24] "← Back"
+                        { fontSize:6.4883px; fontWeight:500; lineHeight:9.73245px; letterSpacing:-0.0973245px; color:rgb(217, 217, 217); textAlign:center; backgroundColor:rgb(29, 29, 29); padding:3.24415px 6.4883px; width:36.3125px; height:24px; minHeight:24px; display:flex; justifyContent:center; alignItems:center; borderRadius:4.86622px; cursor:pointer }
+                    <div .pressable-button.pressable-smooth-corner.rounded-[1.56cqw].bg-[#b84200].opacity-50> [292,4708,35,26]
+                      { backgroundColor:rgb(184, 66, 0); padding:0px 0px 1.55969px; width:35.1562px; height:25.5469px; display:block; borderRadius:4.86622px; opacity:0.5; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+                      <button .pressable-smooth-corner.flex.items-center.justify-center.border-transparent.hover:bg-[#ff7d33].active:bg-[#ff9d66].btn-text-small.min-h-[24px].cursor-not-allowed> [292,4708,35,24] "Next →"
+                        { fontSize:6.4883px; fontWeight:500; lineHeight:9.73245px; letterSpacing:-0.0973245px; color:rgb(255, 255, 255); textAlign:center; backgroundColor:rgb(255, 92, 0); padding:3.24415px 6.4883px; width:35.1562px; height:24px; minHeight:24px; display:flex; justifyContent:center; alignItems:center; borderRadius:4.86622px; cursor:not-allowed }
+            <div .border-t.border-[#e1e1e1].bg-white.p-3> [17,4624,356,64]
+              { backgroundColor:rgb(255, 255, 255); padding:12px; width:356px; height:63.7969px; display:block; borderTop:1px solid rgb(225, 225, 225) }
+              <div .pressable-button.pressable-smooth-corner.bg-[#cc4a00].w-full> [29,4637,332,39]
+                { backgroundColor:rgb(204, 74, 0); padding:0px 0px 4px; width:332px; height:38.7969px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+                <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#ff5c00].hover:bg-[#ff7d33].active:bg-[#ff9d66].px-4> [29,4637,332,35] "Start your application" @href=https://app.corgi.insure/sign-up
+                  { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(255, 255, 255); backgroundColor:rgb(255, 92, 0); padding:8px 16px; width:332px; height:34.7969px; display:flex; justifyContent:center; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+                  <span .h-4.w-4> [257,4647,16,16] "arrow_forward"
+                    { fontSize:16px; fontWeight:400; fontFamily:Material Symbols Sharp; lineHeight:16px; width:16px; height:16px; display:block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+      <div .relative.py-8> [16,4689,358,64]
+        { padding:32px 0px; width:358px; height:64px; display:block; position:relative }
+        <div .pointer-events-none.absolute.left-1/2.top-0.h-px.w-screen.-translate-x-1/2.bg-[#e1e1e1]> [0,4689,390,1]
+          { backgroundColor:rgb(225, 225, 225); width:390px; height:1px; display:block; position:absolute; left:179px; right:-211px; bottom:63px; inset:0px -211px 63px 179px; translate:-50% }
+        <div .pointer-events-none.absolute.bottom-0.left-1/2.h-px.w-screen.-translate-x-1/2.bg-[#e1e1e1]> [0,4752,390,1]
+          { backgroundColor:rgb(225, 225, 225); width:390px; height:1px; display:block; position:absolute; top:63px; left:179px; right:-211px; translate:-50% }
+      <div .grid.grid-cols-1.items-center> [16,4753,358,535]
+        { width:358px; height:535.094px; display:grid; alignItems:center; gridTemplateColumns:358px; gridTemplateRows:262.375px 272.719px }
+        <div> [16,4753,358,262]
+          { width:358px; height:262.375px; display:block }
+          <div .flex.flex-col.items-center.justify-center.gap-9.p-4.md:px-6.md:py-8.lg:py-0> [16,4753,358,262]
+            { padding:16px; width:358px; height:262.375px; display:flex; flexDirection:column; justifyContent:center; alignItems:center; gap:36px; rowGap:36px; columnGap:36px }
+            <div .flex.w-full.flex-col.gap-3.lg:max-w-[480px]> [32,4769,326,132]
+              { width:326px; height:131.984px; display:flex; flexDirection:column; gap:12px; rowGap:12px; columnGap:12px }
+              <h3 .font-bold.text-[18px].md:text-[20px].leading-none.tracking-[-0.032em].text-[#191919]> [32,4769,326,36] "Book a Demo: Talk to an expert before you bind."
+                { fontSize:18px; fontWeight:700; lineHeight:18px; letterSpacing:-0.576px; color:rgb(25, 25, 25); width:326px; height:36px; display:block }
+              <p .text-body.text-[#4a4a4a]> [32,4817,326,84] "We’ll walk you through your coverage options, help you choose the right limits, and answer any questions so you can move forward with confid"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:326px; height:83.9844px; display:block }
+                <span .font-medium.text-[#191919]> [32,4867,316,35] "We are committed to being present any day of the week, including weekends!"
+                  { fontWeight:500; color:rgb(25, 25, 25); display:inline }
+            <div .flex.w-full.flex-col.gap-3.lg:max-w-[480px]> [32,4937,326,62]
+              { width:326px; height:62.3906px; display:flex; flexDirection:column; gap:12px; rowGap:12px; columnGap:12px }
+              <p .text-body.font-medium.text-[#191919]> [32,4937,326,17] "Best for:"
+                { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(25, 25, 25); width:326px; height:16.7969px; display:block }
+              <p .text-body.text-[#4a4a4a]> [32,4966,326,34] "Customers who want guidance, have a more complex situation, or prefer a hands-on approach."
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:326px; height:33.5938px; display:block }
+        <div> [16,5016,358,273]
+          { width:358px; height:272.719px; display:block }
+          <div .@container.relative.flex.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1]> [16,5016,358,273]
+            { width:358px; height:272.719px; display:flex; flexDirection:column; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); position:relative; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .@container.relative.aspect-[800/465].overflow-clip.bg-[#dddddd].p-[1.09cqw]> [17,5017,356,207]
+              { backgroundColor:rgb(221, 221, 221); padding:3.8804px; width:356px; height:206.922px; display:block; position:relative; overflow:clip; overflowX:clip; overflowY:clip; aspectRatio:800 / 465 }
+              <div .@container.absolute.left-[3.25%].top-[8.46%].aspect-[575/699].w-[71.875%].rounded-[1.63cqw].bg-[#f9f9f9].shadow-[0_0_1.09cqw_rgba(25,25,25,0.2)]> [29,5034,256,311]
+                { backgroundColor:rgb(249, 249, 249); width:255.875px; height:311.047px; display:block; borderRadius:5.67648px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:absolute; top:17.5px; left:11.5625px; right:88.5625px; bottom:-121.625px; aspectRatio:575 / 699 }
+                <div .flex.h-full.w-full.flex-col.gap-[5.2cqw].rounded-[1.56cqw].bg-[#f9f9f9].p-[7.5cqw].pt-[9cqw]> [29,5034,256,311]
+                  { backgroundColor:rgb(249, 249, 249); padding:23.0287px 19.1906px 19.1906px; width:255.875px; height:311.047px; display:flex; flexDirection:column; gap:13.3055px; rowGap:13.3055px; columnGap:13.3055px; borderRadius:3.99165px }
+                  <div .flex.flex-col.gap-[0.78cqw]> [48,5057,218,19]
+                    { width:217.5px; height:19.3125px; display:flex; flexDirection:column; gap:1.99583px; rowGap:1.99583px; columnGap:1.99583px }
+                    <h3 .font-mono.font-normal.leading-none.tracking-[-0.04em].text-[#1d1d1d].text-[4.17cqw]> [48,5057,218,11] "Financial details"
+                      { fontSize:10.67px; fontFamily:f37Bolton; lineHeight:10.67px; letterSpacing:-0.4268px; width:217.5px; height:10.6719px; display:block }
+                    <p .text-[2.08cqw].leading-tight.text-[#4e4e4e]> [48,5070,218,7] "Please provide financial details about your company."
+                      { fontSize:5.3222px; lineHeight:6.65275px; color:rgb(78, 78, 78); width:217.5px; height:6.65625px; display:block }
+                  <div .flex.gap-[1.56cqw]> [48,5090,218,35]
+                    { width:217.5px; height:34.5938px; display:flex; gap:3.99165px; rowGap:3.99165px; columnGap:3.99165px }
+                    <div .flex.min-w-0.flex-1.flex-col.gap-[1.14cqw]> [48,5090,107,35]
+                      { width:106.75px; height:34.5938px; display:flex; flexDirection:column; flex:1 1 0%; gap:2.91698px; rowGap:2.91698px; columnGap:2.91698px }
+                      <span .truncate.font-medium.leading-normal.text-[#1d1d1d].text-[2cqw]> [48,5090,107,8] "Revenue in the last 12 months ($) *"
+                        { fontSize:5.1175px; fontWeight:500; lineHeight:7.67625px; width:106.75px; height:7.6875px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                      <input .min-h-[max(24px,5.14cqw)].min-w-0.w-full.rounded-[1.71cqw].border.border-[#bdbdbd].bg-white.px-[1.71cqw].py-[1.14cqw].font-normal> [48,5100,107,24] @aria-label=Revenue in the last 12 months @placeholder=$100T
+                        { fontSize:5.83395px; lineHeight:5.83395px; backgroundColor:rgb(255, 255, 255); padding:2.91698px 4.37546px; width:106.75px; height:24px; minHeight:24px; display:block; borderRadius:4.37546px; border:1px solid rgb(189, 189, 189); borderTop:1px solid rgb(189, 189, 189); borderBottom:1px solid rgb(189, 189, 189); borderLeft:1px solid rgb(189, 189, 189); borderRight:1px solid rgb(189, 189, 189); transition:0.15s cubic-bezier(0.4, 0, 0.2, 1); overflow:clip; overflowX:clip; overflowY:clip; cursor:text }
+                    <div .flex.min-w-0.flex-1.flex-col.gap-[1.14cqw]> [158,5090,107,35]
+                      { width:106.766px; height:34.5938px; display:flex; flexDirection:column; flex:1 1 0%; gap:2.91698px; rowGap:2.91698px; columnGap:2.91698px }
+                      <span .truncate.font-medium.leading-normal.text-[#1d1d1d].text-[2cqw]> [158,5090,107,8] "Projected revenue in next 12 months ($) *"
+                        { fontSize:5.1175px; fontWeight:500; lineHeight:7.67625px; width:106.766px; height:7.6875px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                      <input .min-h-[max(24px,5.14cqw)].min-w-0.w-full.rounded-[1.71cqw].border.border-[#bdbdbd].bg-white.px-[1.71cqw].py-[1.14cqw].font-normal> [158,5100,107,24] @aria-label=Projected revenue in next 12 months @placeholder=$500T
+                        { fontSize:5.83395px; lineHeight:5.83395px; backgroundColor:rgb(255, 255, 255); padding:2.91698px 4.37546px; width:106.766px; height:24px; minHeight:24px; display:block; borderRadius:4.37546px; border:1px solid rgb(189, 189, 189); borderTop:1px solid rgb(189, 189, 189); borderBottom:1px solid rgb(189, 189, 189); borderLeft:1px solid rgb(189, 189, 189); borderRight:1px solid rgb(189, 189, 189); transition:0.15s cubic-bezier(0.4, 0, 0.2, 1); overflow:clip; overflowX:clip; overflowY:clip; cursor:text }
+                  <div .flex.flex-col.gap-[1.04cqw]> [48,5138,218,64]
+                    { width:217.5px; height:64.4844px; display:flex; flexDirection:column; gap:2.6611px; rowGap:2.6611px; columnGap:2.6611px }
+                    <span .text-[2.08cqw].font-medium.text-[#1d1d1d]> [48,5138,218,8] "Upload any financial statements if available"
+                      { fontSize:5.3222px; fontWeight:500; lineHeight:7.9833px; width:217.5px; height:7.98438px; display:block }
+                    <div .relative> [48,5148,218,54]
+                      { width:217.5px; height:53.8438px; display:block; position:relative }
+                      <div .flex.flex-col.items-center.justify-center.gap-[0.78cqw].rounded-[1.56cqw].border.border-dashed.border-[#999].px-[2.6cqw]> [48,5148,218,54]
+                        { padding:11.9749px 6.65275px; width:217.5px; height:53.8438px; display:flex; flexDirection:column; justifyContent:center; alignItems:center; gap:1.99583px; rowGap:1.99583px; columnGap:1.99583px; borderRadius:3.99165px; border:1px dashed rgb(153, 153, 153); borderTop:1px dashed rgb(153, 153, 153); borderBottom:1px dashed rgb(153, 153, 153); borderLeft:1px dashed rgb(153, 153, 153); borderRight:1px dashed rgb(153, 153, 153) }
+                        <svg .[object.SVGAnimatedString]> [153,5161,8,8] SVG(345b) viewBox="0 0 24 24"
+                          { width:7.96875px; height:7.96875px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden; verticalAlign:middle }
+                        <p .text-[2.08cqw].font-medium.text-[#1d1d1d]> [134,5171,46,8] "Drop the files here"
+                          { fontSize:5.3222px; fontWeight:500; lineHeight:7.9833px; width:45.7344px; height:7.98438px; display:block }
+                        <p .text-[2.08cqw].text-[#4e4e4e]> [121,5181,71,8] "Max 3 files, up to 50MB each"
+                          { fontSize:5.3222px; lineHeight:7.9833px; color:rgb(78, 78, 78); width:71.1094px; height:7.98438px; display:block }
+                  <div .flex.gap-[1.56cqw]> [48,5215,218,35]
+                    { width:217.5px; height:34.5938px; display:flex; gap:3.99165px; rowGap:3.99165px; columnGap:3.99165px }
+                    <div .flex.min-w-0.flex-1.flex-col.gap-[1.14cqw]> [48,5215,107,35]
+                      { width:106.75px; height:34.5938px; display:flex; flexDirection:column; flex:1 1 0%; gap:2.91698px; rowGap:2.91698px; columnGap:2.91698px }
+                      <span .truncate.font-medium.leading-normal.text-[#1d1d1d].text-[2cqw]> [48,5215,107,8] "Funding raised, if applicable ($)"
+                        { fontSize:5.1175px; fontWeight:500; lineHeight:7.67625px; width:106.75px; height:7.6875px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                      <input .min-h-[max(24px,5.14cqw)].min-w-0.w-full.rounded-[1.71cqw].border.border-[#bdbdbd].bg-white.px-[1.71cqw].py-[1.14cqw].font-normal> [48,5226,107,24] @aria-label=Funding raised @placeholder=Enter amount
+                        { fontSize:5.83395px; lineHeight:5.83395px; backgroundColor:rgb(255, 255, 255); padding:2.91698px 4.37546px; width:106.75px; height:24px; minHeight:24px; display:block; borderRadius:4.37546px; border:1px solid rgb(189, 189, 189); borderTop:1px solid rgb(189, 189, 189); borderBottom:1px solid rgb(189, 189, 189); borderLeft:1px solid rgb(189, 189, 189); borderRight:1px solid rgb(189, 189, 189); transition:0.15s cubic-bezier(0.4, 0, 0.2, 1); overflow:clip; overflowX:clip; overflowY:clip; cursor:text }
+                    <div .flex.min-w-0.flex-1.flex-col.gap-[1.14cqw]> [158,5215,107,35]
+                      { width:106.766px; height:34.5938px; display:flex; flexDirection:column; flex:1 1 0%; gap:2.91698px; rowGap:2.91698px; columnGap:2.91698px }
+                      <span .truncate.font-medium.leading-normal.text-[#1d1d1d].text-[2cqw]> [158,5215,107,8] "Funding date, if applicable"
+                        { fontSize:5.1175px; fontWeight:500; lineHeight:7.67625px; width:106.766px; height:7.6875px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                      <input .min-h-[max(24px,5.14cqw)].min-w-0.w-full.rounded-[1.71cqw].border.border-[#bdbdbd].bg-white.px-[1.71cqw].py-[1.14cqw].font-normal> [158,5226,107,24] @aria-label=Funding date @placeholder=MM/DD/YYYY
+                        { fontSize:5.83395px; lineHeight:5.83395px; backgroundColor:rgb(255, 255, 255); padding:2.91698px 4.37546px; width:106.766px; height:24px; minHeight:24px; display:block; borderRadius:4.37546px; border:1px solid rgb(189, 189, 189); borderTop:1px solid rgb(189, 189, 189); borderBottom:1px solid rgb(189, 189, 189); borderLeft:1px solid rgb(189, 189, 189); borderRight:1px solid rgb(189, 189, 189); transition:0.15s cubic-bezier(0.4, 0, 0.2, 1); overflow:clip; overflowX:clip; overflowY:clip; cursor:text }
+                  <div .flex.items-center.justify-between.pt-[0.5cqw]> [48,5263,218,27]
+                    { padding:1.27937px 0px 0px; width:217.5px; height:26.5312px; display:flex; justifyContent:space-between; alignItems:center }
+                    <div .pressable-button.pressable-smooth-corner.rounded-[1.56cqw].bg-[#575757]> [48,5265,30,25]
+                      { backgroundColor:rgb(87, 87, 87); padding:0px 0px 1.27937px; width:29.7812px; height:25.2656px; display:block; borderRadius:3.99165px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+                      <button .pressable-smooth-corner.flex.items-center.justify-center.border-transparent.hover:bg-[#4a4a4a].active:bg-[#7b7b7b].btn-text-small.min-h-[24px].rounded-[1.56cqw]> [48,5265,30,24] "← Back"
+                        { fontSize:5.3222px; fontWeight:500; lineHeight:7.9833px; letterSpacing:-0.079833px; color:rgb(217, 217, 217); textAlign:center; backgroundColor:rgb(29, 29, 29); padding:2.6611px 5.3222px; width:29.7812px; height:24px; minHeight:24px; display:flex; justifyContent:center; alignItems:center; borderRadius:3.99165px; cursor:pointer }
+                    <div .pressable-button.pressable-smooth-corner.rounded-[1.56cqw].bg-[#b84200].opacity-50> [236,5265,29,25]
+                      { backgroundColor:rgb(184, 66, 0); padding:0px 0px 1.27937px; width:28.8281px; height:25.2656px; display:block; borderRadius:3.99165px; opacity:0.5; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+                      <button .pressable-smooth-corner.flex.items-center.justify-center.border-transparent.hover:bg-[#ff7d33].active:bg-[#ff9d66].btn-text-small.min-h-[24px].cursor-not-allowed> [236,5265,29,24] "Next →"
+                        { fontSize:5.3222px; fontWeight:500; lineHeight:7.9833px; letterSpacing:-0.079833px; color:rgb(255, 255, 255); textAlign:center; backgroundColor:rgb(255, 92, 0); padding:2.6611px 5.3222px; width:28.8281px; height:24px; minHeight:24px; display:flex; justifyContent:center; alignItems:center; borderRadius:3.99165px; cursor:not-allowed }
+              <div .pointer-events-none.absolute.bottom-[-7.71%].right-[-11.875%].aspect-[311/316].w-[38.875%]> [277,5099,138,141]
+                { width:138.391px; height:140.609px; display:block; position:absolute; top:82.2656px; left:259.875px; right:-42.2656px; bottom:-15.9531px; aspectRatio:311 / 316 }
+                <img .object-contain> [277,5099,138,141] @alt=Corgi on the phone @src=/_next/image?url=%2Fimages%2Fget-covered%2Fcorgi-phone.png&w=3840&q=75 IMG /_next/image?url=%2Fimages%2Fget-covered%2Fcorgi-phone.png&w=384&q=75 nat195x198
+                  { width:138.391px; height:140.609px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+              <div .pointer-events-none.absolute.left-[78.75%].top-[25.37%].flex.items-center.rounded-full.bg-white.px-[2cqw].py-[1cqw]> [258,5081,79,14]
+                { backgroundColor:rgb(255, 255, 255); padding:3.4825px 6.965px; width:78.6719px; height:14.4219px; display:flex; alignItems:center; borderRadius:3.35544e+07px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:absolute; top:52.4844px; left:280.344px; right:-3.01562px; bottom:140.016px; transform:matrix(1, 0, 0, 1, -39.3359, 12); transition:transform 0.75s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1) }
+                <p .whitespace-nowrap.font-medium.leading-none.text-[#191919].text-[2.15cqw]> [265,5085,65,7] "An estimate is fine"
+                  { fontSize:7.48737px; fontWeight:500; lineHeight:7.48737px; color:rgb(25, 25, 25); width:64.7656px; height:7.48438px; display:block }
+                <svg .[object.SVGAnimatedString]> [288,5093,10,12] SVG(241b) viewBox="0 0 20 24"
+                  { width:8.70312px; height:10.4375px; display:block; position:absolute; top:12.4219px; left:35.3906px; right:34.5781px; bottom:-8.4375px; transform:matrix(0.990268, -0.139173, 0.139173, 0.990268, -4.35156, 0); overflow:hidden; overflowX:hidden; overflowY:hidden; verticalAlign:middle }
+            <div .border-t.border-[#e1e1e1].bg-white.p-3> [17,5224,356,64]
+              { backgroundColor:rgb(255, 255, 255); padding:12px; width:356px; height:63.7969px; display:block; borderTop:1px solid rgb(225, 225, 225) }
+              <div .pressable-button.pressable-smooth-corner.bg-[#626262].w-full> [29,5237,332,39]
+                { backgroundColor:rgb(98, 98, 98); padding:0px 0px 4px; width:332px; height:38.7969px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+                <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#191919].hover:bg-[#4a4a4a].active:bg-[#7b7b7b].px-4> [29,5237,332,35] "Book a demo" @href=/book-a-demo
+                  { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(255, 255, 255); backgroundColor:rgb(25, 25, 25); padding:8px 16px; width:332px; height:34.7969px; display:flex; justifyContent:center; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+                  <span .h-4.w-4> [231,5246,16,16] "call"
+                    { fontSize:16px; fontWeight:400; fontFamily:Material Symbols Sharp; lineHeight:16px; width:16px; height:16px; display:block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }

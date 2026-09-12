@@ -1,0 +1,624 @@
+{
+ "y0": {
+  "y": 0,
+  "transform": "matrix(1, 0, 0, 1, 0, 0)",
+  "translate": "0px",
+  "top": "0px",
+  "opacity": "1",
+  "barBg": "rgba(255, 255, 255, 0.85)",
+  "barShadow": "none",
+  "barBorder": "1px solid rgb(225, 225, 225)",
+  "barBlur": "blur(6px)",
+  "banner": true,
+  "bannerH": 36,
+  "h": 92
+ },
+ "scrollDown": [
+  {
+   "y": 50,
+   "transform": "matrix(1, 0, 0, 1, 0, 0)",
+   "translate": "0px -150%",
+   "top": "0px",
+   "opacity": "1",
+   "barBg": "rgba(255, 255, 255, 0.85)",
+   "barShadow": "none",
+   "barBorder": "1px solid rgb(225, 225, 225)",
+   "barBlur": "blur(6px)",
+   "banner": true,
+   "bannerH": 36,
+   "h": 92
+  },
+  {
+   "y": 100,
+   "transform": "matrix(1, 0, 0, 1, 0, 0)",
+   "translate": "0px -150%",
+   "top": "0px",
+   "opacity": "1",
+   "barBg": "rgba(255, 255, 255, 0.85)",
+   "barShadow": "none",
+   "barBorder": "1px solid rgb(225, 225, 225)",
+   "barBlur": "blur(6px)",
+   "banner": true,
+   "bannerH": 36,
+   "h": 92
+  },
+  {
+   "y": 150,
+   "transform": "matrix(1, 0, 0, 1, 0, 0)",
+   "translate": "0px -150%",
+   "top": "0px",
+   "opacity": "1",
+   "barBg": "rgba(255, 255, 255, 0.85)",
+   "barShadow": "none",
+   "barBorder": "1px solid rgb(225, 225, 225)",
+   "barBlur": "blur(6px)",
+   "banner": true,
+   "bannerH": 36,
+   "h": 92
+  },
+  {
+   "y": 200,
+   "transform": "matrix(1, 0, 0, 1, 0, 0)",
+   "translate": "0px -150%",
+   "top": "0px",
+   "opacity": "1",
+   "barBg": "rgba(255, 255, 255, 0.85)",
+   "barShadow": "none",
+   "barBorder": "1px solid rgb(225, 225, 225)",
+   "barBlur": "blur(6px)",
+   "banner": true,
+   "bannerH": 36,
+   "h": 92
+  },
+  {
+   "y": 300,
+   "transform": "matrix(1, 0, 0, 1, 0, 0)",
+   "translate": "0px -150%",
+   "top": "0px",
+   "opacity": "1",
+   "barBg": "rgba(255, 255, 255, 0.85)",
+   "barShadow": "none",
+   "barBorder": "1px solid rgb(225, 225, 225)",
+   "barBlur": "blur(6px)",
+   "banner": true,
+   "bannerH": 36,
+   "h": 92
+  },
+  {
+   "y": 500,
+   "transform": "matrix(1, 0, 0, 1, 0, 0)",
+   "translate": "0px -150%",
+   "top": "0px",
+   "opacity": "1",
+   "barBg": "rgba(255, 255, 255, 0.85)",
+   "barShadow": "none",
+   "barBorder": "1px solid rgb(225, 225, 225)",
+   "barBlur": "blur(6px)",
+   "banner": true,
+   "bannerH": 36,
+   "h": 92
+  },
+  {
+   "y": 800,
+   "transform": "matrix(1, 0, 0, 1, 0, 0)",
+   "translate": "0px -150%",
+   "top": "0px",
+   "opacity": "1",
+   "barBg": "rgba(255, 255, 255, 0.85)",
+   "barShadow": "none",
+   "barBorder": "1px solid rgb(225, 225, 225)",
+   "barBlur": "blur(6px)",
+   "banner": true,
+   "bannerH": 36,
+   "h": 92
+  },
+  {
+   "y": 1200,
+   "transform": "matrix(1, 0, 0, 1, 0, 0)",
+   "translate": "0px -150%",
+   "top": "0px",
+   "opacity": "1",
+   "barBg": "rgba(255, 255, 255, 0.85)",
+   "barShadow": "none",
+   "barBorder": "1px solid rgb(225, 225, 225)",
+   "barBlur": "blur(6px)",
+   "banner": true,
+   "bannerH": 36,
+   "h": 92
+  }
+ ],
+ "afterUp100": {
+  "y": 1100,
+  "transform": "matrix(1, 0, 0, 1, 0, 0)",
+  "translate": "0px",
+  "top": "0px",
+  "opacity": "1",
+  "barBg": "rgba(255, 255, 255, 0.85)",
+  "barShadow": "none",
+  "barBorder": "1px solid rgb(225, 225, 225)",
+  "barBlur": "blur(6px)",
+  "banner": true,
+  "bannerH": 36,
+  "h": 92
+ },
+ "afterUp500": {
+  "y": 700,
+  "transform": "matrix(1, 0, 0, 1, 0, 0)",
+  "translate": "0px",
+  "top": "0px",
+  "opacity": "1",
+  "barBg": "rgba(255, 255, 255, 0.85)",
+  "barShadow": "none",
+  "barBorder": "1px solid rgb(225, 225, 225)",
+  "barBlur": "blur(6px)",
+  "banner": true,
+  "bannerH": 36,
+  "h": 92
+ },
+ "triggers": [
+  {
+   "text": "Tech companies",
+   "tag": "A",
+   "cls": "flex h-[39px] cursor-pointer items-center gap-1 rounded-[12px] px-4 text-[14px] leading-[1.2] tracki"
+  },
+  {
+   "text": "Small businesses",
+   "tag": "BUTTON",
+   "cls": "flex h-[39px] cursor-pointer items-center gap-1 rounded-[12px] px-4 text-[14px] leading-[1.2] tracki"
+  },
+  {
+   "text": "Products",
+   "tag": "A",
+   "cls": "flex h-[39px] cursor-pointer items-center gap-1 rounded-[12px] px-4 text-[14px] leading-[1.2] tracki"
+  },
+  {
+   "text": "Company",
+   "tag": "A",
+   "cls": "flex h-[39px] cursor-pointer items-center gap-1 rounded-[12px] px-4 text-[14px] leading-[1.2] tracki"
+  },
+  {
+   "text": "Partners",
+   "tag": "A",
+   "cls": "flex h-[39px] cursor-pointer items-center gap-1 rounded-[12px] px-4 text-[14px] leading-[1.2] tracki"
+  },
+  {
+   "text": "Customers",
+   "tag": "A",
+   "cls": "flex h-[39px] items-center whitespace-nowrap rounded-[12px] px-4 text-[14px] leading-[1.2] tracking-"
+  },
+  {
+   "text": "Log in",
+   "tag": "A",
+   "cls": "hidden h-full items-center whitespace-nowrap rounded-[12px] px-4 text-[14px] font-normal leading-[1."
+  },
+  {
+   "text": "Book a demo",
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#626262]"
+  },
+  {
+   "text": "Get insured",
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00]"
+  }
+ ],
+ "menus": {
+  "Tech companies": {
+   "before": {
+    "color": "rgb(74, 74, 74)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "tag": "A",
+    "cls": "flex h-[39px] cursor-pointer items-center gap-1 rounded-[12px] px-4 text-[14px] leading-[1.2] tracking-[-0.21px] font-normal text-[#4a4a4a] hover:text-[#191919]",
+    "text": "Tech companies\nkeyboard_arrow_down",
+    "rect": {
+     "x": 175,
+     "y": 44,
+     "width": 154.6875,
+     "height": 39,
+     "top": 44,
+     "right": 329.6875,
+     "bottom": 83,
+     "left": 175
+    }
+   },
+   "after": {
+    "color": "rgb(25, 25, 25)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "state": null,
+    "expanded": "true"
+   },
+   "panel": {
+    "rect": [
+     175,
+     92,
+     1090,
+     319
+    ],
+    "cls": "pointer-events-auto hidden w-fit overflow-clip border-b-[1px] border-r-[1px] border-l-[1px] border-[#e1e1e1] bg-[rgba(255,255,255,0.85)] px-4 py-6 backdrop-blur-[6px] xl:block 2xl:px-8 min-[1680px]:px",
+    "html": 13998,
+    "text": "BY STAGE\npsychiatry\nPre-seed & Seed\neco\nSeries A\npark\nGrowth\nwidgets\nCustom\nView all\nBY INDUSTRY\ncloud\nSaaS\nsmart_toy\nAI\naccount_balance\nFintech\ncurrency_bitcoin\nCrypto\nstore\nMarketplace\nmonitor_heart\nHealth-tech\nlocal_shipping\nTrucking\nsports_soccer\nSports\nSOFTWARE\nlock\nDataroom\nHIGHLIGHTS\nBook a demo\nFor customers who want guidance.\n$1.3B valuation\nCorgi raises $160M Series B."
+   }
+  },
+  "Small businesses": {
+   "before": {
+    "color": "rgb(74, 74, 74)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "tag": "BUTTON",
+    "cls": "flex h-[39px] cursor-pointer items-center gap-1 rounded-[12px] px-4 text-[14px] leading-[1.2] tracking-[-0.21px] font-normal text-[#4a4a4a] hover:text-[#191919]",
+    "text": "Small businesses\nkeyboard_arrow_down",
+    "rect": {
+     "x": 329.6875,
+     "y": 44,
+     "width": 162.640625,
+     "height": 39,
+     "top": 44,
+     "right": 492.328125,
+     "bottom": 83,
+     "left": 329.6875
+    }
+   },
+   "after": {
+    "color": "rgb(25, 25, 25)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "state": null,
+    "expanded": "true"
+   },
+   "panel": {
+    "rect": [
+     175,
+     92,
+     754,
+     319
+    ],
+    "cls": "pointer-events-auto hidden w-fit overflow-clip border-b-[1px] border-r-[1px] border-l-[1px] border-[#e1e1e1] bg-[rgba(255,255,255,0.85)] px-4 py-6 backdrop-blur-[6px] xl:block 2xl:px-8 min-[1680px]:px",
+    "html": 4902,
+    "text": "INDUSTRIES\ngroups\nClubs & Lodges (liquor)\nauto_awesome\nMore coming soon\nHIGHLIGHTS\nBook a demo\nFor customers who want guidance.\n$1.3B valuation\nCorgi raises $160M Series B."
+   }
+  },
+  "Products": {
+   "before": {
+    "color": "rgb(74, 74, 74)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "tag": "A",
+    "cls": "flex h-[39px] cursor-pointer items-center gap-1 rounded-[12px] px-4 text-[14px] leading-[1.2] tracking-[-0.21px] font-normal text-[#4a4a4a] hover:text-[#191919]",
+    "text": "Products\nkeyboard_arrow_down",
+    "rect": {
+     "x": 492.328125,
+     "y": 44,
+     "width": 109.28125,
+     "height": 39,
+     "top": 44,
+     "right": 601.609375,
+     "bottom": 83,
+     "left": 492.328125
+    }
+   },
+   "after": {
+    "color": "rgb(25, 25, 25)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "state": null,
+    "expanded": "true"
+   },
+   "panel": {
+    "rect": [
+     175,
+     92,
+     1234,
+     350.578125
+    ],
+    "cls": "pointer-events-auto hidden w-fit overflow-clip border-b-[1px] border-r-[1px] border-l-[1px] border-[#e1e1e1] bg-[rgba(255,255,255,0.85)] px-4 py-6 backdrop-blur-[6px] xl:block 2xl:px-8 min-[1680px]:px",
+    "html": 13766,
+    "text": "CORE OPERATIONS\nverified_user\nGeneral Liability\nlock\nCyber Liability\nmemory\nTech E&O Insurance\nsmart_toy\nAI Liability\ncampaign\nMedia Liability\ndirections_car\nHired & Non-Owned Auto\nMANAGEMENT & PEOPLE\nbusiness_center\nDirectors & Officers\nhow_to_reg\nEmployment Practices\nbalance\nFiduciary Liability\nTRANSPORTATION\ntraffic\nAuto Liability\ninventory_2\nContractual Liability Insurance - Cargo\nRETAIL\nlocal_bar\nLiquor Liability\nHIGHLIGHTS\nBook a demo\nFor customers who want guidance.\n$1.3B valuation\nCorgi raises $160M Series B."
+   }
+  },
+  "Company": {
+   "before": {
+    "color": "rgb(74, 74, 74)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "tag": "A",
+    "cls": "flex h-[39px] cursor-pointer items-center gap-1 rounded-[12px] px-4 text-[14px] leading-[1.2] tracking-[-0.21px] font-normal text-[#4a4a4a] hover:text-[#191919]",
+    "text": "Company\nkeyboard_arrow_down",
+    "rect": {
+     "x": 601.609375,
+     "y": 44,
+     "width": 112.59375,
+     "height": 39,
+     "top": 44,
+     "right": 714.203125,
+     "bottom": 83,
+     "left": 601.609375
+    }
+   },
+   "after": {
+    "color": "rgb(25, 25, 25)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "state": null,
+    "expanded": "true"
+   },
+   "panel": {
+    "rect": [
+     175,
+     92,
+     994,
+     319
+    ],
+    "cls": "pointer-events-auto hidden w-fit overflow-clip border-b-[1px] border-r-[1px] border-l-[1px] border-[#e1e1e1] bg-[rgba(255,255,255,0.85)] px-4 py-6 backdrop-blur-[6px] xl:block 2xl:px-8 min-[1680px]:px",
+    "html": 9710,
+    "text": "LITERATURE\nnewspaper\nCorgi Press\nauto_awesome\nFeaturing Corgi\nedit\nBlog\nCORGI THE COMPANY\ninfo\nAbout\nverified\nCareers\ncoffee\nCorgi Cafe\ndirections_bus\nCorgi Bus\ncandlestick_chart\nCorgi ETFs\nHIGHLIGHTS\nBook a demo\nFor customers who want guidance.\n$1.3B valuation\nCorgi raises $160M Series B."
+   }
+  },
+  "Partners": {
+   "before": {
+    "color": "rgb(74, 74, 74)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "tag": "A",
+    "cls": "flex h-[39px] cursor-pointer items-center gap-1 rounded-[12px] px-4 text-[14px] leading-[1.2] tracking-[-0.21px] font-normal text-[#4a4a4a] hover:text-[#191919]",
+    "text": "Partners\nkeyboard_arrow_down",
+    "rect": {
+     "x": 714.203125,
+     "y": 44,
+     "width": 106.296875,
+     "height": 39,
+     "top": 44,
+     "right": 820.5,
+     "bottom": 83,
+     "left": 714.203125
+    }
+   },
+   "after": {
+    "color": "rgb(25, 25, 25)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "state": null,
+    "expanded": "true"
+   },
+   "panel": {
+    "rect": [
+     175,
+     92,
+     754,
+     319
+    ],
+    "cls": "pointer-events-auto hidden w-fit overflow-clip border-b-[1px] border-r-[1px] border-l-[1px] border-[#e1e1e1] bg-[rgba(255,255,255,0.85)] px-4 py-6 backdrop-blur-[6px] xl:block 2xl:px-8 min-[1680px]:px",
+    "html": 5645,
+    "text": "PROGRAMS\nhandshake\nPartner With Us\nbusiness_center\nFor brokers\nsavings\nPerks\nCOMING SOON\nHIGHLIGHTS\nBook a demo\nFor customers who want guidance.\n$1.3B valuation\nCorgi raises $160M Series B."
+   }
+  },
+  "Customers": {
+   "before": {
+    "color": "rgb(74, 74, 74)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "tag": "A",
+    "cls": "flex h-[39px] items-center whitespace-nowrap rounded-[12px] px-4 text-[14px] leading-[1.2] tracking-[-0.21px] font-normal text-[#4a4a4a] hover:text-[#191919]",
+    "text": "Customers",
+    "rect": {
+     "x": 820.5,
+     "y": 44,
+     "width": 101.328125,
+     "height": 39,
+     "top": 44,
+     "right": 921.828125,
+     "bottom": 83,
+     "left": 820.5
+    }
+   },
+   "after": {
+    "color": "rgb(25, 25, 25)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "state": null,
+    "expanded": null
+   },
+   "panel": null
+  },
+  "Log in": {
+   "before": {
+    "color": "rgb(74, 74, 74)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "tag": "A",
+    "cls": "hidden h-full items-center whitespace-nowrap rounded-[12px] px-4 text-[14px] font-normal leading-[1.2] tracking-[-0.21px] text-[#4a4a4a] hover:text-[#191919] xl:flex",
+    "text": "Log in",
+    "rect": {
+     "x": 1041.65625,
+     "y": 44,
+     "width": 69.65625,
+     "height": 39,
+     "top": 44,
+     "right": 1111.3125,
+     "bottom": 83,
+     "left": 1041.65625
+    }
+   },
+   "after": {
+    "color": "rgb(25, 25, 25)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "state": null,
+    "expanded": null
+   },
+   "panel": null
+  },
+  "Book a demo": {
+   "before": {
+    "color": "rgb(255, 255, 255)",
+    "bg": "rgb(25, 25, 25)",
+    "tag": "A",
+    "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#191919] hover:bg-[#4a4a4a] active:bg-[#7b7b7b] btn-text-small h-[35px] min-w-[96px] whitespace-nowrap px-2 py-0 ",
+    "text": "Book a demo",
+    "rect": {
+     "x": 1119.3125,
+     "y": 44,
+     "width": 129.6875,
+     "height": 35,
+     "top": 44,
+     "right": 1249,
+     "bottom": 79,
+     "left": 1119.3125
+    }
+   },
+   "after": {
+    "color": "rgb(255, 255, 255)",
+    "bg": "rgb(74, 74, 74)",
+    "state": null,
+    "expanded": null
+   },
+   "panel": null
+  },
+  "Get insured": {
+   "before": {
+    "color": "rgb(255, 255, 255)",
+    "bg": "rgb(255, 92, 0)",
+    "tag": "A",
+    "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hover:bg-[#ff7d33] active:bg-[#ff9d66] btn-text-small h-[35px] min-w-[100px] px-3 py-0 text-[16px] leadi",
+    "text": "Get insured",
+    "rect": {
+     "x": 1257,
+     "y": 44,
+     "width": 119,
+     "height": 35,
+     "top": 44,
+     "right": 1376,
+     "bottom": 79,
+     "left": 1257
+    }
+   },
+   "after": {
+    "color": "rgb(255, 255, 255)",
+    "bg": "rgb(255, 125, 51)",
+    "state": null,
+    "expanded": null
+   },
+   "panel": null
+  }
+ },
+ "buttons": [
+  {
+   "before": {
+    "text": "Log in",
+    "tag": "A",
+    "href": "https://app.corgi.insure",
+    "cls": "hidden h-full items-center whitespace-nowrap rounded-[12px] px-4 text-[14px] font-normal leading-[1.2] tracking-[-0.21px] text-[#4a4a4a] hover:text-[#191919] xl:flex",
+    "color": "rgb(74, 74, 74)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "border": "0px solid rgb(44, 44, 44)",
+    "radius": "12px",
+    "shadow": "none",
+    "padding": "0px 16px",
+    "font": "14px/400 16.8px -0.21px",
+    "transition": "all",
+    "transform": "none",
+    "h": 39,
+    "w": 69.65625,
+    "inner": []
+   },
+   "after": {
+    "color": "rgb(25, 25, 25)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "shadow": "none",
+    "transform": "none",
+    "inner": []
+   }
+  },
+  {
+   "before": {
+    "text": "Book a demo",
+    "tag": "DIV",
+    "href": null,
+    "cls": "pressable-button pressable-smooth-corner bg-[#626262]",
+    "color": "rgb(0, 0, 0)",
+    "bg": "rgb(98, 98, 98)",
+    "border": "0px solid rgb(44, 44, 44)",
+    "radius": "16px",
+    "shadow": "none",
+    "padding": "0px 0px 4px",
+    "font": "16px/400 24px normal",
+    "transition": "padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1)",
+    "transform": "none",
+    "h": 39,
+    "w": 129.6875,
+    "inner": [
+     {
+      "tag": "A",
+      "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#191919] hover:bg-[#4a4a4a] active:bg-[#7b7b7b] btn-text-small h-[35px] min-w-[96px] whitespace-nowrap px-2 py-0 ",
+      "bg": "rgb(25, 25, 25)",
+      "color": "rgb(255, 255, 255)",
+      "radius": "16px",
+      "shadow": "none",
+      "transform": "none",
+      "transition": "all",
+      "padding": "0px 16px",
+      "h": 35
+     }
+    ]
+   },
+   "after": {
+    "color": "rgb(0, 0, 0)",
+    "bg": "rgb(98, 98, 98)",
+    "shadow": "none",
+    "transform": "none",
+    "inner": [
+     {
+      "bg": "rgb(74, 74, 74)",
+      "color": "rgb(255, 255, 255)",
+      "transform": "none",
+      "shadow": "none"
+     }
+    ]
+   }
+  },
+  {
+   "before": {
+    "text": "Get insured",
+    "tag": "DIV",
+    "href": null,
+    "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00]",
+    "color": "rgb(0, 0, 0)",
+    "bg": "rgb(204, 74, 0)",
+    "border": "0px solid rgb(44, 44, 44)",
+    "radius": "16px",
+    "shadow": "none",
+    "padding": "0px 0px 4px",
+    "font": "16px/400 24px normal",
+    "transition": "padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1)",
+    "transform": "none",
+    "h": 39,
+    "w": 119,
+    "inner": [
+     {
+      "tag": "A",
+      "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hover:bg-[#ff7d33] active:bg-[#ff9d66] btn-text-small h-[35px] min-w-[100px] px-3 py-0 text-[16px] leadi",
+      "bg": "rgb(255, 92, 0)",
+      "color": "rgb(255, 255, 255)",
+      "radius": "16px",
+      "shadow": "none",
+      "transform": "none",
+      "transition": "all",
+      "padding": "0px 16px",
+      "h": 35
+     }
+    ]
+   },
+   "after": {
+    "color": "rgb(0, 0, 0)",
+    "bg": "rgb(204, 74, 0)",
+    "shadow": "none",
+    "transform": "none",
+    "inner": [
+     {
+      "bg": "rgb(255, 125, 51)",
+      "color": "rgb(255, 255, 255)",
+      "transform": "none",
+      "shadow": "none"
+     }
+    ]
+   }
+  }
+ ],
+ "getInsuredPressed": {
+  "transform": "none",
+  "inner": [
+   {
+    "transform": "none",
+    "bg": "rgb(255, 157, 102)",
+    "translate": "none"
+   }
+  ]
+ }
+}

@@ -1,0 +1,1372 @@
+{
+ "interactive": [
+  {
+   "tag": "IMG",
+   "cls": "object-cover",
+   "rect": [
+    0,
+    0,
+    1440,
+    900
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 h-full w-full max-w-none object-cover",
+   "rect": [
+    929,
+    123,
+    364,
+    344
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 h-full w-full max-w-none object-cover",
+   "rect": [
+    929,
+    123,
+    364,
+    344
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 h-full w-full max-w-none object-cover",
+   "rect": [
+    929,
+    123,
+    364,
+    344
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "A",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hover:bg-[#ff7d33] active:bg-[#ff9d66] px-4 py-2 btn-text-small ",
+   "rect": [
+    644,
+    578,
+    152,
+    37
+   ],
+   "cursor": "pointer",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "Get insured now",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 h-full w-full max-w-none object-cover",
+   "rect": [
+    231,
+    530,
+    318,
+    241
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 h-full w-full max-w-none object-cover",
+   "rect": [
+    231,
+    530,
+    318,
+    241
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 h-full w-full max-w-none object-cover",
+   "rect": [
+    231,
+    530,
+    318,
+    241
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "DIV",
+   "cls": "logo-carousel-track flex w-max items-center gap-20",
+   "rect": [
+    -99,
+    844,
+    9860,
+    32
+   ],
+   "cursor": "auto",
+   "anim": "60s linear infinite logo-scroll",
+   "ce": false,
+   "draggable": false,
+   "text": "",
+   "transform": "matrix(1, 0, 0, 1, -98.597, 0)",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    -99,
+    851,
+    192,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    173,
+    850,
+    108,
+    20
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    361,
+    848,
+    91,
+    24
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    532,
+    847,
+    79,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    691,
+    847,
+    78,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    849,
+    849,
+    91,
+    23
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    1020,
+    846,
+    73,
+    28
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    1173,
+    849,
+    99,
+    22
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    1352,
+    848,
+    113,
+    24
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    1545,
+    847,
+    79,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    1704,
+    851,
+    148,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    1932,
+    844,
+    48,
+    32
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    2060,
+    851,
+    94,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    2234,
+    845,
+    72,
+    30
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    2386,
+    851,
+    192,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    2658,
+    850,
+    108,
+    20
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    2846,
+    848,
+    91,
+    24
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    3017,
+    847,
+    79,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    3176,
+    847,
+    78,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    3334,
+    849,
+    91,
+    23
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    3505,
+    846,
+    73,
+    28
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    3658,
+    849,
+    99,
+    22
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    3837,
+    848,
+    113,
+    24
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    4030,
+    847,
+    79,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    4189,
+    851,
+    148,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    4417,
+    844,
+    48,
+    32
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    4545,
+    851,
+    94,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    4719,
+    845,
+    72,
+    30
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    4871,
+    851,
+    192,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    5143,
+    850,
+    108,
+    20
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    5331,
+    848,
+    91,
+    24
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    5502,
+    847,
+    79,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    5661,
+    847,
+    78,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    5819,
+    849,
+    91,
+    23
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    5990,
+    846,
+    73,
+    28
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    6143,
+    849,
+    99,
+    22
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    6322,
+    848,
+    113,
+    24
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    6515,
+    847,
+    79,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    6674,
+    851,
+    148,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    6902,
+    844,
+    48,
+    32
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    7030,
+    851,
+    94,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    7204,
+    845,
+    72,
+    30
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    7356,
+    851,
+    192,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    7628,
+    850,
+    108,
+    20
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    7816,
+    848,
+    91,
+    24
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    7987,
+    847,
+    79,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    8146,
+    847,
+    78,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    8304,
+    849,
+    91,
+    23
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    8475,
+    846,
+    73,
+    28
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    8628,
+    849,
+    99,
+    22
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    8807,
+    848,
+    113,
+    24
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    9000,
+    847,
+    79,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    9159,
+    851,
+    148,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    9387,
+    844,
+    48,
+    32
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    9515,
+    851,
+    94,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    9689,
+    845,
+    72,
+    30
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  }
+ ],
+ "tooltips": [
+  {
+   "text": "text_fields\nTry me!",
+   "cls": "pointer-events-none fixed left-0 top-0 z-50 overflow-hidden rounded-[4px] bg-[#ff7d33]",
+   "rect": [
+    0,
+    -22.390625,
+    0,
+    22.390625
+   ],
+   "bg": "rgb(255, 125, 51)",
+   "color": "rgb(0, 0, 0)",
+   "font": "16px/400 Geist",
+   "padding": "0px",
+   "radius": "4px",
+   "transform": "matrix(1, 0, 0, 1, 0, -22.3906)",
+   "opacity": "1",
+   "transition": "width 0.18s cubic-bezier(0.4, 0, 0.2, 1)",
+   "html": "<div class=\"flex items-center gap-1.5 px-2 py-1\" style=\"width: max-content;\"><span aria-hidden=\"true\" class=\"size-3 shrink-0 text-white\" style=\"display: inline-block; font-family: &quot;Material Symbols Sharp&quot;; font-feature-settings: &quot;liga&quot;; font-size: 0.75rem; font-style: normal; font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 24; font-weight: 400; height: 0.75rem; letter-spacing: normal; line-height: 1; text-transform: none; width: 0.75rem; -webkit-font-smoothing: antialiased;\">text_fields</span><span class=\"whitespace-no"
+  },
+  {
+   "text": "Draggable!",
+   "cls": "pointer-events-none fixed left-0 top-0 z-50 overflow-hidden rounded-[4px] bg-[#ff7d33]",
+   "rect": [
+    0,
+    -22.390625,
+    0,
+    22.390625
+   ],
+   "bg": "rgb(255, 125, 51)",
+   "color": "rgb(0, 0, 0)",
+   "font": "16px/400 Geist",
+   "padding": "0px",
+   "radius": "4px",
+   "transform": "matrix(1, 0, 0, 1, 0, -22.3906)",
+   "opacity": "1",
+   "transition": "width 0.18s cubic-bezier(0.4, 0, 0.2, 1)",
+   "html": "<div class=\"flex items-center gap-1.5 px-2 py-1\" style=\"width: max-content;\"><svg aria-hidden=\"true\" class=\"size-3 shrink-0 text-white\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M16 12h6\"></path><path d=\"M8 12H2\"></path><path d=\"M12 6V2\"></path><path d=\"M12 10v-2\"></path><path d=\"M12 16v-2\"></path><path d=\"M12 22v-4\"></path><path d=\"m19 15 3-3-3-3\"></path><path d=\"m5 9-3 3 3 3\"></path></svg><span class=\"whitespace-nowrap text-[12px] font-medium leading-[1.2] tracking-[-0.18px"
+  },
+  {
+   "text": "pan_tool\nFlick me!",
+   "cls": "pointer-events-none fixed left-0 top-0 z-50 overflow-hidden rounded-[4px] bg-[#ff7d33]",
+   "rect": [
+    0,
+    -22.390625,
+    0,
+    22.390625
+   ],
+   "bg": "rgb(255, 125, 51)",
+   "color": "rgb(0, 0, 0)",
+   "font": "16px/400 Geist",
+   "padding": "0px",
+   "radius": "4px",
+   "transform": "matrix(1, 0, 0, 1, 0, -22.3906)",
+   "opacity": "1",
+   "transition": "width 0.18s cubic-bezier(0.4, 0, 0.2, 1)",
+   "html": "<div class=\"flex items-center gap-1.5 px-2 py-1\" style=\"width: max-content;\"><span aria-hidden=\"true\" class=\"size-3 shrink-0 text-white\" style=\"display: inline-block; font-family: &quot;Material Symbols Sharp&quot;; font-feature-settings: &quot;liga&quot;; font-size: 0.75rem; font-style: normal; font-variation-settings: &quot;FILL&quot; 0, &quot;wght&quot; 400, &quot;GRAD&quot; 0, &quot;opsz&quot; 24; font-weight: 400; height: 0.75rem; letter-spacing: normal; line-height: 1; text-transform: none; width: 0.75rem; -webkit-font-smoothing: antialiased;\">pan_tool</span><span class=\"whitespace-nowra"
+  }
+ ],
+ "marquee": {
+  "cls": "logo-carousel-track flex w-max items-center gap-20",
+  "animation": "60s linear infinite logo-scroll",
+  "w": 9860,
+  "kids": 4,
+  "parentCls": "w-full overflow-hidden",
+  "parentMask": "none",
+  "gap": "80px"
+ }
+}

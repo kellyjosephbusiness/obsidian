@@ -1,20 +1,69 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const geist = Geist({
   subsets: ["latin"],
+  variable: "--font-geist",
+  display: "swap",
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+const f37Bolton = localFont({
+  src: [
+    { path: "../../public/sites/corgi-insure-a0f7893c/shared/fonts/f37_bolton_regular.woff2", weight: "400", style: "normal" },
+    { path: "../../public/sites/corgi-insure-a0f7893c/shared/fonts/f37_bolton_medium.woff2", weight: "500", style: "normal" },
+  ],
+  variable: "--font-f37-bolton",
+  display: "swap",
 });
+
+const georgia = localFont({
+  src: "../../public/sites/corgi-insure-a0f7893c/shared/fonts/georgia.woff2",
+  variable: "--font-georgia",
+  display: "swap",
+});
+
+const heroHeading = localFont({
+  src: "../../public/sites/corgi-insure-a0f7893c/shared/fonts/heroHeading.woff2",
+  weight: "500",
+  variable: "--font-hero-heading",
+  display: "swap",
+});
+
+const heroSerif = localFont({
+  src: "../../public/sites/corgi-insure-a0f7893c/shared/fonts/heroSerif.woff2",
+  weight: "400",
+  variable: "--font-hero-serif",
+  display: "swap",
+});
+
+const SEO = "/sites/corgi-insure-a0f7893c/shared/seo";
+const DESCRIPTION =
+  "Get startup insurance in minutes with Corgi. Compare modular CGL, D&O, Tech E&O, Cyber, EPLI, and fiduciary coverage built for founders today.";
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: "Corgi Insurance: Startup Insurance, Quoted in Minutes",
+  description: DESCRIPTION,
+  icons: {
+    icon: [
+      { url: `${SEO}/favicon-96x96.png`, sizes: "96x96", type: "image/png" },
+      { url: `${SEO}/icon.svg`, type: "image/svg+xml" },
+      { url: `${SEO}/favicon.ico`, sizes: "16x16 32x32 48x48" },
+      { url: `${SEO}/favicon-32x32.png`, sizes: "32x32", type: "image/png" },
+      { url: `${SEO}/favicon-16x16.png`, sizes: "16x16", type: "image/png" },
+    ],
+    apple: [{ url: `${SEO}/apple-icon.png`, sizes: "180x180" }],
+  },
+  openGraph: {
+    title: "Corgi Insurance: Startup Insurance, Quoted in Minutes",
+    description: DESCRIPTION,
+    siteName: "Corgi Insurance",
+    locale: "en_US",
+    type: "website",
+    images: [{ url: `${SEO}/og-image.png`, width: 1200, height: 630, alt: "Startup Insurance, Quoted in Minutes" }],
+  },
+  twitter: { card: "summary_large_image" },
 };
 
 export default function RootLayout({
@@ -25,9 +74,9 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${geist.variable} ${f37Bolton.variable} ${georgia.variable} ${heroHeading.variable} ${heroSerif.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="flex min-h-screen flex-col">{children}</body>
     </html>
   );
 }

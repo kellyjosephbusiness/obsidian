@@ -1,0 +1,744 @@
+<section .relative.flex.h-screen.flex-col.justify-center.overflow-hidden.border-b.border-[#e1e1e1].bg-[#f6f6f6]> [0,5353,390,844]
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(29, 29, 29); backgroundColor:rgb(246, 246, 246); width:390px; height:844px; display:flex; flexDirection:column; justifyContent:center; borderBottom:1px solid rgb(225, 225, 225); position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+  <div .relative.px-4.md:px-6.lg:px-16> [0,5428,390,169]
+    { padding:0px 16px; width:390px; height:169.188px; display:block; position:relative }
+    <div .pointer-events-none.absolute.left-[max(16px,calc((100%-1600px)/2))].w-px.bg-[#e1e1e1].md:left-[max(24px,calc((100%-1600px)/2))].lg:left-[max(64px,calc((100%-1600px)/2))]> [16,4584,1,1037]
+      { backgroundColor:rgb(225, 225, 225); width:1px; height:1037.19px; display:block; position:absolute; top:-844px; left:16px; right:373px; bottom:-24px }
+    <div .pointer-events-none.absolute.right-[max(16px,calc((100%-1600px)/2))].w-px.bg-[#e1e1e1].md:right-[max(24px,calc((100%-1600px)/2))].lg:right-[max(64px,calc((100%-1600px)/2))]> [373,4584,1,1037]
+      { backgroundColor:rgb(225, 225, 225); width:1px; height:1037.19px; display:block; position:absolute; top:-844px; left:373px; right:16px; bottom:-24px }
+    <div .relative.mx-auto.max-w-[1600px]> [16,5428,358,169]
+      { width:358px; height:169.188px; maxWidth:1600px; display:block; position:relative }
+      <div .flex.flex-col.items-start.justify-between.gap-6.px-4.md:px-6.lg:flex-row.lg:items-end> [16,5428,358,169]
+        { padding:0px 16px; width:358px; height:169.188px; display:flex; flexDirection:column; justifyContent:space-between; alignItems:flex-start; gap:24px; rowGap:24px; columnGap:24px }
+        <div .flex.flex-col.items-start.gap-4.md:gap-6> [32,5428,326,94]
+          { width:326px; height:93.5938px; display:flex; flexDirection:column; alignItems:flex-start; gap:16px; rowGap:16px; columnGap:16px }
+          <h2 .font-medium.font-mono> [32,5428,326,56] "Built for Who Ship"
+            { fontSize:28px; fontWeight:500; fontFamily:f37Bolton; lineHeight:28px; letterSpacing:-0.896px; color:rgb(25, 25, 25); width:326px; height:56px; display:block }
+            <span .font-serif.italic.pr-2.5.md:pr-5> [32,5454,121,32] "Founders"
+              { fontFamily:georgia; fontStyle:italic; padding:0px 10px 0px 0px; display:inline }
+          <p .text-body-large> [32,5500,288,22] "Why startups get insured with Corgi."
+            { fontSize:18px; lineHeight:21.6px; letterSpacing:-0.27px; color:rgb(74, 74, 74); width:288.328px; height:21.5938px; display:block }
+        <div .pressable-button.pressable-smooth-corner.bg-[#626262]> [32,5546,234,52]
+          { backgroundColor:rgb(98, 98, 98); padding:0px 0px 4px; width:233.906px; height:51.5938px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+          <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#191919].active:bg-[#7b7b7b].px-6.py-3> [32,5546,234,48] "Read customer stories" @href=/customers
+            { fontSize:18px; fontWeight:500; lineHeight:21.6px; letterSpacing:-0.27px; color:rgb(255, 255, 255); backgroundColor:rgb(25, 25, 25); padding:12px 24px; width:233.906px; height:47.5938px; display:flex; justifyContent:center; alignItems:center; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+  <div .relative.mt-6.w-full.touch-pan-y.cursor-grab.select-none.active:cursor-grabbing> [0,5621,390,500]
+    { margin:24px 0px 0px; width:390px; height:500px; display:block; position:relative; cursor:grab }
+    <div .pointer-events-none.absolute.inset-x-0.top-0.z-10.h-px.bg-[#e1e1e1]> [0,5621,390,1]
+      { backgroundColor:rgb(225, 225, 225); width:390px; height:1px; display:block; position:absolute; bottom:499px; zIndex:10; inset:0px 0px 499px }
+    <div .pointer-events-none.absolute.inset-x-0.bottom-0.z-10.h-px.bg-[#e1e1e1]> [0,6120,390,1]
+      { backgroundColor:rgb(225, 225, 225); width:390px; height:1px; display:block; position:absolute; top:499px; zIndex:10; inset:499px 0px 0px }
+    <div .overflow-hidden> [0,5621,390,500]
+      { width:390px; height:500px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden; WebkitMaskImage:linear-gradient(to right, rgba(0, 0, 0, 0) 0px, rgb(0, 0, 0) 3%, rgb(0, 0, 0) 97%, rgba(0, 0, 0, 0) 100%); maskImage:linear-gradient(to right, rgba(0, 0, 0, 0) 0px, rgb(0, 0, 0) 3%, rgb(0, 0, 0) 97%, rgba(0, 0, 0, 0) 100%) }
+      <div .flex.w-max.gap-4.will-change-transform.md:gap-6> [-3682,5621,7376,500]
+        { width:7376px; height:500px; display:flex; gap:16px; rowGap:16px; columnGap:16px; transform:matrix(1, 0, 0, 1, -3682.01, 0); willChange:transform }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [-3682,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [-3682,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [-3681,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [-3681,5622,318,278] @alt=Isaiah N. Granet @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=38 IMG /_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=384&q=75 nat320x302
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [-3681,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [-3665,5840,286,44] @href=https://bland.ai @aria-label=Visit Bland
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [-3665,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [-3665,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [-3677,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [-3665,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [-3665,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=3840&q=75&dpl IMG /_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=48&q=75 nat44x44
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [-3609,5840,159,42]
+                { width:158.5px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [-3609,5840,159,19] "Isaiah N. Granet"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:158.5px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [-3609,5866,159,17] "Co Founder CEO @ Bland"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:158.5px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [-3681,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [-3669,5961,294,101] "“ Working with some of the biggest companies in the world, they want us to have a lot of coverage because the risk is large. Corgi takes car"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:100.781px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [-3346,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [-3346,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [-3345,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [-3345,5622,318,278] @alt=Finn Mallery @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=384 IMG /_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=384&q=75 nat320x302
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [-3345,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [-3329,5840,286,44] @href=https://origamiagents.com @aria-label=Visit Origami
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [-3329,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [-3329,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [-3341,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [-3329,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [-3329,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=3840&q=75&dpl= IMG /_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=48&q=75 nat44x44
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [-3273,5840,139,42]
+                { width:139.078px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [-3273,5840,139,19] "Finn Mallery"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:139.078px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [-3273,5866,139,17] "Co-founder @ Origami"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:139.078px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [-3345,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [-3333,5977,294,67] "“ Getting insurance for our office spaces before used to mean days of emails, calls, and waiting on quotes. Corgi got us a quote and certifi"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:67.1875px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [-3010,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [-3010,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [-3009,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [-3009,5622,318,278] @alt=Andrew Yan @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [-3009,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [-2993,5840,286,44] @href=https://athenahq.ai @aria-label=Visit AthenaHQ
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [-2993,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [-2993,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [-3005,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [-2993,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [-2993,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [-2937,5840,111,42]
+                { width:110.516px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [-2937,5840,111,19] "Andrew Yan"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:110.516px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [-2937,5866,111,17] "CEO @ AthenaHQ"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:110.516px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [-3009,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [-2997,5986,294,50] "“ Being protected by Corgi enables us to focus on the business itself & helps us drive value for our customers like Coinbase, SoFi, and more"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:50.3906px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [-2674,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [-2674,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [-2673,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [-2673,5622,318,278] @alt=Josh Sirota @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [-2673,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [-2657,5840,286,44] @href=https://www.eragon.ai/ @aria-label=Visit Eragon
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [-2657,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [-2657,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [-2669,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [-2657,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [-2657,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=3840&q=75&dpl=d IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [-2601,5840,91,42]
+                { width:90.8438px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [-2601,5840,91,19] "Josh Sirota"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:90.8438px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [-2601,5866,91,17] "CEO @ Eragon"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:90.8438px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [-2673,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [-2661,5977,294,67] "“ The Corgi team, in a matter of minutes, took care of all the insurance requirements I needed in order to land our first 7-figure enterpris"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:67.1875px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [-2338,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [-2338,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [-2337,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [-2337,5622,318,278] @alt=Sean Hargrow @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [-2337,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [-2321,5840,286,44] @href=https://www.series.so/ @aria-label=Visit Series
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [-2321,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [-2321,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [-2333,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [-2321,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [-2321,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [-2265,5840,163,42]
+                { width:163.125px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [-2265,5840,163,19] "Sean Hargrow"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:163.125px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [-2265,5866,163,17] "Co Founder COO @ Series"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:163.125px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [-2337,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [-2325,5977,294,67] "“ Was procrastinating on getting insurance because of how tedious it seemed. Who knew you could get your business insured in 10 minutes. ”"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:67.1875px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [-2002,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [-2002,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [-2001,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [-2001,5622,318,278] @alt=Austin Tindle @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [-2001,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [-1985,5840,286,44] @href=https://sorcerer.earth/ @aria-label=Visit Sorcerer
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [-1985,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [-1985,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [-1997,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [-1985,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [-1985,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [-1929,5840,155,42]
+                { width:154.953px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [-1929,5840,155,19] "Austin Tindle"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:154.953px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [-1929,5866,155,17] "Founder CEO @ Sorcerer"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:154.953px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [-2001,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [-1989,5952,294,118] "“ We have hardware deployed all over the world and unique operational risks. Most brokers didn't really know what we were doing, but with Co"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:117.578px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [-1666,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [-1666,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [-1665,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [-1665,5622,318,278] @alt=Alex Marantelos @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [-1665,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [-1649,5840,286,44] @href=https://intryc.com @aria-label=Visit Intryc
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [-1649,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [-1649,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [-1661,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [-1649,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [-1649,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [-1593,5840,158,42]
+                { width:157.969px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [-1593,5840,158,19] "Alex Marantelos"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:157.969px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [-1593,5866,158,17] "Co Founder CEO @ Intryc"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:157.969px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [-1665,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [-1653,5961,294,101] "“ The minute I hit submit, documents come back to me, a Slack channel gets created, and the founding team messages me. It's beautiful. I wen"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:100.781px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [-1330,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [-1330,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [-1329,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [-1329,5622,318,278] @alt=Will Scrivener @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [-1329,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [-1313,5840,286,44] @href=https://hallway.com @aria-label=Visit Hallway.com
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [-1313,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [-1313,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [-1325,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [-1313,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [-1313,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [-1257,5840,125,42]
+                { width:124.891px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [-1257,5840,125,19] "Will Scrivener"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:124.891px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [-1257,5866,125,17] "CEO @ Hallway.com"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:124.891px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [-1329,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [-1317,5969,294,84] "“ Corgi took the guesswork out of buying insurance. Between a smooth, modern quoting experience and immediate access to the team, they let m"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:83.9844px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [-994,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [-994,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [-993,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [-993,5622,318,278] @alt=Penny Chen @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [-993,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [-977,5840,286,44] @href=https://www.paxai.com/ @aria-label=Visit Pax
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [-977,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [-977,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [-989,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [-977,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [-977,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [-921,5840,87,42]
+                { width:86.7031px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [-921,5840,87,19] "Penny Chen"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:86.7031px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [-921,5866,87,17] "CEO @ Pax"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:86.7031px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [-993,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [-981,5969,294,84] "“ We needed insurance to close a large customer contract. Corgi delivered a quote fast, with zero back-and-forth. We got our certificate of "
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:83.9844px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [-658,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [-658,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [-657,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [-657,5622,318,278] @alt=Sky Yang @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [-657,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [-641,5840,286,44] @href=https://www.imagineai.me/ @aria-label=Visit Imagine AI
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [-641,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [-641,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [-653,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [-641,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [-641,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [-585,5840,187,42]
+                { width:187.094px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [-585,5840,187,19] "Sky Yang"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:187.094px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [-585,5866,187,17] "Co-founder CEO @ Imagine AI"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:187.094px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [-657,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [-645,5986,294,50] "“ These guys are the best. Josh and Rhocar onboarded us in their office, and it was the fastest we've ever gotten insured. Bullish ”"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:50.3906px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [-322,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [-322,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [-321,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [-321,5622,318,278] @alt=Adit Jain @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [-321,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [-305,5840,286,44] @href=https://finnihealth.com @aria-label=Visit Finni Health
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [-305,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [-305,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [-317,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [-305,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [-305,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [-249,5840,182,42]
+                { width:181.625px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [-249,5840,182,19] "Adit Jain"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:181.625px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [-249,5866,182,17] "Vice President @ Finni Health"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:181.625px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [-321,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [-309,5977,294,67] "“ Kudos to the team for building that from the ground up - it's been very exciting to learn about y'all recently given the press. I look for"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:67.1875px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [14,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [14,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [15,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [15,5622,318,278] @alt=Isaiah N. Granet @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=38 IMG /_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=384&q=75 nat320x302
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [15,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [31,5840,286,44] @href=https://bland.ai @aria-label=Visit Bland
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [31,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [31,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [19,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [31,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [31,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=3840&q=75&dpl IMG /_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=48&q=75 nat44x44
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [87,5840,159,42]
+                { width:158.5px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [87,5840,159,19] "Isaiah N. Granet"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:158.5px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [87,5866,159,17] "Co Founder CEO @ Bland"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:158.5px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [15,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [27,5961,294,101] "“ Working with some of the biggest companies in the world, they want us to have a lot of coverage because the risk is large. Corgi takes car"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:100.781px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [350,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [350,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [351,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [351,5622,318,278] @alt=Finn Mallery @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=384 IMG /_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=384&q=75 nat320x302
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [351,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [367,5840,286,44] @href=https://origamiagents.com @aria-label=Visit Origami
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [367,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [367,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [355,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [367,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [367,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=3840&q=75&dpl= IMG /_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=48&q=75 nat44x44
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [423,5840,139,42]
+                { width:139.078px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [423,5840,139,19] "Finn Mallery"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:139.078px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [423,5866,139,17] "Co-founder @ Origami"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:139.078px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [351,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [363,5977,294,67] "“ Getting insurance for our office spaces before used to mean days of emails, calls, and waiting on quotes. Corgi got us a quote and certifi"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:67.1875px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [686,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [686,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [687,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [687,5622,318,278] @alt=Andrew Yan @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [687,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [703,5840,286,44] @href=https://athenahq.ai @aria-label=Visit AthenaHQ
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [703,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [703,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [691,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [703,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [703,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [759,5840,111,42]
+                { width:110.516px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [759,5840,111,19] "Andrew Yan"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:110.516px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [759,5866,111,17] "CEO @ AthenaHQ"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:110.516px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [687,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [699,5986,294,50] "“ Being protected by Corgi enables us to focus on the business itself & helps us drive value for our customers like Coinbase, SoFi, and more"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:50.3906px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [1022,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [1022,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [1023,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [1023,5622,318,278] @alt=Josh Sirota @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [1023,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [1039,5840,286,44] @href=https://www.eragon.ai/ @aria-label=Visit Eragon
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [1039,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [1039,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [1027,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [1039,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [1039,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=3840&q=75&dpl=d IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [1095,5840,91,42]
+                { width:90.8438px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [1095,5840,91,19] "Josh Sirota"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:90.8438px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [1095,5866,91,17] "CEO @ Eragon"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:90.8438px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [1023,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [1035,5977,294,67] "“ The Corgi team, in a matter of minutes, took care of all the insurance requirements I needed in order to land our first 7-figure enterpris"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:67.1875px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [1358,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [1358,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [1359,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [1359,5622,318,278] @alt=Sean Hargrow @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [1359,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [1375,5840,286,44] @href=https://www.series.so/ @aria-label=Visit Series
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [1375,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [1375,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [1363,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [1375,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [1375,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [1431,5840,163,42]
+                { width:163.125px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [1431,5840,163,19] "Sean Hargrow"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:163.125px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [1431,5866,163,17] "Co Founder COO @ Series"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:163.125px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [1359,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [1371,5977,294,67] "“ Was procrastinating on getting insurance because of how tedious it seemed. Who knew you could get your business insured in 10 minutes. ”"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:67.1875px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [1694,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [1694,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [1695,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [1695,5622,318,278] @alt=Austin Tindle @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [1695,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [1711,5840,286,44] @href=https://sorcerer.earth/ @aria-label=Visit Sorcerer
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [1711,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [1711,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [1699,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [1711,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [1711,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [1767,5840,155,42]
+                { width:154.953px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [1767,5840,155,19] "Austin Tindle"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:154.953px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [1767,5866,155,17] "Founder CEO @ Sorcerer"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:154.953px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [1695,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [1707,5952,294,118] "“ We have hardware deployed all over the world and unique operational risks. Most brokers didn't really know what we were doing, but with Co"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:117.578px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [2030,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [2030,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [2031,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [2031,5622,318,278] @alt=Alex Marantelos @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [2031,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [2047,5840,286,44] @href=https://intryc.com @aria-label=Visit Intryc
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [2047,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [2047,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [2035,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [2047,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [2047,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [2103,5840,158,42]
+                { width:157.969px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [2103,5840,158,19] "Alex Marantelos"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:157.969px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [2103,5866,158,17] "Co Founder CEO @ Intryc"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:157.969px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [2031,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [2043,5961,294,101] "“ The minute I hit submit, documents come back to me, a Slack channel gets created, and the founding team messages me. It's beautiful. I wen"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:100.781px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [2366,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [2366,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [2367,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [2367,5622,318,278] @alt=Will Scrivener @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [2367,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [2383,5840,286,44] @href=https://hallway.com @aria-label=Visit Hallway.com
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [2383,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [2383,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [2371,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [2383,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [2383,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [2439,5840,125,42]
+                { width:124.891px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [2439,5840,125,19] "Will Scrivener"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:124.891px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [2439,5866,125,17] "CEO @ Hallway.com"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:124.891px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [2367,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [2379,5969,294,84] "“ Corgi took the guesswork out of buying insurance. Between a smooth, modern quoting experience and immediate access to the team, they let m"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:83.9844px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [2702,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [2702,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [2703,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [2703,5622,318,278] @alt=Penny Chen @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [2703,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [2719,5840,286,44] @href=https://www.paxai.com/ @aria-label=Visit Pax
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [2719,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [2719,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [2707,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [2719,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [2719,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [2775,5840,87,42]
+                { width:86.7031px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [2775,5840,87,19] "Penny Chen"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:86.7031px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [2775,5866,87,17] "CEO @ Pax"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:86.7031px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [2703,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [2715,5969,294,84] "“ We needed insurance to close a large customer contract. Corgi delivered a quote fast, with zero back-and-forth. We got our certificate of "
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:83.9844px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [3038,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [3038,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [3039,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [3039,5622,318,278] @alt=Sky Yang @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [3039,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [3055,5840,286,44] @href=https://www.imagineai.me/ @aria-label=Visit Imagine AI
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [3055,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [3055,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [3043,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [3055,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [3055,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [3111,5840,187,42]
+                { width:187.094px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [3111,5840,187,19] "Sky Yang"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:187.094px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [3111,5866,187,17] "Co-founder CEO @ Imagine AI"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:187.094px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [3039,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [3051,5986,294,50] "“ These guys are the best. Josh and Rhocar onboarded us in their office, and it was the fastest we've ever gotten insured. Bullish ”"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:50.3906px; display:block }
+        <article .flex.h-[500px].w-[320px].shrink-0.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white> [3374,5621,320,500]
+          { backgroundColor:rgb(255, 255, 255); width:320px; height:500px; display:flex; flexDirection:column; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:clip; overflowX:clip; overflowY:clip }
+          <div .relative.-mx-px.-mt-px.flex.h-[280px].shrink-0.flex-col.justify-end.overflow-clip.rounded-[24px]> [3374,5621,320,280]
+            { padding:16px; margin:-1px -1px 0px; width:320px; height:280px; display:flex; flexDirection:column; justifyContent:flex-end; flex:0 0 auto; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; transition:transform 0.3s cubic-bezier(0, 0, 0.2, 1), translate 0.3s cubic-bezier(0, 0, 0.2, 1), scale 0.3s cubic-bezier(; overflow:clip; overflowX:clip; overflowY:clip }
+            <div .absolute.inset-0.bg-[#191919]> [3375,5622,318,278]
+              { backgroundColor:rgb(25, 25, 25); width:318px; height:278px; display:block; position:absolute }
+            <img .absolute.inset-0.object-cover.object-top> [3375,5622,318,278] @alt=Adit Jain @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=384 IMG  nat0x0
+              { width:318px; height:278px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+            <div .absolute.inset-0> [3375,5622,318,278]
+              { backgroundImage:linear-gradient(200.64deg, rgba(255, 255, 255, 0) 49.9%, rgba(255, 255, 255, 0.725) 70.5%, rgb(255, 255, 255) ; width:318px; height:278px; display:block; position:absolute }
+            <a .group/link.relative.flex.items-start.gap-3> [3391,5840,286,44] @href=https://finnihealth.com @aria-label=Visit Finni Health
+              { width:286px; height:44px; display:flex; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative; cursor:pointer }
+              <div .flex.items-center.rounded-[12px].[transition-property:background-color,box-shadow].[transition-duration:0ms,300ms].[transition-delay:300ms,0ms].group-hover/link:bg-[#f6f6f6].group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)].group-hover/link:[transition-delay:0ms,0ms].group-hover/link:[transitio> [3391,5840,44,44]
+                { width:44px; height:44px; display:flex; alignItems:center; borderRadius:12px; transition:background-color 0s 0.3s, box-shadow 0.3s }
+                <div .flex.w-0.items-center.justify-center.overflow-hidden.transition-[width,padding].duration-300.ease-out.group-hover/link:w-[42px].group-hover/link:pl-[10px]> [3391,5850,0,24]
+                  { height:24px; display:flex; justifyContent:center; alignItems:center; transition:width 0.3s cubic-bezier(0, 0, 0.2, 1), padding 0.3s cubic-bezier(0, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <span .size-6.shrink-0.text-[#191919]> [3379,5850,24,24] "north_east"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(25, 25, 25); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                <div .relative.size-11.shrink-0.overflow-hidden.rounded-[12px].shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]> [3391,5840,44,44]
+                  { width:44px; height:44px; display:block; flex:0 0 auto; borderRadius:12px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                  <img .object-cover> [3391,5840,44,44] @alt= @src=/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=3840&q=75&dpl= IMG  nat0x0
+                    { width:44px; height:44px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+              <div .flex.flex-col.gap-1.5.whitespace-nowrap> [3447,5840,182,42]
+                { width:181.625px; height:41.9844px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+                <span .text-[16px].font-medium.leading-[1.2].tracking-[-0.24px].text-[#1d1d1d]> [3447,5840,182,19] "Adit Jain"
+                  { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:181.625px; height:19.1875px; display:block }
+                <span .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4e4e4e]> [3447,5866,182,17] "Vice President @ Finni Health"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:181.625px; height:16.7969px; display:block }
+          <div .flex.flex-1.items-center.p-3.md:p-5> [3375,5901,318,219]
+            { padding:12px; width:318px; height:219px; display:flex; alignItems:center; flex:1 1 0% }
+            <p .text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a].md:text-[16px].md:tracking-[-0.24px]> [3387,5977,294,67] "“ Kudos to the team for building that from the ground up - it's been very exciting to learn about y'all recently given the press. I look for"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:294px; height:67.1875px; display:block }
+  <div .relative.h-0> [0,6121,390,0]
+    { width:390px; display:block; position:relative }
+    <div .pointer-events-none.absolute.top-0.left-[max(16px,calc((100%-1600px)/2))].w-px.bg-[#e1e1e1].md:left-[max(24px,calc((100%-1600px)/2))].lg:left-[max(64px,calc((100%-1600px)/2))]> [16,6121,1,844]
+      { backgroundColor:rgb(225, 225, 225); width:1px; height:844px; display:block; position:absolute; left:16px; right:373px; bottom:-844px; inset:0px 373px -844px 16px }
+    <div .pointer-events-none.absolute.top-0.right-[max(16px,calc((100%-1600px)/2))].w-px.bg-[#e1e1e1].md:right-[max(24px,calc((100%-1600px)/2))].lg:right-[max(64px,calc((100%-1600px)/2))]> [373,6121,1,844]
+      { backgroundColor:rgb(225, 225, 225); width:1px; height:844px; display:block; position:absolute; left:373px; right:16px; bottom:-844px; inset:0px 16px -844px 373px }

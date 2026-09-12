@@ -1,0 +1,96 @@
+<section .relative.border-[#e1e1e1].border-b.bg-background> [0,1480,768,285]
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(29, 29, 29); backgroundColor:rgb(246, 246, 246); width:768px; height:285px; display:block; borderBottom:1px solid rgb(225, 225, 225); position:relative }
+  <div .pointer-events-none.absolute.inset-y-0.left-[max(16px,calc((100vw-1200px)/2))].w-px.bg-[#e1e1e1].md:left-[max(24px,calc((100vw-1200px)/2))].lg:left-[max(64px,calc((100vw-1200px)/2))]> [24,1480,1,284]
+    { backgroundColor:rgb(225, 225, 225); width:1px; height:284px; display:block; position:absolute; left:24px; right:743px; inset:0px 743px 0px 24px }
+  <div .pointer-events-none.absolute.inset-y-0.right-[max(16px,calc((100vw-1200px)/2))].w-px.bg-[#e1e1e1].md:right-[max(24px,calc((100vw-1200px)/2))].lg:right-[max(64px,calc((100vw-1200px)/2))]> [743,1480,1,284]
+    { backgroundColor:rgb(225, 225, 225); width:1px; height:284px; display:block; position:absolute; left:743px; right:24px; inset:0px 24px 0px 743px }
+  <div .overflow-hidden> [0,1480,768,144]
+    { width:768px; height:144px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .flex.justify-center.px-4.pt-16.pb-8.md:px-6.lg:px-16> [0,1480,768,144]
+      { padding:64px 24px 32px; width:768px; height:144px; display:flex; justifyContent:center }
+      <div .relative.size-12.shrink-0.overflow-hidden.rounded-[11.52px].shadow-[0_0_3.84px_0_rgba(29,29,29,0.25)]> [360,1544,48,48]
+        { width:48px; height:48px; display:block; flex:0 0 auto; borderRadius:11.52px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; filter:blur(0px); overflow:hidden; overflowX:hidden; overflowY:hidden; willChange:transform, opacity, filter }
+        <img .object-cover> [360,1544,48,48] @alt=Intryc @src=/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=3840&q=75&d IMG /_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=48&q=75 nat48x48
+          { width:48px; height:48px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+  <div .overflow-hidden> [0,1624,768,140]
+    { width:768px; height:140px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .flex.justify-center.px-8.pb-8.md:px-6.lg:px-16> [0,1624,768,140]
+      { padding:0px 24px 32px; width:768px; height:140px; display:flex; justifyContent:center }
+      <p .max-w-[1100px].text-center.font-medium.font-mono.text-[28px].text-black.leading-none.tracking-[-0.896px].md:text-[36px].md:tracking-[-1.152px]> [24,1624,720,108]
+        { fontSize:36px; fontWeight:500; fontFamily:f37Bolton; lineHeight:36px; letterSpacing:-1.152px; color:rgb(0, 0, 0); textAlign:center; width:720px; height:108px; maxWidth:1100px; display:block }
+        <span .sr-only> [61,1623,1,1] "“The minute I hit submit, documents come back, a Slack channel gets created, and the founding team messages me. It’s beautiful.”"
+          { margin:-1px; width:1px; height:1px; display:block; position:absolute; top:144px; left:62.0469px; right:706.953px; bottom:141px; overflow:hidden; overflowX:hidden; overflowY:hidden; clipPath:inset(50%) }
+        <span> [54,1619,659,117]
+          { display:inline }
+          <span .inline-block> [62,1624,72,36] "“The"
+            { width:71.6094px; height:36px; display:inline-block; opacity:0.983973; filter:blur(0.128213px); willChange:transform, opacity, filter }
+          <span .inline-block> [141,1624,107,36] "minute"
+            { width:107.188px; height:36px; display:inline-block; opacity:0.982445; filter:blur(0.140441px); willChange:transform, opacity, filter }
+          <span .inline-block> [255,1624,10,36] "I"
+            { width:9.76562px; height:36px; display:inline-block; opacity:0.980747; filter:blur(0.154023px); willChange:transform, opacity, filter }
+          <span .inline-block> [272,1624,39,36] "hit"
+            { width:39.4219px; height:36px; display:inline-block; opacity:0.978813; filter:blur(0.169499px); willChange:transform, opacity, filter }
+          <span .inline-block> [319,1624,113,36] "submit,"
+            { width:113.016px; height:36px; display:inline-block; opacity:0.976836; filter:blur(0.185315px); willChange:transform, opacity, filter }
+          <span .inline-block> [439,1624,173,36] "documents"
+            { width:173.484px; height:36px; display:inline-block; opacity:0.974534; filter:blur(0.203732px); willChange:transform, opacity, filter }
+          <span .inline-block> [620,1624,86,36] "come"
+            { width:86.375px; height:36px; display:inline-block; opacity:0.972089; filter:blur(0.223289px); willChange:transform, opacity, filter }
+          <span .inline-block> [55,1660,83,36] "back,"
+            { width:82.6562px; height:36px; display:inline-block; opacity:0.969307; filter:blur(0.24554px); willChange:transform, opacity, filter }
+          <span .inline-block> [145,1660,18,36] "a"
+            { width:18.4688px; height:36px; display:inline-block; opacity:0.966389; filter:blur(0.268885px); willChange:transform, opacity, filter }
+          <span .inline-block> [170,1661,85,36] "Slack"
+            { width:85.0781px; height:36px; display:inline-block; opacity:0.963134; transform:matrix(1, 0, 0, 1, 0, 0.515522); filter:blur(0.294924px); willChange:transform, opacity, filter }
+          <span .inline-block> [262,1661,122,36] "channel"
+            { width:122.484px; height:36px; display:inline-block; opacity:0.959511; transform:matrix(1, 0, 0, 1, 0, 0.565646); filter:blur(0.323915px); willChange:transform, opacity, filter }
+          <span .inline-block> [392,1661,67,36] "gets"
+            { width:66.75px; height:36px; display:inline-block; opacity:0.955546; transform:matrix(1, 0, 0, 1, 0, 0.620643); filter:blur(0.355636px); willChange:transform, opacity, filter }
+          <span .inline-block> [466,1661,125,36] "created,"
+            { width:124.781px; height:36px; display:inline-block; opacity:0.951244; transform:matrix(1, 0, 0, 1, 0, 0.680987); filter:blur(0.39005px); willChange:transform, opacity, filter }
+          <span .inline-block> [598,1661,58,36] "and"
+            { width:57.75px; height:36px; display:inline-block; opacity:0.946534; transform:matrix(1, 0, 0, 1, 0, 0.747198); filter:blur(0.427729px); willChange:transform, opacity, filter }
+          <span .inline-block> [663,1661,50,36] "the"
+            { width:50.3281px; height:36px; display:inline-block; opacity:0.941351; transform:matrix(1, 0, 0, 1, 0, 0.819846); filter:blur(0.469195px); willChange:transform, opacity, filter }
+          <span .inline-block> [54,1697,136,36] "founding"
+            { width:136.297px; height:36px; display:inline-block; opacity:0.935578; transform:matrix(1, 0, 0, 1, 0, 0.899556); filter:blur(0.515375px); willChange:transform, opacity, filter }
+          <span .inline-block> [198,1697,79,36] "team"
+            { width:79.0938px; height:36px; display:inline-block; opacity:0.929311; transform:matrix(1, 0, 0, 1, 0, 0.987015); filter:blur(0.565511px); willChange:transform, opacity, filter }
+          <span .inline-block> [284,1697,155,36] "messages"
+            { width:155.172px; height:36px; display:inline-block; opacity:0.922426; transform:matrix(1, 0, 0, 1, 0, 1.08297); filter:blur(0.620592px); willChange:transform, opacity, filter }
+          <span .inline-block> [446,1697,56,36] "me."
+            { width:56.0312px; height:36px; display:inline-block; opacity:0.914931; transform:matrix(1, 0, 0, 1, 0, 1.18826); filter:blur(0.680555px); willChange:transform, opacity, filter }
+          <span .inline-block> [510,1697,45,36] "It’s"
+            { width:45px; height:36px; display:inline-block; opacity:0.906625; transform:matrix(1, 0, 0, 1, 0, 1.30378); filter:blur(0.746999px); willChange:transform, opacity, filter }
+          <span .inline-block> [562,1697,152,36] "beautiful.”"
+            { width:152px; height:36px; display:inline-block; opacity:0.89761; transform:matrix(1, 0, 0, 1, 0, 1.43052); filter:blur(0.819124px); willChange:transform, opacity, filter }
+  <div .overflow-hidden> [0,1764,768,0]
+    { width:768px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .flex.justify-center.px-4.pt-4.pb-16.md:px-6.lg:px-16> [0,1764,768,228]
+      { padding:16px 24px 64px; width:768px; height:228.188px; display:flex; justifyContent:center }
+      <div .flex.flex-col.overflow-hidden.rounded-[24px].border.border-[#e1e1e1].bg-white.shadow-[0_0_16px_0_rgba(25,25,25,0.05)]> [248,1796,271,148]
+        { backgroundColor:rgb(255, 255, 255); width:271.266px; height:148.188px; display:flex; flexDirection:column; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; opacity:0; transform:matrix(1, 0, 0, 1, 0, 16); filter:blur(8px); overflow:hidden; overflowX:hidden; overflowY:hidden; willChange:transform, opacity, filter }
+        <div .-mt-px.-mx-px.flex.items-stretch.overflow-hidden.rounded-[24px].border.border-[#e1e1e1].bg-white.shadow-[0_0_16px_0_rgba(25,25,25,0.3)]> [248,1796,271,82]
+          { backgroundColor:rgb(255, 255, 255); margin:-1px -1px 0px; width:271.266px; height:82px; display:flex; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; overflow:hidden; overflowX:hidden; overflowY:hidden }
+          <div .flex.items-center.self-stretch> [249,1797,80,80]
+            { width:80px; height:80px; display:flex; alignItems:center }
+            <div .relative.h-20.w-20.shrink-0.overflow-hidden.rounded-[24px]> [249,1797,80,80]
+              { width:80px; height:80px; display:block; flex:0 0 auto; borderRadius:24px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <div .absolute.inset-0.bg-[#191919]> [249,1797,80,80]
+                { backgroundColor:rgb(25, 25, 25); width:80px; height:80px; display:block; position:absolute }
+              <img .absolute.inset-0.object-cover.object-top> [249,1797,80,80] @alt=Alex Marantelos @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=384 IMG /_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=96&q=75 nat80x75
+                { width:80px; height:80px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+          <div .flex.shrink-0.flex-col.items-start.overflow-hidden.p-4> [329,1797,189,80]
+            { padding:16px; width:189.266px; height:80px; display:flex; flexDirection:column; alignItems:flex-start; flex:0 0 auto; overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <div .flex.h-11.flex-col.gap-1.5.whitespace-nowrap> [345,1813,157,44]
+              { width:157.266px; height:44px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+              <span .font-medium.text-[#1d1d1d].text-[16px].leading-[1.2].tracking-[-0.24px]> [345,1813,157,19] "Alex Marantelos"
+                { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:157.266px; height:19.1875px; display:block }
+              <span .font-normal.text-[#4e4e4e].text-[14px].leading-[1.2].tracking-[-0.21px]> [345,1838,157,17] "Co-founder CEO @ Intryc"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:157.266px; height:16.7969px; display:block }
+        <div .flex.w-full.flex-col.items-start.p-3> [249,1878,269,65]
+          { padding:12px; width:269.266px; height:65.1875px; display:flex; flexDirection:column; alignItems:flex-start }
+          <div .pressable-button.pressable-smooth-corner.bg-[#e1e1e1].w-full> [261,1890,245,41]
+            { backgroundColor:rgb(225, 225, 225); padding:0px 0px 4px; width:245.266px; height:41.1875px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+            <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-[#e1e1e1].bg-white.hover:bg-gray-50.active:bg-[#ededed].px-4> [261,1890,245,37] "Read Intryc case study" @href=/customers/intryc
+              { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(25, 25, 25); backgroundColor:rgb(255, 255, 255); padding:8px 16px; width:245.266px; height:37.1875px; display:flex; justifyContent:center; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:16px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); cursor:pointer }

@@ -1,0 +1,443 @@
+{
+ "interactive": [
+  {
+   "tag": "IMG",
+   "cls": "object-cover",
+   "rect": [
+    0,
+    0,
+    1440,
+    900
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 h-full w-full max-w-none object-cover",
+   "rect": [
+    929,
+    123,
+    364,
+    344
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 h-full w-full max-w-none object-cover",
+   "rect": [
+    929,
+    123,
+    364,
+    344
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 h-full w-full max-w-none object-cover",
+   "rect": [
+    929,
+    123,
+    364,
+    344
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "A",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hover:bg-[#ff7d33] active:bg-[#ff9d66] px-4 py-2 btn-text-small ",
+   "rect": [
+    644,
+    578,
+    152,
+    37
+   ],
+   "cursor": "pointer",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "Get insured now",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 h-full w-full max-w-none object-cover",
+   "rect": [
+    231,
+    530,
+    318,
+    241
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 h-full w-full max-w-none object-cover",
+   "rect": [
+    231,
+    530,
+    318,
+    241
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 h-full w-full max-w-none object-cover",
+   "rect": [
+    231,
+    530,
+    318,
+    241
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "DIV",
+   "cls": "logo-carousel-track flex w-max items-center gap-20",
+   "rect": [
+    -99,
+    844,
+    9860,
+    32
+   ],
+   "cursor": "auto",
+   "anim": "60s linear infinite logo-scroll",
+   "ce": false,
+   "draggable": false,
+   "text": "",
+   "transform": "matrix(1, 0, 0, 1, -98.597, 0)",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    -99,
+    851,
+    192,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    173,
+    850,
+    108,
+    20
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    361,
+    848,
+    91,
+    24
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    532,
+    847,
+    79,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    691,
+    847,
+    78,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    849,
+    849,
+    91,
+    23
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    1020,
+    846,
+    73,
+    28
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    1173,
+    849,
+    99,
+    22
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    1352,
+    848,
+    113,
+    24
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    1545,
+    847,
+    79,
+    27
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    1704,
+    851,
+    148,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    1932,
+    844,
+    48,
+    32
+   ],
+   "cursor": "auto",
+   "anim": "none",
+   "ce": false,
+   "draggable": true,
+   "text": "",
+   "transform": "none",
+   "transition": "all",
+   "touchAction": "auto",
+   "userSelect": "auto",
+   "willChange": "auto"
+  },
+  {
+   "tag": "IMG",
+   "cls": "h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain md:h-[var(--logo-height)] md:w-[var(--logo-width)] grayscale",
+   "rect": [
+    2060,
+    851,
+    94,
+    18
+   ],
+   "cursor": "auto",
+   "anim": "none",
+  
+HOVER CORGI tooltips [{"text":"text_fields\nTry me!","rect":{"x":0,"y":-22.390625,"width":0,"height":22.390625,"top":-22.390625,"right":0,"bottom":0,"left":0},"opacity":"1","transform":"matrix(1, 0, 0, 1, 0, -22.3906)","width":"0px"},{"text":"Draggable!","rect":{"x":0,"y":-22.390625,"width":0,"height":22.390625,"top":-22.390625,"right":0,"bottom":0,"left":0},"opacity":"1","transform":"matrix(1, 0, 0, 1, 0, -22.3906)","width":"0px"},{"text":"pan_tool\nFlick me!","rect":{"x":0,"y":-22.390625,"width":0,"height":22.390625,"top":-22.390625,"right":0,"bottom":0,"left":0},"opacity":"1","transform":"matrix(1, 0, 0, 1, 0, -22.3906)","width":"0px"}]
+HOVER HAND tooltips [{"text":"text_fields\nTry me!","rect":{"x":0,"y":-22.390625,"width":0,"height":22.390625,"top":-22.390625,"right":0,"bottom":0,"left":0},"opacity":"1"},{"text":"Draggable!","rect":{"x":0,"y":-22.390625,"width":0,"height":22.390625,"top":-22.390625,"right":0,"bottom":0,"left":0},"opacity":"1"},{"text":"pan_tool\nFlick me!","rect":{"x":0,"y":-22.390625,"width":0,"height":22.390625,"top":-22.390625,"right":0,"bottom":0,"left":0},"opacity":"1"}]
+HOVER H1 tooltips [{"text":"text_fields\nTry me!","rect":{"x":0,"y":-22.390625,"width":0,"height":22.390625,"top":-22.390625,"right":0,"bottom":0,"left":0},"opacity":"1"},{"text":"Draggable!","rect":{"x":0,"y":-22.390625,"width":0,"height":22.390625,"top":-22.390625,"right":0,"bottom":0,"left":0},"opacity":"1"},{"text":"pan_tool\nFlick me!","rect":{"x":0,"y":-22.390625,"width":0,"height":22.390625,"top":-22.390625,"right":0,"bottom":0,"left":0},"opacity":"1"}]
+DURING DRAG [{"tag":"IMG","cls":"absolute inset-0 h-full w-full max-w-none object-cover","transform":"none","translate":"none","rotate":"none","left":"0px","top":"0px","transition":"all"},{"tag":"DIV","cls":"relative h-full w-full","transform":"none","translate":"none","rotate":"none","left":"0px","top":"0px","transition":"all"},{"tag":"DIV","cls":"aspect-[299/269] w-[200px] md:w-[280px] lg:w-[299px]","transform":"none","translate":"none","rotate":"none","left":"auto","top":"auto","transition":"all"},{"tag":"DIV","cls":"-rotate-[16.78deg]","transform":"none","translate":"none","rotate":"-16.78deg","left":"auto","top":"auto","transition":"all"},{"tag":"DIV","cls":"pointer-events-none absolute right-[-40px] top-[-100px] z-10 md:right-[-72px] md:top-[-112px] lg:right-[-108px] lg:top-[","transform":"none","translate":"none","rotate":"none","left":"674.625px","top":"-136px","transition":"all"},{"tag":"DIV","cls":"relative w-full md:w-auto","transform":"none","translate":"none","rotate":"none","left":"0px","top":"0px","transition":"all"},{"tag":"DIV","cls":"relative flex flex-1 items-center w-full md:w-auto","transform":"none","translate":"none","rotate":"none","left":"0px","top":"0px","transition":"all"}]
+AFTER DRAG [{"tag":"IMG","transform":"none","translate":"none","left":"0px","top":"0px"},{"tag":"DIV","transform":"none","translate":"none","left":"0px","top":"0px"},{"tag":"DIV","transform":"none","translate":"none","left":"auto","top":"auto"},{"tag":"DIV","transform":"none","translate":"none","left":"auto","top":"auto"},{"tag":"DIV","transform":"none","translate":"none","left":"674.625px","top":"-136px"},{"tag":"DIV","transform":"none","translate":"none","left":"0px","top":"0px"},{"tag":"DIV","transform":"none","translate":"none","left":"0px","top":"0px"}]
+AFTER CLICK H1 active: {"tag":"BODY","cls":"georgia_32bc44a9-module__MKCPpa__variable geist_2a3e8324-module__XMOeAq__variable f37bolton_c9a7a17e-module__dlKLXG__variable flex min-h-screen flex-c","ce":false,"text":"Skip to main content\nAnnouncing our $106M Fundraise at a $2.6B Valuation | Serie"}
+H1 text after typing: Business Insurance
+at the Speed of Compute.
+CTA {"b1":{"bg":"rgb(255, 92, 0)","parentBg":"rgb(204, 74, 0)","parentPad":"0px 0px 4px","cls":"pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hover:bg-[#ff7d33] active:bg-[#ff9d66] px-4 py-2 btn-text-small text-white","pcls":"pressable-button pressable-smooth-corner bg-[#cc4a00] relative z-10 w-fit"},"b2":{"bg":"rgb(255, 125, 51)","parentPad":"0px 0px 4px"},"b3":{"bg":"rgb(255, 157, 102)","parentPad":"0px","parentMargin":"4px 0px 0px","transform":"none","translate":"none"}}

@@ -1,0 +1,138 @@
+<section .relative.border-b.border-[#e1e1e1].bg-[#f6f6f6].px-4.py-16.md:px-6.md:py-20.lg:px-16> [0,9621,390,724]
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(29, 29, 29); backgroundColor:rgb(246, 246, 246); padding:64px 16px; width:390px; height:723.672px; display:block; borderBottom:1px solid rgb(225, 225, 225); position:relative }
+  <div .pointer-events-none.absolute.top-0.bottom-0.left-[max(16px,calc((100%-800px)/2))].w-px.bg-[#e1e1e1].md:left-[max(24px,calc((100%-800px)/2))].lg:left-[max(64px,calc((100%-800px)/2))]> [16,9621,1,723]
+    { backgroundColor:rgb(225, 225, 225); width:1px; height:722.672px; display:block; position:absolute; left:16px; right:373px; inset:0px 373px 0px 16px }
+  <div .pointer-events-none.absolute.top-0.bottom-0.right-[max(16px,calc((100%-800px)/2))].w-px.bg-[#e1e1e1].md:right-[max(24px,calc((100%-800px)/2))].lg:right-[max(64px,calc((100%-800px)/2))]> [373,9621,1,723]
+    { backgroundColor:rgb(225, 225, 225); width:1px; height:722.672px; display:block; position:absolute; left:373px; right:16px; inset:0px 16px 0px 373px }
+  <div .relative.mx-auto.flex.w-full.max-w-[800px].flex-col.items-center.gap-6> [16,9685,358,595]
+    { width:358px; height:594.672px; maxWidth:800px; display:flex; flexDirection:column; alignItems:center; gap:24px; rowGap:24px; columnGap:24px; position:relative }
+    <h2 .px-6.text-center.font-medium.font-mono.text-[#191919]> [145,9685,101,28] "FAQ"
+      { fontSize:28px; fontWeight:500; fontFamily:f37Bolton; lineHeight:28px; letterSpacing:-0.896px; color:rgb(25, 25, 25); textAlign:center; padding:0px 24px; width:100.844px; height:28px; display:block }
+    <div .relative.w-full> [16,9737,358,543]
+      { width:358px; height:542.672px; display:block; position:relative }
+      <div .pointer-events-none.absolute.top-0.left-1/2.h-px.w-screen.-translate-x-1/2.bg-[#e1e1e1]> [0,9737,390,1]
+        { backgroundColor:rgb(225, 225, 225); width:390px; height:1px; display:block; position:absolute; left:179px; right:-211px; bottom:541.672px; inset:0px -211px 541.672px 179px; translate:-50% }
+      <div .pointer-events-none.absolute.bottom-0.left-1/2.h-px.w-screen.-translate-x-1/2.bg-[#e1e1e1]> [0,10278,390,1]
+        { backgroundColor:rgb(225, 225, 225); width:390px; height:1px; display:block; position:absolute; top:541.672px; left:179px; right:-211px; translate:-50% }
+      <div .relative.w-full.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white.shadow-[0_0_24px_0_rgba(25,25,25,0.05)]> [16,9737,358,543]
+        { backgroundColor:rgb(255, 255, 255); width:358px; height:542.672px; display:block; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:clip; overflowX:clip; overflowY:clip }
+        <div .relative.-m-px.flex.flex-col.justify-center.gap-4.overflow-clip.rounded-[24px].bg-[#f6f6f6].p-6> [16,9737,358,486]
+          { backgroundColor:rgb(246, 246, 246); padding:24px; margin:-1px; width:358px; height:485.875px; display:flex; flexDirection:column; justifyContent:center; gap:16px; rowGap:16px; columnGap:16px; borderRadius:24px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:clip; overflowX:clip; overflowY:clip }
+          <div .flex.flex-col> [40,9761,310,38]
+            { width:310px; height:38.375px; display:flex; flexDirection:column }
+            <button .flex.min-h-[24px].w-full.items-center.justify-between.gap-4.text-left> [40,9761,310,38] @aria-expanded=false
+              { textAlign:left; width:310px; height:38.375px; minHeight:24px; display:flex; justifyContent:space-between; alignItems:center; gap:16px; rowGap:16px; columnGap:16px; cursor:pointer }
+              <span .font-bold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#4a4a4a]> [40,9761,278,38] "How much does startup insurance cost?"
+                { fontWeight:700; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(74, 74, 74); width:278px; height:38.375px; display:block }
+              <span .size-4.shrink-0.text-[#4a4a4a].transition-transform.duration-500.ease-[cubic-bezier(0.22,1,0.36,1)].> [334,9772,16,16] "keyboard_arrow_down"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), translate 0.5s cubic-bezier(0.22, 1, 0.36, 1), scale 0.5s cubic; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .overflow-hidden.transition-[height,margin-top].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,9799,310,0]
+              { width:310px; display:block; transition:height 0.5s cubic-bezier(0.22, 1, 0.36, 1), margin-top 0.5s cubic-bezier(0.22, 1, 0.36, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <div .text-body.text-[#4a4a4a].transition-[transform,opacity,filter].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,9791,310,118] "Cost depends on your stage, industry, limits, state, and the policies you pick. Eligible pre-seed and seed startups often pay $2,000 to $5,0"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:310px; height:117.578px; display:block; opacity:0; transform:matrix(1, 0, 0, 1, 0, -8); transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.5s cubic-bezier(0.22, 1, 0.36, 1), filter 0.5s cubic-; filter:blur(2px) }
+                <a .underline> [129,9874,195,18] "startup insurance cost by stage" @href=/blog/startup-insurance-cost-by-stage
+                  { textDecoration:underline; display:inline; cursor:pointer }
+          <div .h-px.w-full.bg-[#e1e1e1]> [40,9815,310,1]
+            { backgroundColor:rgb(225, 225, 225); width:310px; height:1px; display:block }
+          <div .flex.flex-col> [40,9832,310,24]
+            { width:310px; height:24px; display:flex; flexDirection:column }
+            <button .flex.min-h-[24px].w-full.items-center.justify-between.gap-4.text-left> [40,9832,310,24] @aria-expanded=false
+              { textAlign:left; width:310px; height:24px; minHeight:24px; display:flex; justifyContent:space-between; alignItems:center; gap:16px; rowGap:16px; columnGap:16px; cursor:pointer }
+              <span .font-bold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#4a4a4a]> [40,9834,276,19] "How fast can I actually get covered?"
+                { fontWeight:700; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(74, 74, 74); width:275.531px; height:19.1875px; display:block }
+              <span .size-4.shrink-0.text-[#4a4a4a].transition-transform.duration-500.ease-[cubic-bezier(0.22,1,0.36,1)].> [334,9836,16,16] "keyboard_arrow_down"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), translate 0.5s cubic-bezier(0.22, 1, 0.36, 1), scale 0.5s cubic; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .overflow-hidden.transition-[height,margin-top].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,9856,310,0]
+              { width:310px; display:block; transition:height 0.5s cubic-bezier(0.22, 1, 0.36, 1), margin-top 0.5s cubic-bezier(0.22, 1, 0.36, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <div .text-body.text-[#4a4a4a].transition-[transform,opacity,filter].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,9848,310,67] "Most founders complete the Corgi application in under five minutes and get covered the same day. No broker back-and-forth, no waiting on ema"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:310px; height:67.1875px; display:block; opacity:0; transform:matrix(1, 0, 0, 1, 0, -8); transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.5s cubic-bezier(0.22, 1, 0.36, 1), filter 0.5s cubic-; filter:blur(2px) }
+          <div .h-px.w-full.bg-[#e1e1e1]> [40,9872,310,1]
+            { backgroundColor:rgb(225, 225, 225); width:310px; height:1px; display:block }
+          <div .flex.flex-col> [40,9889,310,24]
+            { width:310px; height:24px; display:flex; flexDirection:column }
+            <button .flex.min-h-[24px].w-full.items-center.justify-between.gap-4.text-left> [40,9889,310,24] @aria-expanded=false
+              { textAlign:left; width:310px; height:24px; minHeight:24px; display:flex; justifyContent:space-between; alignItems:center; gap:16px; rowGap:16px; columnGap:16px; cursor:pointer }
+              <span .font-bold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#4a4a4a]> [40,9891,277,19] "Which coverages do I actually need?"
+                { fontWeight:700; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(74, 74, 74); width:276.812px; height:19.1875px; display:block }
+              <span .size-4.shrink-0.text-[#4a4a4a].transition-transform.duration-500.ease-[cubic-bezier(0.22,1,0.36,1)].> [334,9893,16,16] "keyboard_arrow_down"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), translate 0.5s cubic-bezier(0.22, 1, 0.36, 1), scale 0.5s cubic; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .overflow-hidden.transition-[height,margin-top].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,9913,310,0]
+              { width:310px; display:block; transition:height 0.5s cubic-bezier(0.22, 1, 0.36, 1), margin-top 0.5s cubic-bezier(0.22, 1, 0.36, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <div .text-body.text-[#4a4a4a].transition-[transform,opacity,filter].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,9905,310,101] "It depends on your stage. Pre-seed and seed usually need , , , and Cyber. Series A adds Media and EPLI. Growth-stage companies add Fiduciary"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:310px; height:100.781px; display:block; opacity:0; transform:matrix(1, 0, 0, 1, 0, -8); transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.5s cubic-bezier(0.22, 1, 0.36, 1), filter 0.5s cubic-; filter:blur(2px) }
+                <a .underline> [121,9921,98,18] "General Liability" @href=/general-liability
+                  { textDecoration:underline; display:inline; cursor:pointer }
+                <a .underline> [225,9921,28,18] "D&O" @href=/blog/do-insurance-secures-startup-future
+                  { textDecoration:underline; display:inline; cursor:pointer }
+                <a .underline> [258,9921,59,18] "Tech E&O" @href=/blog/tech-eo-insurance-for-startups
+                  { textDecoration:underline; display:inline; cursor:pointer }
+                <a .underline> [51,9971,103,18] "custom package" @href=/startup-insurance
+                  { textDecoration:underline; display:inline; cursor:pointer }
+          <div .h-px.w-full.bg-[#e1e1e1]> [40,9929,310,1]
+            { backgroundColor:rgb(225, 225, 225); width:310px; height:1px; display:block }
+          <div .flex.flex-col> [40,9946,310,38]
+            { width:310px; height:38.375px; display:flex; flexDirection:column }
+            <button .flex.min-h-[24px].w-full.items-center.justify-between.gap-4.text-left> [40,9946,310,38] @aria-expanded=false
+              { textAlign:left; width:310px; height:38.375px; minHeight:24px; display:flex; justifyContent:space-between; alignItems:center; gap:16px; rowGap:16px; columnGap:16px; cursor:pointer }
+              <span .font-bold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#4a4a4a]> [40,9946,278,38] "Can I upgrade my coverage as the company scales?"
+                { fontWeight:700; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(74, 74, 74); width:278px; height:38.375px; display:block }
+              <span .size-4.shrink-0.text-[#4a4a4a].transition-transform.duration-500.ease-[cubic-bezier(0.22,1,0.36,1)].> [334,9957,16,16] "keyboard_arrow_down"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), translate 0.5s cubic-bezier(0.22, 1, 0.36, 1), scale 0.5s cubic; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .overflow-hidden.transition-[height,margin-top].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,9984,310,0]
+              { width:310px; display:block; transition:height 0.5s cubic-bezier(0.22, 1, 0.36, 1), margin-top 0.5s cubic-bezier(0.22, 1, 0.36, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <div .text-body.text-[#4a4a4a].transition-[transform,opacity,filter].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,9976,310,84] "Yes. Coverage grows with you. Raise a new round, hire the first non-founder, or sign a bigger enterprise contract. You can add or upgrade po"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:310px; height:83.9844px; display:block; opacity:0; transform:matrix(1, 0, 0, 1, 0, -8); transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.5s cubic-bezier(0.22, 1, 0.36, 1), filter 0.5s cubic-; filter:blur(2px) }
+                <a .underline> [222,10026,102,18] "Corgi dashboard" @href=/startup-insurance
+                  { textDecoration:underline; display:inline; cursor:pointer }
+          <div .h-px.w-full.bg-[#e1e1e1]> [40,10000,310,1]
+            { backgroundColor:rgb(225, 225, 225); width:310px; height:1px; display:block }
+          <div .flex.flex-col> [40,10017,310,38]
+            { width:310px; height:38.375px; display:flex; flexDirection:column }
+            <button .flex.min-h-[24px].w-full.items-center.justify-between.gap-4.text-left> [40,10017,310,38] @aria-expanded=false
+              { textAlign:left; width:310px; height:38.375px; minHeight:24px; display:flex; justifyContent:space-between; alignItems:center; gap:16px; rowGap:16px; columnGap:16px; cursor:pointer }
+              <span .font-bold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#4a4a4a]> [40,10017,278,38] "How is Corgi different from a traditional broker?"
+                { fontWeight:700; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(74, 74, 74); width:278px; height:38.375px; display:block }
+              <span .size-4.shrink-0.text-[#4a4a4a].transition-transform.duration-500.ease-[cubic-bezier(0.22,1,0.36,1)].> [334,10028,16,16] "keyboard_arrow_down"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), translate 0.5s cubic-bezier(0.22, 1, 0.36, 1), scale 0.5s cubic; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .overflow-hidden.transition-[height,margin-top].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,10056,310,0]
+              { width:310px; display:block; transition:height 0.5s cubic-bezier(0.22, 1, 0.36, 1), margin-top 0.5s cubic-bezier(0.22, 1, 0.36, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <div .text-body.text-[#4a4a4a].transition-[transform,opacity,filter].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,10048,310,101] "No middlemen: we are a full stack insurance platform. That means instant quotes, same-day binding, and one team managing every policy. Read "
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:310px; height:100.781px; display:block; opacity:0; transform:matrix(1, 0, 0, 1, 0, -8); transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.5s cubic-bezier(0.22, 1, 0.36, 1), filter 0.5s cubic-; filter:blur(2px) }
+                <a .underline> [150,10097,93,18] "Corgi vs Vouch" @href=/blog/corgi-vs-vouch
+                  { textDecoration:underline; display:inline; cursor:pointer }
+          <div .h-px.w-full.bg-[#e1e1e1]> [40,10072,310,1]
+            { backgroundColor:rgb(225, 225, 225); width:310px; height:1px; display:block }
+          <div .flex.flex-col> [40,10089,310,38]
+            { width:310px; height:38.375px; display:flex; flexDirection:column }
+            <button .flex.min-h-[24px].w-full.items-center.justify-between.gap-4.text-left> [40,10089,310,38] @aria-expanded=false
+              { textAlign:left; width:310px; height:38.375px; minHeight:24px; display:flex; justifyContent:space-between; alignItems:center; gap:16px; rowGap:16px; columnGap:16px; cursor:pointer }
+              <span .font-bold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#4a4a4a]> [40,10089,278,38] "Do I really need insurance before we have revenue?"
+                { fontWeight:700; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(74, 74, 74); width:278px; height:38.375px; display:block }
+              <span .size-4.shrink-0.text-[#4a4a4a].transition-transform.duration-500.ease-[cubic-bezier(0.22,1,0.36,1)].> [334,10100,16,16] "keyboard_arrow_down"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), translate 0.5s cubic-bezier(0.22, 1, 0.36, 1), scale 0.5s cubic; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .overflow-hidden.transition-[height,margin-top].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,10127,310,0]
+              { width:310px; display:block; transition:height 0.5s cubic-bezier(0.22, 1, 0.36, 1), margin-top 0.5s cubic-bezier(0.22, 1, 0.36, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <div .text-body.text-[#4a4a4a].transition-[transform,opacity,filter].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,10119,310,101] "If you're hiring, handling customer data, selling to enterprises, or fundraising, yes. Many investors and enterprise customers require speci"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:310px; height:100.781px; display:block; opacity:0; transform:matrix(1, 0, 0, 1, 0, -8); transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.5s cubic-bezier(0.22, 1, 0.36, 1), filter 0.5s cubic-; filter:blur(2px) }
+                <a .underline> [70,10185,33,18] "Corgi" @href=/blog/startup-insurance-guide-for-founders
+                  { textDecoration:underline; display:inline; cursor:pointer }
+          <div .h-px.w-full.bg-[#e1e1e1]> [40,10143,310,1]
+            { backgroundColor:rgb(225, 225, 225); width:310px; height:1px; display:block }
+          <div .flex.flex-col> [40,10160,310,38]
+            { width:310px; height:38.375px; display:flex; flexDirection:column }
+            <button .flex.min-h-[24px].w-full.items-center.justify-between.gap-4.text-left> [40,10160,310,38] @aria-expanded=false
+              { textAlign:left; width:310px; height:38.375px; minHeight:24px; display:flex; justifyContent:space-between; alignItems:center; gap:16px; rowGap:16px; columnGap:16px; cursor:pointer }
+              <span .font-bold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#4a4a4a]> [40,10160,278,38] "What happens when I need to file a claim?"
+                { fontWeight:700; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(74, 74, 74); width:278px; height:38.375px; display:block }
+              <span .size-4.shrink-0.text-[#4a4a4a].transition-transform.duration-500.ease-[cubic-bezier(0.22,1,0.36,1)].> [334,10171,16,16] "keyboard_arrow_down"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), translate 0.5s cubic-bezier(0.22, 1, 0.36, 1), scale 0.5s cubic; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .overflow-hidden.transition-[height,margin-top].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,10198,310,0]
+              { width:310px; display:block; transition:height 0.5s cubic-bezier(0.22, 1, 0.36, 1), margin-top 0.5s cubic-bezier(0.22, 1, 0.36, 1); overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <div .text-body.text-[#4a4a4a].transition-[transform,opacity,filter].duration-500.ease-[cubic-bezier(0.22,1,0.36,1)]> [40,10190,310,84] "You get a direct line to the Corgi claims team: no phone trees, no 48-hour callbacks. We walk through the incident, handle documentation, co"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:310px; height:83.9844px; display:block; opacity:0; transform:matrix(1, 0, 0, 1, 0, -8); transition:transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.5s cubic-bezier(0.22, 1, 0.36, 1), filter 0.5s cubic-; filter:blur(2px) }
+        <div .flex.items-center.justify-center.px-4.py-5.text-center> [17,10221,356,57]
+          { textAlign:center; padding:20px 16px; width:356px; height:56.7969px; display:flex; justifyContent:center; alignItems:center }
+          <p .text-body.text-[#4a4a4a]> [36,10241,318,17] "Can’t find an answer to your question?"
+            { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:317.734px; height:16.7969px; display:block }
+            <a .text-[#ff5c00].hover:underline> [278,10240,76,18] "Get in touch" @href=/book-a-demo
+              { color:rgb(255, 92, 0); display:inline; cursor:pointer }

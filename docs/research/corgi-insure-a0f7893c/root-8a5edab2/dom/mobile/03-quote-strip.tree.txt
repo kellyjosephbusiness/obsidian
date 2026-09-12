@@ -1,0 +1,86 @@
+<section .relative.border-[#e1e1e1].border-b.bg-background> [0,1240,390,289]
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(29, 29, 29); backgroundColor:rgb(246, 246, 246); width:390px; height:289px; display:block; borderBottom:1px solid rgb(225, 225, 225); position:relative }
+  <div .pointer-events-none.absolute.inset-y-0.left-[max(16px,calc((100vw-1200px)/2))].w-px.bg-[#e1e1e1].md:left-[max(24px,calc((100vw-1200px)/2))].lg:left-[max(64px,calc((100vw-1200px)/2))]> [16,1240,1,288]
+    { backgroundColor:rgb(225, 225, 225); width:1px; height:288px; display:block; position:absolute; left:16px; right:373px; inset:0px 373px 0px 16px }
+  <div .pointer-events-none.absolute.inset-y-0.right-[max(16px,calc((100vw-1200px)/2))].w-px.bg-[#e1e1e1].md:right-[max(24px,calc((100vw-1200px)/2))].lg:right-[max(64px,calc((100vw-1200px)/2))]> [373,1240,1,288]
+    { backgroundColor:rgb(225, 225, 225); width:1px; height:288px; display:block; position:absolute; left:373px; right:16px; inset:0px 16px 0px 373px }
+  <div .overflow-hidden> [0,1240,390,144]
+    { width:390px; height:144px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .flex.justify-center.px-4.pt-16.pb-8.md:px-6.lg:px-16> [0,1240,390,144]
+      { padding:64px 16px 32px; width:390px; height:144px; display:flex; justifyContent:center }
+      <div .relative.size-12.shrink-0.overflow-hidden.rounded-[11.52px].shadow-[0_0_3.84px_0_rgba(29,29,29,0.25)]> [171,1304,48,48]
+        { width:48px; height:48px; display:block; flex:0 0 auto; borderRadius:11.52px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; filter:blur(0px); overflow:hidden; overflowX:hidden; overflowY:hidden; willChange:transform, opacity, filter }
+        <img .object-cover> [171,1304,48,48] @alt=Intryc @src=/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=3840&q=75&d IMG /_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=48&q=75 nat48x48
+          { width:48px; height:48px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+  <div .overflow-hidden> [0,1384,390,144]
+    { width:390px; height:144px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .flex.justify-center.px-8.pb-8.md:px-6.lg:px-16> [0,1384,390,144]
+      { padding:0px 32px 32px; width:390px; height:144px; display:flex; justifyContent:center }
+      <p .max-w-[1100px].text-center.font-medium.font-mono.text-[28px].text-black.leading-none.tracking-[-0.896px].md:text-[36px].md:tracking-[-1.152px]> [32,1384,326,112]
+        { fontSize:28px; fontWeight:500; fontFamily:f37Bolton; lineHeight:28px; letterSpacing:-0.896px; color:rgb(0, 0, 0); textAlign:center; width:326px; height:112px; maxWidth:1100px; display:block }
+        <span .sr-only> [80,1383,1,1] "“I went through the application in five minutes. The team had everything packaged up for me.”"
+          { margin:-1px; width:1px; height:1px; display:block; position:absolute; top:144px; left:81.3906px; right:309.609px; bottom:145px; overflow:hidden; overflowX:hidden; overflowY:hidden; clipPath:inset(50%) }
+        <span> [38,1380,314,119]
+          { display:inline }
+          <span .inline-block> [81,1384,18,28] "“I"
+            { width:18.3125px; height:28px; display:inline-block; opacity:0.99501; filter:blur(0.0399168px); willChange:transform, opacity, filter }
+          <span .inline-block> [105,1384,58,28] "went"
+            { width:58.4219px; height:28px; display:inline-block; opacity:0.994474; filter:blur(0.0442107px); willChange:transform, opacity, filter }
+          <span .inline-block> [169,1384,95,28] "through"
+            { width:94.5938px; height:28px; display:inline-block; opacity:0.994005; filter:blur(0.047957px); willChange:transform, opacity, filter }
+          <span .inline-block> [269,1384,39,28] "the"
+            { width:39.1562px; height:28px; display:inline-block; opacity:0.99335; filter:blur(0.0531979px); willChange:transform, opacity, filter }
+          <span .inline-block> [38,1412,132,28] "application"
+            { width:131.938px; height:28px; display:inline-block; opacity:0.992795; filter:blur(0.0576388px); willChange:transform, opacity, filter }
+          <span .inline-block> [175,1412,21,28] "in"
+            { width:21.125px; height:28px; display:inline-block; opacity:0.99204; filter:blur(0.0636796px); willChange:transform, opacity, filter }
+          <span .inline-block> [202,1412,43,28] "five"
+            { width:42.5469px; height:28px; display:inline-block; opacity:0.99128; filter:blur(0.0697607px); willChange:transform, opacity, filter }
+          <span .inline-block> [250,1412,102,28] "minutes."
+            { width:102.062px; height:28px; display:inline-block; opacity:0.990406; filter:blur(0.0767486px); willChange:transform, opacity, filter }
+          <span .inline-block> [48,1440,45,28] "The"
+            { width:44.9688px; height:28px; display:inline-block; opacity:0.989491; filter:blur(0.0840705px); willChange:transform, opacity, filter }
+          <span .inline-block> [99,1440,62,28] "team"
+            { width:61.5312px; height:28px; display:inline-block; opacity:0.988499; filter:blur(0.0920053px); willChange:transform, opacity, filter }
+          <span .inline-block> [166,1440,45,28] "had"
+            { width:44.9531px; height:28px; display:inline-block; opacity:0.987329; filter:blur(0.101368px); willChange:transform, opacity, filter }
+          <span .inline-block> [216,1440,126,28] "everything"
+            { width:125.703px; height:28px; display:inline-block; opacity:0.986119; filter:blur(0.11105px); willChange:transform, opacity, filter }
+          <span .inline-block> [71,1468,117,28] "packaged"
+            { width:117.469px; height:28px; display:inline-block; opacity:0.984793; filter:blur(0.121654px); willChange:transform, opacity, filter }
+          <span .inline-block> [194,1468,30,28] "up"
+            { width:30.4688px; height:28px; display:inline-block; opacity:0.983265; filter:blur(0.133882px); willChange:transform, opacity, filter }
+          <span .inline-block> [230,1468,33,28] "for"
+            { width:33.2656px; height:28px; display:inline-block; opacity:0.981684; filter:blur(0.146527px); willChange:transform, opacity, filter }
+          <span .inline-block> [269,1468,50,28] "me.”"
+            { width:50.4844px; height:28px; display:inline-block; opacity:0.979867; filter:blur(0.161066px); willChange:transform, opacity, filter }
+  <div .overflow-hidden> [0,1528,390,0]
+    { width:390px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .flex.justify-center.px-4.pt-4.pb-16.md:px-6.lg:px-16> [0,1528,390,228]
+      { padding:16px 16px 64px; width:390px; height:228.188px; display:flex; justifyContent:center }
+      <div .flex.flex-col.overflow-hidden.rounded-[24px].border.border-[#e1e1e1].bg-white.shadow-[0_0_16px_0_rgba(25,25,25,0.05)]> [59,1560,271,148]
+        { backgroundColor:rgb(255, 255, 255); width:271.266px; height:148.188px; display:flex; flexDirection:column; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; opacity:0; transform:matrix(1, 0, 0, 1, 0, 16); filter:blur(8px); overflow:hidden; overflowX:hidden; overflowY:hidden; willChange:transform, opacity, filter }
+        <div .-mt-px.-mx-px.flex.items-stretch.overflow-hidden.rounded-[24px].border.border-[#e1e1e1].bg-white.shadow-[0_0_16px_0_rgba(25,25,25,0.3)]> [59,1560,271,82]
+          { backgroundColor:rgb(255, 255, 255); margin:-1px -1px 0px; width:271.266px; height:82px; display:flex; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; overflow:hidden; overflowX:hidden; overflowY:hidden }
+          <div .flex.items-center.self-stretch> [60,1561,80,80]
+            { width:80px; height:80px; display:flex; alignItems:center }
+            <div .relative.h-20.w-20.shrink-0.overflow-hidden.rounded-[24px]> [60,1561,80,80]
+              { width:80px; height:80px; display:block; flex:0 0 auto; borderRadius:24px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <div .absolute.inset-0.bg-[#191919]> [60,1561,80,80]
+                { backgroundColor:rgb(25, 25, 25); width:80px; height:80px; display:block; position:absolute }
+              <img .absolute.inset-0.object-cover.object-top> [60,1561,80,80] @alt=Alex Marantelos @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=384 IMG /_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=96&q=75 nat80x75
+                { width:80px; height:80px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+          <div .flex.shrink-0.flex-col.items-start.overflow-hidden.p-4> [140,1561,189,80]
+            { padding:16px; width:189.266px; height:80px; display:flex; flexDirection:column; alignItems:flex-start; flex:0 0 auto; overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <div .flex.h-11.flex-col.gap-1.5.whitespace-nowrap> [156,1577,157,44]
+              { width:157.266px; height:44px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+              <span .font-medium.text-[#1d1d1d].text-[16px].leading-[1.2].tracking-[-0.24px]> [156,1577,157,19] "Alex Marantelos"
+                { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:157.266px; height:19.1875px; display:block }
+              <span .font-normal.text-[#4e4e4e].text-[14px].leading-[1.2].tracking-[-0.21px]> [156,1602,157,17] "Co-founder CEO @ Intryc"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:157.266px; height:16.7969px; display:block }
+        <div .flex.w-full.flex-col.items-start.p-3> [60,1642,269,65]
+          { padding:12px; width:269.266px; height:65.1875px; display:flex; flexDirection:column; alignItems:flex-start }
+          <div .pressable-button.pressable-smooth-corner.bg-[#e1e1e1].w-full> [72,1654,245,41]
+            { backgroundColor:rgb(225, 225, 225); padding:0px 0px 4px; width:245.266px; height:41.1875px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+            <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-[#e1e1e1].bg-white.hover:bg-gray-50.active:bg-[#ededed].px-4> [72,1654,245,37] "Read Intryc case study" @href=/customers/intryc
+              { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(25, 25, 25); backgroundColor:rgb(255, 255, 255); padding:8px 16px; width:245.266px; height:37.1875px; display:flex; justifyContent:center; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:16px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); cursor:pointer }

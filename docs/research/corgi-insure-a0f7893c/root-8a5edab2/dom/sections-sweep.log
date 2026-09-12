@@ -1,0 +1,519 @@
+{
+ "quote_y700_t100": {
+  "y": 700,
+  "secTop": 520,
+  "first": {
+   "op": "0",
+   "f": "blur(8px)",
+   "t": "matrix(1, 0, 0, 1, 0, 14)"
+  },
+  "last": {
+   "op": "0",
+   "f": "blur(8px)",
+   "t": "matrix(1, 0, 0, 1, 0, 14)"
+  },
+  "card": {
+   "op": "0",
+   "f": "blur(8px)",
+   "t": "matrix(1, 0, 0, 1, 0, 16)",
+   "tr": "all"
+  },
+  "logo": {
+   "op": "0",
+   "f": "blur(6px)",
+   "t": "matrix(0.55, 0, 0, 0.55, 0, 8)"
+  }
+ },
+ "quote_y700_t1600": {
+  "y": 700,
+  "secTop": 520,
+  "first": {
+   "op": "0.951363",
+   "f": "blur(0.389097px)",
+   "t": "matrix(1, 0, 0, 1, 0, 0.680987)"
+  },
+  "last": {
+   "op": "0.689703",
+   "f": "blur(2.48238px)",
+   "t": "matrix(1, 0, 0, 1, 0, 4.34594)"
+  },
+  "card": {
+   "op": "0",
+   "f": "blur(8px)",
+   "t": "matrix(1, 0, 0, 1, 0, 16)",
+   "tr": "all"
+  },
+  "logo": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none"
+  }
+ },
+ "quote_y900_t100": {
+  "y": 900,
+  "secTop": 320,
+  "first": {
+   "op": "0.968095",
+   "f": "blur(0.255244px)",
+   "t": "none"
+  },
+  "last": {
+   "op": "0.796093",
+   "f": "blur(1.63126px)",
+   "t": "matrix(1, 0, 0, 1, 0, 2.85538)"
+  },
+  "card": {
+   "op": "0",
+   "f": "blur(8px)",
+   "t": "matrix(1, 0, 0, 1, 0, 16)",
+   "tr": "all"
+  },
+  "logo": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none"
+  }
+ },
+ "quote_y900_t2100": {
+  "y": 900,
+  "secTop": 320,
+  "first": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none"
+  },
+  "last": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none"
+  },
+  "card": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none",
+   "tr": "all"
+  },
+  "logo": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none"
+  }
+ },
+ "quote_y1100_t2000": {
+  "y": 1100,
+  "secTop": 120,
+  "first": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none"
+  },
+  "last": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none"
+  },
+  "card": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none",
+   "tr": "all"
+  },
+  "logo": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none"
+  }
+ },
+ "quote_y1250_t2000": {
+  "y": 1250,
+  "secTop": -30,
+  "first": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none"
+  },
+  "last": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none"
+  },
+  "card": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none",
+   "tr": "all"
+  },
+  "logo": {
+   "op": "1",
+   "f": "blur(0px)",
+   "t": "none"
+  }
+ },
+ "pills": {
+  "CGL": {
+   "before": {
+    "bg": "rgb(255, 222, 204)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null
+   },
+   "hover": {
+    "bg": "rgb(255, 201, 163)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none"
+   },
+   "after": {
+    "bg": "rgb(255, 190, 153)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null,
+    "panel": {
+     "h": 99,
+     "op": "1",
+     "tr": "all",
+     "html": "<div style=\"opacity: 1;\"><div class=\"flex flex-col gap-1.5 rounded-[4px] bg-[#f6f6f6] px-2 py-2\"><span class=\"font-semibold text-[#191919] text-[12px] leading-none\">CGL</span><span class=\"font-medium text-[#4a4a4a] text-[12px] leading-[1.35]\">Protects your business against third-party claims for bodily injury, property damage, and personal or advertising injury arising from your operations.</span></div></div>",
+     "text": "CGL\nProtects your business against third-party claims for bodily injury, property damage, and personal or advertising injury arising from your operations."
+    },
+    "cardH": 492.203125
+   },
+   "afterSecondClick": {
+    "bg": "rgb(255, 222, 204)",
+    "panelH": 0.328125,
+    "panelOp": "0"
+   }
+  },
+  "D&O": {
+   "before": {
+    "bg": "rgb(255, 222, 204)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null
+   },
+   "hover": {
+    "bg": "rgb(255, 201, 163)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none"
+   },
+   "after": {
+    "bg": "rgb(255, 190, 153)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null,
+    "panel": {
+     "h": 83,
+     "op": "1",
+     "tr": "all",
+     "html": "<div style=\"opacity: 1;\"><div class=\"flex flex-col gap-1.5 rounded-[4px] bg-[#f6f6f6] px-2 py-2\"><span class=\"font-semibold text-[#191919] text-[12px] leading-none\">D&amp;O</span><span class=\"font-medium text-[#4a4a4a] text-[12px] leading-[1.35]\">Protects your directors and officers from personal liability for decisions and actions taken while running the company.</span></div></div>",
+     "text": "D&O\nProtects your directors and officers from personal liability for decisions and actions taken while running the company."
+    },
+    "cardH": 476.203125
+   },
+   "afterSecondClick": {
+    "bg": "rgb(255, 222, 204)",
+    "panelH": 0.234375,
+    "panelOp": "0"
+   }
+  },
+  "Tech E&O": {
+   "before": {
+    "bg": "rgb(255, 222, 204)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null
+   },
+   "hover": {
+    "bg": "rgb(255, 201, 163)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none"
+   },
+   "after": {
+    "bg": "rgb(255, 190, 153)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null,
+    "panel": {
+     "h": 83,
+     "op": "1",
+     "tr": "all",
+     "html": "<div style=\"opacity: 1;\"><div class=\"flex flex-col gap-1.5 rounded-[4px] bg-[#f6f6f6] px-2 py-2\"><span class=\"font-semibold text-[#191919] text-[12px] leading-none\">Tech E&amp;O</span><span class=\"font-medium text-[#4a4a4a] text-[12px] leading-[1.35]\">Protects your business against claims arising from errors, omissions, or negligence in your technology products or services.</span></div></div>",
+     "text": "Tech E&O\nProtects your business against claims arising from errors, omissions, or negligence in your technology products or services."
+    },
+    "cardH": 476.203125
+   },
+   "afterSecondClick": {
+    "bg": "rgb(255, 222, 204)",
+    "panelH": 0.234375,
+    "panelOp": "0"
+   }
+  },
+  "Cyber": {
+   "before": {
+    "bg": "rgb(255, 222, 204)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null
+   },
+   "hover": {
+    "bg": "rgb(255, 201, 163)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none"
+   },
+   "after": {
+    "bg": "rgb(255, 190, 153)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null,
+    "panel": {
+     "h": 83,
+     "op": "1",
+     "tr": "all",
+     "html": "<div style=\"opacity: 1;\"><div class=\"flex flex-col gap-1.5 rounded-[4px] bg-[#f6f6f6] px-2 py-2\"><span class=\"font-semibold text-[#191919] text-[12px] leading-none\">Cyber</span><span class=\"font-medium text-[#4a4a4a] text-[12px] leading-[1.35]\">Covers your legal costs and liability when customers or third parties hold your business responsible for a data breach.</span></div></div>",
+     "text": "Cyber\nCovers your legal costs and liability when customers or third parties hold your business responsible for a data breach."
+    },
+    "cardH": 476.203125
+   },
+   "afterSecondClick": {
+    "bg": "rgb(255, 222, 204)",
+    "panelH": 0.234375,
+    "panelOp": "0"
+   }
+  },
+  "Media": {
+   "before": {
+    "bg": "rgb(255, 222, 204)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null
+   },
+   "hover": {
+    "bg": "rgb(255, 201, 163)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none"
+   },
+   "after": {
+    "bg": "rgb(255, 190, 153)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null,
+    "panel": {
+     "h": 83,
+     "op": "1",
+     "tr": "all",
+     "html": "<div style=\"opacity: 1;\"><div class=\"flex flex-col gap-1.5 rounded-[4px] bg-[#f6f6f6] px-2 py-2\"><span class=\"font-semibold text-[#191919] text-[12px] leading-none\">Media</span><span class=\"font-medium text-[#4a4a4a] text-[12px] leading-[1.35]\">Protects against claims arising from your marketing, advertising, and content, like defamation or copyright infringement.</span></div></div>",
+     "text": "Media\nProtects against claims arising from your marketing, advertising, and content, like defamation or copyright infringement."
+    },
+    "cardH": 476.203125
+   },
+   "afterSecondClick": {
+    "bg": "rgb(255, 222, 204)",
+    "panelH": 0.234375,
+    "panelOp": "0"
+   }
+  },
+  "EPLI": {
+   "before": {
+    "bg": "rgb(255, 222, 204)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null
+   },
+   "hover": {
+    "bg": "rgb(255, 201, 163)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none"
+   },
+   "after": {
+    "bg": "rgb(255, 190, 153)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null,
+    "panel": {
+     "h": 83,
+     "op": "1",
+     "tr": "all",
+     "html": "<div style=\"opacity: 1;\"><div class=\"flex flex-col gap-1.5 rounded-[4px] bg-[#f6f6f6] px-2 py-2\"><span class=\"font-semibold text-[#191919] text-[12px] leading-none\">EPLI</span><span class=\"font-medium text-[#4a4a4a] text-[12px] leading-[1.35]\">Protects your business from employee claims like discrimination, wrongful termination, and harassment.</span></div></div>",
+     "text": "EPLI\nProtects your business from employee claims like discrimination, wrongful termination, and harassment."
+    },
+    "cardH": 476.203125
+   },
+   "afterSecondClick": {
+    "bg": "rgb(255, 222, 204)",
+    "panelH": 0.234375,
+    "panelOp": "0"
+   }
+  },
+  "Fiduciary": {
+   "before": {
+    "bg": "rgb(255, 219, 198)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null
+   },
+   "hover": {
+    "bg": "rgb(255, 201, 163)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none"
+   },
+   "after": {
+    "bg": "rgb(255, 190, 153)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null,
+    "panel": {
+     "h": 66,
+     "op": "1",
+     "tr": "all",
+     "html": "<div style=\"opacity: 1;\"><div class=\"flex flex-col gap-1.5 rounded-[4px] bg-[#f6f6f6] px-2 py-2\"><span class=\"font-semibold text-[#191919] text-[12px] leading-none\">Fiduciary</span><span class=\"font-medium text-[#4a4a4a] text-[12px] leading-[1.35]\">Protects those responsible for employee benefit plans from breach-of-duty claims.</span></div></div>",
+     "text": "Fiduciary\nProtects those responsible for employee benefit plans from breach-of-duty claims."
+    },
+    "cardH": 459.203125
+   },
+   "afterSecondClick": {
+    "bg": "rgb(255, 222, 204)",
+    "panelH": 0.171875,
+    "panelOp": "0"
+   }
+  },
+  "HNOA": {
+   "before": {
+    "bg": "rgb(255, 222, 204)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null
+   },
+   "hover": {
+    "bg": "rgb(255, 201, 163)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none"
+   },
+   "after": {
+    "bg": "rgb(255, 190, 153)",
+    "color": "rgb(255, 92, 0)",
+    "transform": "none",
+    "box": "none",
+    "anim": "none",
+    "ariaPressed": null,
+    "dataState": null,
+    "panel": {
+     "h": 66,
+     "op": "1",
+     "tr": "all",
+     "html": "<div style=\"opacity: 1;\"><div class=\"flex flex-col gap-1.5 rounded-[4px] bg-[#f6f6f6] px-2 py-2\"><span class=\"font-semibold text-[#191919] text-[12px] leading-none\">HNOA</span><span class=\"font-medium text-[#4a4a4a] text-[12px] leading-[1.35]\">Protects your business when employees drive personal or rented vehicles for work.</span></div></div>",
+     "text": "HNOA\nProtects your business when employees drive personal or rented vehicles for work."
+    },
+    "cardH": 459.203125
+   },
+   "afterSecondClick": {
+    "bg": "rgb(255, 222, 204)",
+    "panelH": 0.1875,
+    "panelOp": "0"
+   }
+  }
+ },
+ "pillSwap": {
+  "cglBg": "rgb(255, 222, 204)",
+  "cyberBg": "rgb(255, 222, 204)",
+  "panelText": "Cyber\nCovers your legal costs and liability when customers or third parties hold your business responsible for a data breach."
+ },
+ "faq": {
+  "before": {
+   "btnState": null,
+   "aria": "false",
+   "itemState": null,
+   "icon": "How much does startup insurance cost?",
+   "iconTransform": "none",
+   "contentH": null,
+   "contentCls": null,
+   "itemCls": "flex flex-col",
+   "btnCls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "color": "rgb(29, 29, 29)",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  "hover": {
+   "color": "rgb(29, 29, 29)",
+   "bg": "rgba(0, 0, 0, 0)"
+  },
+  "after": {
+   "btnState": null,
+   "aria": "true",
+   "itemState": null,
+   "iconTransform": "none",
+   "iconTransition": "transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), translate 0.5s cubic-bezier(0.22, 1, 0.36, 1), scale 0.5s cubic-bezier(0.22, 1, 0.36, 1), rotate 0.5s cubic-bezier(0.22, 1, 0.36, 1)",
+   "contentH": 78,
+   "contentAnim": "none",
+   "contentCls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "contentHTML": "<div class=\"text-body text-[#4a4a4a] transition-[transform,opacity,filter] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]\" style=\"transform: translateY(0px); opacity: 1; filter: blur(0px);\">Cost depends on your stage, industry, limits, state, and the policies you pick. Eligible pre-seed and seed startups often pay $2,000 to $5,000 per year for basic coverage, while Series A companies may pay $5,000 to $15,000 annually. See our full breakdown of<!-- --> <a class=\"underline\" href=\"/blog/startup-insurance-cost-by-stage\">startup insurance cost by stage</a>. Get an instant quote online, no sales call required.</div>"
+  },
+  "afterSecond": [
+   "null/false",
+   "null/true",
+   "null/false",
+   "null/false",
+   "null/false",
+   "null/false",
+   "null/false"
+  ]
+ },
+ "specialized": {
+  "count": 0
+ },
+ "policyCardHover": {
+  "cb": {
+   "cardCls": "flex flex-col overflow-hidden rounded-[24px] border border-[#e1e1e1] bg-white",
+   "shadow": "none",
+   "transform": "none",
+   "transition": "all"
+  },
+  "ca": {
+   "shadow": "none",
+   "transform": "none",
+   "linkColor": "rgb(29, 29, 29)",
+   "linkDeco": "none"
+  }
+ }
+}

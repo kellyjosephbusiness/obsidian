@@ -1,0 +1,246 @@
+<section .relative.overflow-hidden.border-[#585858].border-b.bg-[#313131].pb-10.md:pb-12.lg:pb-16> [0,3278,390,745]
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(29, 29, 29); backgroundColor:rgb(49, 49, 49); padding:0px 0px 40px; width:390px; height:745.406px; display:block; borderBottom:1px solid rgb(88, 88, 88); position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+  <div .pointer-events-none.absolute.inset-y-0.left-[max(16px,calc((100vw-1600px)/2))].w-px.bg-[#585858].md:left-[max(48px,calc((100vw-1600px)/2))].lg:left-[max(64px,calc((100vw-1600px)/2))]> [16,3278,1,744]
+    { backgroundColor:rgb(88, 88, 88); width:1px; height:744.406px; display:block; position:absolute; left:16px; right:373px; inset:0px 373px 0px 16px }
+  <div .pointer-events-none.absolute.inset-y-0.right-[max(16px,calc((100vw-1600px)/2))].w-px.bg-[#585858].md:right-[max(48px,calc((100vw-1600px)/2))].lg:right-[max(64px,calc((100vw-1600px)/2))]> [373,3278,1,744]
+    { backgroundColor:rgb(88, 88, 88); width:1px; height:744.406px; display:block; position:absolute; left:373px; right:16px; inset:0px 16px 0px 373px }
+  <div .flex.flex-col.items-center.px-4.pt-10.pb-4.md:px-12.md:pt-14.md:pb-6.lg:px-16> [0,3278,390,84]
+    { padding:40px 16px 16px; width:390px; height:84px; display:flex; flexDirection:column; alignItems:center }
+    <h2 .text-center.font-medium.font-mono.text-white> [60,3318,270,28] "Our Unique Advantage"
+      { fontSize:28px; fontWeight:500; fontFamily:f37Bolton; lineHeight:28px; letterSpacing:-0.896px; color:rgb(255, 255, 255); textAlign:center; width:270.062px; height:28px; display:block }
+  <div .border-[#585858].border-y.px-4.md:px-12.lg:px-16> [0,3362,390,620]
+    { padding:0px 16px; width:390px; height:620.406px; display:block; borderTop:1px solid rgb(88, 88, 88); borderBottom:1px solid rgb(88, 88, 88) }
+    <div .mx-auto.grid.w-full.max-w-[1600px].grid-cols-1.gap-6.md:grid-cols-2> [16,3363,358,618]
+      { width:358px; height:618.406px; maxWidth:1600px; display:grid; gap:24px; rowGap:24px; columnGap:24px; gridTemplateColumns:358px; gridTemplateRows:280.406px 314px }
+      <div .flex.flex-col.overflow-hidden.rounded-[24px].bg-white> [16,3363,358,280]
+        { backgroundColor:rgb(255, 255, 255); width:358px; height:280.406px; display:flex; flexDirection:column; borderRadius:24px; overflow:hidden; overflowX:hidden; overflowY:hidden }
+        <div .relative.aspect-[724/322].overflow-hidden.rounded-[24px].bg-[#f6f6f6].shadow-[0_8px_28px_0_rgba(0,0,0,0.4)]> [16,3363,358,159]
+          { backgroundColor:rgb(246, 246, 246); width:358px; height:159.219px; display:block; borderRadius:24px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden; aspectRatio:724 / 322 }
+          <div .absolute.top-0.left-0.h-[322px].w-[724px].origin-top-left> [16,3363,358,159]
+            { width:724px; height:322px; display:block; position:absolute; right:-366px; bottom:-162.781px; transform:matrix(0.494475, 0, 0, 0.494475, 0, 0); inset:0px -366px -162.781px 0px }
+            <div .absolute.top-[57px].right-0.left-0.overflow-x-clip> [16,3392,358,38]
+              { width:724px; height:76px; display:block; position:absolute; top:57px; bottom:189px; overflow:clip visible; overflowX:clip; inset:57px 0px 189px }
+              <div .flex.w-max.items-center.gap-2.py-2.motion-safe:animate-[marquee-left_24s_linear_infinite]> [12,3392,1146,38]
+                { padding:8px 0px; width:2316.66px; height:76px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; transform:matrix(1, 0, 0, 1, -8.05212, 0); animation:24s linear infinite paused marquee-left }
+                <div .flex.shrink-0.items-center.gap-3.rounded-[24px].border-2.border-[#ff405d].bg-[#ffe9ec].p-4.shadow-[0_0_0_4px_#ff94a4]> [12,3396,103,30]
+                  { backgroundColor:rgb(255, 233, 236); padding:16px; width:207.922px; height:60px; display:flex; alignItems:center; flex:0 0 auto; gap:12px; rowGap:12px; columnGap:12px; borderRadius:24px; border:2px solid rgb(255, 64, 93); borderTop:2px solid rgb(255, 64, 93); borderBottom:2px solid rgb(255, 64, 93); borderLeft:2px solid rgb(255, 64, 93); borderRight:2px solid rgb(255, 64, 93); boxShadow:rgb(255, 148, 164) 0px 0px 0px 5.53366px; animation:1.7s ease-in-out -0.2s infinite paused pill-ring-pulse }
+                  <span .size-6.shrink-0.text-[#ff405d]> [21,3404,12,12] "menu_book"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(255, 64, 93); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                  <span .whitespace-nowrap.font-mono.font-normal.text-[24px].text-[#ff405d].leading-none.tracking-[-0.032em]> [39,3404,67,12] "Broker review"
+                    { fontSize:24px; fontFamily:f37Bolton; letterSpacing:-0.768px; color:rgb(255, 64, 93); width:135.922px; height:24px; display:block }
+                <div .h-0.5.w-6.shrink-0.bg-[#ff405d]> [119,3410,12,1]
+                  { backgroundColor:rgb(255, 64, 93); width:24px; height:2px; display:block; flex:0 0 auto }
+                <div .flex.shrink-0.items-center.gap-3.rounded-[24px].border-2.border-[#ff405d].bg-[#ffe9ec].p-4.shadow-[0_0_0_4px_#ff94a4]> [135,3396,126,30]
+                  { backgroundColor:rgb(255, 233, 236); padding:16px; width:254.172px; height:60px; display:flex; alignItems:center; flex:0 0 auto; gap:12px; rowGap:12px; columnGap:12px; borderRadius:24px; border:2px solid rgb(255, 64, 93); borderTop:2px solid rgb(255, 64, 93); borderBottom:2px solid rgb(255, 64, 93); borderLeft:2px solid rgb(255, 64, 93); borderRight:2px solid rgb(255, 64, 93); boxShadow:rgb(255, 148, 164) 0px 0px 0px 7.69221px; animation:2.4s ease-in-out -0.8s infinite paused pill-ring-pulse }
+                  <span .size-6.shrink-0.text-[#ff405d]> [144,3404,12,12] "monetization_on"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(255, 64, 93); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                  <span .whitespace-nowrap.font-mono.font-normal.text-[24px].text-[#ff405d].leading-none.tracking-[-0.032em]> [161,3404,90,12] "Quote adjustment"
+                    { fontSize:24px; fontFamily:f37Bolton; letterSpacing:-0.768px; color:rgb(255, 64, 93); width:182.172px; height:24px; display:block }
+                <div .h-0.5.w-6.shrink-0.bg-[#ff405d]> [264,3410,12,1]
+                  { backgroundColor:rgb(255, 64, 93); width:24px; height:2px; display:block; flex:0 0 auto }
+                <div .flex.shrink-0.items-center.gap-3.rounded-[24px].border-2.border-[#ff405d].bg-[#ffe9ec].p-4.shadow-[0_0_0_4px_#ff94a4]> [280,3396,120,30]
+                  { backgroundColor:rgb(255, 233, 236); padding:16px; width:242.797px; height:60px; display:flex; alignItems:center; flex:0 0 auto; gap:12px; rowGap:12px; columnGap:12px; borderRadius:24px; border:2px solid rgb(255, 64, 93); borderTop:2px solid rgb(255, 64, 93); borderBottom:2px solid rgb(255, 64, 93); borderLeft:2px solid rgb(255, 64, 93); borderRight:2px solid rgb(255, 64, 93); boxShadow:rgb(255, 148, 164) 0px 0px 0px 7.95562px; animation:3.1s ease-in-out -1.5s infinite paused pill-ring-pulse }
+                  <span .size-6.shrink-0.text-[#ff405d]> [289,3404,12,12] "report"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(255, 64, 93); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                  <span .whitespace-nowrap.font-mono.font-normal.text-[24px].text-[#ff405d].leading-none.tracking-[-0.032em]> [307,3404,84,12] "Manual risk audit"
+                    { fontSize:24px; fontFamily:f37Bolton; letterSpacing:-0.768px; color:rgb(255, 64, 93); width:170.797px; height:24px; display:block }
+                <div .h-0.5.w-6.shrink-0.bg-[#ff405d]> [404,3410,12,1]
+                  { backgroundColor:rgb(255, 64, 93); width:24px; height:2px; display:block; flex:0 0 auto }
+                <div .flex.shrink-0.items-center.gap-3.rounded-[24px].border-2.border-[#ff405d].bg-[#ffe9ec].p-4.shadow-[0_0_0_4px_#ff94a4]> [420,3396,147,30]
+                  { backgroundColor:rgb(255, 233, 236); padding:16px; width:297.438px; height:60px; display:flex; alignItems:center; flex:0 0 auto; gap:12px; rowGap:12px; columnGap:12px; borderRadius:24px; border:2px solid rgb(255, 64, 93); borderTop:2px solid rgb(255, 64, 93); borderBottom:2px solid rgb(255, 64, 93); borderLeft:2px solid rgb(255, 64, 93); borderRight:2px solid rgb(255, 64, 93); boxShadow:rgb(255, 148, 164) 0px 0px 0px 6.71198px; animation:2.2s ease-in-out -0.5s infinite paused pill-ring-pulse }
+                  <span .size-6.shrink-0.text-[#ff405d]> [429,3404,12,12] "edit_square"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(255, 64, 93); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                  <span .whitespace-nowrap.font-mono.font-normal.text-[24px].text-[#ff405d].leading-none.tracking-[-0.032em]> [447,3404,111,12] "Underwriting (3+ days)"
+                    { fontSize:24px; fontFamily:f37Bolton; letterSpacing:-0.768px; color:rgb(255, 64, 93); width:225.438px; height:24px; display:block }
+                <div .h-0.5.w-6.shrink-0.bg-[#ff405d]> [571,3410,12,1]
+                  { backgroundColor:rgb(255, 64, 93); width:24px; height:2px; display:block; flex:0 0 auto }
+                <div .flex.shrink-0.items-center.gap-3.rounded-[24px].border-2.border-[#ff405d].bg-[#ffe9ec].p-4.shadow-[0_0_0_4px_#ff94a4]> [587,3396,103,30]
+                  { backgroundColor:rgb(255, 233, 236); padding:16px; width:207.922px; height:60px; display:flex; alignItems:center; flex:0 0 auto; gap:12px; rowGap:12px; columnGap:12px; borderRadius:24px; border:2px solid rgb(255, 64, 93); borderTop:2px solid rgb(255, 64, 93); borderBottom:2px solid rgb(255, 64, 93); borderLeft:2px solid rgb(255, 64, 93); borderRight:2px solid rgb(255, 64, 93); boxShadow:rgb(255, 148, 164) 0px 0px 0px 5.53366px; animation:1.7s ease-in-out -0.2s infinite paused pill-ring-pulse }
+                  <span .size-6.shrink-0.text-[#ff405d]> [596,3404,12,12] "menu_book"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(255, 64, 93); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                  <span .whitespace-nowrap.font-mono.font-normal.text-[24px].text-[#ff405d].leading-none.tracking-[-0.032em]> [613,3404,67,12] "Broker review"
+                    { fontSize:24px; fontFamily:f37Bolton; letterSpacing:-0.768px; color:rgb(255, 64, 93); width:135.922px; height:24px; display:block }
+                <div .h-0.5.w-6.shrink-0.bg-[#ff405d]> [694,3410,12,1]
+                  { backgroundColor:rgb(255, 64, 93); width:24px; height:2px; display:block; flex:0 0 auto }
+                <div .flex.shrink-0.items-center.gap-3.rounded-[24px].border-2.border-[#ff405d].bg-[#ffe9ec].p-4.shadow-[0_0_0_4px_#ff94a4]> [709,3396,126,30]
+                  { backgroundColor:rgb(255, 233, 236); padding:16px; width:254.172px; height:60px; display:flex; alignItems:center; flex:0 0 auto; gap:12px; rowGap:12px; columnGap:12px; borderRadius:24px; border:2px solid rgb(255, 64, 93); borderTop:2px solid rgb(255, 64, 93); borderBottom:2px solid rgb(255, 64, 93); borderLeft:2px solid rgb(255, 64, 93); borderRight:2px solid rgb(255, 64, 93); boxShadow:rgb(255, 148, 164) 0px 0px 0px 7.69221px; animation:2.4s ease-in-out -0.8s infinite paused pill-ring-pulse }
+                  <span .size-6.shrink-0.text-[#ff405d]> [718,3404,12,12] "monetization_on"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(255, 64, 93); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                  <span .whitespace-nowrap.font-mono.font-normal.text-[24px].text-[#ff405d].leading-none.tracking-[-0.032em]> [736,3404,90,12] "Quote adjustment"
+                    { fontSize:24px; fontFamily:f37Bolton; letterSpacing:-0.768px; color:rgb(255, 64, 93); width:182.172px; height:24px; display:block }
+                <div .h-0.5.w-6.shrink-0.bg-[#ff405d]> [839,3410,12,1]
+                  { backgroundColor:rgb(255, 64, 93); width:24px; height:2px; display:block; flex:0 0 auto }
+                <div .flex.shrink-0.items-center.gap-3.rounded-[24px].border-2.border-[#ff405d].bg-[#ffe9ec].p-4.shadow-[0_0_0_4px_#ff94a4]> [855,3396,120,30]
+                  { backgroundColor:rgb(255, 233, 236); padding:16px; width:242.797px; height:60px; display:flex; alignItems:center; flex:0 0 auto; gap:12px; rowGap:12px; columnGap:12px; borderRadius:24px; border:2px solid rgb(255, 64, 93); borderTop:2px solid rgb(255, 64, 93); borderBottom:2px solid rgb(255, 64, 93); borderLeft:2px solid rgb(255, 64, 93); borderRight:2px solid rgb(255, 64, 93); boxShadow:rgb(255, 148, 164) 0px 0px 0px 7.95562px; animation:3.1s ease-in-out -1.5s infinite paused pill-ring-pulse }
+                  <span .size-6.shrink-0.text-[#ff405d]> [864,3404,12,12] "report"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(255, 64, 93); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                  <span .whitespace-nowrap.font-mono.font-normal.text-[24px].text-[#ff405d].leading-none.tracking-[-0.032em]> [882,3404,84,12] "Manual risk audit"
+                    { fontSize:24px; fontFamily:f37Bolton; letterSpacing:-0.768px; color:rgb(255, 64, 93); width:170.797px; height:24px; display:block }
+                <div .h-0.5.w-6.shrink-0.bg-[#ff405d]> [979,3410,12,1]
+                  { backgroundColor:rgb(255, 64, 93); width:24px; height:2px; display:block; flex:0 0 auto }
+                <div .flex.shrink-0.items-center.gap-3.rounded-[24px].border-2.border-[#ff405d].bg-[#ffe9ec].p-4.shadow-[0_0_0_4px_#ff94a4]> [995,3396,147,30]
+                  { backgroundColor:rgb(255, 233, 236); padding:16px; width:297.438px; height:60px; display:flex; alignItems:center; flex:0 0 auto; gap:12px; rowGap:12px; columnGap:12px; borderRadius:24px; border:2px solid rgb(255, 64, 93); borderTop:2px solid rgb(255, 64, 93); borderBottom:2px solid rgb(255, 64, 93); borderLeft:2px solid rgb(255, 64, 93); borderRight:2px solid rgb(255, 64, 93); boxShadow:rgb(255, 148, 164) 0px 0px 0px 6.71198px; animation:2.2s ease-in-out -0.5s infinite paused pill-ring-pulse }
+                  <span .size-6.shrink-0.text-[#ff405d]> [1004,3404,12,12] "edit_square"
+                    { fontSize:24px; fontFamily:Material Symbols Sharp; color:rgb(255, 64, 93); width:24px; height:24px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+                  <span .whitespace-nowrap.font-mono.font-normal.text-[24px].text-[#ff405d].leading-none.tracking-[-0.032em]> [1021,3404,111,12] "Underwriting (3+ days)"
+                    { fontSize:24px; fontFamily:f37Bolton; letterSpacing:-0.768px; color:rgb(255, 64, 93); width:225.438px; height:24px; display:block }
+                <div .h-0.5.w-6.shrink-0.bg-[#ff405d]> [1146,3410,12,1]
+                  { backgroundColor:rgb(255, 64, 93); width:24px; height:2px; display:block; flex:0 0 auto }
+            <div .-rotate-[3.96deg].absolute.top-[167px].left-[180px].h-[194px].w-[340px].bg-white.shadow-[0_0_16px_0_rgba(25,25,25,0.25)]> [102,3440,174,107]
+              { backgroundColor:rgb(255, 255, 255); width:340px; height:194px; display:block; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:absolute; top:167px; left:180px; right:204px; bottom:-39px; rotate:-3.96deg }
+            <div .absolute.top-[179px].left-[205px].flex.h-[182px].w-[340px].flex-col.gap-2.5.overflow-hidden.bg-white> [117,3452,168,90]
+              { backgroundColor:rgb(255, 255, 255); padding:24px; width:340px; height:182px; display:flex; flexDirection:column; gap:10px; rowGap:10px; columnGap:10px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:absolute; top:179px; left:205px; right:179px; bottom:-39px; overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <p .text-left.font-medium.text-[#b2b2b2].text-[24px].leading-none.tracking-[-0.032em]> [129,3464,144,12] "Certificate of Insurance"
+                { fontSize:24px; fontWeight:500; letterSpacing:-0.768px; color:rgb(178, 178, 178); textAlign:left; width:292px; height:24px; display:block }
+              <div .h-px.w-full.bg-[#e5e5e5]> [129,3481,144,0]
+                { backgroundColor:rgb(229, 229, 229); width:292px; height:1px; display:block }
+              <div .flex.gap-2.5> [129,3486,144,12]
+                { width:292px; height:25px; display:flex; gap:10px; rowGap:10px; columnGap:10px }
+                <div .h-[25px].w-[239px].bg-[#ddd]> [129,3486,118,12]
+                  { backgroundColor:rgb(221, 221, 221); width:239px; height:25px; display:block }
+                <div .h-[25px].flex-1.bg-[#ddd]> [252,3486,21,12]
+                  { backgroundColor:rgb(221, 221, 221); width:43px; height:25px; display:block; flex:1 1 0% }
+              <div .flex.gap-2.5> [129,3503,144,5]
+                { width:292px; height:11px; display:flex; gap:10px; rowGap:10px; columnGap:10px }
+                <div .h-[11px].flex-1.bg-[#ddd]> [129,3503,85,5]
+                  { backgroundColor:rgb(221, 221, 221); width:171px; height:11px; display:block; flex:1 1 0% }
+                <div .h-[11px].w-[111px].bg-[#ddd]> [219,3503,55,5]
+                  { backgroundColor:rgb(221, 221, 221); width:111px; height:11px; display:block }
+              <div .h-[11px].w-full.bg-[#ddd]> [129,3514,144,5]
+                { backgroundColor:rgb(221, 221, 221); width:292px; height:11px; display:block }
+              <div .h-[11px].w-full.bg-[#ddd]> [129,3524,144,5]
+                { backgroundColor:rgb(221, 221, 221); width:292px; height:11px; display:block }
+        <div .flex.flex-col.gap-3.p-3.md:p-5> [16,3523,358,121]
+          { padding:12px; width:358px; height:121.188px; display:flex; flexDirection:column; gap:12px; rowGap:12px; columnGap:12px }
+          <h3 .font-bold.font-sans.text-[18px].md:text-[20px].text-[#4a4a4a].leading-none.tracking-[-0.032em]> [28,3535,334,18] "Legacy Insurance Carriers"
+            { fontSize:18px; fontWeight:700; lineHeight:18px; letterSpacing:-0.576px; color:rgb(74, 74, 74); width:334px; height:18px; display:block }
+          <p .font-sans.text-[14px].md:text-[16px].text-[#4a4a4a].leading-[1.2].tracking-[-0.015em]> [28,3565,334,67] "The traditional insurers: broker review, quote adjustment, manual risk audit, underwriting cycles that often run multiple weeks. Coverage fr"
+            { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:67.1875px; display:block }
+      <div .flex.flex-col.overflow-hidden.rounded-[24px].bg-white> [16,3668,358,314]
+        { backgroundColor:rgb(255, 255, 255); width:358px; height:314px; display:flex; flexDirection:column; borderRadius:24px; overflow:hidden; overflowX:hidden; overflowY:hidden }
+        <div .relative.aspect-[724/322].overflow-hidden.rounded-[24px].bg-[#2d3957].shadow-[0_8px_28px_0_rgba(0,0,0,0.4)]> [16,3668,358,159]
+          { backgroundColor:rgb(45, 57, 87); width:358px; height:159.219px; display:block; borderRadius:24px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden; aspectRatio:724 / 322 }
+          <div .absolute.top-0.left-0.h-[322px].w-[724px].origin-top-left> [16,3668,358,159]
+            { width:724px; height:322px; display:block; position:absolute; right:-366px; bottom:-162.781px; transform:matrix(0.494475, 0, 0, 0.494475, 0, 0); inset:0px -366px -162.781px 0px }
+            <div .absolute.inset-0> [16,3668,358,159]
+              { width:724px; height:322px; display:block; position:absolute }
+              <div .absolute.inset-[-7.5%_-3.05%]> [5,3656,380,183]
+                { width:768.156px; height:370.281px; display:block; position:absolute; top:-24.1406px; left:-22.0781px; right:-22.0781px; bottom:-24.1406px }
+                <svg .[object.SVGAnimatedString]> [5,3656,380,183] SVG(1716b) viewBox="0 0 836 368"
+                  { width:768.156px; height:370.281px; display:block; verticalAlign:middle }
+            <div .pointer-events-none.absolute.inset-0> [16,3668,358,159]
+              { width:724px; height:322px; display:block; position:absolute }
+            <div .absolute.top-0.left-0> [13,3683,34,34]
+              { width:64px; height:64px; display:block; position:absolute; right:660px; bottom:258px; transform:matrix(0.996314, -0.0857762, 0.0857762, 0.996314, -3.44767, 33.6252); inset:0px 660px 258px 0px; willChange:transform, width, height }
+              <div .relative.flex.size-full.items-center.justify-center.overflow-hidden.bg-[#f6f6f6]> [13,3683,34,34]
+                { backgroundColor:rgb(246, 246, 246); width:64px; height:64px; display:flex; justifyContent:center; alignItems:center; borderRadius:32px; boxShadow:rgba(255, 255, 255, 0.25) 0px 0px 16px 0px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                <img .object-contain> [19,3690,21,21] @alt= @src=/images/customer-icons/deel.svg IMG /images/customer-icons/deel.svg nat197x246
+                  { width:40px; height:40px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+              <div .-top-[6px].-right-[6px].absolute.size-[24px].items-center.justify-center.rounded-full.bg-[#ff5c00]> [0,0,0,0]
+                { backgroundColor:rgb(255, 92, 0); width:24px; height:24px; justifyContent:center; alignItems:center; borderRadius:3.35544e+07px; position:absolute; top:-6px; right:-6px; inset:-6px -6px auto auto }
+                <span .size-4.text-white> [0,0,0,0] "verified_user"
+                  { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(255, 255, 255); width:16px; height:16px; display:inline-block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .absolute.top-0.left-0> [139,3741,34,34]
+              { width:64px; height:64px; display:block; position:absolute; right:660px; bottom:258px; transform:matrix(0.997236, 0.0743012, -0.0743012, 0.997236, 250.712, 149.954); inset:0px 660px 258px 0px; willChange:transform, width, height }
+              <div .relative.flex.size-full.items-center.justify-center.overflow-hidden.bg-[#f6f6f6]> [139,3741,34,34]
+                { backgroundColor:rgb(246, 246, 246); width:64px; height:64px; display:flex; justifyContent:center; alignItems:center; borderRadius:32px; boxShadow:rgba(255, 255, 255, 0.25) 0px 0px 16px 0px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                <img .object-contain> [139,3741,34,34] @alt= @src=/images/customer-icons/bland.png IMG /images/customer-icons/bland.png nat128x128
+                  { width:64px; height:64px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+              <div .-top-[6px].-right-[6px].absolute.size-[24px].items-center.justify-center.rounded-full.bg-[#ff5c00]> [0,0,0,0]
+                { backgroundColor:rgb(255, 92, 0); width:24px; height:24px; justifyContent:center; alignItems:center; borderRadius:3.35544e+07px; position:absolute; top:-6px; right:-6px; inset:-6px -6px auto auto }
+                <span .size-4.text-white> [0,0,0,0] "verified_user"
+                  { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(255, 255, 255); width:16px; height:16px; display:inline-block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .absolute.top-0.left-0> [236,3720,28,28]
+              { width:52px; height:52px; display:block; position:absolute; right:672px; bottom:270px; transform:matrix(0.994293, -0.10668, 0.10668, 0.994293, 446.679, 108.013); inset:0px 672px 270px 0px; willChange:transform, width, height }
+              <div .relative.flex.size-full.items-center.justify-center.overflow-hidden.bg-[#f6f6f6]> [236,3720,28,28]
+                { backgroundColor:rgb(246, 246, 246); width:52px; height:52px; display:flex; justifyContent:center; alignItems:center; borderRadius:17px; boxShadow:rgba(255, 92, 0, 0.5) 0px 0px 0px 3px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                <img .object-contain> [243,3727,14,14] @alt= @src=/images/customer-icons/origami.svg IMG /images/customer-icons/origami.svg nat32x32
+                  { width:26px; height:26px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+              <div .-top-[6px].-right-[6px].absolute.size-[24px].items-center.justify-center.rounded-full.bg-[#ff5c00]> [252,3717,13,13]
+                { backgroundColor:rgb(255, 92, 0); width:24px; height:24px; display:flex; justifyContent:center; alignItems:center; borderRadius:3.35544e+07px; position:absolute; top:-6px; left:34px; right:-6px; bottom:34px }
+                <span .size-4.text-white> [254,3719,9,9] "verified_user"
+                  { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(255, 255, 255); width:16px; height:16px; display:block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .absolute.top-0.left-0> [-29,3758,36,36]
+              { width:64px; height:64px; display:block; position:absolute; right:660px; bottom:258px; transform:matrix(0.985902, -0.167324, 0.167324, 0.985902, -86.3024, 187.72); inset:0px 660px 258px 0px; willChange:transform, width, height }
+              <div .relative.flex.size-full.items-center.justify-center.overflow-hidden.bg-[#f6f6f6]> [-29,3758,36,36]
+                { backgroundColor:rgb(246, 246, 246); width:64px; height:64px; display:flex; justifyContent:center; alignItems:center; borderRadius:32px; boxShadow:rgba(255, 255, 255, 0.25) 0px 0px 16px 0px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                <img .object-contain> [-22,3765,23,23] @alt= @src=/images/customer-icons/intryc-hd.png IMG /images/customer-icons/intryc-hd.png nat128x128
+                  { width:40px; height:40px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+              <div .-top-[6px].-right-[6px].absolute.size-[24px].items-center.justify-center.rounded-full.bg-[#ff5c00]> [0,0,0,0]
+                { backgroundColor:rgb(255, 92, 0); width:24px; height:24px; justifyContent:center; alignItems:center; borderRadius:3.35544e+07px; position:absolute; top:-6px; right:-6px; inset:-6px -6px auto auto }
+                <span .size-4.text-white> [0,0,0,0] "verified_user"
+                  { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(255, 255, 255); width:16px; height:16px; display:inline-block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .absolute.top-0.left-0> [-82,3680,32,32]
+              { width:64px; height:64px; display:block; position:absolute; right:660px; bottom:258px; transform:matrix(0.999983, 0.00576894, -0.00576894, 0.999983, -198.349, 24.348); inset:0px 660px 258px 0px; willChange:transform, width, height }
+              <div .relative.flex.size-full.items-center.justify-center.overflow-hidden.bg-[#f6f6f6]> [-82,3680,32,32]
+                { backgroundColor:rgb(246, 246, 246); width:64px; height:64px; display:flex; justifyContent:center; alignItems:center; borderRadius:32px; boxShadow:rgba(255, 255, 255, 0.25) 0px 0px 16px 0px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                <img .object-contain> [-76,3686,20,20] @alt= @src=/images/customer-icons/athenahq.svg IMG  nat0x0
+                  { width:40px; height:40px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+              <div .-top-[6px].-right-[6px].absolute.size-[24px].items-center.justify-center.rounded-full.bg-[#ff5c00]> [0,0,0,0]
+                { backgroundColor:rgb(255, 92, 0); width:24px; height:24px; justifyContent:center; alignItems:center; borderRadius:3.35544e+07px; position:absolute; top:-6px; right:-6px; inset:-6px -6px auto auto }
+                <span .size-4.text-white> [0,0,0,0] "verified_user"
+                  { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(255, 255, 255); width:16px; height:16px; display:inline-block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .absolute.top-0.left-0> [-127,3746,34,34]
+              { width:64px; height:64px; display:block; position:absolute; right:660px; bottom:258px; transform:matrix(0.996011, 0.0892273, -0.0892273, 0.996011, -286.604, 161.073); inset:0px 660px 258px 0px; willChange:transform, width, height }
+              <div .relative.flex.size-full.items-center.justify-center.overflow-hidden.bg-[#f6f6f6]> [-127,3746,34,34]
+                { backgroundColor:rgb(246, 246, 246); width:64px; height:64px; display:flex; justifyContent:center; alignItems:center; borderRadius:32px; boxShadow:rgba(255, 255, 255, 0.25) 0px 0px 16px 0px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                <img .object-contain> [-121,3753,21,21] @alt= @src=/images/customer-icons/eragon.png IMG  nat0x0
+                  { width:40px; height:40px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+              <div .-top-[6px].-right-[6px].absolute.size-[24px].items-center.justify-center.rounded-full.bg-[#ff5c00]> [0,0,0,0]
+                { backgroundColor:rgb(255, 92, 0); width:24px; height:24px; justifyContent:center; alignItems:center; borderRadius:3.35544e+07px; position:absolute; top:-6px; right:-6px; inset:-6px -6px auto auto }
+                <span .size-4.text-white> [0,0,0,0] "verified_user"
+                  { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(255, 255, 255); width:16px; height:16px; display:inline-block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .absolute.top-0.left-0> [-177,3783,36,36]
+              { width:64px; height:64px; display:block; position:absolute; right:660px; bottom:258px; transform:matrix(0.986002, 0.166732, -0.166732, 0.986002, -386.194, 238.898); inset:0px 660px 258px 0px; willChange:transform, width, height }
+              <div .relative.flex.size-full.items-center.justify-center.overflow-hidden.bg-[#f6f6f6]> [-177,3783,36,36]
+                { backgroundColor:rgb(246, 246, 246); width:64px; height:64px; display:flex; justifyContent:center; alignItems:center; borderRadius:32px; boxShadow:rgba(255, 255, 255, 0.25) 0px 0px 16px 0px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                <img .object-contain> [-177,3783,36,36] @alt= @src=/images/customer-icons/tandem.png IMG  nat0x0
+                  { width:64px; height:64px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+              <div .-top-[6px].-right-[6px].absolute.size-[24px].items-center.justify-center.rounded-full.bg-[#ff5c00]> [0,0,0,0]
+                { backgroundColor:rgb(255, 92, 0); width:24px; height:24px; justifyContent:center; alignItems:center; borderRadius:3.35544e+07px; position:absolute; top:-6px; right:-6px; inset:-6px -6px auto auto }
+                <span .size-4.text-white> [0,0,0,0] "verified_user"
+                  { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(255, 255, 255); width:16px; height:16px; display:inline-block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .absolute.top-0.left-0> [-226,3700,32,32]
+              { width:64px; height:64px; display:block; position:absolute; right:660px; bottom:258px; transform:matrix(1, 0.000148815, -0.000148815, 1, -489.139, 65.4521); inset:0px 660px 258px 0px; willChange:transform, width, height }
+              <div .relative.flex.size-full.items-center.justify-center.overflow-hidden.bg-[#f6f6f6]> [-226,3700,32,32]
+                { backgroundColor:rgb(246, 246, 246); width:64px; height:64px; display:flex; justifyContent:center; alignItems:center; borderRadius:32px; boxShadow:rgba(255, 255, 255, 0.25) 0px 0px 16px 0px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                <img .object-contain> [-220,3706,20,20] @alt= @src=/images/customer-icons/series.svg IMG  nat0x0
+                  { width:40px; height:40px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+              <div .-top-[6px].-right-[6px].absolute.size-[24px].items-center.justify-center.rounded-full.bg-[#ff5c00]> [0,0,0,0]
+                { backgroundColor:rgb(255, 92, 0); width:24px; height:24px; justifyContent:center; alignItems:center; borderRadius:3.35544e+07px; position:absolute; top:-6px; right:-6px; inset:-6px -6px auto auto }
+                <span .size-4.text-white> [0,0,0,0] "verified_user"
+                  { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(255, 255, 255); width:16px; height:16px; display:inline-block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .absolute.top-0.left-0> [-259,3701,35,35]
+              { width:64px; height:64px; display:block; position:absolute; right:660px; bottom:258px; transform:matrix(0.995151, 0.0983615, -0.0983615, 0.995151, -553.128, 69.3276); inset:0px 660px 258px 0px; willChange:transform, width, height }
+              <div .relative.flex.size-full.items-center.justify-center.overflow-hidden.bg-[#f6f6f6]> [-259,3701,35,35]
+                { backgroundColor:rgb(246, 246, 246); width:64px; height:64px; display:flex; justifyContent:center; alignItems:center; borderRadius:32px; boxShadow:rgba(255, 255, 255, 0.25) 0px 0px 16px 0px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                <img .object-contain> [-259,3701,35,35] @alt= @src=/images/customer-icons/imagine.png IMG  nat0x0
+                  { width:64px; height:64px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+              <div .-top-[6px].-right-[6px].absolute.size-[24px].items-center.justify-center.rounded-full.bg-[#ff5c00]> [0,0,0,0]
+                { backgroundColor:rgb(255, 92, 0); width:24px; height:24px; justifyContent:center; alignItems:center; borderRadius:3.35544e+07px; position:absolute; top:-6px; right:-6px; inset:-6px -6px auto auto }
+                <span .size-4.text-white> [0,0,0,0] "verified_user"
+                  { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(255, 255, 255); width:16px; height:16px; display:inline-block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .absolute.top-0.left-0> [-287,3757,37,37]
+              { width:64px; height:64px; display:block; position:absolute; right:660px; bottom:258px; transform:matrix(0.980947, 0.194273, -0.194273, 0.980947, -607.865, 185.645); inset:0px 660px 258px 0px; willChange:transform, width, height }
+              <div .relative.flex.size-full.items-center.justify-center.overflow-hidden.bg-[#f6f6f6]> [-287,3757,37,37]
+                { backgroundColor:rgb(246, 246, 246); width:64px; height:64px; display:flex; justifyContent:center; alignItems:center; borderRadius:32px; boxShadow:rgba(255, 255, 255, 0.25) 0px 0px 16px 0px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                <img .object-contain> [-280,3764,23,23] @alt= @src=/images/customer-icons/sorcerer.png IMG  nat0x0
+                  { width:40px; height:40px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+              <div .-top-[6px].-right-[6px].absolute.size-[24px].items-center.justify-center.rounded-full.bg-[#ff5c00]> [0,0,0,0]
+                { backgroundColor:rgb(255, 92, 0); width:24px; height:24px; justifyContent:center; alignItems:center; borderRadius:3.35544e+07px; position:absolute; top:-6px; right:-6px; inset:-6px -6px auto auto }
+                <span .size-4.text-white> [0,0,0,0] "verified_user"
+                  { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(255, 255, 255); width:16px; height:16px; display:inline-block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+            <div .absolute.z-10> [156,3709,77,77]
+              { width:156.094px; height:156.094px; display:block; position:absolute; top:82.95px; left:283.95px; right:283.969px; bottom:82.9688px; zIndex:10 }
+              <div .absolute.rounded-full.bg-white> [167,3720,55,55]
+                { backgroundColor:rgb(255, 255, 255); width:111.5px; height:111.5px; display:block; borderRadius:3.35544e+07px; boxShadow:rgba(255, 255, 255, 0.4) 0px 0px 0px 11.15px, rgba(255, 255, 255, 0.4) 0px 0px 0px 22.3px; position:absolute; top:22.3px; left:22.3px; right:22.2969px; bottom:22.2969px }
+              <svg .[object.SVGAnimatedString]> [156,3709,77,77] @aria-label=Corgi @role=img SVG(2794b) viewBox="0 0 156.1 156.1"
+                { width:156.094px; height:156.094px; display:block; position:absolute; overflow:hidden; overflowX:hidden; overflowY:hidden; verticalAlign:middle }
+        <div .flex.flex-col.gap-3.p-3.md:p-5> [16,3827,358,155]
+          { padding:12px; width:358px; height:154.781px; display:flex; flexDirection:column; gap:12px; rowGap:12px; columnGap:12px }
+          <h3 .font-bold.font-sans.text-[18px].md:text-[20px].text-[#4a4a4a].leading-none.tracking-[-0.032em]> [28,3839,334,18] "Corgi"
+            { fontSize:18px; fontWeight:700; lineHeight:18px; letterSpacing:-0.576px; color:rgb(74, 74, 74); width:334px; height:18px; display:block }
+          <p .font-sans.text-[14px].md:text-[16px].text-[#4a4a4a].leading-[1.2].tracking-[-0.015em]> [28,3869,334,101] "Corgi is the AI-native, full-stack insurance platform built for startups. Corgi is faster, more cost-efficient, and built to perform because"
+            { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:100.781px; display:block }
+            <span .font-semibold.text-[#191919]> [209,3902,111,18] "we are full-stack"
+              { fontWeight:600; color:rgb(25, 25, 25); display:inline }

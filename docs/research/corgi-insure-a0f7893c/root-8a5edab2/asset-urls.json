@@ -1,0 +1,3331 @@
+[
+ {
+  "url": "https://www.corgi.insure/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2?dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "font/woff2",
+  "status": 200,
+  "len": "29288",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/static/media/f37_bolton_medium-s.p.0eujiozitcuyd.woff2?dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "font/woff2",
+  "status": 200,
+  "len": "25088",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/static/media/georgia-s.p.3gg1r15dioglq.woff2?dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "font/woff2",
+  "status": 200,
+  "len": "50664",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/static/media/f37_bolton_regular-s.p.2p4-eltsfbptd.woff2?dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "font/woff2",
+  "status": 200,
+  "len": "23712",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/corgi%20logo%20vector.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/press-releases/series-b-thumbnail.png",
+  "ct": "image/png",
+  "status": 200,
+  "len": "229484",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/eragon-logo.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/company%20logos/slash.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/company%20logos/athenahq.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/company%20logos/origami.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/company%20logos/deel.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/hero/brand-corgi.avif",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "9074",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/get-covered/cursor/green-plus.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/book%20a%20demo%20image.png",
+  "ct": "image/png",
+  "status": 200,
+  "len": "288810",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/company%20logos/tandem%20logo.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/company%20logos/bland.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/company%20logos/series.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/get-covered/cursor/cursor-fill.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "len": "482",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/company%20logos/promptingco.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Fcloud-sky-bg.webp&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "14532"
+ },
+ {
+  "url": "https://www.corgi.insure/images/get-covered/cursor/cursor-body.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "len": "481",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/company%20logos/photon.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/company%20logos/judgment-labs.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/company%20logos/intryc.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/company%20logos/artisan.png",
+  "ct": "image/png",
+  "status": 200,
+  "len": "10455",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=256&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "1842"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fseries-a-plant.png&w=256&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "7622"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fseed-leaf.webp&w=96&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "3774"
+ },
+ {
+  "url": "https://www.corgi.insure/images/journey-hero/ellipse.svg?dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "len": "270",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "798"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "1190"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fcustom-hands.png&w=256&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "5160"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fgrowth-tree.png&w=256&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "11572"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=640&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "14454"
+ },
+ {
+  "url": "https://www.corgi.insure/images/hero/hand-with-gradient.avif",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "12679",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/static/media/material-symbols-sharp.0brr5qufqoip9.woff2?dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "font/woff2",
+  "status": 200,
+  "len": "3507580",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/favicon.ico?v=5",
+  "ct": "image/vnd.microsoft.icon",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/book-demo-left-bg.webp",
+  "ct": "image/webp",
+  "status": 200,
+  "len": "75824",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/customer-icons/sorcerer.png",
+  "ct": "image/png",
+  "status": 200,
+  "len": "7879"
+ },
+ {
+  "url": "https://www.corgi.insure/images/customer-icons/deel.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/customer-icons/series.svg",
+  "ct": "image/svg+xml",
+  "status": 200
+ },
+ {
+  "url": "https://www.corgi.insure/images/customer-icons/bland.png",
+  "ct": "image/png",
+  "status": 200,
+  "len": "2586",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/customer-icons/eragon.png",
+  "ct": "image/png",
+  "status": 200,
+  "len": "496"
+ },
+ {
+  "url": "https://www.corgi.insure/images/customer-icons/origami.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/customer-icons/imagine.png",
+  "ct": "image/png",
+  "status": 200,
+  "len": "6081"
+ },
+ {
+  "url": "https://www.corgi.insure/images/customer-icons/tandem.png",
+  "ct": "image/png",
+  "status": 200,
+  "len": "4075"
+ },
+ {
+  "url": "https://www.corgi.insure/images/customer-icons/intryc-hd.png",
+  "ct": "image/png",
+  "status": 200,
+  "len": "3046",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/images/customer-icons/athenahq.svg",
+  "ct": "image/svg+xml",
+  "status": 200
+ },
+ {
+  "url": "https://forms-na2.hscollectedforms.net/collected-forms/v1/config/json?portalId=244821378&utk=",
+  "ct": "application/json;charset=utf-8",
+  "status": 200
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "710"
+ },
+ {
+  "url": "https://www.google.com/pagead/1p-user-list/18126814891/?random=1789185751109&cv=11&fst=1789185600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be69a0h2v9250935767za200zd9250935767xec&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938465~115938468~118131809~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.corgi.insure%2F&rcb=18&frm=0&tiba=Corgi%20Insurance%3A%20Startup%20Insurance%2C%20Quoted%20in%20Minutes&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1987029584.1789185751&uaa=x86&uab=64&uafvl=Chromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3HtHzKA6ZupZfH0zcZhmKOogeJxJSPe50Xi-WW2z1w4BiXJGaBDflH81lyss453Yc3z78tc0A5Ki2UxtDj08PAyIOcmB9tpk3p7soJfJs1N2nEUNO8lngKVFOrDMKaZYDbvxvsyWQiuDdKPOTCsakrUj9RUw18Ho1FgScSaEMzPFAX9dbnlwUvC8dx-98XM4X_okIjqpVGAWZYQsNhDMW6HnZDpi0gal1O7VtJfkSZiCO82p4pZfl6y44JKcXlli5mKwBgq8tdKMrFlaKo7Q3A&random=893242179&rmt_tld=0&ipr=y",
+  "ct": "image/gif",
+  "status": 200,
+  "len": "42"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "29518"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "39392"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "27230"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "13551"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "531"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "610"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "584"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "459"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcgl.webp&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "5376"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fflying-dog-right.webp&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "8195"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftech-eo.webp&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "9600"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcyber.webp&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "9093"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fdo.webp&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "12109"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fepl.webp&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "19404"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffl.webp&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "10008"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcorgi-phone.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "23503",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fmedia.webp&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "14417"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fflying-dog-left.webp&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "9818"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhnoa.webp&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "15077"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "37864"
+ },
+ {
+  "url": "https://www.corgi.insure/images/cgl-anatomy-connector.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "2919"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "2816"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "2820"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "3366"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "2994"
+ },
+ {
+  "url": "https://www.corgi.insure/brand/insurance-business.webp",
+  "ct": "image/webp",
+  "status": 200,
+  "len": "13740"
+ },
+ {
+  "url": "https://www.corgi.insure/brand/inc.webp",
+  "ct": "image/webp",
+  "status": 200,
+  "len": "3990"
+ },
+ {
+  "url": "https://www.corgi.insure/brand/the-wall-street-journal.webp",
+  "ct": "image/webp",
+  "status": 200,
+  "len": "20930"
+ },
+ {
+  "url": "https://www.corgi.insure/brand/the-economic-times.webp",
+  "ct": "image/webp",
+  "status": 200,
+  "len": "16204",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/brand/forbes.webp",
+  "ct": "image/webp",
+  "status": 200,
+  "len": "4106",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/brand/corgi-dog.svg",
+  "ct": "image/svg+xml",
+  "status": 200,
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Ffooter-bg.webp&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "53429"
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Fcloud-sky-bg.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Fcloud-sky-bg.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Fcloud-sky-bg.webp&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Fcloud-sky-bg.webp&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "4118",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Fcloud-sky-bg.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Fcloud-sky-bg.webp&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Fcloud-sky-bg.webp&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=3840&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=32&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=48&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=64&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=96&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=128&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=384&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=640&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=750&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=828&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=1080&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "6590",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=1200&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=1920&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=2048&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=3840&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=32&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=48&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=64&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=96&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=128&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=256&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=384&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=750&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=828&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=1080&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=1200&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=1920&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "27766",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=2048&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "1434",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "8721",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fseed-leaf.webp&w=256&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "7550",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fseries-a-plant.png&w=384&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "11817",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fgrowth-tree.png&w=640&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "30195",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fcustom-hands.png&w=384&q=60&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "10348",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "1020",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcursor%2Fdocument.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcorgi-phone.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcorgi-phone.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcorgi-phone.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcorgi-phone.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcorgi-phone.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcorgi-phone.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcorgi-phone.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fget-covered%2Fcorgi-phone.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "69794",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-10.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "626",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-10.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "95941",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-6.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "712",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-6.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-5.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-5.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-eragon.webp&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftestimonial-eragon.webp&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-9.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-9.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-2.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-2.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-3.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-1.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-1.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-7.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-7.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-8.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-8.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "97270",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-4.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=128&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcustomers%2Favatar-4.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fflying-dog-left.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "18851",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fflying-dog-left.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fflying-dog-right.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "8195",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fflying-dog-right.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fflying-dog-left.webp&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcgl.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcgl.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcgl.webp&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcgl.webp&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "8792",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcgl.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcgl.webp&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcgl.webp&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcgl.webp&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcyber.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcyber.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcyber.webp&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcyber.webp&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "15625",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcyber.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcyber.webp&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcyber.webp&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcyber.webp&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftech-eo.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftech-eo.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftech-eo.webp&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftech-eo.webp&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "17218",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftech-eo.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftech-eo.webp&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftech-eo.webp&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftech-eo.webp&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fdo.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fdo.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fdo.webp&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fdo.webp&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "33084",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fdo.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fdo.webp&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fdo.webp&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fdo.webp&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fepl.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fepl.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fepl.webp&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fepl.webp&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "19404",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fepl.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fepl.webp&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fepl.webp&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fepl.webp&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffl.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffl.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffl.webp&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffl.webp&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "23162",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffl.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffl.webp&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffl.webp&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffl.webp&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fmedia.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fmedia.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fmedia.webp&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fmedia.webp&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "14417",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fmedia.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fmedia.webp&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fmedia.webp&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fmedia.webp&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhnoa.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhnoa.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhnoa.webp&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhnoa.webp&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "15077",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhnoa.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhnoa.webp&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhnoa.webp&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhnoa.webp&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "6080",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "5919",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "5867",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "7099",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=32&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=48&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=64&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=96&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=256&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "5936",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=384&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=1920&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Ffooter-bg.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Ffooter-bg.webp&w=640&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Ffooter-bg.webp&w=750&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Ffooter-bg.webp&w=828&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "image/avif",
+  "status": 200,
+  "len": "18836",
+  "mobile": true
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Ffooter-bg.webp&w=1080&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Ffooter-bg.webp&w=1200&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/_next/image?url=%2Ffooter-bg.webp&w=2048&q=75&dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/manifest.webmanifest",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/favicon-96x96.png?v=5",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/icon.svg?v=5",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/favicon-32x32.png?v=5",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/favicon-16x16.png?v=5",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/apple-icon.png?v=5",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.corgi.insure/api/og?title=Startup+Insurance%2C+Quoted+in+Minutes&type=page&v=10",
+  "ct": "dom",
+  "status": 0
+ },
+ {
+  "url": "https://www.google.com/pagead/1p-user-list/18126814891/?random=1789186041297&cv=11&fst=1789185600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6992h1v9250935767za200zd9250935767xec&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938469~118131809~118897920~118897930~120213116~120385423~120469145~120469153&u_w=390&u_h=844&url=https%3A%2F%2Fwww.corgi.insure%2F&rcb=10&frm=0&tiba=Corgi%20Insurance%3A%20Startup%20Insurance%2C%20Quoted%20in%20Minutes&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=964124015.1789186041&uaa=arm&uab=64&uafvl=Chromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.6.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3OJVmmVL69uYNKfILgefOKfxUAQBDK_-DUlEnL55_GllmufBiXYNVoysqHbXWK71nAefcZqtvXbV4XGkmGevC2pd9unXcMmL8DWHGBe1rNfPI4CcbqjnBqA3xROK4CshmazBDH15ugDpa2o5YVrRNodRKeOHI2HMYKTD-ofE0jxAvAy6VszUMGl0PZL02o33Ws-2f83lhya6MIgdSoY0yo0z91AaAC0uL3dZqXLwaV33DfSwOnAlvdvIn8rPoAXgUpnhMhSZS71DvsFEppFg7w&random=4084189903&rmt_tld=0&ipr=y",
+  "ct": "image/gif",
+  "status": 200,
+  "len": "42",
+  "mobile": true
+ }
+]

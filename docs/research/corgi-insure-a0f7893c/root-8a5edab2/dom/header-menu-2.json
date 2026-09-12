@@ -1,0 +1,2924 @@
+{
+ "nodes": [
+  {
+   "tag": "div",
+   "cls": "pointer-events-auto hidden w-fit overflow-clip border-b-[1px] border-r-[1px] border-l-[1px] border-[#e1e1e1] bg-[rgba(255,255,255,0.85)] px-4 py-6 backdrop-blur-[6px] xl:block 2xl:px-8 min-[1680px]:px-16",
+   "rect": [
+    175,
+    92,
+    1234,
+    351
+   ],
+   "@role": "region",
+   "styles": {
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "lineHeight": "24px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(255, 255, 255, 0.85)",
+    "padding": "24px 16px",
+    "margin": "0px 0px 0px 175px",
+    "width": "1234px",
+    "height": "350.578px",
+    "display": "block",
+    "flexDirection": "row",
+    "borderBottom": "1px solid rgb(225, 225, 225)",
+    "borderTop": "0px solid rgb(225, 225, 225)",
+    "borderLeft": "1px solid rgb(225, 225, 225)",
+    "borderRight": "1px solid rgb(225, 225, 225)",
+    "opacity": "1",
+    "transition": "all",
+    "overflow": "clip",
+    "objectFit": "fill"
+   },
+   "kids": 1,
+   "children": [
+    {
+     "tag": "div",
+     "cls": "",
+     "rect": [
+      192,
+      116,
+      1200,
+      302
+     ],
+     "styles": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "color": "rgb(0, 0, 0)",
+      "width": "1200px",
+      "height": "301.578px",
+      "display": "block",
+      "flexDirection": "row",
+      "border": "0px solid rgb(44, 44, 44)",
+      "borderBottom": "0px solid rgb(44, 44, 44)",
+      "borderTop": "0px solid rgb(44, 44, 44)",
+      "borderLeft": "0px solid rgb(44, 44, 44)",
+      "borderRight": "0px solid rgb(44, 44, 44)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill"
+     },
+     "kids": 1,
+     "children": [
+      {
+       "tag": "div",
+       "cls": "relative flex items-start [--dropdown-column-width:200px] 2xl:[--dropdown-column-width:220px] min-[1680px]:[--dropdown-column-width:240px]",
+       "rect": [
+        192,
+        116,
+        1200,
+        302
+       ],
+       "styles": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "width": "1200px",
+        "height": "301.578px",
+        "display": "flex",
+        "flexDirection": "row",
+        "alignItems": "flex-start",
+        "border": "0px solid rgb(44, 44, 44)",
+        "borderBottom": "0px solid rgb(44, 44, 44)",
+        "borderTop": "0px solid rgb(44, 44, 44)",
+        "borderLeft": "0px solid rgb(44, 44, 44)",
+        "borderRight": "0px solid rgb(44, 44, 44)",
+        "position": "relative",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill"
+       },
+       "kids": 13,
+       "children": [
+        {
+         "tag": "div",
+         "cls": "pointer-events-none absolute top-1/2 left-0 flex h-[2400px] -translate-y-1/2 items-center justify-center",
+         "rect": [
+          192,
+          -933,
+          1,
+          2400
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "width": "1px",
+          "height": "2400px",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "borderLeft": "0px solid rgb(44, 44, 44)",
+          "borderRight": "0px solid rgb(44, 44, 44)",
+          "position": "absolute",
+          "top": "150.781px",
+          "right": "1199px",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill"
+         },
+         "kids": 1,
+         "children": [
+          {
+           "tag": "div",
+           "cls": "h-full w-[1px] bg-[#e1e1e1]",
+           "rect": [
+            192,
+            -933,
+            1,
+            2400
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(225, 225, 225)",
+            "width": "1px",
+            "height": "2400px",
+            "display": "block",
+            "flexDirection": "row",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 0,
+           "children": []
+          }
+         ]
+        },
+        {
+         "tag": "div",
+         "cls": "pointer-events-none absolute top-1/2 right-0 flex h-[2400px] -translate-y-1/2 items-center justify-center",
+         "rect": [
+          1391,
+          -933,
+          1,
+          2400
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "width": "1px",
+          "height": "2400px",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "borderLeft": "0px solid rgb(44, 44, 44)",
+          "borderRight": "0px solid rgb(44, 44, 44)",
+          "position": "absolute",
+          "top": "150.781px",
+          "left": "1199px",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill"
+         },
+         "kids": 1,
+         "children": [
+          {
+           "tag": "div",
+           "cls": "h-full w-[1px] bg-[#e1e1e1]",
+           "rect": [
+            1391,
+            -933,
+            1,
+            2400
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(225, 225, 225)",
+            "width": "1px",
+            "height": "2400px",
+            "display": "block",
+            "flexDirection": "row",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 0,
+           "children": []
+          }
+         ]
+        },
+        {
+         "tag": "div",
+         "cls": "pointer-events-none absolute top-[30px] left-1/2 h-[1px] w-[2400px] -translate-x-1/2 bg-[#e1e1e1]",
+         "rect": [
+          -408,
+          146,
+          2400,
+          1
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(225, 225, 225)",
+          "width": "2400px",
+          "height": "1px",
+          "display": "block",
+          "flexDirection": "row",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "borderLeft": "0px solid rgb(44, 44, 44)",
+          "borderRight": "0px solid rgb(44, 44, 44)",
+          "position": "absolute",
+          "top": "30px",
+          "left": "600px",
+          "right": "-1800px",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill"
+         },
+         "kids": 0,
+         "children": []
+        },
+        {
+         "tag": "div",
+         "cls": "pointer-events-none absolute bottom-0 left-1/2 h-[1px] w-[2400px] -translate-x-1/2 bg-[#e1e1e1]",
+         "rect": [
+          -408,
+          417,
+          2400,
+          1
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(225, 225, 225)",
+          "width": "2400px",
+          "height": "1px",
+          "display": "block",
+          "flexDirection": "row",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "borderLeft": "0px solid rgb(44, 44, 44)",
+          "borderRight": "0px solid rgb(44, 44, 44)",
+          "position": "absolute",
+          "top": "300.578px",
+          "left": "600px",
+          "right": "-1800px",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill"
+         },
+         "kids": 0,
+         "children": []
+        },
+        {
+         "tag": "div",
+         "cls": "pointer-events-none absolute top-1/2 flex h-[2400px] -translate-y-1/2 items-center justify-center",
+         "rect": [
+          392,
+          -933,
+          1,
+          2400
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "width": "1px",
+          "height": "2400px",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "borderLeft": "0px solid rgb(44, 44, 44)",
+          "borderRight": "0px solid rgb(44, 44, 44)",
+          "position": "absolute",
+          "top": "150.781px",
+          "left": "200px",
+          "right": "999px",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill"
+         },
+         "kids": 1,
+         "children": [
+          {
+           "tag": "div",
+           "cls": "h-full w-[1px] bg-[#e1e1e1]",
+           "rect": [
+            392,
+            -933,
+            1,
+            2400
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(225, 225, 225)",
+            "width": "1px",
+            "height": "2400px",
+            "display": "block",
+            "flexDirection": "row",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 0,
+           "children": []
+          }
+         ]
+        },
+        {
+         "tag": "div",
+         "cls": "pointer-events-none absolute top-1/2 flex h-[2400px] -translate-y-1/2 items-center justify-center",
+         "rect": [
+          592,
+          -933,
+          1,
+          2400
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "width": "1px",
+          "height": "2400px",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "borderLeft": "0px solid rgb(44, 44, 44)",
+          "borderRight": "0px solid rgb(44, 44, 44)",
+          "position": "absolute",
+          "top": "150.781px",
+          "left": "400px",
+          "right": "799px",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill"
+         },
+         "kids": 1,
+         "children": [
+          {
+           "tag": "div",
+           "cls": "h-full w-[1px] bg-[#e1e1e1]",
+           "rect": [
+            592,
+            -933,
+            1,
+            2400
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(225, 225, 225)",
+            "width": "1px",
+            "height": "2400px",
+            "display": "block",
+            "flexDirection": "row",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 0,
+           "children": []
+          }
+         ]
+        },
+        {
+         "tag": "div",
+         "cls": "pointer-events-none absolute top-1/2 flex h-[2400px] -translate-y-1/2 items-center justify-center",
+         "rect": [
+          792,
+          -933,
+          1,
+          2400
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "width": "1px",
+          "height": "2400px",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "borderLeft": "0px solid rgb(44, 44, 44)",
+          "borderRight": "0px solid rgb(44, 44, 44)",
+          "position": "absolute",
+          "top": "150.781px",
+          "left": "600px",
+          "right": "599px",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill"
+         },
+         "kids": 1,
+         "children": [
+          {
+           "tag": "div",
+           "cls": "h-full w-[1px] bg-[#e1e1e1]",
+           "rect": [
+            792,
+            -933,
+            1,
+            2400
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(225, 225, 225)",
+            "width": "1px",
+            "height": "2400px",
+            "display": "block",
+            "flexDirection": "row",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 0,
+           "children": []
+          }
+         ]
+        },
+        {
+         "tag": "div",
+         "cls": "pointer-events-none absolute top-1/2 flex h-[2400px] -translate-y-1/2 items-center justify-center",
+         "rect": [
+          992,
+          -933,
+          1,
+          2400
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "width": "1px",
+          "height": "2400px",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "borderLeft": "0px solid rgb(44, 44, 44)",
+          "borderRight": "0px solid rgb(44, 44, 44)",
+          "position": "absolute",
+          "top": "150.781px",
+          "left": "800px",
+          "right": "399px",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill"
+         },
+         "kids": 1,
+         "children": [
+          {
+           "tag": "div",
+           "cls": "h-full w-[1px] bg-[#e1e1e1]",
+           "rect": [
+            992,
+            -933,
+            1,
+            2400
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "backgroundColor": "rgb(225, 225, 225)",
+            "width": "1px",
+            "height": "2400px",
+            "display": "block",
+            "flexDirection": "row",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 0,
+           "children": []
+          }
+         ]
+        },
+        {
+         "tag": "div",
+         "cls": "flex w-[var(--dropdown-column-width,240px)] shrink-0 flex-col gap-2",
+         "rect": [
+          192,
+          116,
+          200,
+          302
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "width": "200px",
+          "height": "301.578px",
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "8px",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "borderLeft": "0px solid rgb(44, 44, 44)",
+          "borderRight": "0px solid rgb(44, 44, 44)",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill"
+         },
+         "kids": 2,
+         "children": [
+          {
+           "tag": "div",
+           "cls": "pl-2",
+           "rect": [
+            192,
+            116,
+            200,
+            24
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px 0px 0px 8px",
+            "width": "200px",
+            "height": "24px",
+            "display": "block",
+            "flexDirection": "row",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 1,
+           "children": [
+            {
+             "tag": "span",
+             "cls": "text-[12px] uppercase tracking-[-0.18px] text-[#4a4a4a]",
+             "rect": [
+              200,
+              121,
+              106,
+              16
+             ],
+             "text": "Core Operations",
+             "styles": {
+              "fontSize": "12px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "18px",
+              "letterSpacing": "-0.18px",
+              "color": "rgb(74, 74, 74)",
+              "display": "inline",
+              "flexDirection": "row",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "all",
+              "textTransform": "uppercase",
+              "objectFit": "fill"
+             },
+             "kids": 0,
+             "children": []
+            }
+           ]
+          },
+          {
+           "tag": "div",
+           "cls": "flex flex-col gap-2 p-2",
+           "rect": [
+            192,
+            148,
+            200,
+            270
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "padding": "8px",
+            "width": "200px",
+            "height": "269.578px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "8px",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 6,
+           "children": [
+            {
+             "tag": "a",
+             "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+             "rect": [
+              200,
+              156,
+              184,
+              33
+             ],
+             "@href": "/general-liability",
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "184px",
+              "height": "32.7969px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "gap": "8px",
+              "borderRadius": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+              "objectFit": "fill",
+              "cursor": "pointer"
+             },
+             "kids": 2,
+             "children": [
+              {
+               "tag": "span",
+               "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+               "rect": [
+                208,
+                164,
+                16,
+                16
+               ],
+               "text": "verified_user",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "\"Material Symbols Sharp\"",
+                "lineHeight": "16px",
+                "color": "rgb(74, 74, 74)",
+                "width": "16px",
+                "height": "16px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+               "rect": [
+                232,
+                164,
+                144,
+                17
+               ],
+               "text": "General Liability",
+               "styles": {
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "16.8px",
+                "letterSpacing": "-0.21px",
+                "color": "rgb(74, 74, 74)",
+                "width": "144px",
+                "height": "16.7969px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              }
+             ]
+            },
+            {
+             "tag": "a",
+             "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+             "rect": [
+              200,
+              197,
+              184,
+              33
+             ],
+             "@href": "/cyber-liability",
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "184px",
+              "height": "32.7969px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "gap": "8px",
+              "borderRadius": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+              "objectFit": "fill",
+              "cursor": "pointer"
+             },
+             "kids": 2,
+             "children": [
+              {
+               "tag": "span",
+               "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+               "rect": [
+                208,
+                205,
+                16,
+                16
+               ],
+               "text": "lock",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "\"Material Symbols Sharp\"",
+                "lineHeight": "16px",
+                "color": "rgb(74, 74, 74)",
+                "width": "16px",
+                "height": "16px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+               "rect": [
+                232,
+                205,
+                144,
+                17
+               ],
+               "text": "Cyber Liability",
+               "styles": {
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "16.8px",
+                "letterSpacing": "-0.21px",
+                "color": "rgb(74, 74, 74)",
+                "width": "144px",
+                "height": "16.7969px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              }
+             ]
+            },
+            {
+             "tag": "a",
+             "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+             "rect": [
+              200,
+              238,
+              184,
+              33
+             ],
+             "@href": "/tech-eo",
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "184px",
+              "height": "32.7969px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "gap": "8px",
+              "borderRadius": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+              "objectFit": "fill",
+              "cursor": "pointer"
+             },
+             "kids": 2,
+             "children": [
+              {
+               "tag": "span",
+               "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+               "rect": [
+                208,
+                246,
+                16,
+                16
+               ],
+               "text": "memory",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "\"Material Symbols Sharp\"",
+                "lineHeight": "16px",
+                "color": "rgb(74, 74, 74)",
+                "width": "16px",
+                "height": "16px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+               "rect": [
+                232,
+                246,
+                144,
+                17
+               ],
+               "text": "Tech E&O Insurance",
+               "styles": {
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "16.8px",
+                "letterSpacing": "-0.21px",
+                "color": "rgb(74, 74, 74)",
+                "width": "144px",
+                "height": "16.7969px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              }
+             ]
+            },
+            {
+             "tag": "a",
+             "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+             "rect": [
+              200,
+              278,
+              184,
+              33
+             ],
+             "@href": "/tech-eo",
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "184px",
+              "height": "32.7969px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "gap": "8px",
+              "borderRadius": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+              "objectFit": "fill",
+              "cursor": "pointer"
+             },
+             "kids": 2,
+             "children": [
+              {
+               "tag": "span",
+               "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+               "rect": [
+                208,
+                287,
+                16,
+                16
+               ],
+               "text": "smart_toy",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "\"Material Symbols Sharp\"",
+                "lineHeight": "16px",
+                "color": "rgb(74, 74, 74)",
+                "width": "16px",
+                "height": "16px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+               "rect": [
+                232,
+                286,
+                144,
+                17
+               ],
+               "text": "AI Liability",
+               "styles": {
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "16.8px",
+                "letterSpacing": "-0.21px",
+                "color": "rgb(74, 74, 74)",
+                "width": "144px",
+                "height": "16.7969px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              }
+             ]
+            },
+            {
+             "tag": "a",
+             "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+             "rect": [
+              200,
+              319,
+              184,
+              33
+             ],
+             "@href": "/media-liability",
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "184px",
+              "height": "32.7969px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "gap": "8px",
+              "borderRadius": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+              "objectFit": "fill",
+              "cursor": "pointer"
+             },
+             "kids": 2,
+             "children": [
+              {
+               "tag": "span",
+               "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+               "rect": [
+                208,
+                328,
+                16,
+                16
+               ],
+               "text": "campaign",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "\"Material Symbols Sharp\"",
+                "lineHeight": "16px",
+                "color": "rgb(74, 74, 74)",
+                "width": "16px",
+                "height": "16px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+               "rect": [
+                232,
+                327,
+                144,
+                17
+               ],
+               "text": "Media Liability",
+               "styles": {
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "16.8px",
+                "letterSpacing": "-0.21px",
+                "color": "rgb(74, 74, 74)",
+                "width": "144px",
+                "height": "16.7969px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              }
+             ]
+            },
+            {
+             "tag": "a",
+             "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+             "rect": [
+              200,
+              360,
+              184,
+              50
+             ],
+             "@href": "/hired-non-owned-auto",
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "184px",
+              "height": "49.5938px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "gap": "8px",
+              "borderRadius": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+              "objectFit": "fill",
+              "cursor": "pointer"
+             },
+             "kids": 2,
+             "children": [
+              {
+               "tag": "span",
+               "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+               "rect": [
+                208,
+                377,
+                16,
+                16
+               ],
+               "text": "directions_car",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "\"Material Symbols Sharp\"",
+                "lineHeight": "16px",
+                "color": "rgb(74, 74, 74)",
+                "width": "16px",
+                "height": "16px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+               "rect": [
+                232,
+                368,
+                144,
+                34
+               ],
+               "text": "Hired & Non-Owned Auto",
+               "styles": {
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "16.8px",
+                "letterSpacing": "-0.21px",
+                "color": "rgb(74, 74, 74)",
+                "width": "144px",
+                "height": "33.5938px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "div",
+         "cls": "flex w-[var(--dropdown-column-width,240px)] shrink-0 flex-col gap-2",
+         "rect": [
+          392,
+          116,
+          200,
+          162
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "width": "200px",
+          "height": "162.391px",
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "8px",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "borderLeft": "0px solid rgb(44, 44, 44)",
+          "borderRight": "0px solid rgb(44, 44, 44)",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill"
+         },
+         "kids": 2,
+         "children": [
+          {
+           "tag": "div",
+           "cls": "pl-2",
+           "rect": [
+            392,
+            116,
+            200,
+            24
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px 0px 0px 8px",
+            "width": "200px",
+            "height": "24px",
+            "display": "block",
+            "flexDirection": "row",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 1,
+           "children": [
+            {
+             "tag": "span",
+             "cls": "text-[12px] uppercase tracking-[-0.18px] text-[#4a4a4a]",
+             "rect": [
+              400,
+              121,
+              138,
+              16
+             ],
+             "text": "Management & People",
+             "styles": {
+              "fontSize": "12px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "18px",
+              "letterSpacing": "-0.18px",
+              "color": "rgb(74, 74, 74)",
+              "display": "inline",
+              "flexDirection": "row",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "all",
+              "textTransform": "uppercase",
+              "objectFit": "fill"
+             },
+             "kids": 0,
+             "children": []
+            }
+           ]
+          },
+          {
+           "tag": "div",
+           "cls": "flex flex-col gap-2 p-2",
+           "rect": [
+            392,
+            148,
+            200,
+            130
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "padding": "8px",
+            "width": "200px",
+            "height": "130.391px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "8px",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 3,
+           "children": [
+            {
+             "tag": "a",
+             "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+             "rect": [
+              400,
+              156,
+              184,
+              33
+             ],
+             "@href": "/directors-and-officers",
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "184px",
+              "height": "32.7969px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "gap": "8px",
+              "borderRadius": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+              "objectFit": "fill",
+              "cursor": "pointer"
+             },
+             "kids": 2,
+             "children": [
+              {
+               "tag": "span",
+               "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+               "rect": [
+                408,
+                164,
+                16,
+                16
+               ],
+               "text": "business_center",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "\"Material Symbols Sharp\"",
+                "lineHeight": "16px",
+                "color": "rgb(74, 74, 74)",
+                "width": "16px",
+                "height": "16px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+               "rect": [
+                432,
+                164,
+                144,
+                17
+               ],
+               "text": "Directors & Officers",
+               "styles": {
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "16.8px",
+                "letterSpacing": "-0.21px",
+                "color": "rgb(74, 74, 74)",
+                "width": "144px",
+                "height": "16.7969px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              }
+             ]
+            },
+            {
+             "tag": "a",
+             "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+             "rect": [
+              400,
+              197,
+              184,
+              33
+             ],
+             "@href": "/employment-practices-liability",
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "184px",
+              "height": "32.7969px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "gap": "8px",
+              "borderRadius": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+              "objectFit": "fill",
+              "cursor": "pointer"
+             },
+             "kids": 2,
+             "children": [
+              {
+               "tag": "span",
+               "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+               "rect": [
+                408,
+                205,
+                16,
+                16
+               ],
+               "text": "how_to_reg",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "\"Material Symbols Sharp\"",
+                "lineHeight": "16px",
+                "color": "rgb(74, 74, 74)",
+                "width": "16px",
+                "height": "16px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+               "rect": [
+                432,
+                205,
+                144,
+                17
+               ],
+               "text": "Employment Practices",
+               "styles": {
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "16.8px",
+                "letterSpacing": "-0.21px",
+                "color": "rgb(74, 74, 74)",
+                "width": "144px",
+                "height": "16.7969px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              }
+             ]
+            },
+            {
+             "tag": "a",
+             "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+             "rect": [
+              400,
+              238,
+              184,
+              33
+             ],
+             "@href": "/fiduciary-liability",
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "184px",
+              "height": "32.7969px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "gap": "8px",
+              "borderRadius": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+              "objectFit": "fill",
+              "cursor": "pointer"
+             },
+             "kids": 2,
+             "children": [
+              {
+               "tag": "span",
+               "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+               "rect": [
+                408,
+                246,
+                16,
+                16
+               ],
+               "text": "balance",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "\"Material Symbols Sharp\"",
+                "lineHeight": "16px",
+                "color": "rgb(74, 74, 74)",
+                "width": "16px",
+                "height": "16px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+               "rect": [
+                432,
+                246,
+                144,
+                17
+               ],
+               "text": "Fiduciary Liability",
+               "styles": {
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "16.8px",
+                "letterSpacing": "-0.21px",
+                "color": "rgb(74, 74, 74)",
+                "width": "144px",
+                "height": "16.7969px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "div",
+         "cls": "flex w-[var(--dropdown-column-width,240px)] shrink-0 flex-col gap-2",
+         "rect": [
+          592,
+          116,
+          200,
+          138
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "width": "200px",
+          "height": "138.391px",
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "8px",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "borderLeft": "0px solid rgb(44, 44, 44)",
+          "borderRight": "0px solid rgb(44, 44, 44)",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill"
+         },
+         "kids": 2,
+         "children": [
+          {
+           "tag": "div",
+           "cls": "pl-2",
+           "rect": [
+            592,
+            116,
+            200,
+            24
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px 0px 0px 8px",
+            "width": "200px",
+            "height": "24px",
+            "display": "block",
+            "flexDirection": "row",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 1,
+           "children": [
+            {
+             "tag": "span",
+             "cls": "text-[12px] uppercase tracking-[-0.18px] text-[#4a4a4a]",
+             "rect": [
+              600,
+              121,
+              100,
+              16
+             ],
+             "text": "Transportation",
+             "styles": {
+              "fontSize": "12px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "18px",
+              "letterSpacing": "-0.18px",
+              "color": "rgb(74, 74, 74)",
+              "display": "inline",
+              "flexDirection": "row",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "all",
+              "textTransform": "uppercase",
+              "objectFit": "fill"
+             },
+             "kids": 0,
+             "children": []
+            }
+           ]
+          },
+          {
+           "tag": "div",
+           "cls": "flex flex-col gap-2 p-2",
+           "rect": [
+            592,
+            148,
+            200,
+            106
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "padding": "8px",
+            "width": "200px",
+            "height": "106.391px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "8px",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 2,
+           "children": [
+            {
+             "tag": "a",
+             "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+             "rect": [
+              600,
+              156,
+              184,
+              33
+             ],
+             "@href": "https://trucking.corgi.insure/insurance/auto-liability",
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "184px",
+              "height": "32.7969px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "gap": "8px",
+              "borderRadius": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+              "objectFit": "fill",
+              "cursor": "pointer"
+             },
+             "kids": 2,
+             "children": [
+              {
+               "tag": "span",
+               "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+               "rect": [
+                608,
+                164,
+                16,
+                16
+               ],
+               "text": "traffic",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "\"Material Symbols Sharp\"",
+                "lineHeight": "16px",
+                "color": "rgb(74, 74, 74)",
+                "width": "16px",
+                "height": "16px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+               "rect": [
+                632,
+                164,
+                144,
+                17
+               ],
+               "text": "Auto Liability",
+               "styles": {
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "16.8px",
+                "letterSpacing": "-0.21px",
+                "color": "rgb(74, 74, 74)",
+                "width": "144px",
+                "height": "16.7969px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              }
+             ]
+            },
+            {
+             "tag": "a",
+             "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+             "rect": [
+              600,
+              197,
+              184,
+              50
+             ],
+             "@href": "https://trucking.corgi.insure/insurance/per-load-cargo",
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "184px",
+              "height": "49.5938px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "gap": "8px",
+              "borderRadius": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+              "objectFit": "fill",
+              "cursor": "pointer"
+             },
+             "kids": 2,
+             "children": [
+              {
+               "tag": "span",
+               "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+               "rect": [
+                608,
+                214,
+                16,
+                16
+               ],
+               "text": "inventory_2",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "\"Material Symbols Sharp\"",
+                "lineHeight": "16px",
+                "color": "rgb(74, 74, 74)",
+                "width": "16px",
+                "height": "16px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+               "rect": [
+                632,
+                205,
+                144,
+                34
+               ],
+               "text": "Contractual Liability Insurance - Cargo",
+               "styles": {
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "16.8px",
+                "letterSpacing": "-0.21px",
+                "color": "rgb(74, 74, 74)",
+                "width": "144px",
+                "height": "33.5938px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "div",
+         "cls": "flex w-[var(--dropdown-column-width,240px)] shrink-0 flex-col gap-2",
+         "rect": [
+          792,
+          116,
+          200,
+          81
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "width": "200px",
+          "height": "80.7969px",
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "8px",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "borderLeft": "0px solid rgb(44, 44, 44)",
+          "borderRight": "0px solid rgb(44, 44, 44)",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill"
+         },
+         "kids": 2,
+         "children": [
+          {
+           "tag": "div",
+           "cls": "pl-2",
+           "rect": [
+            792,
+            116,
+            200,
+            24
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px 0px 0px 8px",
+            "width": "200px",
+            "height": "24px",
+            "display": "block",
+            "flexDirection": "row",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 1,
+           "children": [
+            {
+             "tag": "span",
+             "cls": "text-[12px] uppercase tracking-[-0.18px] text-[#4a4a4a]",
+             "rect": [
+              800,
+              121,
+              38,
+              16
+             ],
+             "text": "RETAIL",
+             "styles": {
+              "fontSize": "12px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "18px",
+              "letterSpacing": "-0.18px",
+              "color": "rgb(74, 74, 74)",
+              "display": "inline",
+              "flexDirection": "row",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "all",
+              "textTransform": "uppercase",
+              "objectFit": "fill"
+             },
+             "kids": 0,
+             "children": []
+            }
+           ]
+          },
+          {
+           "tag": "div",
+           "cls": "flex flex-col gap-2 p-2",
+           "rect": [
+            792,
+            148,
+            200,
+            49
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "padding": "8px",
+            "width": "200px",
+            "height": "48.7969px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "8px",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 1,
+           "children": [
+            {
+             "tag": "a",
+             "cls": "flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]",
+             "rect": [
+              800,
+              156,
+              184,
+              33
+             ],
+             "@href": "/liquor-liability",
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "184px",
+              "height": "32.7969px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "gap": "8px",
+              "borderRadius": "8px",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+              "objectFit": "fill",
+              "cursor": "pointer"
+             },
+             "kids": 2,
+             "children": [
+              {
+               "tag": "span",
+               "cls": "h-4 w-4 shrink-0 text-[#4a4a4a]",
+               "rect": [
+                808,
+                164,
+                16,
+                16
+               ],
+               "text": "local_bar",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "\"Material Symbols Sharp\"",
+                "lineHeight": "16px",
+                "color": "rgb(74, 74, 74)",
+                "width": "16px",
+                "height": "16px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]",
+               "rect": [
+                832,
+                164,
+                144,
+                17
+               ],
+               "text": "Liquor Liability",
+               "styles": {
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "16.8px",
+                "letterSpacing": "-0.21px",
+                "color": "rgb(74, 74, 74)",
+                "width": "144px",
+                "height": "16.7969px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "div",
+         "cls": "flex w-[calc(var(--dropdown-column-width,240px)*2)] shrink-0 flex-col self-stretch",
+         "rect": [
+          992,
+          116,
+          400,
+          302
+         ],
+         "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "lineHeight": "24px",
+          "color": "rgb(0, 0, 0)",
+          "width": "400px",
+          "height": "301.578px",
+          "display": "flex",
+          "flexDirection": "column",
+          "border": "0px solid rgb(44, 44, 44)",
+          "borderBottom": "0px solid rgb(44, 44, 44)",
+          "borderTop": "0px solid rgb(44, 44, 44)",
+          "borderLeft": "0px solid rgb(44, 44, 44)",
+          "borderRight": "0px solid rgb(44, 44, 44)",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill"
+         },
+         "kids": 2,
+         "children": [
+          {
+           "tag": "div",
+           "cls": "flex h-[30px] items-center pl-2",
+           "rect": [
+            992,
+            116,
+            400,
+            30
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px 0px 0px 8px",
+            "width": "400px",
+            "height": "30px",
+            "display": "flex",
+            "flexDirection": "row",
+            "alignItems": "center",
+            "border": "0px solid rgb(44, 44, 44)",
+            "borderBottom": "0px solid rgb(44, 44, 44)",
+            "borderTop": "0px solid rgb(44, 44, 44)",
+            "borderLeft": "0px solid rgb(44, 44, 44)",
+            "borderRight": "0px solid rgb(44, 44, 44)",
+            "opacity": "1",
+            "transition": "all",
+            "objectFit": "fill"
+           },
+           "kids": 1,
+           "children": [
+            {
+             "tag": "span",
+             "cls": "text-[12px] uppercase tracking-[-0.18px] text-[#4a4a4a]",
+             "rect": [
+              1000,
+              122,
+              66,
+              18
+             ],
+             "text": "Highlights",
+             "styles": {
+              "fontSize": "12px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "18px",
+              "letterSpacing": "-0.18px",
+              "color": "rgb(74, 74, 74)",
+              "width": "66.2812px",
+              "height": "18px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "opacity": "1",
+              "transition": "all",
+              "textTransform": "uppercase",
+              "objectFit": "fill"
+             },
+             "kids": 0,
+             "children": []
+            }
+           ]
+          },
+          {
+           "tag": "div",
+           "cls": "flex min-h-[240px] flex-1 overflow-hidden rounded-[20px] border-[1px] border-[#e1e1e1]",
+           "rect": [
+            992,
+            146,
+            400,
+            272
+           ],
+           "styles": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "lineHeight": "24px",
+            "color": "rgb(0, 0, 0)",
+            "width": "400px",
+            "height": "271.578px",
+            "display": "flex",
+            "flexDirection": "row",
+            "borderRadius": "20px",
+            "border": "1px solid rgb(225, 225, 225)",
+            "borderBottom": "1px solid rgb(225, 225, 225)",
+            "borderTop": "1px solid rgb(225, 225, 225)",
+            "borderLeft": "1px solid rgb(225, 225, 225)",
+            "borderRight": "1px solid rgb(225, 225, 225)",
+            "opacity": "1",
+            "transition": "all",
+            "overflow": "hidden",
+            "objectFit": "fill"
+           },
+           "kids": 2,
+           "children": [
+            {
+             "tag": "a",
+             "cls": "group relative flex flex-1 flex-col items-start justify-end gap-1 overflow-hidden border-r-[1px] border-[#e1e1e1] p-2",
+             "rect": [
+              993,
+              147,
+              208,
+              270
+             ],
+             "@href": "/book-a-demo",
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "padding": "8px",
+              "width": "207.5px",
+              "height": "269.578px",
+              "display": "flex",
+              "flexDirection": "column",
+              "justifyContent": "flex-end",
+              "alignItems": "flex-start",
+              "gap": "4px",
+              "borderBottom": "0px solid rgb(225, 225, 225)",
+              "borderTop": "0px solid rgb(225, 225, 225)",
+              "borderLeft": "0px solid rgb(225, 225, 225)",
+              "borderRight": "1px solid rgb(225, 225, 225)",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "all",
+              "overflow": "hidden",
+              "objectFit": "fill",
+              "cursor": "pointer"
+             },
+             "kids": 4,
+             "children": [
+              {
+               "tag": "img",
+               "cls": "absolute inset-0 h-full w-full object-cover object-[20%_center]",
+               "rect": [
+                993,
+                147,
+                207,
+                270
+               ],
+               "@alt": "Book a demo",
+               "@src": "/images/book a demo image.png",
+               "img": {
+                "src": "https://www.corgi.insure/images/book%20a%20demo%20image.png",
+                "nw": 1370,
+                "nh": 804
+               },
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "width": "206.5px",
+                "height": "269.578px",
+                "maxWidth": "100%",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "position": "absolute",
+                "opacity": "1",
+                "transition": "all",
+                "overflow": "clip",
+                "objectFit": "cover",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "div",
+               "cls": "pointer-events-none absolute inset-0 bg-gradient-to-b from-white/0 from-[54%] via-white/[0.56] via-[70%] to-white/95 to-[85%]",
+               "rect": [
+                993,
+                147,
+                207,
+                270
+               ],
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "backgroundImage": "linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0000455678 0.0000200868 / 0.95) 85%)",
+                "width": "206.5px",
+                "height": "269.578px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "position": "absolute",
+                "opacity": "1",
+                "transition": "all",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "relative text-[12px] font-bold leading-[1.2] tracking-[-0.18px] text-[#191919] transition-colors group-hover:text-[#ff5c00]",
+               "rect": [
+                1001,
+                376,
+                74,
+                14
+               ],
+               "text": "Book a demo",
+               "styles": {
+                "fontSize": "12px",
+                "fontWeight": "700",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "14.4px",
+                "letterSpacing": "-0.18px",
+                "color": "rgb(25, 25, 25)",
+                "width": "74.0312px",
+                "height": "14.3906px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "position": "relative",
+                "opacity": "1",
+                "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              },
+              {
+               "tag": "span",
+               "cls": "relative text-[12px] leading-[1.2] tracking-[-0.18px] text-[#191919] transition-colors group-hover:text-[#ff5c00]",
+               "rect": [
+                1001,
+                394,
+                185,
+                14
+               ],
+               "text": "For customers who want guidance.",
+               "styles": {
+                "fontSize": "12px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "14.4px",
+                "letterSpacing": "-0.18px",
+                "color": "rgb(25, 25, 25)",
+                "width": "185.312px",
+                "height": "14.3906px",
+                "display": "block",
+                "flexDirection": "row",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "position": "relative",
+                "opacity": "1",
+                "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 0,
+               "children": []
+              }
+             ]
+            },
+            {
+             "tag": "div",
+             "cls": "relative flex flex-1 overflow-hidden",
+             "rect": [
+              1201,
+              147,
+              191,
+              270
+             ],
+             "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+              "lineHeight": "24px",
+              "color": "rgb(0, 0, 0)",
+              "width": "190.5px",
+              "height": "269.578px",
+              "display": "flex",
+              "flexDirection": "row",
+              "border": "0px solid rgb(44, 44, 44)",
+              "borderBottom": "0px solid rgb(44, 44, 44)",
+              "borderTop": "0px solid rgb(44, 44, 44)",
+              "borderLeft": "0px solid rgb(44, 44, 44)",
+              "borderRight": "0px solid rgb(44, 44, 44)",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "all",
+              "overflow": "hidden",
+              "objectFit": "fill"
+             },
+             "kids": 1,
+             "children": [
+              {
+               "tag": "a",
+               "cls": "group absolute inset-0 flex flex-col items-start justify-end gap-1 overflow-hidden bg-white p-2 transition-opacity duration-500 opacity-100",
+               "rect": [
+                1201,
+                147,
+                191,
+                270
+               ],
+               "@href": "/press-releases/series-b",
+               "styles": {
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                "lineHeight": "24px",
+                "color": "rgb(0, 0, 0)",
+                "backgroundColor": "rgb(255, 255, 255)",
+                "padding": "8px",
+                "width": "190.5px",
+                "height": "269.578px",
+                "display": "flex",
+                "flexDirection": "column",
+                "justifyContent": "flex-end",
+                "alignItems": "flex-start",
+                "gap": "4px",
+                "border": "0px solid rgb(44, 44, 44)",
+                "borderBottom": "0px solid rgb(44, 44, 44)",
+                "borderTop": "0px solid rgb(44, 44, 44)",
+                "borderLeft": "0px solid rgb(44, 44, 44)",
+                "borderRight": "0px solid rgb(44, 44, 44)",
+                "position": "absolute",
+                "opacity": "1",
+                "transition": "opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+                "overflow": "hidden",
+                "objectFit": "fill",
+                "cursor": "pointer"
+               },
+               "kids": 4,
+               "children": [
+                {
+                 "tag": "img",
+                 "cls": "absolute inset-0 h-full w-full object-cover",
+                 "rect": [
+                  1201,
+                  147,
+                  191,
+                  270
+                 ],
+                 "@alt": "$1.3B valuation",
+                 "@src": "/images/press-releases/series-b-thumbnail.png",
+                 "img": {
+                  "src": "https://www.corgi.insure/images/press-releases/series-b-thumbnail.png",
+                  "nw": 1024,
+                  "nh": 520
+                 },
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "width": "190.5px",
+                  "height": "269.578px",
+                  "maxWidth": "100%",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "borderLeft": "0px solid rgb(44, 44, 44)",
+                  "borderRight": "0px solid rgb(44, 44, 44)",
+                  "position": "absolute",
+                  "opacity": "1",
+                  "transition": "all",
+                  "overflow": "clip",
+                  "objectFit": "cover",
+                  "cursor": "pointer"
+                 },
+                 "kids": 0,
+                 "children": []
+                },
+                {
+                 "tag": "div",
+                 "cls": "pointer-events-none absolute inset-0 bg-gradient-to-b from-white/0 from-[54%] via-white/[0.56] via-[70%] to-white/95 to-[85%]",
+                 "rect": [
+                  1201,
+                  147,
+                  191,
+                  270
+                 ],
+                 "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                  "lineHeight": "24px",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundImage": "linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0000455678 0.0000200868 / 0.95) 85%)",
+                  "width": "190.5px",
+                  "height": "269.578px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "borderLeft": "0px solid rgb(44, 44, 44)",
+                  "borderRight": "0px solid rgb(44, 44, 44)",
+                  "position": "absolute",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "cursor": "pointer"
+                 },
+                 "kids": 0,
+                 "children": []
+                },
+                {
+                 "tag": "span",
+                 "cls": "relative text-[12px] font-bold leading-[1.2] tracking-[-0.18px] text-[#191919] transition-colors group-hover:text-[#ff5c00]",
+                 "rect": [
+                  1209,
+                  376,
+                  87,
+                  14
+                 ],
+                 "text": "$1.3B valuation",
+                 "styles": {
+                  "fontSize": "12px",
+                  "fontWeight": "700",
+                  "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                  "lineHeight": "14.4px",
+                  "letterSpacing": "-0.18px",
+                  "color": "rgb(25, 25, 25)",
+                  "width": "87.1406px",
+                  "height": "14.3906px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "borderLeft": "0px solid rgb(44, 44, 44)",
+                  "borderRight": "0px solid rgb(44, 44, 44)",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "objectFit": "fill",
+                  "cursor": "pointer"
+                 },
+                 "kids": 0,
+                 "children": []
+                },
+                {
+                 "tag": "span",
+                 "cls": "relative text-[12px] leading-[1.2] tracking-[-0.18px] text-[#191919] transition-colors group-hover:text-[#ff5c00]",
+                 "rect": [
+                  1209,
+                  394,
+                  151,
+                  14
+                 ],
+                 "text": "Corgi raises $160M Series B.",
+                 "styles": {
+                  "fontSize": "12px",
+                  "fontWeight": "400",
+                  "fontFamily": "Geist, \"Geist Fallback\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                  "lineHeight": "14.4px",
+                  "letterSpacing": "-0.18px",
+                  "color": "rgb(25, 25, 25)",
+                  "width": "150.891px",
+                  "height": "14.3906px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px solid rgb(44, 44, 44)",
+                  "borderBottom": "0px solid rgb(44, 44, 44)",
+                  "borderTop": "0px solid rgb(44, 44, 44)",
+                  "borderLeft": "0px solid rgb(44, 44, 44)",
+                  "borderRight": "0px solid rgb(44, 44, 44)",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+                  "objectFit": "fill",
+                  "cursor": "pointer"
+                 },
+                 "kids": 0,
+                 "children": []
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+<section .relative.flex.h-svh.flex-col.items-center.pt-[160px]> [0,0,768,1024]
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(29, 29, 29); padding:160px 0px 0px; width:768px; height:1024px; display:flex; flexDirection:column; alignItems:center; position:relative }
+  <div .pointer-events-none.absolute.inset-0> [0,0,768,1024]
+    { width:768px; height:1024px; display:block; position:absolute }
+    <img .object-cover> [0,0,768,1024] @alt= @src=/_next/image?url=%2Fimages%2Fhero%2Fcloud-sky-bg.webp&w=3840&q=75&dpl= IMG /_next/image?url=%2Fimages%2Fhero%2Fcloud-sky-bg.webp&w=828&q=75 nat768x515
+      { width:768px; height:1024px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+    <div .absolute.inset-0.bg-[rgba(79,179,255,0.05)].mix-blend-multiply> [0,0,768,1024]
+      { backgroundColor:rgba(79, 179, 255, 0.05); width:768px; height:1024px; display:block; position:absolute; mixBlendMode:multiply }
+    <div .absolute.inset-0.bg-gradient-to-b.from-[rgba(246,246,246,0)].from-[72%].to-[#f6f6f6].to-[95%]> [0,0,768,1024]
+      { backgroundImage:linear-gradient(in oklab, rgba(246, 246, 246, 0) 72%, rgb(246, 246, 246) 95%); width:768px; height:1024px; display:block; position:absolute }
+  <div .relative.flex.flex-1.items-center.w-full.md:w-auto> [14,160,741,784]
+    { width:740.516px; height:784px; display:flex; alignItems:center; flex:1 1 0%; position:relative }
+    <div .relative.w-full.md:w-auto> [14,373,741,358]
+      { width:740.516px; height:358.391px; display:block; position:relative }
+      <div .pointer-events-none.absolute.right-[-40px].top-[-100px].z-10.md:right-[-72px].md:top-[-112px].lg:right-[-108px].lg:top-[-136px]> [546,261,280,252]
+        { width:280px; height:251.906px; display:block; position:absolute; top:-112px; left:532.516px; right:-72px; bottom:218.484px; zIndex:10 }
+        <div .-rotate-[16.78deg]> [516,226,341,322]
+          { width:280px; height:251.906px; display:block; rotate:-16.78deg }
+          <div .aspect-[299/269].w-[200px].md:w-[280px].lg:w-[299px]> [516,226,341,322]
+            { width:280px; height:251.906px; display:block; aspectRatio:299 / 269 }
+            <div .relative.h-full.w-full> [516,226,341,322]
+              { width:280px; height:251.906px; display:block; position:relative }
+              <img .absolute.inset-0.h-full.w-full.max-w-none.object-cover> [516,226,341,322] @alt=Corgi mascot @src=/images/hero/brand-corgi.avif IMG /images/hero/brand-corgi.avif nat272x245
+                { width:280px; height:251.906px; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; clipPath:inset(0px calc(66.6667% - 1px) 0px 0px); verticalAlign:middle }
+              <img .absolute.inset-0.h-full.w-full.max-w-none.object-cover> [516,226,341,322] @alt= @src=/images/hero/brand-corgi.avif IMG /images/hero/brand-corgi.avif nat272x245
+                { width:280px; height:251.906px; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; clipPath:inset(0px calc(33.3333% - 1px)); verticalAlign:middle }
+              <img .absolute.inset-0.h-full.w-full.max-w-none.object-cover> [516,226,341,322] @alt= @src=/images/hero/brand-corgi.avif IMG /images/hero/brand-corgi.avif nat272x245
+                { width:280px; height:251.906px; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; clipPath:inset(0px 0px 0px calc(66.6667% - 1px)); verticalAlign:middle }
+      <div .relative.flex.flex-col.items-center.gap-6.px-4.py-12.text-center.md:px-[120px].md:py-16> [14,373,741,358]
+        { textAlign:center; padding:64px 120px; width:740.516px; height:358.391px; display:flex; flexDirection:column; alignItems:center; gap:24px; rowGap:24px; columnGap:24px; position:relative }
+        <div .flex.flex-col.items-center.gap-6> [134,437,501,165]
+          { width:500.516px; height:165.188px; display:flex; flexDirection:column; alignItems:center; gap:24px; rowGap:24px; columnGap:24px }
+          <h1 .homepage-hero-heading-font.mx-auto.max-w-[752px].font-medium> [134,437,501,98] "Business Insurance at the"
+            { fontSize:48px; fontWeight:500; fontFamily:heroHeading; lineHeight:48px; letterSpacing:-1.536px; color:rgb(25, 25, 25); width:500.516px; height:98px; maxWidth:752px; display:block }
+            <br> [582,431,0,60]
+              { display:inline }
+            <span .homepage-hero-serif-font.text-[#FF5C00].italic> [261,483,374,55] "Speed of Compute."
+              { fontWeight:400; fontFamily:heroSerif; fontStyle:italic; color:rgb(255, 92, 0); display:inline }
+          <p .text-body-large.text-[#4e4e4e]> [190,559,389,43] "No confusion, no waiting. Get a quote in minutes. Modular coverage, built for founders by founders."
+            { fontSize:18px; lineHeight:21.6px; letterSpacing:-0.27px; color:rgb(78, 78, 78); width:388.953px; height:43.1875px; display:block }
+            <br .hidden.md:block> [577,558,0,23]
+              { display:block }
+        <div .pressable-button.pressable-smooth-corner.bg-[#cc4a00].relative.z-10.w-fit> [308,626,152,41]
+          { backgroundColor:rgb(204, 74, 0); padding:0px 0px 4px; width:152.25px; height:41.2031px; display:block; borderRadius:16px; position:relative; zIndex:10; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+          <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#ff5c00].hover:bg-[#ff7d33].active:bg-[#ff9d66].px-4> [308,626,152,37] "Get insured now" @href=https://app.corgi.insure/sign-up
+            { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(255, 255, 255); backgroundColor:rgb(255, 92, 0); padding:8px 16px; width:152.25px; height:37.2031px; display:flex; justifyContent:center; alignItems:center; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+        <div .pointer-events-none.absolute.bottom-[-80px].left-[-64px].h-[180px].w-[238px].md:bottom-[-88px].md:left-[-56px].md:h-[241px].md:w-[318px]> [-42,578,318,241]
+          { width:318px; height:241px; display:block; position:absolute; top:205.391px; left:-56px; right:478.516px; bottom:-88px }
+          <div .absolute.inset-0> [-42,578,318,241]
+            { width:318px; height:241px; display:block; position:absolute }
+            <div .relative.h-full.w-full> [-42,578,318,241]
+              { width:318px; height:241px; display:block; position:relative }
+              <img .absolute.inset-0.h-full.w-full.max-w-none.object-cover> [-42,578,318,241] @alt= @src=/images/hero/hand-with-gradient.avif IMG /images/hero/hand-with-gradient.avif nat318x241
+                { width:318px; height:241px; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; clipPath:inset(0px calc(66.6667% - 1px) 0px 0px); verticalAlign:middle }
+              <img .absolute.inset-0.h-full.w-full.max-w-none.object-cover> [-42,578,318,241] @alt= @src=/images/hero/hand-with-gradient.avif IMG /images/hero/hand-with-gradient.avif nat318x241
+                { width:318px; height:241px; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; clipPath:inset(0px calc(33.3333% - 1px)); verticalAlign:middle }
+              <img .absolute.inset-0.h-full.w-full.max-w-none.object-cover> [-42,578,318,241] @alt= @src=/images/hero/hand-with-gradient.avif IMG /images/hero/hand-with-gradient.avif nat318x241
+                { width:318px; height:241px; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; clipPath:inset(0px 0px 0px calc(66.6667% - 1px)); verticalAlign:middle }
+  <div .relative.z-10.w-full.bg-[#f6f6f6].py-6> [0,944,768,80]
+    { backgroundColor:rgb(246, 246, 246); padding:24px 0px; width:768px; height:80px; display:block; position:relative; zIndex:10 }
+    <div .pointer-events-none.absolute.bottom-0.left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [-816,1023,2400,1]
+      { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; top:79px; left:384px; right:-2016px; translate:-50% }
+    <div .w-full.overflow-hidden> [0,968,768,32]
+      { width:768px; height:32px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden; contain:content }
+      <div .logo-carousel-track.flex.w-max.items-center.gap-20> [-53,968,9860,32]
+        { width:9860px; height:32px; display:flex; alignItems:center; gap:80px; rowGap:80px; columnGap:80px; transform:matrix(1, 0, 0, 1, -52.7501, 0); animation:60s linear infinite logo-scroll }
+        <div .flex.shrink-0.items-center.gap-20> [-53,968,2405,32]
+          { width:2405px; height:32px; display:flex; alignItems:center; flex:0 0 auto; gap:80px; rowGap:80px; columnGap:80px }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [-53,975,192,18] @alt=Artisan @src=/images/company logos/artisan.png IMG /images/company%20logos/artisan.png nat576x54
+            { width:192px; height:18px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [219,974,108,20] @alt=AthenaHQ @src=/images/company logos/athenahq.svg IMG /images/company%20logos/athenahq.svg nat443x82
+            { width:108px; height:20px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [407,972,91,24] @alt=Bland @src=/images/company logos/bland.svg IMG /images/company%20logos/bland.svg nat308x81
+            { width:91px; height:24px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [578,971,79,27] @alt=Deel @src=/images/company logos/deel.svg IMG /images/company%20logos/deel.svg nat727x246
+            { width:79px; height:27px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [737,971,78,27] @alt=Slash @src=/images/company logos/slash.svg IMG /images/company%20logos/slash.svg nat562x195
+            { width:78px; height:27px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [895,973,91,23] @alt=Eragon @src=/images/eragon-logo.svg IMG /images/eragon-logo.svg nat324x82
+            { width:91px; height:23px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [1066,970,73,28] @alt=Intryc @src=/images/company logos/intryc.svg IMG /images/company%20logos/intryc.svg nat210x81
+            { width:73px; height:28px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [1219,973,99,22] @alt=Origami @src=/images/company logos/origami.svg IMG /images/company%20logos/origami.svg nat369x82
+            { width:99px; height:22px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [1398,972,113,24] @alt=Photon @src=/images/company logos/photon.svg IMG /images/company%20logos/photon.svg nat268x57
+            { width:113px; height:24px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [1591,971,79,27] @alt=Deel @src=/images/company logos/deel.svg IMG /images/company%20logos/deel.svg nat727x246
+            { width:79px; height:27px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [1750,975,148,18] @alt=Judgment Labs @src=/images/company logos/judgment-labs.svg IMG /images/company%20logos/judgment-labs.svg nat844x103
+            { width:148px; height:18px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [1978,968,48,32] @alt=Series @src=/images/company logos/series.svg IMG /images/company%20logos/series.svg nat122x81
+            { width:48px; height:32px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [2106,975,94,18] @alt=Tandem @src=/images/company logos/tandem logo.svg IMG /images/company%20logos/tandem%20logo.svg nat800x153
+            { width:94px; height:18px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [2280,969,72,30] @alt=PromptingCo @src=/images/company logos/promptingco.svg IMG /images/company%20logos/promptingco.svg nat197x82
+            { width:72px; height:30px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+        <div .flex.shrink-0.items-center.gap-20> [2432,968,2405,32]
+          { width:2405px; height:32px; display:flex; alignItems:center; flex:0 0 auto; gap:80px; rowGap:80px; columnGap:80px }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [2432,975,192,18] @alt=Artisan @src=/images/company logos/artisan.png IMG /images/company%20logos/artisan.png nat576x54
+            { width:192px; height:18px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [2704,974,108,20] @alt=AthenaHQ @src=/images/company logos/athenahq.svg IMG /images/company%20logos/athenahq.svg nat443x82
+            { width:108px; height:20px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [2892,972,91,24] @alt=Bland @src=/images/company logos/bland.svg IMG /images/company%20logos/bland.svg nat308x81
+            { width:91px; height:24px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [3063,971,79,27] @alt=Deel @src=/images/company logos/deel.svg IMG /images/company%20logos/deel.svg nat727x246
+            { width:79px; height:27px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [3222,971,78,27] @alt=Slash @src=/images/company logos/slash.svg IMG /images/company%20logos/slash.svg nat562x195
+            { width:78px; height:27px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [3380,973,91,23] @alt=Eragon @src=/images/eragon-logo.svg IMG /images/eragon-logo.svg nat324x82
+            { width:91px; height:23px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [3551,970,73,28] @alt=Intryc @src=/images/company logos/intryc.svg IMG /images/company%20logos/intryc.svg nat210x81
+            { width:73px; height:28px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [3704,973,99,22] @alt=Origami @src=/images/company logos/origami.svg IMG /images/company%20logos/origami.svg nat369x82
+            { width:99px; height:22px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [3883,972,113,24] @alt=Photon @src=/images/company logos/photon.svg IMG /images/company%20logos/photon.svg nat268x57
+            { width:113px; height:24px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [4076,971,79,27] @alt=Deel @src=/images/company logos/deel.svg IMG /images/company%20logos/deel.svg nat727x246
+            { width:79px; height:27px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [4235,975,148,18] @alt=Judgment Labs @src=/images/company logos/judgment-labs.svg IMG /images/company%20logos/judgment-labs.svg nat844x103
+            { width:148px; height:18px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [4463,968,48,32] @alt=Series @src=/images/company logos/series.svg IMG /images/company%20logos/series.svg nat122x81
+            { width:48px; height:32px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [4591,975,94,18] @alt=Tandem @src=/images/company logos/tandem logo.svg IMG /images/company%20logos/tandem%20logo.svg nat800x153
+            { width:94px; height:18px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [4765,969,72,30] @alt=PromptingCo @src=/images/company logos/promptingco.svg IMG /images/company%20logos/promptingco.svg nat197x82
+            { width:72px; height:30px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+        <div .flex.shrink-0.items-center.gap-20> [4917,968,2405,32]
+          { width:2405px; height:32px; display:flex; alignItems:center; flex:0 0 auto; gap:80px; rowGap:80px; columnGap:80px }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [4917,975,192,18] @alt=Artisan @src=/images/company logos/artisan.png IMG /images/company%20logos/artisan.png nat576x54
+            { width:192px; height:18px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [5189,974,108,20] @alt=AthenaHQ @src=/images/company logos/athenahq.svg IMG /images/company%20logos/athenahq.svg nat443x82
+            { width:108px; height:20px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [5377,972,91,24] @alt=Bland @src=/images/company logos/bland.svg IMG /images/company%20logos/bland.svg nat308x81
+            { width:91px; height:24px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [5548,971,79,27] @alt=Deel @src=/images/company logos/deel.svg IMG /images/company%20logos/deel.svg nat727x246
+            { width:79px; height:27px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [5707,971,78,27] @alt=Slash @src=/images/company logos/slash.svg IMG /images/company%20logos/slash.svg nat562x195
+            { width:78px; height:27px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [5865,973,91,23] @alt=Eragon @src=/images/eragon-logo.svg IMG /images/eragon-logo.svg nat324x82
+            { width:91px; height:23px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [6036,970,73,28] @alt=Intryc @src=/images/company logos/intryc.svg IMG /images/company%20logos/intryc.svg nat210x81
+            { width:73px; height:28px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [6189,973,99,22] @alt=Origami @src=/images/company logos/origami.svg IMG /images/company%20logos/origami.svg nat369x82
+            { width:99px; height:22px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [6368,972,113,24] @alt=Photon @src=/images/company logos/photon.svg IMG /images/company%20logos/photon.svg nat268x57
+            { width:113px; height:24px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [6561,971,79,27] @alt=Deel @src=/images/company logos/deel.svg IMG /images/company%20logos/deel.svg nat727x246
+            { width:79px; height:27px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [6720,975,148,18] @alt=Judgment Labs @src=/images/company logos/judgment-labs.svg IMG /images/company%20logos/judgment-labs.svg nat844x103
+            { width:148px; height:18px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [6948,968,48,32] @alt=Series @src=/images/company logos/series.svg IMG /images/company%20logos/series.svg nat122x81
+            { width:48px; height:32px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [7076,975,94,18] @alt=Tandem @src=/images/company logos/tandem logo.svg IMG /images/company%20logos/tandem%20logo.svg nat800x153
+            { width:94px; height:18px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [7250,969,72,30] @alt=PromptingCo @src=/images/company logos/promptingco.svg IMG /images/company%20logos/promptingco.svg nat197x82
+            { width:72px; height:30px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+        <div .flex.shrink-0.items-center.gap-20> [7402,968,2405,32]
+          { width:2405px; height:32px; display:flex; alignItems:center; flex:0 0 auto; gap:80px; rowGap:80px; columnGap:80px }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [7402,975,192,18] @alt=Artisan @src=/images/company logos/artisan.png IMG /images/company%20logos/artisan.png nat576x54
+            { width:192px; height:18px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [7674,974,108,20] @alt=AthenaHQ @src=/images/company logos/athenahq.svg IMG /images/company%20logos/athenahq.svg nat443x82
+            { width:108px; height:20px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [7862,972,91,24] @alt=Bland @src=/images/company logos/bland.svg IMG /images/company%20logos/bland.svg nat308x81
+            { width:91px; height:24px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [8033,971,79,27] @alt=Deel @src=/images/company logos/deel.svg IMG /images/company%20logos/deel.svg nat727x246
+            { width:79px; height:27px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [8192,971,78,27] @alt=Slash @src=/images/company logos/slash.svg IMG /images/company%20logos/slash.svg nat562x195
+            { width:78px; height:27px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [8350,973,91,23] @alt=Eragon @src=/images/eragon-logo.svg IMG /images/eragon-logo.svg nat324x82
+            { width:91px; height:23px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [8521,970,73,28] @alt=Intryc @src=/images/company logos/intryc.svg IMG /images/company%20logos/intryc.svg nat210x81
+            { width:73px; height:28px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [8674,973,99,22] @alt=Origami @src=/images/company logos/origami.svg IMG /images/company%20logos/origami.svg nat369x82
+            { width:99px; height:22px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [8853,972,113,24] @alt=Photon @src=/images/company logos/photon.svg IMG /images/company%20logos/photon.svg nat268x57
+            { width:113px; height:24px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [9046,971,79,27] @alt=Deel @src=/images/company logos/deel.svg IMG /images/company%20logos/deel.svg nat727x246
+            { width:79px; height:27px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [9205,975,148,18] @alt=Judgment Labs @src=/images/company logos/judgment-labs.svg IMG /images/company%20logos/judgment-labs.svg nat844x103
+            { width:148px; height:18px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [9433,968,48,32] @alt=Series @src=/images/company logos/series.svg IMG /images/company%20logos/series.svg nat122x81
+            { width:48px; height:32px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [9561,975,94,18] @alt=Tandem @src=/images/company logos/tandem logo.svg IMG /images/company%20logos/tandem%20logo.svg nat800x153
+            { width:94px; height:18px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <img .h-[var(--logo-mobile-height)].w-[var(--logo-mobile-width)].object-contain.md:h-[var(--logo-height)].md:w-[var(--logo-width)].grayscale> [9735,969,72,30] @alt=PromptingCo @src=/images/company logos/promptingco.svg IMG /images/company%20logos/promptingco.svg nat197x82
+            { width:72px; height:30px; maxWidth:100%; display:block; filter:grayscale(1); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }

@@ -1,0 +1,306 @@
+<footer .relative.flex.w-full.flex-col.bg-[#f6f6f6]> [0,10340,390,2948]
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(0, 0, 0); backgroundColor:rgb(246, 246, 246); width:390px; height:2947.72px; display:flex; flexDirection:column; position:relative }
+  <section .relative.w-full.overflow-hidden.border-t.border-b.border-[#585858].bg-[#313131].px-4.py-4.md:px-6> [0,10340,390,490]
+    { backgroundColor:rgb(49, 49, 49); padding:16px; width:390px; height:489.734px; display:block; borderTop:1px solid rgb(88, 88, 88); borderBottom:1px solid rgb(88, 88, 88); position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .pointer-events-none.absolute.top-0.bottom-0.left-[max(16px,calc((100%-1600px)/2))].w-px.bg-[#585858].md:left-[max(24px,calc((100%-1600px)/2))].lg:left-[max(64px,calc((100%-1600px)/2))]> [16,10341,1,488]
+      { backgroundColor:rgb(88, 88, 88); width:1px; height:487.734px; display:block; position:absolute; left:16px; right:373px; inset:0px 373px 0px 16px }
+    <div .pointer-events-none.absolute.top-0.bottom-0.right-[max(16px,calc((100%-1600px)/2))].w-px.bg-[#585858].md:right-[max(24px,calc((100%-1600px)/2))].lg:right-[max(64px,calc((100%-1600px)/2))]> [373,10341,1,488]
+      { backgroundColor:rgb(88, 88, 88); width:1px; height:487.734px; display:block; position:absolute; left:373px; right:16px; inset:0px 16px 0px 373px }
+    <div .relative.mx-auto.max-w-[1600px]> [16,10357,358,456]
+      { width:358px; height:455.734px; maxWidth:1600px; display:block; position:relative }
+      <div .pointer-events-none.absolute.top-0.left-1/2.h-px.w-screen.-translate-x-1/2.bg-[#585858]> [0,10357,390,1]
+        { backgroundColor:rgb(88, 88, 88); width:390px; height:1px; display:block; position:absolute; left:179px; right:-211px; bottom:454.734px; inset:0px -211px 454.734px 179px; translate:-50% }
+      <div .pointer-events-none.absolute.bottom-0.left-1/2.h-px.w-screen.-translate-x-1/2.bg-[#585858]> [0,10811,390,1]
+        { backgroundColor:rgb(88, 88, 88); width:390px; height:1px; display:block; position:absolute; top:454.734px; left:179px; right:-211px; translate:-50% }
+      <div .flex.flex-col.items-center.gap-9.p-4.md:p-6.lg:p-16> [16,10357,358,456]
+        { padding:16px; width:358px; height:455.734px; display:flex; flexDirection:column; alignItems:center; gap:36px; rowGap:36px; columnGap:36px }
+        <div .flex.w-full.max-w-[596px].items-end.justify-between.gap-3> [32,10373,326,57]
+          { width:326px; height:56.5469px; maxWidth:596px; display:flex; justifyContent:space-between; alignItems:flex-end; gap:12px; rowGap:12px; columnGap:12px }
+          <div .relative.aspect-[118/120].w-[18%].max-w-[118px]> [32,10373,56,57]
+            { width:55.6094px; height:56.5469px; maxWidth:118px; display:block; position:relative; aspectRatio:118 / 120 }
+            <img .object-contain.object-bottom> [32,10373,56,57] @alt=Corgi working on laptop @src=/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=3840&q=75&dpl=d IMG /_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=128&q=75 nat118x119
+              { width:55.6094px; height:56.5469px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; objectPosition:50% 100%; verticalAlign:middle }
+          <div .relative.aspect-[118/120].w-[18%].max-w-[118px]> [100,10373,56,57]
+            { width:55.5938px; height:56.5312px; maxWidth:118px; display:block; position:relative; aspectRatio:118 / 120 }
+            <img .object-contain.object-bottom> [100,10373,56,57] @alt=Corgi founder @src=/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=3840&q=75&dpl= IMG /_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=128&q=75 nat118x119
+              { width:55.5938px; height:56.5312px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; objectPosition:50% 100%; verticalAlign:middle }
+          <div .relative.aspect-[118/120].w-[18%].max-w-[118px]> [167,10373,56,57]
+            { width:55.6094px; height:56.5469px; maxWidth:118px; display:block; position:relative; aspectRatio:118 / 120 }
+            <img .object-contain.object-bottom> [167,10373,56,57] @alt=Corgi in suit @src=/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=3840&q=75&dpl=dpl IMG /_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=128&q=75 nat118x119
+              { width:55.6094px; height:56.5469px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; objectPosition:50% 100%; verticalAlign:middle }
+          <div .relative.aspect-[118/120].w-[18%].max-w-[118px]> [235,10373,56,57]
+            { width:55.5938px; height:56.5312px; maxWidth:118px; display:block; position:relative; aspectRatio:118 / 120 }
+            <img .object-contain.object-bottom> [235,10373,56,57] @alt=Corgi chef @src=/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=3840&q=75&dpl=dpl IMG /_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=128&q=75 nat118x119
+              { width:55.5938px; height:56.5312px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; objectPosition:50% 100%; verticalAlign:middle }
+          <div .relative.aspect-[118/120].w-[18%].max-w-[118px]> [302,10373,56,57]
+            { width:55.5938px; height:56.5312px; maxWidth:118px; display:block; position:relative; aspectRatio:118 / 120 }
+            <img .object-contain.object-bottom> [302,10373,56,57] @alt=Corgi doctor @src=/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=3840&q=75&dpl=d IMG /_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=128&q=75 nat118x119
+              { width:55.5938px; height:56.5312px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; objectPosition:50% 100%; verticalAlign:middle }
+        <div .flex.flex-col.items-center.gap-12> [32,10465,326,331]
+          { width:326px; height:331.188px; display:flex; flexDirection:column; alignItems:center; gap:48px; rowGap:48px; columnGap:48px }
+          <h2 .text-center.font-medium.font-mono.text-white> [32,10465,326,168] "Corgi Provides the Insurance Built for Founders. Move fast. Break things. Stay covered, under one roof."
+            { fontSize:28px; fontWeight:500; fontFamily:f37Bolton; lineHeight:28px; letterSpacing:-0.896px; color:rgb(255, 255, 255); textAlign:center; width:326px; height:168px; display:block }
+            <br> [304,10517,0,35]
+              { display:inline }
+          <div .flex.flex-col.items-stretch.gap-3.sm:flex-row.sm:items-start> [98,10681,195,115]
+            { width:194.969px; height:115.188px; display:flex; flexDirection:column; gap:12px; rowGap:12px; columnGap:12px }
+            <div .pressable-button.pressable-smooth-corner.bg-[#e1e1e1]> [98,10681,195,52]
+              { backgroundColor:rgb(225, 225, 225); padding:0px 0px 4px; width:194.969px; height:51.5938px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+              <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-[#e1e1e1].bg-white.hover:bg-gray-50.active:bg-[#ededed].px-6> [98,10681,195,48] "Book a demo" @href=/book-a-demo
+                { fontSize:18px; fontWeight:500; lineHeight:21.6px; letterSpacing:-0.27px; color:rgb(25, 25, 25); backgroundColor:rgb(255, 255, 255); padding:12px 24px; width:194.969px; height:47.5938px; display:flex; justifyContent:center; alignItems:center; borderRadius:16px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); cursor:pointer }
+            <div .pressable-button.pressable-smooth-corner.bg-[#cc4a00]> [98,10745,195,52]
+              { backgroundColor:rgb(204, 74, 0); padding:0px 0px 4px; width:194.969px; height:51.5938px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+              <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#ff5c00].hover:bg-[#ff7d33].active:bg-[#ff9d66].px-6> [98,10745,195,48] "Get insured today" @href=https://app.corgi.insure/sign-up
+                { fontSize:18px; fontWeight:500; lineHeight:21.6px; letterSpacing:-0.27px; color:rgb(255, 255, 255); backgroundColor:rgb(255, 92, 0); padding:12px 24px; width:194.969px; height:47.5938px; display:flex; justifyContent:center; alignItems:center; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+  <div .w-full.overflow-hidden.border-t.border-b.border-[#e1e1e1].py-8> [0,10829,390,121]
+    { padding:32px 0px; width:390px; height:120.5px; display:block; borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .flex.w-max.items-center.gap-20> [-3,10862,5368,55]
+      { width:5367.69px; height:54.5px; display:flex; alignItems:center; gap:80px; rowGap:80px; columnGap:80px; transform:matrix(1, 0, 0, 1, -2.79465, 0); animation:40s linear infinite paused logo-scroll }
+      <div .flex.shrink-0.items-end.gap-20> [-3,10862,1282,55]
+        { width:1281.92px; height:54.5px; display:flex; alignItems:flex-end; flex:0 0 auto; gap:80px; rowGap:80px; columnGap:80px }
+        <div .flex.flex-col.items-center.gap-2> [-3,10862,155,55]
+          { width:155.406px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [15,10862,120,30] @alt=Forbes @src=/brand/forbes.webp IMG /brand/forbes.webp nat311x84
+            { width:120px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [-3,10900,155,17] "As covered in Forbes , May 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:155.406px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [233,10868,216,49]
+          { width:215.719px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [240,10868,200,24] @alt=The Economic Times @src=/brand/the-economic-times.webp IMG /brand/the-economic-times.webp nat940x83
+            { width:200px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [233,10900,216,17] "As covered in The Economic Times , Jul 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:215.719px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [528,10864,213,53]
+          { width:213.172px; height:52.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [535,10864,200,28] @alt=Insurance Business @src=/brand/insurance-business.webp IMG  nat0x0
+            { width:200px; height:28px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [528,10900,213,17] "As covered in Insurance Business , Jan 2026 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:213.172px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [822,10868,240,49]
+          { width:240px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [822,10868,240,24] @alt=The Wall Street Journal @src=/brand/the-wall-street-journal.webp IMG  nat0x0
+            { width:240px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [826,10900,232,17] "As covered in The Wall Street Journal , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:231.781px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [1142,10862,138,55]
+          { width:137.625px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [1180,10862,60,30] @alt=Inc. @src=/brand/inc.webp IMG  nat0x0
+            { width:60px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [1142,10900,138,17] "As covered in Inc. , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:137.625px; height:16.5px; display:block }
+      <div .flex.shrink-0.items-end.gap-20> [1359,10862,1282,55]
+        { width:1281.92px; height:54.5px; display:flex; alignItems:flex-end; flex:0 0 auto; gap:80px; rowGap:80px; columnGap:80px }
+        <div .flex.flex-col.items-center.gap-2> [1359,10862,155,55]
+          { width:155.406px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [1377,10862,120,30] @alt=Forbes @src=/brand/forbes.webp IMG /brand/forbes.webp nat311x84
+            { width:120px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [1359,10900,155,17] "As covered in Forbes , May 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:155.406px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [1595,10868,216,49]
+          { width:215.719px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [1602,10868,200,24] @alt=The Economic Times @src=/brand/the-economic-times.webp IMG /brand/the-economic-times.webp nat940x83
+            { width:200px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [1595,10900,216,17] "As covered in The Economic Times , Jul 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:215.719px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [1890,10864,213,53]
+          { width:213.172px; height:52.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [1897,10864,200,28] @alt=Insurance Business @src=/brand/insurance-business.webp IMG  nat0x0
+            { width:200px; height:28px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [1890,10900,213,17] "As covered in Insurance Business , Jan 2026 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:213.172px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [2183,10868,240,49]
+          { width:240px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [2183,10868,240,24] @alt=The Wall Street Journal @src=/brand/the-wall-street-journal.webp IMG  nat0x0
+            { width:240px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [2188,10900,232,17] "As covered in The Wall Street Journal , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:231.781px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [2503,10862,138,55]
+          { width:137.625px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [2542,10862,60,30] @alt=Inc. @src=/brand/inc.webp IMG  nat0x0
+            { width:60px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [2503,10900,138,17] "As covered in Inc. , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:137.625px; height:16.5px; display:block }
+      <div .flex.shrink-0.items-end.gap-20> [2721,10862,1282,55]
+        { width:1281.92px; height:54.5px; display:flex; alignItems:flex-end; flex:0 0 auto; gap:80px; rowGap:80px; columnGap:80px }
+        <div .flex.flex-col.items-center.gap-2> [2721,10862,155,55]
+          { width:155.406px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [2739,10862,120,30] @alt=Forbes @src=/brand/forbes.webp IMG /brand/forbes.webp nat311x84
+            { width:120px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [2721,10900,155,17] "As covered in Forbes , May 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:155.406px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [2956,10868,216,49]
+          { width:215.719px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [2964,10868,200,24] @alt=The Economic Times @src=/brand/the-economic-times.webp IMG /brand/the-economic-times.webp nat940x83
+            { width:200px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [2956,10900,216,17] "As covered in The Economic Times , Jul 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:215.719px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [3252,10864,213,53]
+          { width:213.172px; height:52.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [3259,10864,200,28] @alt=Insurance Business @src=/brand/insurance-business.webp IMG  nat0x0
+            { width:200px; height:28px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [3252,10900,213,17] "As covered in Insurance Business , Jan 2026 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:213.172px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [3545,10868,240,49]
+          { width:240px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [3545,10868,240,24] @alt=The Wall Street Journal @src=/brand/the-wall-street-journal.webp IMG  nat0x0
+            { width:240px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [3549,10900,232,17] "As covered in The Wall Street Journal , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:231.781px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [3865,10862,138,55]
+          { width:137.625px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [3904,10862,60,30] @alt=Inc. @src=/brand/inc.webp IMG  nat0x0
+            { width:60px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [3865,10900,138,17] "As covered in Inc. , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:137.625px; height:16.5px; display:block }
+      <div .flex.shrink-0.items-end.gap-20> [4083,10862,1282,55]
+        { width:1281.92px; height:54.5px; display:flex; alignItems:flex-end; flex:0 0 auto; gap:80px; rowGap:80px; columnGap:80px }
+        <div .flex.flex-col.items-center.gap-2> [4083,10862,155,55]
+          { width:155.406px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [4101,10862,120,30] @alt=Forbes @src=/brand/forbes.webp IMG /brand/forbes.webp nat311x84
+            { width:120px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [4083,10900,155,17] "As covered in Forbes , May 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:155.406px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [4318,10868,216,49]
+          { width:215.719px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [4326,10868,200,24] @alt=The Economic Times @src=/brand/the-economic-times.webp IMG /brand/the-economic-times.webp nat940x83
+            { width:200px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [4318,10900,216,17] "As covered in The Economic Times , Jul 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:215.719px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [4614,10864,213,53]
+          { width:213.172px; height:52.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [4621,10864,200,28] @alt=Insurance Business @src=/brand/insurance-business.webp IMG  nat0x0
+            { width:200px; height:28px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [4614,10900,213,17] "As covered in Insurance Business , Jan 2026 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:213.172px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [4907,10868,240,49]
+          { width:240px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [4907,10868,240,24] @alt=The Wall Street Journal @src=/brand/the-wall-street-journal.webp IMG  nat0x0
+            { width:240px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [4911,10900,232,17] "As covered in The Wall Street Journal , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:231.781px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [5227,10862,138,55]
+          { width:137.625px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [5266,10862,60,30] @alt=Inc. @src=/brand/inc.webp IMG  nat0x0
+            { width:60px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [5227,10900,138,17] "As covered in Inc. , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:137.625px; height:16.5px; display:block }
+  <div .relative.w-full> [0,10950,390,1629]
+    { width:390px; height:1629.48px; display:block; position:relative }
+    <div .pointer-events-none.absolute.top-0.bottom-0.left-[max(16px,calc((100%-1600px)/2))].z-0.w-px.bg-[#e1e1e1].md:left-[max(24px,calc((100%-1600px)/2))].lg:left-[max(64px,calc((100%-1600px)/2))]> [16,10950,1,1629]
+      { backgroundColor:rgb(225, 225, 225); width:1px; height:1629.48px; display:block; position:absolute; left:16px; right:373px; zIndex:0; inset:0px 373px 0px 16px }
+    <div .pointer-events-none.absolute.top-0.bottom-0.right-[max(16px,calc((100%-1600px)/2))].z-0.w-px.bg-[#e1e1e1].md:right-[max(24px,calc((100%-1600px)/2))].lg:right-[max(64px,calc((100%-1600px)/2))]> [373,10950,1,1629]
+      { backgroundColor:rgb(225, 225, 225); width:1px; height:1629.48px; display:block; position:absolute; left:373px; right:16px; zIndex:0; inset:0px 16px 0px 373px }
+    <div .border-b.border-[#e1e1e1].px-4.md:px-6.lg:px-16> [0,10950,390,1387]
+      { padding:0px 16px; width:390px; height:1386.69px; display:block; borderBottom:1px solid rgb(225, 225, 225) }
+      <div .relative.mx-auto.grid.max-w-[1600px].grid-cols-1.divide-x.divide-y.divide-[#e1e1e1].sm:grid-cols-2.md:grid-cols-5> [16,10950,358,1386]
+        { width:358px; height:1385.69px; maxWidth:1600px; display:grid; gridTemplateColumns:358px; gridTemplateRows:211px 284.125px 284.125px 323.312px 283.125px; position:relative }
+        <div .col-span-1.flex.items-center.justify-center.p-6.sm:col-span-2.md:col-span-1> [16,10950,358,211]
+          { padding:24px; width:358px; height:211px; display:flex; justifyContent:center; alignItems:center; gridColumn:span 1 / span 1; borderBottom:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225) }
+          <img .h-auto.w-[107px].object-contain> [141,10974,107,162] @alt=Corgi @src=/brand/corgi-dog.svg IMG /brand/corgi-dog.svg nat300x150
+            { width:107px; height:162px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+        <div .flex.flex-col.items-start.gap-6.p-6> [16,11161,358,284]
+          { padding:24px; width:358px; height:284.125px; display:flex; flexDirection:column; alignItems:flex-start; gap:24px; rowGap:24px; columnGap:24px; borderBottom:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225) }
+          <p .font-semibold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#191919]> [40,11185,89,19] "SOLUTIONS"
+            { fontWeight:600; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(25, 25, 25); width:88.5469px; height:19.1875px; display:block }
+          <nav .flex.w-full.flex-col.items-stretch.gap-1> [40,11228,309,192] @aria-label=SOLUTIONS
+            { width:309px; height:191.938px; display:flex; flexDirection:column; gap:4px; rowGap:4px; columnGap:4px }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11228,309,35] "Startup Insurance" @href=/startup-insurance
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11267,309,35] "Pre-Seed & Seed" @href=/startup-insurance#pre-seed-seed
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11307,309,35] "Series A" @href=/startup-insurance#series-a
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11346,309,35] "Growth Stage" @href=/startup-insurance#growth-stage
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11385,309,35] "Instant Quote" @href=/instant-quote
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+        <div .flex.flex-col.items-start.gap-6.p-6> [16,11445,358,284]
+          { padding:24px; width:358px; height:284.125px; display:flex; flexDirection:column; alignItems:flex-start; gap:24px; rowGap:24px; columnGap:24px; borderBottom:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225) }
+          <p .font-semibold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#191919]> [40,11469,91,19] "INDUSTRIES"
+            { fontWeight:600; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(25, 25, 25); width:91.1719px; height:19.1875px; display:block }
+          <nav .flex.w-full.flex-col.items-stretch.gap-1> [40,11512,309,192] @aria-label=INDUSTRIES
+            { width:309px; height:191.938px; display:flex; flexDirection:column; gap:4px; rowGap:4px; columnGap:4px }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11512,309,35] "SaaS" @href=/saas
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11551,309,35] "AI" @href=/ai
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11591,309,35] "Fintech" @href=/fintech
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11630,309,35] "Marketplace" @href=/market
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11669,309,35] "Health-tech" @href=/health-tech
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+        <div .flex.flex-col.items-start.gap-6.p-6> [16,11729,358,323]
+          { padding:24px; width:358px; height:323.312px; display:flex; flexDirection:column; alignItems:flex-start; gap:24px; rowGap:24px; columnGap:24px; borderBottom:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225) }
+          <p .font-semibold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#191919]> [40,11753,78,19] "COMPANY"
+            { fontWeight:600; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(25, 25, 25); width:78.2188px; height:19.1875px; display:block }
+          <nav .flex.w-full.flex-col.items-stretch.gap-1> [40,11796,309,231] @aria-label=COMPANY
+            { width:309px; height:231.125px; display:flex; flexDirection:column; gap:4px; rowGap:4px; columnGap:4px }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11796,309,35] "About" @href=/about
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11836,309,35] "Blog" @href=/blog
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11875,309,35] "Partner With Us" @href=/partnerships
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11914,309,35] "Featuring Corgi" @href=/featured-articles
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11953,309,35] "Careers" @href=/careers
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,11992,309,35] "Customers" @href=/customers
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+        <div .flex.flex-col.items-start.gap-6.p-6> [16,12053,358,283]
+          { padding:24px; width:358px; height:283.125px; display:flex; flexDirection:column; alignItems:flex-start; gap:24px; rowGap:24px; columnGap:24px }
+          <p .font-semibold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#191919]> [40,12077,96,19] "RESOURCES"
+            { fontWeight:600; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(25, 25, 25); width:95.8125px; height:19.1875px; display:block }
+          <nav .flex.w-full.flex-col.items-stretch.gap-1> [40,12120,310,192] @aria-label=RESOURCES
+            { width:310px; height:191.938px; display:flex; flexDirection:column; gap:4px; rowGap:4px; columnGap:4px }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,12120,310,35] "Book a Demo" @href=/book-a-demo
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:310px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,12159,310,35] "Insurance Guide" @href=/blog/startup-insurance-guide-for-founders
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:310px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,12198,310,35] "D&O Insurance" @href=/directors-and-officers
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:310px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,12237,310,35] "Cyber Insurance" @href=/cyber-liability
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:310px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,12276,310,35] "Tech E&O Insurance" @href=/tech-eo
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:310px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+    <div .w-full.px-4.py-6.md:px-6.lg:px-16> [0,12337,390,98]
+      { padding:24px 16px; width:390px; height:98.375px; display:block }
+      <div .mx-auto.flex.max-w-[1600px].flex-wrap.items-center.justify-center.gap-x-6.gap-y-3.text-[16px].leading-[1.2]> [16,12361,358,50]
+        { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(74, 74, 74); width:358px; height:50.375px; maxWidth:1600px; display:flex; flexWrap:wrap; justifyContent:center; alignItems:center; gap:12px 24px; rowGap:12px; columnGap:24px }
+        <div .flex.flex-wrap.items-center.justify-center.gap-x-6.gap-y-2> [39,12361,311,19]
+          { width:311.219px; height:19.1875px; display:flex; flexWrap:wrap; justifyContent:center; alignItems:center; gap:8px 24px; rowGap:8px; columnGap:24px }
+          <a ..hover:text-[#191919]> [39,12361,52,19] "Privacy" @href=/docs/Corgi Privacy Policy.pdf
+            { width:51.7656px; height:19.1875px; display:block; cursor:pointer }
+          <a ..hover:text-[#191919]> [115,12361,43,19] "Terms" @href=/docs/Corgi Terms of Service.pdf
+            { width:42.7656px; height:19.1875px; display:block; cursor:pointer }
+          <a ..hover:text-[#191919]> [182,12361,62,19] "Licenses" @href=/broker-licenses
+            { width:62.1094px; height:19.1875px; display:block; cursor:pointer }
+          <a ..hover:text-[#191919]> [268,12361,83,19] "Disclaimers" @href=/disclaimers
+            { width:82.5781px; height:19.1875px; display:block; cursor:pointer }
+        <div .hidden.h-px.w-12.bg-[#e1e1e1].md:block> [0,0,0,0]
+          { backgroundColor:rgb(225, 225, 225); width:48px; height:1px }
+        <div .flex.flex-wrap.items-center.justify-center.gap-x-6.gap-y-2> [117,12392,157,19]
+          { width:156.641px; height:19.1875px; display:flex; flexWrap:wrap; justifyContent:center; alignItems:center; gap:8px 24px; rowGap:8px; columnGap:24px }
+          <a ..hover:text-[#191919]> [117,12392,39,19] "Email" @href=mailto:hello@corgi.insure
+            { width:39.0312px; height:19.1875px; display:block; cursor:pointer }
+          <a ..hover:text-[#191919]> [180,12392,60,19] "LinkedIn" @href=https://www.linkedin.com/company/corgi-insurance
+            { width:60.1406px; height:19.1875px; display:block; cursor:pointer }
+          <a ..hover:text-[#191919]> [264,12392,9,19] "X" @href=https://x.com/UseCorgi
+            { width:9.46875px; height:19.1875px; display:block; cursor:pointer }
+    <div .relative.z-10.w-full.overflow-hidden> [0,12435,390,144]
+      { width:390px; height:144.422px; display:block; position:relative; zIndex:10; overflow:hidden; overflowX:hidden; overflowY:hidden }
+      <img .h-auto.w-full.object-cover.object-top> [0,12435,390,144] @alt= @src=/_next/image?url=%2Ffooter-bg.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQS IMG /_next/image?url=%2Ffooter-bg.webp&w=640&q=75 nat390x144
+        { width:390px; height:144.422px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+  <div .w-full.bg-black.p-8.text-sm.text-stone-200> [0,12579,390,708]
+    { fontSize:14px; lineHeight:20px; color:lab(91.055 0.663072 0.865579); backgroundColor:rgb(0, 0, 0); padding:32px; width:390px; height:708px; display:block }
+    <p> [32,12611,326,80] "Coverage may be underwritten through affiliated or partner carriers, including Corgi Insurance Company, Inc., an admitted property and casua"
+      { width:326px; height:80px; display:block }
+    <p .mt-4> [32,12707,326,180] "Certain coverages may also be underwritten by Technology Risk Retention Group, Inc. (TRRG), a risk retention group organized and operating p"
+      { margin:16px 0px 0px; width:326px; height:180px; display:block }
+    <p .mt-4> [32,12903,326,60] "Corgi Insurance Services, Inc. is a licensed insurance producer (CA License #6012791) and acts as the program administrator, not the insurer"
+      { margin:16px 0px 0px; width:326px; height:60px; display:block }
+    <p .mt-4> [32,12979,326,140] "Certain coverages may also be written through affiliated or partner carriers that are admitted in the applicable state and rated A- (Excelle"
+      { margin:16px 0px 0px; width:326px; height:140px; display:block }
+    <p .mt-4> [32,13135,326,120] "Coverage is subject to underwriting approval and availability varies by jurisdiction. Not all products are available in all states. Limits, "
+      { margin:16px 0px 0px; width:326px; height:120px; display:block }

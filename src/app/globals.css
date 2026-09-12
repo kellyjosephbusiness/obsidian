@@ -4,12 +4,22 @@
 
 @custom-variant dark (&:is(.dark *));
 
+/* ------------------------------------------------------------------ */
+/* Design tokens — extracted from https://corgi.insure (site :root)     */
+/* ------------------------------------------------------------------ */
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: "Geist", "Geist Fallback", ui-sans-serif, system-ui, sans-serif;
-  --font-mono: "Geist Mono", "Geist Mono Fallback", ui-monospace, monospace;
-  --font-heading: var(--font-sans);
+  --font-sans:
+    var(--font-geist), ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Noto Color Emoji";
+  /* corgi.insure maps `font-mono` to F37 Bolton (its display face) */
+  --font-mono:
+    var(--font-f37-bolton), ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
+  --font-serif: var(--font-georgia), ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-heading: var(--font-mono);
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
@@ -49,82 +59,231 @@
 }
 
 :root {
-  --background: oklch(1 0 0);
-  --foreground: oklch(0.145 0 0);
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.145 0 0);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.145 0 0);
-  --primary: oklch(0.205 0 0);
-  --primary-foreground: oklch(0.985 0 0);
-  --secondary: oklch(0.97 0 0);
-  --secondary-foreground: oklch(0.205 0 0);
-  --muted: oklch(0.97 0 0);
-  --muted-foreground: oklch(0.556 0 0);
-  --accent: oklch(0.97 0 0);
-  --accent-foreground: oklch(0.205 0 0);
-  --destructive: oklch(0.577 0.245 27.325);
-  --border: oklch(0.922 0 0);
-  --input: oklch(0.922 0 0);
-  --ring: oklch(0.708 0 0);
-  --chart-1: oklch(0.87 0 0);
-  --chart-2: oklch(0.556 0 0);
-  --chart-3: oklch(0.439 0 0);
-  --chart-4: oklch(0.371 0 0);
-  --chart-5: oklch(0.269 0 0);
-  --radius: 0.625rem;
-  --sidebar: oklch(0.985 0 0);
-  --sidebar-foreground: oklch(0.145 0 0);
-  --sidebar-primary: oklch(0.205 0 0);
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.97 0 0);
-  --sidebar-accent-foreground: oklch(0.205 0 0);
-  --sidebar-border: oklch(0.922 0 0);
-  --sidebar-ring: oklch(0.708 0 0);
+  --background: #f6f6f6;
+  --foreground: #1d1d1d;
+  --card: #2c2c2c;
+  --card-foreground: #d9d9d9;
+  --popover: #2c2c2c;
+  --popover-foreground: #d9d9d9;
+  --primary: #ff5c00;
+  --primary-foreground: #fff;
+  --secondary: #2c2c2c;
+  --secondary-foreground: #d9d9d9;
+  --muted: #2c2c2c;
+  --muted-foreground: #4e4e4e;
+  --accent: #ff5c00;
+  --accent-foreground: #1d1d1d;
+  --destructive: #ef4444;
+  --destructive-foreground: #fff;
+  --border: #2c2c2c;
+  --input: #2c2c2c;
+  --ring: #ff5c00;
+  --chart-1: #ff5c00;
+  --chart-2: #fbbf24;
+  --chart-3: #facc15;
+  --chart-4: #fb923c;
+  --chart-5: #f97316;
+  --sidebar: #1d1d1d;
+  --sidebar-foreground: #d9d9d9;
+  --sidebar-primary: #ff5c00;
+  --sidebar-primary-foreground: #fff;
+  --sidebar-accent: #ff5c00;
+  --sidebar-accent-foreground: #1d1d1d;
+  --sidebar-border: #2c2c2c;
+  --sidebar-ring: #ff5c00;
+  --radius: 0.5rem;
+
+  /* Typography scale (mobile-first; overridden at 768 / 1024 below) */
+  --h1-font-size: 36px;
+  --h1-line-height: 100%;
+  --h1-tracking: -0.032em;
+  --h1-color: #191919;
+  --h2-font-size: 28px;
+  --h2-line-height: 100%;
+  --h2-tracking: -0.032em;
+  --body-font-size: 14px;
+  --body-line-height: 120%;
+  --body-tracking: -0.015em;
+  --body-large-font-size: 18px;
+  --body-large-line-height: 120%;
+  --body-large-tracking: -0.015em;
+  --body-large-color: #4a4a4a;
+  --btn-large-font-weight: 500;
+  --btn-large-font-size: 18px;
+  --btn-large-line-height: 120%;
+  --btn-large-tracking: -0.015em;
+  --btn-small-font-weight: 500;
+  --btn-small-font-size: 14px;
+  --btn-small-line-height: 120%;
+  --btn-small-tracking: -0.015em;
+
+  --shadow-2xs: 0px 6px 24px -3px #1a1a1a12;
+  --shadow-xs: 0px 6px 24px -3px #1a1a1a12;
+  --shadow-sm: 0px 6px 24px -3px #1a1a1a21, 0px 1px 2px -4px #1a1a1a21;
+  --shadow: 0px 6px 24px -3px #1a1a1a21, 0px 1px 2px -4px #1a1a1a21;
+  --shadow-md: 0px 6px 24px -3px #1a1a1a21, 0px 2px 4px -4px #1a1a1a21;
+  --shadow-lg: 0px 6px 24px -3px #1a1a1a21, 0px 4px 6px -4px #1a1a1a21;
+  --shadow-xl: 0px 6px 24px -3px #1a1a1a21, 0px 8px 10px -4px #1a1a1a21;
+  --shadow-2xl: 0px 6px 24px -3px #1a1a1a54;
+  --surface: #2c2c2c;
+
+  /* Entrance animation tokens used by the quote strip */
+  --stagger-dur: 0.5s;
+  --stagger-distance: 12px;
+  --stagger-stagger: 40ms;
+  --stagger-blur: 3px;
+  --stagger-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --text-swap-dur: 0.15s;
+  --text-swap-translate-y: 4px;
+  --text-swap-blur: 2px;
+  --text-swap-ease: ease-in-out;
+
+  --navbar-height: 56px;
 }
 
-.dark {
-  --background: oklch(0.145 0 0);
-  --foreground: oklch(0.985 0 0);
-  --card: oklch(0.205 0 0);
-  --card-foreground: oklch(0.985 0 0);
-  --popover: oklch(0.205 0 0);
-  --popover-foreground: oklch(0.985 0 0);
-  --primary: oklch(0.922 0 0);
-  --primary-foreground: oklch(0.205 0 0);
-  --secondary: oklch(0.269 0 0);
-  --secondary-foreground: oklch(0.985 0 0);
-  --muted: oklch(0.269 0 0);
-  --muted-foreground: oklch(0.708 0 0);
-  --accent: oklch(0.269 0 0);
-  --accent-foreground: oklch(0.985 0 0);
-  --destructive: oklch(0.704 0.191 22.216);
-  --border: oklch(1 0 0 / 10%);
-  --input: oklch(1 0 0 / 15%);
-  --ring: oklch(0.556 0 0);
-  --chart-1: oklch(0.87 0 0);
-  --chart-2: oklch(0.556 0 0);
-  --chart-3: oklch(0.439 0 0);
-  --chart-4: oklch(0.371 0 0);
-  --chart-5: oklch(0.269 0 0);
-  --sidebar: oklch(0.205 0 0);
-  --sidebar-foreground: oklch(0.985 0 0);
-  --sidebar-primary: oklch(0.488 0.243 264.376);
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.269 0 0);
-  --sidebar-accent-foreground: oklch(0.985 0 0);
-  --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: oklch(0.556 0 0);
+@media (min-width: 768px) {
+  :root {
+    --h1-font-size: 48px;
+    --h2-font-size: 40px;
+    --body-font-size: 16px;
+    --btn-small-font-size: 16px;
+  }
+}
+@media (min-width: 1024px) {
+  :root {
+    --h1-font-size: 60px;
+    --h2-font-size: 48px;
+    --body-large-font-size: 20px;
+    --btn-large-font-size: 20px;
+  }
+}
+
+/* Self-hosted icon font (variable): FILL 0, wght 400, GRAD 0, opsz 24 */
+@font-face {
+  font-family: "Material Symbols Sharp";
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: block;
+  src: url("/sites/corgi-insure-a0f7893c/shared/fonts/material-symbols-sharp.woff2") format("woff2");
 }
 
 @layer base {
   * {
     @apply border-border outline-ring/50;
   }
+  html {
+    @apply font-sans;
+    scroll-behavior: smooth;
+  }
   body {
     @apply bg-background text-foreground;
   }
-  html {
-    @apply font-sans;
+}
+
+@layer components {
+  /* corgi.insure button corner treatment */
+  .pressable-smooth-corner {
+    corner-shape: superellipse(1.6);
+    border-radius: 16px;
+  }
+}
+
+@layer utilities {
+  .msym {
+    font-family: "Material Symbols Sharp";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "liga";
+    font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+  }
+  .text-body {
+    font-size: var(--body-font-size);
+    line-height: var(--body-line-height);
+    letter-spacing: var(--body-tracking);
+  }
+  .text-body-large {
+    font-size: var(--body-large-font-size);
+    line-height: var(--body-large-line-height);
+    letter-spacing: var(--body-large-tracking);
+    color: var(--body-large-color);
+  }
+  .btn-text-small {
+    font-weight: var(--btn-small-font-weight);
+    font-size: var(--btn-small-font-size);
+    line-height: var(--btn-small-line-height);
+    letter-spacing: var(--btn-small-tracking);
+  }
+  .btn-text-large {
+    font-weight: var(--btn-large-font-weight);
+    font-size: var(--btn-large-font-size);
+    line-height: var(--btn-large-line-height);
+    letter-spacing: var(--btn-large-tracking);
+  }
+  .homepage-hero-heading-font {
+    font-family: var(--font-hero-heading), Arial, sans-serif;
+    font-weight: 500;
+  }
+  .homepage-hero-serif-font {
+    font-family: var(--font-hero-serif), Georgia, serif;
+    font-weight: 400;
+  }
+  .animate-chip-ripple {
+    animation: 0.35s ease-out chip-ripple;
+  }
+}
+
+/* Pressable (3D) button mechanics — the face drops onto the base while pressed */
+.pressable-button {
+  padding-bottom: var(--pressable-depth, 4px);
+  transition-property: padding, margin;
+  transition-duration: 75ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+.pressable-button[data-press-trigger="self"]:active,
+.group:active .pressable-button[data-press-trigger="group"],
+.group\/btn:active .pressable-button[data-press-trigger="group\/btn"] {
+  margin-top: var(--pressable-depth, 4px);
+  padding-bottom: 0;
+}
+
+/* Marquees / pulses (names match the site so class strings can be reused verbatim) */
+@keyframes ticker-scroll {
+  0% { transform: translate(0); }
+  to { transform: translate(-50%); }
+}
+@keyframes marquee-left {
+  0% { transform: translate(0); }
+  to { transform: translate(-50%); }
+}
+@keyframes marquee-right {
+  0% { transform: translate(-50%); }
+  to { transform: translate(0); }
+}
+@keyframes logo-scroll {
+  0% { transform: translate(0); }
+  to { transform: translate(-25%); }
+}
+@keyframes pill-ring-pulse {
+  0%, to { box-shadow: 0 0 0 4px #ff94a4; }
+  50% { box-shadow: 0 0 0 8px #ff94a4; }
+}
+@keyframes chip-ripple {
+  0% { box-shadow: 0 0 #ff5c0080; }
+  to { box-shadow: 0 0 0 3px #ff5c0000; }
+}
+@media (max-width: 767px) {
+  .logo-carousel-track {
+    animation-delay: -13s;
   }
 }

@@ -1,0 +1,258 @@
+<section .relative.flex.min-h-[max(720px,100vh)].items-center.overflow-clip.border-[#e1e1e1].border-b.bg-[#f6f6f6].px-4.py-16> [0,1765,768,1095]
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(29, 29, 29); backgroundColor:rgb(246, 246, 246); padding:80px 24px; width:768px; height:1095px; minHeight:1024px; display:flex; alignItems:center; borderBottom:1px solid rgb(225, 225, 225); position:relative; overflow:clip; overflowX:clip; overflowY:clip }
+  <div .pointer-events-none.absolute.inset-y-0.left-[max(16px,calc((100vw-1600px)/2))].w-px.bg-[#e1e1e1].md:left-[max(24px,calc((100vw-1600px)/2))].lg:left-[max(64px,calc((100vw-1600px)/2))]> [24,1765,1,1094]
+    { backgroundColor:rgb(225, 225, 225); width:1px; height:1094px; display:block; position:absolute; left:24px; right:743px; inset:0px 743px 0px 24px }
+  <div .pointer-events-none.absolute.inset-y-0.right-[max(16px,calc((100vw-1600px)/2))].w-px.bg-[#e1e1e1].md:right-[max(24px,calc((100vw-1600px)/2))].lg:right-[max(64px,calc((100vw-1600px)/2))]> [743,1765,1,1094]
+    { backgroundColor:rgb(225, 225, 225); width:1px; height:1094px; display:block; position:absolute; left:743px; right:24px; inset:0px 24px 0px 743px }
+  <div .-translate-y-[4vh].relative.mx-auto.flex.w-full.max-w-[1600px].flex-col.gap-4.md:gap-6> [24,1804,720,934]
+    { width:720px; height:934px; maxWidth:1600px; display:flex; flexDirection:column; gap:24px; rowGap:24px; columnGap:24px; position:relative; translate:0px -40.96px }
+    <div .flex.flex-col.gap-6.px-4.md:px-6> [24,1804,720,126]
+      { padding:0px 24px; width:720px; height:125.594px; display:flex; flexDirection:column; gap:24px; rowGap:24px; columnGap:24px }
+      <h2 .font-medium.font-mono.text-[#191919]> [48,1804,672,80] "Coverage Designed Around Your Startup’s Journey"
+        { fontSize:40px; fontWeight:500; fontFamily:f37Bolton; lineHeight:40px; letterSpacing:-1.28px; color:rgb(25, 25, 25); width:672px; height:80px; display:block }
+      <p .text-body-large.text-[#4a4a4a]> [48,1908,672,22] "From your first check to your next round, we’ve built packages for every phase."
+        { fontSize:18px; lineHeight:21.6px; letterSpacing:-0.27px; color:rgb(74, 74, 74); width:672px; height:21.5938px; display:block }
+    <div .relative.grid.grid-cols-1.gap-6.md:grid-cols-2.xl:grid-cols-4> [24,1954,720,722]
+      { width:720px; height:722.406px; display:grid; gap:24px; rowGap:24px; columnGap:24px; gridTemplateColumns:348px 348px; gridTemplateRows:349.203px 349.203px; position:relative }
+      <div .-translate-x-1/2.pointer-events-none.absolute.top-0.left-1/2.h-px.w-screen.bg-[#e1e1e1]> [0,1954,768,1]
+        { backgroundColor:rgb(225, 225, 225); width:768px; height:1px; display:block; position:absolute; left:360px; right:-408px; bottom:721.406px; inset:0px -408px 721.406px 360px; translate:-50% }
+      <div .-translate-x-1/2.pointer-events-none.absolute.bottom-0.left-1/2.h-px.w-screen.bg-[#e1e1e1]> [0,2675,768,1]
+        { backgroundColor:rgb(225, 225, 225); width:768px; height:1px; display:block; position:absolute; top:721.406px; left:360px; right:-408px; translate:-50% }
+      <div .flex.h-full.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white.shadow-[0_0_24px_0_rgba(25,25,25,0.05)]> [24,1954,348,349]
+        { backgroundColor:rgb(255, 255, 255); width:348px; height:349.203px; display:flex; flexDirection:column; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; overflow:clip; overflowX:clip; overflowY:clip }
+        <div .-mx-px.-mt-px.relative.flex.h-[160px].flex-col.justify-end.gap-3.overflow-clip.rounded-[24px]> [24,1954,348,160]
+          { backgroundColor:rgb(255, 255, 255); padding:20px; margin:-1px -1px 0px; width:348px; height:160px; display:flex; flexDirection:column; justifyContent:flex-end; gap:12px; rowGap:12px; columnGap:12px; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:clip; overflowX:clip; overflowY:clip }
+          <div .pointer-events-none.absolute.flex.items-center.justify-center> [282,1962,120,143]
+            { width:120px; height:143px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:7px; left:257px; right:-31px; bottom:8px }
+            <div> [282,1962,120,143]
+              { width:69px; height:125px; display:block; transform:matrix(0.881468, -0.472243, 0.472243, 0.881468, 0, 0) }
+              <img .h-[125px].w-[69px].object-contain> [282,1962,120,143] @alt= @src=/_next/image?url=%2Fimages%2Fjourney-cards%2Fseed-leaf.webp&w=256&q=60 IMG /_next/image?url=%2Fimages%2Fjourney-cards%2Fseed-leaf.webp&w=96&q=60 nat96x174
+                { width:69px; height:125px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <div .relative.flex.flex-col.items-start.gap-3> [45,2032,306,61]
+            { width:306px; height:60.7969px; display:flex; flexDirection:column; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative }
+            <h3 .font-mono.text-[24px].text-[#191919].leading-none.tracking-[-1.024px].md:text-[32px]> [45,2032,228,32] "Pre-Seed & Seed"
+              { fontSize:32px; fontFamily:f37Bolton; lineHeight:32px; letterSpacing:-1.024px; color:rgb(25, 25, 25); width:227.844px; height:32px; display:block }
+            <p .font-medium.text-[#4a4a4a].text-[14px].leading-[1.2].tracking-[-0.21px].[text-wrap:balance]> [45,2076,258,17] "Core protection for you and your product"
+              { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:257.516px; height:16.7969px; display:block }
+        <div .flex.flex-1.flex-col.border-[#e1e1e1].border-b.p-5> [25,2114,346,123]
+          { padding:20px; width:346px; height:123px; display:flex; flexDirection:column; flex:1 1 0%; borderBottom:1px solid rgb(225, 225, 225) }
+          <p .text-center.font-medium.text-[#4a4a4a].text-[12px].[text-wrap:balance]> [45,2134,306,18] "Policies included in this package:"
+            { fontSize:12px; fontWeight:500; lineHeight:18px; color:rgb(74, 74, 74); textAlign:center; width:306px; height:18px; display:block }
+          <div .mt-3.flex.flex-wrap.items-start.justify-center.gap-3> [45,2164,306,20]
+            { margin:12px 0px 0px; width:306px; height:20px; display:flex; flexWrap:wrap; justifyContent:center; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [80,2164,40,20] "CGL"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:40.125px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [132,2164,41,20] "D&O"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:41.2188px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <span .inline-flex.shrink-0.items-start.gap-3> [185,2164,131,20]
+              { width:131.047px; height:20px; display:flex; alignItems:flex-start; flex:0 0 auto; gap:12px; rowGap:12px; columnGap:12px }
+              <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [185,2164,69,20] "Tech E&O"
+                { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:69.4062px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+              <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [267,2164,50,20] "Cyber"
+                { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:49.6406px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+          <div .overflow-hidden> [45,2184,306,0]
+            { width:306px; display:block; opacity:0; overflow:hidden; overflowX:hidden; overflowY:hidden }
+          <div .pointer-events-none.invisible.h-0.min-h-0.shrink-0.overflow-hidden> [45,2184,306,0]
+            { width:306px; display:block; flex:0 0 auto; overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <div .flex.flex-col.gap-1.5.rounded-[4px].bg-[#f6f6f6].px-2.py-2> [45,2184,306,22]
+              { backgroundColor:rgb(246, 246, 246); padding:8px; width:306px; height:22px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px; borderRadius:4px }
+              <span .font-semibold.text-[#191919].text-[12px].leading-none> [53,2192,290,0]
+                { fontSize:12px; fontWeight:600; lineHeight:12px; color:rgb(25, 25, 25); width:290px; display:block }
+              <span .font-medium.text-[#4a4a4a].text-[12px].leading-[1.35]> [53,2198,290,0]
+                { fontSize:12px; fontWeight:500; lineHeight:16.2px; color:rgb(74, 74, 74); width:290px; display:block }
+        <div .p-3> [25,2237,346,65]
+          { padding:12px; width:346px; height:65.2031px; display:block }
+          <div .pressable-button.pressable-smooth-corner.bg-[#cc4a00].w-full> [37,2249,322,41]
+            { backgroundColor:rgb(204, 74, 0); padding:0px 0px 4px; width:322px; height:41.2031px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+            <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#ff5c00].hover:bg-[#ff7d33].active:bg-[#ff9d66].px-4> [37,2249,322,37] @href=https://app.corgi.insure/sign-up?package=pre-seed
+              { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(255, 255, 255); backgroundColor:rgb(255, 92, 0); padding:8px 16px; width:322px; height:37.2031px; display:flex; justifyContent:center; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+              <span .inline-flex.items-center.whitespace-nowrap> [112,2258,151,19] "Get a quote instantly"
+                { width:151.266px; height:19.2031px; display:flex; alignItems:center }
+              <span .h-4.w-4> [268,2259,16,16] "psychiatry"
+                { fontWeight:400; fontFamily:Material Symbols Sharp; lineHeight:16px; width:16px; height:16px; display:block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+      <div .flex.h-full.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white.shadow-[0_0_24px_0_rgba(25,25,25,0.05)]> [396,1954,348,349]
+        { backgroundColor:rgb(255, 255, 255); width:348px; height:349.203px; display:flex; flexDirection:column; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; overflow:clip; overflowX:clip; overflowY:clip }
+        <div .-mx-px.-mt-px.relative.flex.h-[160px].flex-col.justify-end.gap-3.overflow-clip.rounded-[24px]> [396,1954,348,160]
+          { backgroundColor:rgb(255, 255, 255); padding:20px; margin:-1px -1px 0px; width:348px; height:160px; display:flex; flexDirection:column; justifyContent:flex-end; gap:12px; rowGap:12px; columnGap:12px; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:clip; overflowX:clip; overflowY:clip }
+          <div .pointer-events-none.absolute.flex.items-center.justify-center> [607,1931,188,161]
+            { width:188px; height:161px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:-24px; left:210px; right:-52px; bottom:21px }
+            <div> [607,1931,188,161]
+              { width:171px; height:139px; display:block; transform:matrix(-0.990677, 0.136234, 0.136234, 0.990677, 0, 0) }
+              <img .h-[139px].w-[171px].object-contain> [607,1931,188,161] @alt= @src=/_next/image?url=%2Fimages%2Fjourney-cards%2Fseries-a-plant.png&w=384& IMG /_next/image?url=%2Fimages%2Fjourney-cards%2Fseries-a-plant.png&w=256&q=60 nat256x208
+                { width:171px; height:139px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <div .relative.flex.flex-col.items-start.gap-3> [417,2015,306,78]
+            { width:306px; height:77.5938px; display:flex; flexDirection:column; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative }
+            <h3 .font-mono.text-[24px].text-[#191919].leading-none.tracking-[-1.024px].md:text-[32px]> [417,2015,109,32] "Series A"
+              { fontSize:32px; fontFamily:f37Bolton; lineHeight:32px; letterSpacing:-1.024px; color:rgb(25, 25, 25); width:109.219px; height:32px; display:block }
+            <p .font-medium.text-[#4a4a4a].text-[14px].leading-[1.2].tracking-[-0.21px].[text-wrap:balance]> [417,2059,306,34] "Protects you, your board, and helps you close bigger deals"
+              { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:306px; height:33.5938px; display:block }
+        <div .flex.flex-1.flex-col.border-[#e1e1e1].border-b.p-5> [397,2114,346,123]
+          { padding:20px; width:346px; height:123px; display:flex; flexDirection:column; flex:1 1 0%; borderBottom:1px solid rgb(225, 225, 225) }
+          <p .text-center.font-medium.text-[#4a4a4a].text-[12px].[text-wrap:balance]> [417,2134,306,18] "Policies included in this package:"
+            { fontSize:12px; fontWeight:500; lineHeight:18px; color:rgb(74, 74, 74); textAlign:center; width:306px; height:18px; display:block }
+          <div .mt-3.flex.flex-wrap.items-start.justify-center.gap-3> [417,2164,306,52]
+            { margin:12px 0px 0px; width:306px; height:52px; display:flex; flexWrap:wrap; justifyContent:center; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [452,2164,40,20] "CGL"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:40.125px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [504,2164,41,20] "D&O"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:41.2188px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [557,2164,69,20] "Tech E&O"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:69.4062px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [639,2164,50,20] "Cyber"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:49.6406px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <span .inline-flex.shrink-0.items-start.gap-3> [518,2196,103,20]
+              { width:103.109px; height:20px; display:flex; alignItems:flex-start; flex:0 0 auto; gap:12px; rowGap:12px; columnGap:12px }
+              <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [518,2196,50,20] "Media"
+                { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:50.1719px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+              <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [581,2196,41,20] "EPLI"
+                { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:40.9375px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+          <div .overflow-hidden> [417,2216,306,0]
+            { width:306px; display:block; opacity:0; overflow:hidden; overflowX:hidden; overflowY:hidden }
+          <div .pointer-events-none.invisible.h-0.min-h-0.shrink-0.overflow-hidden> [417,2216,306,0]
+            { width:306px; display:block; flex:0 0 auto; overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <div .flex.flex-col.gap-1.5.rounded-[4px].bg-[#f6f6f6].px-2.py-2> [417,2216,306,22]
+              { backgroundColor:rgb(246, 246, 246); padding:8px; width:306px; height:22px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px; borderRadius:4px }
+              <span .font-semibold.text-[#191919].text-[12px].leading-none> [425,2224,290,0]
+                { fontSize:12px; fontWeight:600; lineHeight:12px; color:rgb(25, 25, 25); width:290px; display:block }
+              <span .font-medium.text-[#4a4a4a].text-[12px].leading-[1.35]> [425,2230,290,0]
+                { fontSize:12px; fontWeight:500; lineHeight:16.2px; color:rgb(74, 74, 74); width:290px; display:block }
+        <div .p-3> [397,2237,346,65]
+          { padding:12px; width:346px; height:65.2031px; display:block }
+          <div .pressable-button.pressable-smooth-corner.bg-[#cc4a00].w-full> [409,2249,322,41]
+            { backgroundColor:rgb(204, 74, 0); padding:0px 0px 4px; width:322px; height:41.2031px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+            <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#ff5c00].hover:bg-[#ff7d33].active:bg-[#ff9d66].px-4> [409,2249,322,37] @href=https://app.corgi.insure/sign-up?package=series-a
+              { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(255, 255, 255); backgroundColor:rgb(255, 92, 0); padding:8px 16px; width:322px; height:37.2031px; display:flex; justifyContent:center; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+              <span .inline-flex.items-center.whitespace-nowrap> [484,2258,151,19] "Get a quote instantly"
+                { width:151.266px; height:19.2031px; display:flex; alignItems:center }
+              <span .h-4.w-4> [640,2259,16,16] "eco"
+                { fontWeight:400; fontFamily:Material Symbols Sharp; lineHeight:16px; width:16px; height:16px; display:block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+      <div .flex.h-full.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white.shadow-[0_0_24px_0_rgba(25,25,25,0.05)]> [24,2327,348,349]
+        { backgroundColor:rgb(255, 255, 255); width:348px; height:349.203px; display:flex; flexDirection:column; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; overflow:clip; overflowX:clip; overflowY:clip }
+        <div .-mx-px.-mt-px.relative.flex.h-[160px].flex-col.justify-end.gap-3.overflow-clip.rounded-[24px]> [24,2327,348,160]
+          { backgroundColor:rgb(255, 255, 255); padding:20px; margin:-1px -1px 0px; width:348px; height:160px; display:flex; flexDirection:column; justifyContent:flex-end; gap:12px; rowGap:12px; columnGap:12px; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:clip; overflowX:clip; overflowY:clip }
+          <div .pointer-events-none.absolute.flex.items-center.justify-center> [226,2270,248,209]
+            { width:248px; height:209px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:-58px; left:201px; right:-103px; bottom:7px }
+            <div> [226,2270,248,209]
+              { width:229px; height:185px; display:block; transform:matrix(0.994207, -0.107479, 0.107479, 0.994207, 0, 0) }
+              <img .h-[185px].w-[229px].object-contain> [226,2270,248,209] @alt= @src=/_next/image?url=%2Fimages%2Fjourney-cards%2Fgrowth-tree.png&w=640&q=6 IMG /_next/image?url=%2Fimages%2Fjourney-cards%2Fgrowth-tree.png&w=256&q=60 nat256x208
+                { width:229px; height:185px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <div .relative.flex.flex-col.items-start.gap-3> [45,2388,306,78]
+            { width:306px; height:77.5938px; display:flex; flexDirection:column; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative }
+            <h3 .font-mono.text-[24px].text-[#191919].leading-none.tracking-[-1.024px].md:text-[32px]> [45,2388,184,32] "Growth Stage"
+              { fontSize:32px; fontFamily:f37Bolton; lineHeight:32px; letterSpacing:-1.024px; color:rgb(25, 25, 25); width:183.875px; height:32px; display:block }
+            <p .font-medium.text-[#4a4a4a].text-[14px].leading-[1.2].tracking-[-0.21px].[text-wrap:balance]> [45,2432,306,34] "Protection for leadership risk, transactions, and scale"
+              { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:306px; height:33.5938px; display:block }
+        <div .flex.flex-1.flex-col.border-[#e1e1e1].border-b.p-5> [25,2487,346,123]
+          { padding:20px; width:346px; height:123px; display:flex; flexDirection:column; flex:1 1 0%; borderBottom:1px solid rgb(225, 225, 225) }
+          <p .text-center.font-medium.text-[#4a4a4a].text-[12px].[text-wrap:balance]> [45,2507,306,18] "Policies included in this package:"
+            { fontSize:12px; fontWeight:500; lineHeight:18px; color:rgb(74, 74, 74); textAlign:center; width:306px; height:18px; display:block }
+          <div .mt-3.flex.flex-wrap.items-start.justify-center.gap-3> [45,2537,306,52]
+            { margin:12px 0px 0px; width:306px; height:52px; display:flex; flexWrap:wrap; justifyContent:center; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [49,2537,40,20] "CGL"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:40.125px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [101,2537,41,20] "D&O"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:41.2188px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [154,2537,69,20] "Tech E&O"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:69.4062px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [235,2537,50,20] "Cyber"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:49.6406px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [297,2537,50,20] "Media"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:50.1719px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <span .inline-flex.shrink-0.items-start.gap-3> [138,2569,120,20]
+              { width:120.234px; height:20px; display:flex; alignItems:flex-start; flex:0 0 auto; gap:12px; rowGap:12px; columnGap:12px }
+              <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [138,2569,41,20] "EPLI"
+                { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:40.9375px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+              <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [191,2569,67,20] "Fiduciary"
+                { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:67.2969px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+          <div .overflow-hidden> [45,2589,306,0]
+            { width:306px; display:block; opacity:0; overflow:hidden; overflowX:hidden; overflowY:hidden }
+          <div .pointer-events-none.invisible.h-0.min-h-0.shrink-0.overflow-hidden> [45,2589,306,0]
+            { width:306px; display:block; flex:0 0 auto; overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <div .flex.flex-col.gap-1.5.rounded-[4px].bg-[#f6f6f6].px-2.py-2> [45,2589,306,22]
+              { backgroundColor:rgb(246, 246, 246); padding:8px; width:306px; height:22px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px; borderRadius:4px }
+              <span .font-semibold.text-[#191919].text-[12px].leading-none> [53,2597,290,0]
+                { fontSize:12px; fontWeight:600; lineHeight:12px; color:rgb(25, 25, 25); width:290px; display:block }
+              <span .font-medium.text-[#4a4a4a].text-[12px].leading-[1.35]> [53,2603,290,0]
+                { fontSize:12px; fontWeight:500; lineHeight:16.2px; color:rgb(74, 74, 74); width:290px; display:block }
+        <div .p-3> [25,2610,346,65]
+          { padding:12px; width:346px; height:65.2031px; display:block }
+          <div .pressable-button.pressable-smooth-corner.bg-[#cc4a00].w-full> [37,2622,322,41]
+            { backgroundColor:rgb(204, 74, 0); padding:0px 0px 4px; width:322px; height:41.2031px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+            <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#ff5c00].hover:bg-[#ff7d33].active:bg-[#ff9d66].px-4> [37,2622,322,37] @href=https://app.corgi.insure/sign-up?package=growth
+              { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(255, 255, 255); backgroundColor:rgb(255, 92, 0); padding:8px 16px; width:322px; height:37.2031px; display:flex; justifyContent:center; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+              <span .inline-flex.items-center.whitespace-nowrap> [112,2631,151,19] "Get a quote instantly"
+                { width:151.266px; height:19.2031px; display:flex; alignItems:center }
+              <span .h-4.w-4> [268,2632,16,16] "park"
+                { fontWeight:400; fontFamily:Material Symbols Sharp; lineHeight:16px; width:16px; height:16px; display:block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+      <div .flex.h-full.flex-col.overflow-clip.rounded-[24px].border.border-[#e1e1e1].bg-white.shadow-[0_0_24px_0_rgba(25,25,25,0.05)]> [396,2327,348,349]
+        { backgroundColor:rgb(255, 255, 255); width:348px; height:349.203px; display:flex; flexDirection:column; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; overflow:clip; overflowX:clip; overflowY:clip }
+        <div .-mx-px.-mt-px.relative.flex.h-[160px].flex-col.justify-end.gap-3.overflow-clip.rounded-[24px]> [396,2327,348,160]
+          { backgroundColor:rgb(255, 255, 255); padding:20px; margin:-1px -1px 0px; width:348px; height:160px; display:flex; flexDirection:column; justifyContent:flex-end; gap:12px; rowGap:12px; columnGap:12px; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; overflow:clip; overflowX:clip; overflowY:clip }
+          <div .pointer-events-none.absolute.flex.items-center.justify-center> [622,2327,189,105]
+            { width:189px; height:105px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:-1px; left:225px; right:-68px; bottom:54px }
+            <div> [622,2327,189,105]
+              { width:189px; height:105px; display:block; transform:matrix(-1, 0, 0, -1, 0, 0) }
+              <img .h-[105px].w-[189px].object-cover> [622,2327,189,105] @alt= @src=/_next/image?url=%2Fimages%2Fjourney-cards%2Fcustom-hands.png&w=384&q= IMG /_next/image?url=%2Fimages%2Fjourney-cards%2Fcustom-hands.png&w=256&q=60 nat256x142
+                { width:189px; height:105px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+          <div .relative.flex.flex-col.items-start.gap-3> [417,2405,306,61]
+            { width:306px; height:60.7969px; display:flex; flexDirection:column; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px; position:relative }
+            <h3 .font-mono.text-[24px].text-[#191919].leading-none.tracking-[-1.024px].md:text-[32px]> [417,2405,230,32] "Custom Package"
+              { fontSize:32px; fontFamily:f37Bolton; lineHeight:32px; letterSpacing:-1.024px; color:rgb(25, 25, 25); width:229.922px; height:32px; display:block }
+            <p .font-medium.text-[#4a4a4a].text-[14px].leading-[1.2].tracking-[-0.21px].[text-wrap:balance]> [417,2449,188,17] "Know exactly what you need?"
+              { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:188.438px; height:16.7969px; display:block }
+        <div .flex.flex-1.flex-col.border-[#e1e1e1].border-b.p-5> [397,2487,346,123]
+          { padding:20px; width:346px; height:123px; display:flex; flexDirection:column; flex:1 1 0%; borderBottom:1px solid rgb(225, 225, 225) }
+          <p .text-center.font-medium.text-[#4a4a4a].text-[12px].[text-wrap:balance]> [417,2507,306,18] "Pick the policies that fit your business best"
+            { fontSize:12px; fontWeight:500; lineHeight:18px; color:rgb(74, 74, 74); textAlign:center; width:306px; height:18px; display:block }
+          <div .mt-3.flex.flex-wrap.items-start.justify-center.gap-3> [417,2537,306,52]
+            { margin:12px 0px 0px; width:306px; height:52px; display:flex; flexWrap:wrap; justifyContent:center; alignItems:flex-start; gap:12px; rowGap:12px; columnGap:12px }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [452,2537,40,20] "CGL"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:40.125px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [504,2537,41,20] "D&O"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:41.2188px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [557,2537,69,20] "Tech E&O"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:69.4062px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [639,2537,50,20] "Cyber"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:49.6406px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [430,2569,67,20] "Fiduciary"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:67.2969px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [510,2569,50,20] "Media"
+              { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:50.1719px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+            <span .inline-flex.shrink-0.items-start.gap-3> [572,2569,138,20]
+              { width:137.688px; height:20px; display:flex; alignItems:flex-start; flex:0 0 auto; gap:12px; rowGap:12px; columnGap:12px }
+              <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [572,2569,41,20] "EPLI"
+                { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:40.9375px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+              <button .relative.inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1> [625,2569,50,20] "HNOA"
+                { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); textAlign:center; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:50px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; position:relative; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+              <a .inline-flex.cursor-pointer.items-center.justify-center.whitespace-nowrap.rounded-[4px].bg-[#ffdecc].px-2.py-1.font-medium> [687,2569,23,20] "+" @href=/startup-insurance#specialized-coverages
+                { fontSize:12px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:22.75px; height:20px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+          <div .overflow-hidden> [417,2589,306,0]
+            { width:306px; display:block; opacity:0; overflow:hidden; overflowX:hidden; overflowY:hidden }
+          <div .pointer-events-none.invisible.h-0.min-h-0.shrink-0.overflow-hidden> [417,2589,306,0]
+            { width:306px; display:block; flex:0 0 auto; overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <div .flex.flex-col.gap-1.5.rounded-[4px].bg-[#f6f6f6].px-2.py-2> [417,2589,306,22]
+              { backgroundColor:rgb(246, 246, 246); padding:8px; width:306px; height:22px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px; borderRadius:4px }
+              <span .font-semibold.text-[#191919].text-[12px].leading-none> [425,2597,290,0]
+                { fontSize:12px; fontWeight:600; lineHeight:12px; color:rgb(25, 25, 25); width:290px; display:block }
+              <span .font-medium.text-[#4a4a4a].text-[12px].leading-[1.35]> [425,2603,290,0]
+                { fontSize:12px; fontWeight:500; lineHeight:16.2px; color:rgb(74, 74, 74); width:290px; display:block }
+        <div .p-3> [397,2610,346,65]
+          { padding:12px; width:346px; height:65.2031px; display:block }
+          <div .pressable-button.pressable-smooth-corner.bg-[#626262].w-full> [409,2622,322,41]
+            { backgroundColor:rgb(98, 98, 98); padding:0px 0px 4px; width:322px; height:41.2031px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+            <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#191919].hover:bg-[#4a4a4a].active:bg-[#7b7b7b].px-4> [409,2622,322,37] @href=https://app.corgi.insure/sign-up?package=custom
+              { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(255, 255, 255); backgroundColor:rgb(25, 25, 25); padding:8px 16px; width:322px; height:37.2031px; display:flex; justifyContent:center; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+              <span .inline-flex.items-center.whitespace-nowrap> [484,2631,151,19] "Get a quote instantly"
+                { width:151.266px; height:19.2031px; display:flex; alignItems:center }
+              <span .h-4.w-4> [640,2632,16,16] "widgets"
+                { fontWeight:400; fontFamily:Material Symbols Sharp; lineHeight:16px; width:16px; height:16px; display:block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+    <div .flex.flex-wrap.items-center.justify-center.gap-2.pt-4.text-[#ff5c00]> [24,2700,720,38]
+      { color:rgb(255, 92, 0); padding:16px 0px 0px; width:720px; height:38px; display:flex; flexWrap:wrap; justifyContent:center; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+      <span .h-5.w-5.shrink-0> [226,2717,20,20] "info"
+        { fontSize:20px; fontFamily:Material Symbols Sharp; lineHeight:20px; width:20px; height:20px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+      <span .font-medium.text-body> [254,2717,67,19] "Click any"
+        { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:66.6875px; height:19.2031px; display:block }
+      <a .inline-flex.items-center.justify-center.rounded-[4px].bg-[#ffdecc].px-2.py-1.font-medium.text-[#ff5c00].text-[14px]> [329,2716,56,22] "Policy" @href=#explore-coverages
+        { fontSize:14px; fontWeight:500; lineHeight:14px; backgroundColor:rgb(255, 222, 204); padding:4px 8px; width:55.5312px; height:22px; display:flex; justifyContent:center; alignItems:center; borderRadius:4px; transition:background-color 0.3s cubic-bezier(0, 0, 0.2, 1), transform 0.3s cubic-bezier(0, 0, 0.2, 1); cursor:pointer }
+      <span .font-medium.text-body> [392,2717,150,19] "to see what it covers"
+        { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:149.891px; height:19.2031px; display:block }

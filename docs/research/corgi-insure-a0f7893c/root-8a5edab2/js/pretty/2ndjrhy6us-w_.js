@@ -1,0 +1,218 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,772846,642824,e=>{
+"use strict";
+function t(e){
+return"object"==typeof e&&null!==e}
+e.s(["isObject",0,t],642824),e.s(["isHTMLElement",0,function(e){
+return t(e)&&"offsetHeight"in e&&!("ownerSVGElement"in e)}
+],772846)},464978,e=>{
+"use strict";
+var t=e.i(271645),r=e.i(821476);
+e.s(["usePresence",0,function(e=!0){
+let n=(0,t.useContext)(r.PresenceContext);
+if(null===n)return[!0,null];
+let{
+isPresent:s,onExitComplete:i,register:o}
+=n,l=(0,t.useId)();
+(0,t.useEffect)(()=>{
+if(e)return o(l)},[e]);
+let u=(0,t.useCallback)(()=>e&&i&&i(l),[l,i,e]);
+return!s&&i?[!1,u]:[!0]}
+])},88653,e=>{
+"use strict";
+e.i(247167);
+var t=e.i(843476),r=e.i(271645),n=e.i(231178),s=e.i(947414),i=e.i(674008),o=e.i(821476),l=e.i(772846),u=r,a=e.i(737806);
+function c(e,t){
+if("function"==typeof e)return e(t);
+null!=e&&(e.current=t)}
+class f extends u.Component{
+getSnapshotBeforeUpdate(e){
+let t=this.props.childRef.current;
+if((0,l.isHTMLElement)(t)&&e.isPresent&&!this.props.isPresent&&!1!==this.props.pop){
+let e=t.offsetParent,r=(0,l.isHTMLElement)(e)&&e.offsetWidth||0,n=(0,l.isHTMLElement)(e)&&e.offsetHeight||0,s=getComputedStyle(t),i=this.props.sizeRef.current;
+i.height=parseFloat(s.height),i.width=parseFloat(s.width),i.top=t.offsetTop,i.left=t.offsetLeft,i.right=r-i.width-i.left,i.bottom=n-i.height-i.top}
+return null}
+componentDidUpdate(){}
+render(){
+return this.props.children}
+}
+function p({
+children:e,isPresent:n,anchorX:s,anchorY:i,root:o,pop:l}){
+let h=(0,u.useId)(),d=(0,u.useRef)(null),m=(0,u.useRef)({
+width:0,height:0,top:0,left:0,right:0,bottom:0}),{
+nonce:b}
+=(0,u.useContext)(a.MotionConfigContext),g=function(...e){
+return r.useCallback(function(...e){
+return t=>{
+let r=!1,n=e.map(e=>{
+let n=c(e,t);
+return r||"function"!=typeof n||(r=!0),n});
+if(r)return()=>{
+for(let t=0;
+t<n.length;
+t++){
+let r=n[t];
+"function"==typeof r?r():c(e[t],null)}
+}
+}
+}
+(...e),e)}
+(d,e.props?.ref??e?.ref);
+return(0,u.useInsertionEffect)(()=>{
+let{
+width:e,height:t,top:r,left:u,right:a,bottom:c}
+=m.current;
+if(n||!1===l||!d.current||!e||!t)return;
+let f="left"===s?`left: ${
+u}
+`:`right: ${
+a}
+`,p="bottom"===i?`bottom: ${
+c}
+`:`top: ${
+r}
+`;
+d.current.dataset.motionPopId=h;
+let g=document.createElement("style");
+b&&(g.nonce=b);
+let x=o??document.head;
+return x.appendChild(g),g.sheet&&g.sheet.insertRule(`
+          [data-motion-pop-id="${
+h}
+"] {
+            position: absolute !important;
+            width: ${
+e}
+px !important;
+            height: ${
+t}
+px !important;
+            ${
+f}
+px !important;
+            ${
+p}
+px !important;
+          }
+        `),()=>{
+d.current?.removeAttribute("data-motion-pop-id"),x.contains(g)&&x.removeChild(g)}
+},[n]),(0,t.jsx)(f,{
+isPresent:n,childRef:d,sizeRef:m,pop:l,children:!1===l?e:u.cloneElement(e,{
+ref:g})})}
+let h=({
+children:e,initial:n,isPresent:i,onExitComplete:l,custom:u,presenceAffectsLayout:a,mode:c,anchorX:f,anchorY:h,root:m})=>{
+let b=(0,s.useConstant)(d),g=(0,r.useId)(),x=!0,v=(0,r.useMemo)(()=>(x=!1,{
+id:g,initial:n,isPresent:i,custom:u,onExitComplete:e=>{
+for(let t of(b.set(e,!0),b.values()))if(!t)return;
+l&&l()},register:e=>(b.set(e,!1),()=>b.delete(e))}),[i,b,l]);
+return a&&x&&(v={
+...v}),(0,r.useMemo)(()=>{
+b.forEach((e,t)=>b.set(t,!1))},[i]),r.useEffect(()=>{
+i||b.size||!l||l()},[i]),e=(0,t.jsx)(p,{
+pop:"popLayout"===c,isPresent:i,anchorX:f,anchorY:h,root:m,children:e}),(0,t.jsx)(o.PresenceContext.Provider,{
+value:v,children:e})};
+function d(){
+return new Map}
+var m=e.i(464978);
+let b=e=>e.key||"";
+function g(e){
+let t=[];
+return r.Children.forEach(e,e=>{
+(0,r.isValidElement)(e)&&t.push(e)}),t}
+e.s(["AnimatePresence",0,({
+children:e,custom:o,initial:l=!0,onExitComplete:u,presenceAffectsLayout:a=!0,mode:c="sync",propagate:f=!1,anchorX:p="left",anchorY:d="top",root:x})=>{
+let[v,C]=(0,m.usePresence)(f),y=(0,r.useMemo)(()=>g(e),[e]),E=f&&!v?[]:y.map(b),w=(0,r.useRef)(!0),P=(0,r.useRef)(y),j=(0,s.useConstant)(()=>new Map),R=(0,r.useRef)(new Set),[L,A]=(0,r.useState)(y),[I,M]=(0,r.useState)(y);
+(0,i.useIsomorphicLayoutEffect)(()=>{
+w.current=!1,P.current=y;
+for(let e=0;
+e<I.length;
+e++){
+let t=b(I[e]);
+E.includes(t)?(j.delete(t),R.current.delete(t)):!0!==j.get(t)&&j.set(t,!1)}
+},[I,E.length,E.join("-")]);
+let S=[];
+if(y!==L){
+let e=[...y];
+for(let t=0;
+t<I.length;
+t++){
+let r=I[t],n=b(r);
+E.includes(n)||(e.splice(t,0,r),S.push(r))}
+return"wait"===c&&S.length&&(e=S),M(g(e)),A(y),null}
+let{
+forceRender:F}
+=(0,r.useContext)(n.LayoutGroupContext);
+return(0,t.jsx)(t.Fragment,{
+children:I.map(e=>{
+let r=b(e),n=(!f||!!v)&&(y===I||E.includes(r));
+return(0,t.jsx)(h,{
+isPresent:n,initial:(!w.current||!!l)&&void 0,custom:o,presenceAffectsLayout:a,mode:c,root:x,onExitComplete:n?void 0:()=>{
+if(R.current.has(r)||!j.has(r))return;
+R.current.add(r),j.set(r,!0);
+let e=!0;
+j.forEach(t=>{
+t||(e=!1)}),e&&(F?.(),M(P.current),f&&C?.(),u&&u())},anchorX:p,anchorY:d,children:e},r)})})}
+],88653)},914999,e=>{
+"use strict";
+var t=e.i(843476),r=e.i(522016),n=e.i(271645),s=e.i(106151);
+let i={
+orange:{
+shell:"bg-[#cc4a00]",face:"border border-transparent bg-[#ff5c00] hover:bg-[#ff7d33] active:bg-[#ff9d66]",text:"text-white"},white:{
+shell:"bg-[#e1e1e1]",face:"border border-[#e1e1e1] bg-white hover:bg-gray-50 active:bg-[#ededed]",text:"text-[#191919]"},black:{
+shell:"bg-[#626262]",face:"border border-transparent bg-[#191919] hover:bg-[#4a4a4a] active:bg-[#7b7b7b]",text:"text-white"}
+},o={
+large:"px-6 py-3 btn-text-large",small:"px-4 py-2 btn-text-small"};
+e.s(["PressableButton",0,function({
+as:e="link",asChild:l=!1,children:u,className:a,depth:c="4px",faceClassName:f,pressTrigger:p="self",size:h="small",textClassName:d,variant:m="orange",...b}){
+let g,x=i[m],v=(0,s.cn)("pressable-smooth-corner flex items-center justify-center",x.face,o[h],f,d??x.text);
+return g=l?(0,n.cloneElement)(u,{
+className:(0,s.cn)(v,u.props.className)}):"button"===e?(0,t.jsx)("button",{
+className:v,...b,children:u}):"div"===e?(0,t.jsx)("div",{
+className:v,...b,children:u}):(0,t.jsx)(r.default,{
+className:v,...b,children:u}),(0,t.jsx)("div",{
+className:(0,s.cn)("pressable-button pressable-smooth-corner",x.shell,a),style:{
+"--pressable-depth":c},"data-pressable-size":h,"data-pressable-variant":m,"data-press-trigger":p,children:g})}
+])},372907,e=>{
+"use strict";
+var t=e.i(843476),r=e.i(271645);
+e.s(["ViewportAnimationScope",0,function({
+children:e,rootMargin:n="200px 0px",style:s,...i}){
+let o=(0,r.useRef)(null),[l,u]=(0,r.useState)(!1);
+(0,r.useEffect)(()=>{
+let e=o.current;
+if(!e)return;
+let t=0,r=e=>{
+cancelAnimationFrame(t),t=requestAnimationFrame(()=>u(e))};
+if(!("IntersectionObserver"in window))return r(!0),()=>cancelAnimationFrame(t);
+let s=new IntersectionObserver(([e])=>r(e?.isIntersecting??!1),{
+rootMargin:n});
+return s.observe(e),()=>{
+cancelAnimationFrame(t),s.disconnect()}
+},[n]);
+let a={
+...s,"--viewport-animation-state":l?"running":"paused"};
+return(0,t.jsx)("div",{
+...i,ref:o,style:a,children:e})}
+])},570406,e=>{
+"use strict";
+e.s(["CORGI_APP_URL",0,"https://app.corgi.insure","CORGI_EMAIL",0,"hello@corgi.insure"])},444113,e=>{
+"use strict";
+var t=e.i(843476),r=e.i(271645),n=e.i(648070),s=e.i(513565);
+function i(e){
+return"function"==typeof e}
+e.s(["LazyMotion",0,function({
+children:e,features:o,strict:l=!1}){
+let[,u]=(0,r.useState)(!i(o)),a=(0,r.useRef)(void 0);
+if(!i(o)){
+let{
+renderer:e,...t}
+=o;
+a.current=e,(0,s.loadFeatures)(t)}
+return(0,r.useEffect)(()=>{
+i(o)&&o().then(({
+renderer:e,...t})=>{
+(0,s.loadFeatures)(t),a.current=e,u(!0)})},[]),(0,t.jsx)(n.LazyContext.Provider,{
+value:{
+renderer:a.current,strict:l},children:e})}
+])},357786,e=>{
+e.v(t=>Promise.all(["static/chunks/3y--orrbrfb9j.js","static/chunks/2i7gpm1m_nw7o.js"].map(t=>e.l(t))).then(()=>t(49961)))}
+]);

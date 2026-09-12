@@ -1,0 +1,96 @@
+<section .relative.border-[#e1e1e1].border-b.bg-background> [0,1220,1440,321]
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(29, 29, 29); backgroundColor:rgb(246, 246, 246); width:1440px; height:321px; display:block; borderBottom:1px solid rgb(225, 225, 225); position:relative }
+  <div .pointer-events-none.absolute.inset-y-0.left-[max(16px,calc((100vw-1200px)/2))].w-px.bg-[#e1e1e1].md:left-[max(24px,calc((100vw-1200px)/2))].lg:left-[max(64px,calc((100vw-1200px)/2))]> [120,1220,1,320]
+    { backgroundColor:rgb(225, 225, 225); width:1px; height:320px; display:block; position:absolute; left:120px; right:1319px; inset:0px 1319px 0px 120px }
+  <div .pointer-events-none.absolute.inset-y-0.right-[max(16px,calc((100vw-1200px)/2))].w-px.bg-[#e1e1e1].md:right-[max(24px,calc((100vw-1200px)/2))].lg:right-[max(64px,calc((100vw-1200px)/2))]> [1319,1220,1,320]
+    { backgroundColor:rgb(225, 225, 225); width:1px; height:320px; display:block; position:absolute; left:1319px; right:120px; inset:0px 120px 0px 1319px }
+  <div .overflow-hidden> [0,1220,1440,144]
+    { width:1440px; height:144px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .flex.justify-center.px-4.pt-16.pb-8.md:px-6.lg:px-16> [0,1220,1440,144]
+      { padding:64px 64px 32px; width:1440px; height:144px; display:flex; justifyContent:center }
+      <div .relative.size-12.shrink-0.overflow-hidden.rounded-[11.52px].shadow-[0_0_3.84px_0_rgba(29,29,29,0.25)]> [696,1284,48,48]
+        { width:48px; height:48px; display:block; flex:0 0 auto; borderRadius:11.52px; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative; filter:blur(0px); overflow:hidden; overflowX:hidden; overflowY:hidden; willChange:transform, opacity, filter }
+        <img .object-cover> [696,1284,48,48] @alt=Intryc @src=/_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=3840&q=75&d IMG /_next/image?url=%2Fimages%2Fcustomers%2Fintryc-logo.png&w=48&q=75 nat48x48
+          { width:48px; height:48px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+  <div .overflow-hidden> [0,1364,1440,176]
+    { width:1440px; height:176px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .flex.justify-center.px-8.pb-8.md:px-6.lg:px-16> [0,1364,1440,176]
+      { padding:0px 64px 32px; width:1440px; height:176px; display:flex; justifyContent:center }
+      <p .max-w-[1100px].text-center.font-medium.font-mono.text-[28px].text-black.leading-none.tracking-[-0.896px].md:text-[36px].md:tracking-[-1.152px]> [170,1364,1100,144]
+        { fontSize:48px; fontWeight:500; fontFamily:f37Bolton; lineHeight:48px; letterSpacing:-1.536px; color:rgb(0, 0, 0); textAlign:center; width:1100px; height:144px; maxWidth:1100px; display:block }
+        <span .sr-only> [213,1363,1,1] "“The minute I hit submit, documents come back, a Slack channel gets created, and the founding team messages me. It’s beautiful.”"
+          { margin:-1px; width:1px; height:1px; display:block; position:absolute; top:144px; left:213.766px; right:1227.23px; bottom:177px; overflow:hidden; overflowX:hidden; overflowY:hidden; clipPath:inset(50%) }
+        <span> [205,1358,1030,156]
+          { display:inline }
+          <span .inline-block> [214,1364,95,48] "“The"
+            { width:95.4844px; height:48px; display:inline-block; opacity:0.981557; filter:blur(0.147543px); willChange:transform, opacity, filter }
+          <span .inline-block> [319,1364,143,48] "minute"
+            { width:142.906px; height:48px; display:inline-block; opacity:0.979724; filter:blur(0.162209px); willChange:transform, opacity, filter }
+          <span .inline-block> [471,1364,13,48] "I"
+            { width:13.0156px; height:48px; display:inline-block; opacity:0.977759; filter:blur(0.177932px); willChange:transform, opacity, filter }
+          <span .inline-block> [494,1364,53,48] "hit"
+            { width:52.5625px; height:48px; display:inline-block; opacity:0.97557; filter:blur(0.195438px); willChange:transform, opacity, filter }
+          <span .inline-block> [556,1364,151,48] "submit,"
+            { width:150.688px; height:48px; display:inline-block; opacity:0.973245; filter:blur(0.214039px); willChange:transform, opacity, filter }
+          <span .inline-block> [716,1364,231,48] "documents"
+            { width:231.312px; height:48px; display:inline-block; opacity:0.970624; filter:blur(0.235011px); willChange:transform, opacity, filter }
+          <span .inline-block> [957,1364,115,48] "come"
+            { width:115.156px; height:48px; display:inline-block; opacity:0.967785; filter:blur(0.257721px); willChange:transform, opacity, filter }
+          <span .inline-block> [1082,1364,110,48] "back,"
+            { width:110.219px; height:48px; display:inline-block; opacity:0.964653; transform:matrix(1, 0, 0, 1, 0, 0.494232); filter:blur(0.282775px); willChange:transform, opacity, filter }
+          <span .inline-block> [1202,1365,25,48] "a"
+            { width:24.625px; height:48px; display:inline-block; opacity:0.961248; transform:matrix(1, 0, 0, 1, 0, 0.542286); filter:blur(0.310017px); willChange:transform, opacity, filter }
+          <span .inline-block> [205,1413,113,48] "Slack"
+            { width:113.438px; height:48px; display:inline-block; opacity:0.957402; transform:matrix(1, 0, 0, 1, 0, 0.595011); filter:blur(0.340781px); willChange:transform, opacity, filter }
+          <span .inline-block> [328,1413,163,48] "channel"
+            { width:163.297px; height:48px; display:inline-block; opacity:0.953269; transform:matrix(1, 0, 0, 1, 0, 0.652863); filter:blur(0.373851px); willChange:transform, opacity, filter }
+          <span .inline-block> [501,1413,89,48] "gets"
+            { width:89px; height:48px; display:inline-block; opacity:0.948761; transform:matrix(1, 0, 0, 1, 0, 0.71634); filter:blur(0.40991px); willChange:transform, opacity, filter }
+          <span .inline-block> [599,1413,166,48] "created,"
+            { width:166.375px; height:48px; display:inline-block; opacity:0.943781; transform:matrix(1, 0, 0, 1, 0, 0.785988); filter:blur(0.449756px); willChange:transform, opacity, filter }
+          <span .inline-block> [775,1413,77,48] "and"
+            { width:77px; height:48px; display:inline-block; opacity:0.93832; transform:matrix(1, 0, 0, 1, 0, 0.862406); filter:blur(0.493443px); willChange:transform, opacity, filter }
+          <span .inline-block> [862,1413,67,48] "the"
+            { width:67.1094px; height:48px; display:inline-block; opacity:0.932274; transform:matrix(1, 0, 0, 1, 0, 0.946254); filter:blur(0.541812px); willChange:transform, opacity, filter }
+          <span .inline-block> [938,1413,182,48] "founding"
+            { width:181.734px; height:48px; display:inline-block; opacity:0.92571; transform:matrix(1, 0, 0, 1, 0, 1.03825); filter:blur(0.594316px); willChange:transform, opacity, filter }
+          <span .inline-block> [1130,1413,105,48] "team"
+            { width:105.469px; height:48px; display:inline-block; opacity:0.918499; transform:matrix(1, 0, 0, 1, 0, 1.13919); filter:blur(0.652008px); willChange:transform, opacity, filter }
+          <span .inline-block> [434,1461,207,48] "messages"
+            { width:206.891px; height:48px; display:inline-block; opacity:0.910554; transform:matrix(1, 0, 0, 1, 0, 1.24994); filter:blur(0.71557px); willChange:transform, opacity, filter }
+          <span .inline-block> [650,1461,75,48] "me."
+            { width:74.7031px; height:48px; display:inline-block; opacity:0.901959; transform:matrix(1, 0, 0, 1, 0, 1.37145); filter:blur(0.784331px); willChange:transform, opacity, filter }
+          <span .inline-block> [734,1462,60,48] "It’s"
+            { width:60px; height:48px; display:inline-block; opacity:0.892406; transform:matrix(1, 0, 0, 1, 0, 1.50477); filter:blur(0.860756px); willChange:transform, opacity, filter }
+          <span .inline-block> [804,1462,203,48] "beautiful.”"
+            { width:202.656px; height:48px; display:inline-block; opacity:0.881901; transform:matrix(1, 0, 0, 1, 0, 1.65104); filter:blur(0.944792px); willChange:transform, opacity, filter }
+  <div .overflow-hidden> [0,1540,1440,0]
+    { width:1440px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .flex.justify-center.px-4.pt-4.pb-16.md:px-6.lg:px-16> [0,1540,1440,228]
+      { padding:16px 64px 64px; width:1440px; height:228.188px; display:flex; justifyContent:center }
+      <div .flex.flex-col.overflow-hidden.rounded-[24px].border.border-[#e1e1e1].bg-white.shadow-[0_0_16px_0_rgba(25,25,25,0.05)]> [584,1572,271,148]
+        { backgroundColor:rgb(255, 255, 255); width:271.266px; height:148.188px; display:flex; flexDirection:column; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; opacity:0; transform:matrix(1, 0, 0, 1, 0, 16); filter:blur(8px); overflow:hidden; overflowX:hidden; overflowY:hidden; willChange:transform, opacity, filter }
+        <div .-mt-px.-mx-px.flex.items-stretch.overflow-hidden.rounded-[24px].border.border-[#e1e1e1].bg-white.shadow-[0_0_16px_0_rgba(25,25,25,0.3)]> [584,1572,271,82]
+          { backgroundColor:rgb(255, 255, 255); margin:-1px -1px 0px; width:271.266px; height:82px; display:flex; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; overflow:hidden; overflowX:hidden; overflowY:hidden }
+          <div .flex.items-center.self-stretch> [585,1573,80,80]
+            { width:80px; height:80px; display:flex; alignItems:center }
+            <div .relative.h-20.w-20.shrink-0.overflow-hidden.rounded-[24px]> [585,1573,80,80]
+              { width:80px; height:80px; display:block; flex:0 0 auto; borderRadius:24px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <div .absolute.inset-0.bg-[#191919]> [585,1573,80,80]
+                { backgroundColor:rgb(25, 25, 25); width:80px; height:80px; display:block; position:absolute }
+              <img .absolute.inset-0.object-cover.object-top> [585,1573,80,80] @alt=Alex Marantelos @src=/_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=384 IMG /_next/image?url=%2Fimages%2Fcustomers%2Ftestimonial-photo-3.png&w=96&q=75 nat80x75
+                { width:80px; height:80px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+          <div .flex.shrink-0.flex-col.items-start.overflow-hidden.p-4> [665,1573,189,80]
+            { padding:16px; width:189.266px; height:80px; display:flex; flexDirection:column; alignItems:flex-start; flex:0 0 auto; overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <div .flex.h-11.flex-col.gap-1.5.whitespace-nowrap> [681,1589,157,44]
+              { width:157.266px; height:44px; display:flex; flexDirection:column; gap:6px; rowGap:6px; columnGap:6px }
+              <span .font-medium.text-[#1d1d1d].text-[16px].leading-[1.2].tracking-[-0.24px]> [681,1589,157,19] "Alex Marantelos"
+                { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; width:157.266px; height:19.1875px; display:block }
+              <span .font-normal.text-[#4e4e4e].text-[14px].leading-[1.2].tracking-[-0.21px]> [681,1614,157,17] "Co-founder CEO @ Intryc"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(78, 78, 78); width:157.266px; height:16.7969px; display:block }
+        <div .flex.w-full.flex-col.items-start.p-3> [585,1654,269,65]
+          { padding:12px; width:269.266px; height:65.1875px; display:flex; flexDirection:column; alignItems:flex-start }
+          <div .pressable-button.pressable-smooth-corner.bg-[#e1e1e1].w-full> [597,1666,245,41]
+            { backgroundColor:rgb(225, 225, 225); padding:0px 0px 4px; width:245.266px; height:41.1875px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+            <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-[#e1e1e1].bg-white.hover:bg-gray-50.active:bg-[#ededed].px-4> [597,1666,245,37] "Read Intryc case study" @href=/customers/intryc
+              { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(25, 25, 25); backgroundColor:rgb(255, 255, 255); padding:8px 16px; width:245.266px; height:37.1875px; display:flex; justifyContent:center; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:16px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); cursor:pointer }

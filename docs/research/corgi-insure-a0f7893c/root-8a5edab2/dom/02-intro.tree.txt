@@ -1,0 +1,66 @@
+<section .relative.bg-background.px-4.pt-4.md:px-6.md:pt-12.lg:px-16.lg:pt-16> [0,900,1440,320]
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(29, 29, 29); backgroundColor:rgb(246, 246, 246); padding:64px 64px 0px; width:1440px; height:320px; display:block; position:relative }
+  <div .pointer-events-none.absolute.inset-x-0.bottom-0.h-px.bg-[#e1e1e1]> [0,1219,1440,1]
+    { backgroundColor:rgb(225, 225, 225); width:1440px; height:1px; display:block; position:absolute; top:319px; inset:319px 0px 0px }
+  <div .pointer-events-none.absolute.inset-x-0.top-4.h-px.bg-[#e1e1e1].md:top-12.lg:top-16> [0,964,1440,1]
+    { backgroundColor:rgb(225, 225, 225); width:1440px; height:1px; display:block; position:absolute; top:64px; bottom:255px; inset:64px 0px 255px }
+  <div .pointer-events-none.absolute.inset-y-0.left-[max(16px,calc((100vw-1600px)/2))].w-px.bg-[#e1e1e1].md:left-[max(24px,calc((100vw-1600px)/2))].lg:left-[max(64px,calc((100vw-1600px)/2))]> [64,900,1,320]
+    { backgroundColor:rgb(225, 225, 225); width:1px; height:320px; display:block; position:absolute; left:64px; right:1375px; inset:0px 1375px 0px 64px }
+  <div .pointer-events-none.absolute.inset-y-0.right-[max(16px,calc((100vw-1600px)/2))].w-px.bg-[#e1e1e1].md:right-[max(24px,calc((100vw-1600px)/2))].lg:right-[max(64px,calc((100vw-1600px)/2))]> [1375,900,1,320]
+    { backgroundColor:rgb(225, 225, 225); width:1px; height:320px; display:block; position:absolute; left:1375px; right:64px; inset:0px 64px 0px 1375px }
+  <div .relative.mx-auto.max-w-[1600px].overflow-hidden.rounded-[24px].bg-[#313131].p-5.pb-[260px].md:p-16> [64,964,1312,256]
+    { backgroundColor:rgb(49, 49, 49); padding:64px; width:1312px; height:256px; maxWidth:1600px; display:block; borderRadius:24px; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .-translate-x-1/2.pointer-events-none.absolute.bottom-0.left-1/2.aspect-square.w-[520px].max-w-none.translate-y-1/2.md:w-[800px]> [194,694,1053,1053]
+      { width:1053px; height:1053px; display:block; position:absolute; top:-797px; left:656px; right:-397px; aspectRatio:1 / 1; translate:-50% 50% }
+      <img .object-contain> [194,694,1053,1053] @alt= @src=/images/journey-hero/ellipse.svg?dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE IMG /images/journey-hero/ellipse.svg?dpl=dpl_4zCe6eapdSiqsQSKyumtgvomB5tE nat300x150
+        { width:1053px; height:1053px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+    <h2 .relative.font-mono.font-normal.text-[20px].text-white.leading-none.tracking-[-0.032em].md:pr-[360px].md:text-[28px].lg:pr-[420px]> [128,1028,1184,128] "is an AI-native, full-stack insurance platform built for technology companies. That means fast quotes, competitive pricing, and a team that "
+      { fontSize:32px; fontFamily:f37Bolton; lineHeight:32px; letterSpacing:-1.024px; color:rgb(255, 255, 255); padding:0px 420px 0px 0px; width:1184px; height:128px; display:block; position:relative }
+      <span .text-[#ff5c00]> [128,1024,73,40] "Corgi"
+        { color:rgb(255, 92, 0); display:inline }
+    <div .pointer-events-none.absolute.right-[254px].bottom-[150px].z-10.hidden.origin-bottom-right.rotate-[-19.27deg].md:block> [920,1032,202,104]
+      { width:200px; height:40.625px; display:block; position:absolute; top:65.375px; left:858px; right:254px; bottom:150px; zIndex:10; rotate:-19.27deg }
+      <img .h-auto.w-[200px]> [920,1032,202,104] @alt= @src=/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png& IMG /_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png&w=256&q=60 nat200x40
+        { width:200px; height:40.625px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; verticalAlign:middle }
+    <div .group.absolute.right-0.bottom-0.hidden.h-[200px].w-[280px].[perspective:1000px].[transform-style:preserve-3d].md:block> [1056,980,320,240]
+      { width:320px; height:240px; display:block; position:absolute; top:16px; left:992px; perspective:1000px }
+      <div .-bottom-[110px].absolute.right-[20px].z-0.[transform:rotate(-27.6deg)].[transform-style:preserve-3d].transition-transform.duration-[420ms].ease-[cubic-bezier(0.2,0.8,0.2,1)].group-hover:z-20> [1063,1043,345,362]
+        { width:241px; height:283px; display:block; position:absolute; top:103px; left:59px; right:20px; bottom:-146px; zIndex:0; transform:matrix(0.886204, -0.463296, 0.463296, 0.886204, 0, 0); transition:transform 0.42s cubic-bezier(0.2, 0.8, 0.2, 1), translate 0.42s cubic-bezier(0.2, 0.8, 0.2, 1), scale 0.42s cu }
+        <div .[transform-style:preserve-3d].transition-transform.duration-[480ms].ease-[cubic-bezier(0.34,1.7,0.5,1)].group-hover:[transform:translateZ(80px)]> [1063,1043,345,362]
+          { width:241px; height:283px; display:block; transition:transform 0.48s cubic-bezier(0.34, 1.7, 0.5, 1), translate 0.48s cubic-bezier(0.34, 1.7, 0.5, 1), scale 0.48s  }
+          <div .h-[220px].w-[188px].overflow-hidden.bg-[#f9f9f9].lg:h-[283px].lg:w-[241px]> [1063,1043,345,362]
+            { backgroundColor:rgb(249, 249, 249); width:241px; height:283px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <p .cursor-pointer.pt-6.pl-6.font-mono.font-normal.text-[20px].text-black.leading-none.tracking-[-0.032em].hover:text-[#ff5c00]> [1063,1043,236,154] "Get a quote!"
+              { fontSize:24px; fontFamily:f37Bolton; letterSpacing:-0.768px; color:rgb(0, 0, 0); padding:24px 0px 0px 24px; width:241px; height:48px; display:block; cursor:pointer }
+      <div .-bottom-[74px].absolute.right-0.z-10.[transform:rotate(-19.99deg)].[transform-style:preserve-3d].transition-transform.duration-[420ms].ease-[cubic-bezier(0.2,0.8,0.2,1)].group-hover:z-0> [1094,1002,323,348]
+        { width:241px; height:283px; display:block; position:absolute; top:55px; left:79px; bottom:-98px; zIndex:10; transform:matrix(0.939752, -0.341856, 0.341856, 0.939752, 0, 0); transition:transform 0.42s cubic-bezier(0.2, 0.8, 0.2, 1), translate 0.42s cubic-bezier(0.2, 0.8, 0.2, 1), scale 0.42s cu }
+        <div .[transform-style:preserve-3d].transition-transform.duration-[480ms].ease-[cubic-bezier(0.34,1.7,0.5,1)].group-hover:[transform:translateZ(-40px)]> [1094,1002,323,348]
+          { width:241px; height:283px; display:block; transition:transform 0.48s cubic-bezier(0.34, 1.7, 0.5, 1), translate 0.48s cubic-bezier(0.34, 1.7, 0.5, 1), scale 0.48s  }
+          <div .relative.h-[220px].w-[188px].shadow-[2px_1px_8px_0px_rgba(25,25,25,0.5)].lg:h-[283px].lg:w-[241px]> [1094,1002,323,348]
+            { width:241px; height:283px; display:block; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative }
+            <img .object-cover.object-top> [1094,1002,323,348] @alt= @src=/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=3840&q=60&d IMG /_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=640&q=60 nat640x748
+              { width:241px; height:283px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+    <div .-bottom-[24px].absolute.inset-x-0.flex.justify-center.md:hidden> [0,900,0,0]
+      { justifyContent:center; position:absolute; bottom:-24px; inset:auto 0px -24px }
+      <a .group.relative.block.h-[270px].w-[255px].translate-x-6.translate-y-3.rotate-6.cursor-pointer.[perspective:1000px]> [0,900,0,0] @href=https://app.corgi.insure/sign-up @aria-label=Reveal Get a quote card
+        { width:255px; height:270px; display:block; position:relative; cursor:pointer; translate:24px 12px; rotate:6deg; perspective:1000px }
+        <div .-left-[72px].pointer-events-none.absolute.top-[28px].rotate-[-19.27deg]> [0,900,0,0]
+          { display:block; position:absolute; top:28px; left:-72px; rotate:-19.27deg }
+          <img .h-auto.w-[180px]> [0,900,0,0] @alt= @src=/_next/image?url=%2Fimages%2Fjourney-hero%2Fboring-document-label.png& IMG  nat0x0
+            { width:180px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; verticalAlign:middle }
+        <div .-bottom-[90px].absolute.right-[30px].z-0.[transform:rotate(-27.6deg)].[transform-style:preserve-3d].transition-transform.duration-[420ms].ease-[cubic-bezier(0.2,0.8,0.2,1)].group-data-[swapped=true]:z-20> [0,900,0,0]
+          { display:block; position:absolute; right:30px; bottom:-90px; zIndex:0; transition:transform 0.42s cubic-bezier(0.2, 0.8, 0.2, 1), translate 0.42s cubic-bezier(0.2, 0.8, 0.2, 1), scale 0.42s cu; inset:auto 30px -90px auto }
+          <div .[transform-style:preserve-3d].transition-transform.duration-[480ms].ease-[cubic-bezier(0.34,1.7,0.5,1)].group-data-[swapped=true]:[transform:translateZ(80px)]> [0,900,0,0]
+            { display:block; transition:transform 0.48s cubic-bezier(0.34, 1.7, 0.5, 1), translate 0.48s cubic-bezier(0.34, 1.7, 0.5, 1), scale 0.48s  }
+            <div .h-[270px].w-[225px].overflow-hidden.bg-[#f9f9f9]> [0,900,0,0]
+              { backgroundColor:rgb(249, 249, 249); width:225px; height:270px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <p .pt-7.pl-7.text-left.font-mono.font-normal.text-[27px].text-black.leading-none.tracking-[-0.032em].group-data-[swapped=true]:text-[#ff5c00]> [0,900,0,0] "Get a quote!"
+                { fontSize:27px; fontFamily:f37Bolton; lineHeight:27px; letterSpacing:-0.864px; color:rgb(0, 0, 0); textAlign:left; padding:28px 0px 0px 28px; display:block }
+        <div .-bottom-[45px].absolute.right-0.z-10.[transform:rotate(-19.99deg)].[transform-style:preserve-3d].transition-transform.duration-[420ms].ease-[cubic-bezier(0.2,0.8,0.2,1)].group-data-[swapped=true]:z-0> [0,900,0,0]
+          { display:block; position:absolute; bottom:-45px; zIndex:10; transition:transform 0.42s cubic-bezier(0.2, 0.8, 0.2, 1), translate 0.42s cubic-bezier(0.2, 0.8, 0.2, 1), scale 0.42s cu; inset:auto 0px -45px auto }
+          <div .[transform-style:preserve-3d].transition-transform.duration-[480ms].ease-[cubic-bezier(0.34,1.7,0.5,1)].group-data-[swapped=true]:[transform:translateZ(-40px)]> [0,900,0,0]
+            { display:block; transition:transform 0.48s cubic-bezier(0.34, 1.7, 0.5, 1), translate 0.48s cubic-bezier(0.34, 1.7, 0.5, 1), scale 0.48s  }
+            <div .relative.h-[270px].w-[225px].shadow-[2px_1px_8px_0px_rgba(25,25,25,0.5)]> [0,900,0,0]
+              { width:225px; height:270px; display:block; boxShadow:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, ; position:relative }
+              <img .object-cover.object-top> [0,900,0,0] @alt= @src=/_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=3840&q=60&d IMG /_next/image?url=%2Fimages%2Fjourney-hero%2Fdocument.png&w=640&q=60 nat640x748
+                { width:100%; height:100%; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }

@@ -12,6 +12,9 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Research artifacts copied from cloned sites and one-off asset scripts are not app code.
+    "docs/**",
+    "scripts/**",
   ]),
 ]);
 
