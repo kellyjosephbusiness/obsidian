@@ -1,0 +1,93 @@
+[
+ {
+  "d": 2,
+  "tag": "section",
+  "cls": "relative flex w-full flex-col items-start justify-center overflow-hidden px-4 pb-16 pt-[17",
+  "rect": [
+   0,
+   44,
+   1440,
+   491
+  ],
+  "heading": "Startup Insurance That Moves at Your Pace",
+  "text": "  Startup Insurance That Moves at Your Pace Your business needs essential coverage for every growth stage, apply in minutes and get a quote "
+ },
+ {
+  "d": 3,
+  "tag": "div",
+  "cls": "pointer-events-none absolute inset-0",
+  "rect": [
+   0,
+   536,
+   1440,
+   2338
+  ],
+  "heading": "",
+  "text": ""
+ },
+ {
+  "d": 3,
+  "tag": "div",
+  "cls": "relative mx-auto flex w-full max-w-[1200px] flex-col gap-6",
+  "rect": [
+   120,
+   600,
+   1200,
+   2210
+  ],
+  "heading": "Scalable Startup Insurance Packages & Customizable Coverage Solutions",
+  "text": "  Scalable Startup Insurance Packages & Customizable Coverage Solutions  Pre-Set Protection for Every Stage. Or Build Your Own Custom Policy"
+ },
+ {
+  "d": 3,
+  "tag": "div",
+  "cls": "pointer-events-none absolute inset-0",
+  "rect": [
+   0,
+   2875,
+   1440,
+   2262
+  ],
+  "heading": "",
+  "text": ""
+ },
+ {
+  "d": 3,
+  "tag": "div",
+  "cls": "relative mx-auto flex w-full max-w-[1600px] flex-col gap-6",
+  "rect": [
+   64,
+   2939,
+   1312,
+   2134
+  ],
+  "heading": "Essential Coverages for All Growth Stages",
+  "text": "  Essential Coverages for All Growth Stages We make sure your venture-backed startup is protected from all angles.  Instant Coverage  Instan"
+ },
+ {
+  "d": 2,
+  "tag": "section",
+  "cls": "relative overflow-hidden border-b-[1px] border-[#e1e1e1] bg-[#f6f6f6] px-4 py-16 md:px-6 l",
+  "rect": [
+   0,
+   5138,
+   1440,
+   391
+  ],
+  "heading": "Why Startups Choose Corgi",
+  "text": "  Why Startups Choose Corgi   verified_user Comprehensive Coverage Every policy a startup needs in one place. D&O, E&O, Cyber, EPL, GL, and "
+ },
+ {
+  "d": 2,
+  "tag": "section",
+  "cls": "relative border-b border-[#e1e1e1] bg-[#f6f6f6] px-4 py-16 md:px-6 md:py-20 lg:px-16",
+  "rect": [
+   0,
+   5528,
+   1440,
+   706
+  ],
+  "heading": "FAQ",
+  "text": "  FAQ   What types of insurance does a startup need? keyboard_arrow_down Most startups need for leadership protection, for professional liab"
+ }
+]

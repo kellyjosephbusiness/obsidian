@@ -68,7 +68,7 @@ function PolicyChip({ policy, active, onSelect }: PolicyChipProps) {
         setRippleKey((k) => k + 1);
         onSelect();
       }}
-      className="relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 font-medium text-[#ff5c00] text-[12px] leading-none transition-[background-color,transform] duration-300 ease-out hover:rotate-[8deg] hover:bg-[#ffc9a3] data-[active=true]:rotate-[8deg] data-[active=true]:bg-[#ffbe99]"
+      className="relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[#dde4f6] px-2 py-1 font-medium text-[#1e3a8a] text-[12px] leading-none transition-[background-color,transform] duration-300 ease-out hover:rotate-[8deg] hover:bg-[#c5d1f0] data-[active=true]:rotate-[8deg] data-[active=true]:bg-[#b7c5ec]"
     >
       {rippleKey > 0 && (
         <span aria-hidden key={rippleKey} className="pointer-events-none absolute inset-0 animate-chip-ripple rounded-[4px]" />
@@ -163,7 +163,7 @@ function CoveragePackageCard({ pkg, pills, selectedIdx, closeDelay, onSelect }: 
               height={art.height}
               quality={60}
               className={art.objectFit === "cover" ? "object-cover" : "object-contain"}
-              style={{ width: art.width, height: art.height }}
+              style={{ width: art.width, height: art.height, filter: "hue-rotate(195deg) saturate(0.85)" }}
             />
           </div>
         </div>
@@ -189,7 +189,7 @@ function CoveragePackageCard({ pkg, pills, selectedIdx, closeDelay, onSelect }: 
                 href={pkg.morePoliciesHref}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 font-medium text-[#ff5c00] text-[12px] leading-none transition-[background-color,transform] duration-300 ease-out hover:rotate-[8deg] hover:bg-[#ffc9a3]"
+                className="inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[#dde4f6] px-2 py-1 font-medium text-[#1e3a8a] text-[12px] leading-none transition-[background-color,transform] duration-300 ease-out hover:rotate-[8deg] hover:bg-[#c5d1f0]"
               >
                 +
               </Link>

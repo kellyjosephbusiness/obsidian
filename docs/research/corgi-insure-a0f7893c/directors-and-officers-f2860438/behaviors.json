@@ -1,0 +1,566 @@
+{
+ "sticky": [],
+ "animated": [
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] self-start",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get a D&O quote\narrow_forward"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] relative z-20 mx-auto w-fit",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get insured"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex flex-col gap-6 bg-white p-6 transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "5 Ways D&O Insurance Secures Your Compan"
+  },
+  {
+   "tag": "H3",
+   "cls": "font-mono text-[24px] text-[#191919] leading-none tracking-[-1.024px] transition-colors group-hover:",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "5 Ways D&O Insurance Secures Your Compan"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex flex-col gap-6 bg-white p-6 transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "How Much Does Startup Insurance Really C"
+  },
+  {
+   "tag": "H3",
+   "cls": "font-mono text-[24px] text-[#191919] leading-none tracking-[-1.024px] transition-colors group-hover:",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "How Much Does Startup Insurance Really C"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex flex-col gap-6 bg-white p-6 transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Startup Insurance Guide for Founders\nCor"
+  },
+  {
+   "tag": "H3",
+   "cls": "font-mono text-[24px] text-[#191919] leading-none tracking-[-1.024px] transition-colors group-hover:",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Startup Insurance Guide for Founders"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex flex-col gap-6 bg-white p-6 transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Insurance Built for Startup Founders\nCor"
+  },
+  {
+   "tag": "H3",
+   "cls": "font-mono text-[24px] text-[#191919] leading-none tracking-[-1.024px] transition-colors group-hover:",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Insurance Built for Startup Founders"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  },
+  {
+   "tag": "DIV",
+   "cls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "height, margin-top 0.5s",
+   "text": "Running a startup means making high-stak"
+  },
+  {
+   "tag": "DIV",
+   "cls": "text-body text-[#4a4a4a] transition-[transform,opacity,filter] duration-500 ease-[cubic-bezier(0.22,",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, opacity, filter 0.5s",
+   "text": "Running a startup means making high-stak"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  },
+  {
+   "tag": "DIV",
+   "cls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "height, margin-top 0.5s",
+   "text": "Common covered scenarios include: Your S"
+  },
+  {
+   "tag": "DIV",
+   "cls": "text-body text-[#4a4a4a] transition-[transform,opacity,filter] duration-500 ease-[cubic-bezier(0.22,",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, opacity, filter 0.5s",
+   "text": "Common covered scenarios include: Your S"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  },
+  {
+   "tag": "DIV",
+   "cls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "height, margin-top 0.5s",
+   "text": "D&O is a claims-made policy underwritten"
+  },
+  {
+   "tag": "DIV",
+   "cls": "text-body text-[#4a4a4a] transition-[transform,opacity,filter] duration-500 ease-[cubic-bezier(0.22,",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, opacity, filter 0.5s",
+   "text": "D&O is a claims-made policy underwritten"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  },
+  {
+   "tag": "DIV",
+   "cls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "height, margin-top 0.5s",
+   "text": "Available add-ons include Outside Direct"
+  },
+  {
+   "tag": "DIV",
+   "cls": "text-body text-[#4a4a4a] transition-[transform,opacity,filter] duration-500 ease-[cubic-bezier(0.22,",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, opacity, filter 0.5s",
+   "text": "Available add-ons include Outside Direct"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  },
+  {
+   "tag": "DIV",
+   "cls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "height, margin-top 0.5s",
+   "text": "Corgi's primary underwriting vehicle, Te"
+  },
+  {
+   "tag": "DIV",
+   "cls": "text-body text-[#4a4a4a] transition-[transform,opacity,filter] duration-500 ease-[cubic-bezier(0.22,",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, opacity, filter 0.5s",
+   "text": "Corgi's primary underwriting vehicle, Te"
+  },
+  {
+   "tag": "A",
+   "cls": "group inline-flex items-center gap-2 rounded-full border border-[#e1e1e1] bg-white px-4 py-2 text-[1",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "AI Startups"
+  },
+  {
+   "tag": "svg",
+   "cls": "[object SVGAnimatedString]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.15s"
+  },
+  {
+   "tag": "A",
+   "cls": "group inline-flex items-center gap-2 rounded-full border border-[#e1e1e1] bg-white px-4 py-2 text-[1",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "SaaS"
+  },
+  {
+   "tag": "svg",
+   "cls": "[object SVGAnimatedString]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.15s"
+  },
+  {
+   "tag": "A",
+   "cls": "group inline-flex items-center gap-2 rounded-full border border-[#e1e1e1] bg-white px-4 py-2 text-[1",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Fintech"
+  },
+  {
+   "tag": "svg",
+   "cls": "[object SVGAnimatedString]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.15s"
+  },
+  {
+   "tag": "A",
+   "cls": "group inline-flex items-center gap-2 rounded-full border border-[#e1e1e1] bg-white px-4 py-2 text-[1",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Health-Tech"
+  },
+  {
+   "tag": "svg",
+   "cls": "[object SVGAnimatedString]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.15s"
+  },
+  {
+   "tag": "A",
+   "cls": "group inline-flex items-center gap-2 rounded-full border border-[#e1e1e1] bg-white px-4 py-2 text-[1",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Marketplaces"
+  },
+  {
+   "tag": "svg",
+   "cls": "[object SVGAnimatedString]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.15s"
+  }
+ ],
+ "interactive": [
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "What does D&O cover?\nkeyboard_arrow_down",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "When does D&O respond?\nkeyboard_arrow_down",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "What are the key limits or exclusions for D&O?\nkey",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "Are add-ons available for D&O?\nkeyboard_arrow_down",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "Is Corgi's D&O carrier rated by AM Best?\nkeyboard_",
+   "expanded": "false",
+   "state": null
+  }
+ ],
+ "scrollSamples": [
+  {
+   "y": 0,
+   "s": "SPAN|ml-1 h-5 w-5|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nIMG|pointer-events-none absolute hidden max-w-none lg:block|left:calc(100% - 24px);top:calc(50% - 15px);width:1411px;height:230px;transform:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|relative|width:344px;height:168px;transform:scale(min(1, calc((100cqw - 32px) / 344px)));|\nDIV|absolute top-0 left-0|z-index:12;transform-origin:top left;transform-style:preserve-3d;will-change:tra|\nDIV|absolute top-0 left-0|z-index:11;transform-origin:top left;transform-style:preserve-3d;will-change:tra|\nDIV|absolute top-0 left-0|z-index:10;transform-origin:top left;transform-style:preserve-3d;will-change:tra|\nDIV|absolute top-0 left-0|z-index:9;transform-origin:top left;transform-style:preserve-3d;will-change:tran|\nDIV|absolute top-0 left-0|z-index:8;transform-origin:top left;transform-style:preserve-3d;will-change:tran|\nDIV|absolute top-0 left-0|z-index:7;transform-origin:top left;transform-style:preserve-3d;will-change:tran|\nDIV|absolute top-0 left-0|z-index:6;transform-origin:top left;transform-style:preserve-3d;will-change:tran|\nDIV|absolute top-0 left-0|z-index:5;transform-origin:top left;transform-style:preserve-3d;will-change:tran|\nDIV|absolute top-0 left-0|z-index:4;transform-origin:top left;transform-style:preserve-3d;will-change:tran|\nDIV|absolute top-0 left-0|z-index:3;transform-origin:top left;transform-style:preserve-3d;will-change:tran|\nDIV|absolute top-0 left-0|z-index:2;transform-origin:top left;transform-style:preserve-3d;will-change:tran|\nDIV|absolute top-0 left-0|z-index:1;transform-origin:top left;transform-style:preserve-3d;will-change:tran|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-[transform,opacity,filte|transform:translateY(-8px);opacity:0;filter:blur(2px)|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-[transform,opacity,filte|transform:translateY(-8px);opacity:0;filter:blur(2px)|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-["
+  },
+  {
+   "y": 400,
+   "s": "SPAN|ml-1 h-5 w-5|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nIMG|pointer-events-none absolute hidden max-w-none lg:block|left:calc(100% - 24px);top:calc(50% - 15px);width:1411px;height:230px;transform:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|relative|width:344px;height:168px;transform:scale(min(1, calc((100cqw - 32px) / 344px)));|\nDIV|absolute top-0 left-0|z-index: 100; transform-origin: left top; transform-style: preserve-3d; will-cha|\nDIV|absolute top-0 left-0|z-index: 12; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 11; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 10; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 9; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 8; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 7; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 6; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 5; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 4; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 3; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 2; transform-origin: left top; transform-style: preserve-3d; will-chang|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-[transform,opacity,filte|transform:translateY(-8px);opacity:0;filter:blur(2px)|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-[transform,opacity,filte|transform:translateY(-8px);opacity:0;filter:blur(2px)|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-["
+  },
+  {
+   "y": 800,
+   "s": "SPAN|ml-1 h-5 w-5|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nIMG|pointer-events-none absolute hidden max-w-none lg:block|left:calc(100% - 24px);top:calc(50% - 15px);width:1411px;height:230px;transform:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|relative|width:344px;height:168px;transform:scale(min(1, calc((100cqw - 32px) / 344px)));|\nDIV|absolute top-0 left-0|z-index: 1; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 12; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 11; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 10; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 9; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 8; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 7; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 6; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 5; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 4; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 3; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 2; transform-origin: left top; transform-style: preserve-3d; will-chang|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-[transform,opacity,filte|transform:translateY(-8px);opacity:0;filter:blur(2px)|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-[transform,opacity,filte|transform:translateY(-8px);opacity:0;filter:blur(2px)|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-["
+  },
+  {
+   "y": 6000,
+   "s": "SPAN|ml-1 h-5 w-5|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nIMG|pointer-events-none absolute hidden max-w-none lg:block|left:calc(100% - 24px);top:calc(50% - 15px);width:1411px;height:230px;transform:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|relative|width:344px;height:168px;transform:scale(min(1, calc((100cqw - 32px) / 344px)));|\nDIV|absolute top-0 left-0|z-index: 2; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 100; transform-origin: left top; transform-style: preserve-3d; will-cha|\nDIV|absolute top-0 left-0|z-index: 12; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 11; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 10; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 9; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 8; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 7; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 6; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 5; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 4; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 3; transform-origin: left top; transform-style: preserve-3d; will-chang|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-[transform,opacity,filte|transform:translateY(-8px);opacity:0;filter:blur(2px)|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-[transform,opacity,filte|transform:translateY(-8px);opacity:0;filter:blur(2px)|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-["
+  },
+  {
+   "y": 6800,
+   "s": "SPAN|ml-1 h-5 w-5|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nIMG|pointer-events-none absolute hidden max-w-none lg:block|left:calc(100% - 24px);top:calc(50% - 15px);width:1411px;height:230px;transform:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#ff5c00]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|relative|width:344px;height:168px;transform:scale(min(1, calc((100cqw - 32px) / 344px)));|\nDIV|absolute top-0 left-0|z-index: 2; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 1; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 12; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 11; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 10; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 9; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 8; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 7; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 6; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 5; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 4; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 3; transform-origin: left top; transform-style: preserve-3d; will-chang|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-[transform,opacity,filte|transform:translateY(-8px);opacity:0;filter:blur(2px)|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-[transform,opacity,filte|transform:translateY(-8px);opacity:0;filter:blur(2px)|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform duration|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|text-body text-[#4a4a4a] transition-["
+  }
+ ],
+ "timeDriven": [
+  {
+   "top": 44,
+   "changed": true
+  },
+  {
+   "top": 618,
+   "changed": false
+  },
+  {
+   "top": 923,
+   "changed": false
+  },
+  {
+   "top": 1824,
+   "changed": false
+  },
+  {
+   "top": 3436,
+   "changed": false
+  },
+  {
+   "top": 4248,
+   "changed": true
+  },
+  {
+   "top": 4850,
+   "changed": true
+  },
+  {
+   "top": 5496,
+   "changed": false
+  },
+  {
+   "top": 6916,
+   "changed": false
+  },
+  {
+   "top": 8014,
+   "changed": false
+  },
+  {
+   "top": 8598,
+   "changed": false
+  },
+  {
+   "top": 9190,
+   "changed": true
+  }
+ ],
+ "hover": [
+  {
+   "text": "Home",
+   "cls": " hover:text-foreground",
+   "before": "rgb(78, 78, 78)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Get a D&O quote\narrow_forward",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "See specialized coverages",
+   "cls": "flex h-[63px] items-center justify-center bg-white p-3 font-medium text-[16px] text-[#ff5c00] tracki",
+   "before": "rgb(255, 92, 0)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|underline"
+  },
+  {
+   "text": "Get insured",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "5 Ways D&O Insurance Secures Your Company's Future",
+   "cls": "group flex flex-col gap-6 bg-white p-6 transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "How Much Does Startup Insurance Really Cost by Sta",
+   "cls": "group flex flex-col gap-6 bg-white p-6 transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Startup Insurance Guide for Founders\nCorgi Blog\nMa",
+   "cls": "group flex flex-col gap-6 bg-white p-6 transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Insurance Built for Startup Founders\nCorgi\nUpdated",
+   "cls": "group flex flex-col gap-6 bg-white p-6 transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Get in touch",
+   "cls": "text-[#ff5c00] hover:underline",
+   "before": "rgb(255, 92, 0)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|underline"
+  },
+  {
+   "text": "AI Startups",
+   "cls": "group inline-flex items-center gap-2 rounded-full border border-[#e1e1e1] bg-white px-4 py-2 text-[1",
+   "before": "rgb(25, 25, 25)|rgb(255, 255, 255)|none|none|rgb(225, 225, 225)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 255, 255)|none|none|rgb(255, 92, 0)|none"
+  },
+  {
+   "text": "SaaS",
+   "cls": "group inline-flex items-center gap-2 rounded-full border border-[#e1e1e1] bg-white px-4 py-2 text-[1",
+   "before": "rgb(25, 25, 25)|rgb(255, 255, 255)|none|none|rgb(225, 225, 225)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 255, 255)|none|none|rgb(255, 92, 0)|none"
+  },
+  {
+   "text": "Fintech",
+   "cls": "group inline-flex items-center gap-2 rounded-full border border-[#e1e1e1] bg-white px-4 py-2 text-[1",
+   "before": "rgb(25, 25, 25)|rgb(255, 255, 255)|none|none|rgb(225, 225, 225)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 255, 255)|none|none|rgb(255, 92, 0)|none"
+  },
+  {
+   "text": "Health-Tech",
+   "cls": "group inline-flex items-center gap-2 rounded-full border border-[#e1e1e1] bg-white px-4 py-2 text-[1",
+   "before": "rgb(25, 25, 25)|rgb(255, 255, 255)|none|none|rgb(225, 225, 225)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 255, 255)|none|none|rgb(255, 92, 0)|none"
+  },
+  {
+   "text": "Marketplaces",
+   "cls": "group inline-flex items-center gap-2 rounded-full border border-[#e1e1e1] bg-white px-4 py-2 text-[1",
+   "before": "rgb(25, 25, 25)|rgb(255, 255, 255)|none|none|rgb(225, 225, 225)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 255, 255)|none|none|rgb(255, 92, 0)|none"
+  }
+ ],
+ "clicks": [
+  {
+   "t": "What does D&O cover?\nkeyboard_arrow_down",
+   "before": "false|3800",
+   "after": "true|3800"
+  },
+  {
+   "t": "When does D&O respond?\nkeyboard_arrow_down",
+   "before": "false|3800",
+   "after": "true|3800"
+  },
+  {
+   "t": "What are the key limits or exclusions for D&O?\nkey",
+   "before": "false|3800",
+   "after": "true|3800"
+  },
+  {
+   "t": "Are add-ons available for D&O?\nkeyboard_arrow_down",
+   "before": "false|3800",
+   "after": "true|3800"
+  },
+  {
+   "t": "Is Corgi's D&O carrier rated by AM Best?\nkeyboard_",
+   "before": "false|3800",
+   "after": "true|3800"
+  }
+ ]
+}

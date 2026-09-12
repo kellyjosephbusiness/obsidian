@@ -2,7 +2,7 @@ import type { CSSProperties } from "react";
 import { cn } from "@/lib/utils";
 
 const PALETTES = [
-  ["#ff5c00", "#ff9a5c"],
+  ["#1e3a8a", "#5b75c4"],
   ["#191919", "#4e4e4e"],
   ["#1f4fd8", "#6f9bff"],
   ["#0f7b5f", "#4fc39a"],

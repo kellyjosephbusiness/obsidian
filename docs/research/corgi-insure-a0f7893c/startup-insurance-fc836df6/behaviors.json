@@ -1,0 +1,855 @@
+{
+ "sticky": [],
+ "animated": [
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] self-start",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get startup insurance"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] w-full",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get a quote instantly\npsychiatry"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "CGL"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "D&O"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Tech E&O"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Cyber"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] w-full",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get a quote instantly\neco"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "CGL"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "D&O"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Tech E&O"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Cyber"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Media"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "EPLI"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] w-full",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get a quote instantly\npark"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "CGL"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "D&O"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Tech E&O"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Cyber"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Media"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "EPLI"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Fiduciary"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#626262] w-full",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get a quote instantly\nwidgets"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "CGL"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "D&O"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Tech E&O"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Cyber"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Fiduciary"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Media"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "EPLI"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "HNOA"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "+"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Instant quote\nCommercial General Liabili"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Instant quote\nCyber Liability\n\nProtects "
+  },
+  {
+   "tag": "A",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Instant quote\nTech & AI Liability\n\nCover"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Instant quote\nDirectors & Officers\n\nCove"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Instant quote\nEmployment Practices Liabi"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Instant quote\nFiduciary Liability\n\nProte"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Instant quote\nMedia Liability\n\nProtects "
+  },
+  {
+   "tag": "A",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Instant quote\nHired and Non-Owned Auto ("
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get quoted instantly"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Choose your specialized policies"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  },
+  {
+   "tag": "DIV",
+   "cls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "height, margin-top 0.5s",
+   "text": "Most startups need Directors & Officers "
+  },
+  {
+   "tag": "DIV",
+   "cls": "text-body text-[#4a4a4a] transition-[transform,opacity,filter] duration-500 ease-[cubic-bezier(0.22,",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, opacity, filter 0.5s",
+   "text": "Most startups need Directors & Officers "
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  },
+  {
+   "tag": "DIV",
+   "cls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "height, margin-top 0.5s",
+   "text": "Pre-seed packages are typically more aff"
+  },
+  {
+   "tag": "DIV",
+   "cls": "text-body text-[#4a4a4a] transition-[transform,opacity,filter] duration-500 ease-[cubic-bezier(0.22,",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, opacity, filter 0.5s",
+   "text": "Pre-seed packages are typically more aff"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  },
+  {
+   "tag": "DIV",
+   "cls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "height, margin-top 0.5s",
+   "text": "Get insurance as soon as you incorporate"
+  },
+  {
+   "tag": "DIV",
+   "cls": "text-body text-[#4a4a4a] transition-[transform,opacity,filter] duration-500 ease-[cubic-bezier(0.22,",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, opacity, filter 0.5s",
+   "text": "Get insurance as soon as you incorporate"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  },
+  {
+   "tag": "DIV",
+   "cls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "height, margin-top 0.5s",
+   "text": "Yes. Nearly all institutional investors "
+  },
+  {
+   "tag": "DIV",
+   "cls": "text-body text-[#4a4a4a] transition-[transform,opacity,filter] duration-500 ease-[cubic-bezier(0.22,",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, opacity, filter 0.5s",
+   "text": "Yes. Nearly all institutional investors "
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  },
+  {
+   "tag": "DIV",
+   "cls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "height, margin-top 0.5s",
+   "text": "Corgi provides quotes in under 10 minute"
+  },
+  {
+   "tag": "DIV",
+   "cls": "text-body text-[#4a4a4a] transition-[transform,opacity,filter] duration-500 ease-[cubic-bezier(0.22,",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, opacity, filter 0.5s",
+   "text": "Corgi provides quotes in under 10 minute"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  },
+  {
+   "tag": "DIV",
+   "cls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "height, margin-top 0.5s",
+   "text": "Corgi is the AI-native, full-stack insur"
+  },
+  {
+   "tag": "DIV",
+   "cls": "text-body text-[#4a4a4a] transition-[transform,opacity,filter] duration-500 ease-[cubic-bezier(0.22,",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, opacity, filter 0.5s",
+   "text": "Corgi is the AI-native, full-stack insur"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  }
+ ],
+ "interactive": [
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "What types of insurance does a startup need?\nkeybo",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "How much does startup insurance cost?\nkeyboard_arr",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "When should a startup get insurance?\nkeyboard_arro",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "Do I need insurance before my funding round?\nkeybo",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "How quickly can I get covered with Corgi?\nkeyboard",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "What makes Corgi different from traditional insura",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "Is Corgi's insurance financially secure? Is your c",
+   "expanded": "false",
+   "state": null
+  }
+ ],
+ "scrollSamples": [
+  {
+   "y": 0,
+   "s": "DIV||transform:rotate(-28.18deg)|\nSPAN|h-4 w-4|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV||transform:rotate(172.17deg) scaleY(-1)|\nSPAN|h-4 w-4|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV||transform:rotate(-6.17deg)|\nSPAN|h-4 w-4|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-3.5 w-3.5 shrink-0 text-[#4a4a4a]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV||transform:rotate(180deg) scaleY(-1)|\nSPAN|h-4 w-4|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-white|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-6 text-[#313131]|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|size-4 shrink-0 text-[#4a4a4a] transition-transform"
+  }
+ ],
+ "timeDriven": [
+  {
+   "top": 44,
+   "changed": false
+  },
+  {
+   "top": 535,
+   "changed": false
+  },
+  {
+   "top": 2874,
+   "changed": false
+  },
+  {
+   "top": 5138,
+   "changed": false
+  },
+  {
+   "top": 5528,
+   "changed": false
+  }
+ ],
+ "hover": [
+  {
+   "text": "Home",
+   "cls": " hover:text-foreground",
+   "before": "rgb(78, 78, 78)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Get startup insurance",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "Get a quote instantly\npsychiatry",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "CGL",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "D&O",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Tech E&O",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Cyber",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Get a quote instantly\neco",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "CGL",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "D&O",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Tech E&O",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Cyber",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Media",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "EPLI",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Get a quote instantly\npark",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "CGL",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "D&O",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Tech E&O",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Cyber",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Media",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "EPLI",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Fiduciary",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Get a quote instantly\nwidgets",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#191919] hove",
+   "before": "rgb(255, 255, 255)|rgb(25, 25, 25)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(74, 74, 74)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "CGL",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "D&O",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Tech E&O",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Cyber",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Fiduciary",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Media",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "EPLI",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "HNOA",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "+",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] px-2 py-1 text-",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Instant quote\nCommercial General Liability (CGL)\n\n",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Instant quote\nCyber Liability\n\nProtects against lo",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Instant quote\nTech & AI Liability\n\nCovers claims a",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Instant quote\nDirectors & Officers\n\nCovers claims ",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Instant quote\nEmployment Practices Liability (EPLI",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Instant quote\nFiduciary Liability\n\nProtects your c",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Instant quote\nMedia Liability\n\nProtects against cl",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Instant quote\nHired and Non-Owned Auto (HNOA)\n\nPro",
+   "cls": "group flex flex-col bg-white transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Get quoted instantly",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "Choose your specialized policies",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-[#e1e1e1] bg-white hover:bg-g",
+   "before": "rgb(25, 25, 25)|rgb(255, 255, 255)|none|none|rgb(225, 225, 225)|none",
+   "after": "rgb(25, 25, 25)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(225, 225, 225)|none"
+  }
+ ],
+ "clicks": [
+  {
+   "t": "What types of insurance does a startup need?\nkeybo",
+   "before": "false|3211",
+   "after": "true|3211"
+  },
+  {
+   "t": "How much does startup insurance cost?\nkeyboard_arr",
+   "before": "false|3211",
+   "after": "true|3211"
+  },
+  {
+   "t": "When should a startup get insurance?\nkeyboard_arro",
+   "before": "false|3211",
+   "after": "true|3211"
+  },
+  {
+   "t": "Do I need insurance before my funding round?\nkeybo",
+   "before": "false|3211",
+   "after": "true|3211"
+  },
+  {
+   "t": "How quickly can I get covered with Corgi?\nkeyboard",
+   "before": "false|3211",
+   "after": "true|3211"
+  },
+  {
+   "t": "What makes Corgi different from traditional insura",
+   "before": "false|3211",
+   "after": "true|3211"
+  },
+  {
+   "t": "Is Corgi's insurance financially secure? Is your c",
+   "before": "false|3211",
+   "after": "true|3211"
+  }
+ ]
+}

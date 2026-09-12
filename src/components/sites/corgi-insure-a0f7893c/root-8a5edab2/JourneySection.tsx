@@ -1,13 +1,21 @@
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
 import { CoveragePackageGrid } from "./CoveragePackageGrid";
-import { JOURNEY } from "./data";
+import type { CoveragePackage, PolicyPill } from "@/types/sites/corgi-insure-a0f7893c/home";
+import { COVERAGE_PACKAGES, JOURNEY, POLICY_PILLS } from "./data";
 
 /**
  * "Coverage Designed Around Your Startup’s Journey" — full-viewport section with
  * the four coverage-package cards (site: CoveragePackagesGrid) and the
  * "Click any [Policy] to see what it covers" hint row.
  */
-export function JourneySection() {
+export interface JourneySectionProps {
+  heading?: string;
+  sub?: string;
+  packages?: CoveragePackage[];
+  pills?: PolicyPill[];
+}
+
+export function JourneySection({ heading = JOURNEY.heading, sub = JOURNEY.sub, packages = COVERAGE_PACKAGES, pills = POLICY_PILLS }: JourneySectionProps = {}) {
   return (
     <section className="relative flex min-h-[max(720px,100vh)] items-center overflow-clip border-[#e1e1e1] border-b bg-[#f6f6f6] px-4 py-16 md:px-6 md:py-20 lg:px-16">
       <div
@@ -22,19 +30,19 @@ export function JourneySection() {
       <div className="-translate-y-[4vh] relative mx-auto flex w-full max-w-[1600px] flex-col gap-4 md:gap-6">
         <div className="flex flex-col gap-6 px-4 md:px-6">
           <h2 className="font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-none tracking-[-0.032em]">
-            {JOURNEY.heading}
+            {heading}
           </h2>
-          <p className="text-body-large text-[#4a4a4a]">{JOURNEY.sub}</p>
+          <p className="text-body-large text-[#4a4a4a]">{sub}</p>
         </div>
 
-        <CoveragePackageGrid />
+        <CoveragePackageGrid packages={packages} pills={pills} />
 
-        <div className="flex flex-wrap items-center justify-center gap-2 pt-4 text-[#ff5c00]">
+        <div className="flex flex-wrap items-center justify-center gap-2 pt-4 text-[#1e3a8a]">
           <MaterialIcon name="info" size={20} className="shrink-0" />
           <span className="font-medium text-body">{JOURNEY.hint.before}</span>
           <a
             href={JOURNEY.hint.chipHref}
-            className="inline-flex items-center justify-center rounded-[4px] bg-[#ffdecc] px-2 py-1 font-medium text-[#ff5c00] text-[14px] leading-none transition-[background-color,transform] duration-300 hover:bg-[#ffc9a3]"
+            className="inline-flex items-center justify-center rounded-[4px] bg-[#dde4f6] px-2 py-1 font-medium text-[#1e3a8a] text-[14px] leading-none transition-[background-color,transform] duration-300 hover:bg-[#c5d1f0]"
           >
             {JOURNEY.hint.chip}
           </a>

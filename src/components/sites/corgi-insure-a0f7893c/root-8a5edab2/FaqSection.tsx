@@ -82,9 +82,15 @@ function FaqRow({ item, open, onToggle }: FaqRowProps) {
  * "FAQ" section: single-open accordion inside a white card with a grey inner
  * panel and a "Can't find an answer?" footer row (site: FaqSection).
  */
-export function FaqSection() {
+export interface FaqSectionProps {
+  items?: FaqItem[];
+  heading?: string;
+  footer?: { text: string; link: { label: string; href: string } };
+}
+
+export function FaqSection({ items = FAQ, heading = FAQ_HEADER.heading, footer = FAQ_HEADER.footer }: FaqSectionProps = {}) {
   const [openIndex, setOpenIndex] = useState<number | null>(null);
-  const last = FAQ.length - 1;
+  const last = items.length - 1;
 
   return (
     <section className="relative border-[#e1e1e1] border-b bg-[#f6f6f6] px-4 py-16 md:px-6 md:py-20 lg:px-16">
@@ -100,7 +106,7 @@ export function FaqSection() {
 
       <div className="relative mx-auto flex w-full max-w-[800px] flex-col items-center gap-6">
         <h2 className="px-6 text-center font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]">
-          {FAQ_HEADER.heading}
+          {heading}
         </h2>
 
         <div className="relative w-full">
@@ -116,7 +122,7 @@ export function FaqSection() {
 
           <div className="relative w-full overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
             <div className="-m-px relative flex flex-col justify-center gap-4 overflow-clip rounded-[24px] bg-[#f6f6f6] p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
-              {FAQ.map((item, i) => (
+              {items.map((item, i) => (
                 <Fragment key={item.question}>
                   <FaqRow
                     item={item}
@@ -130,9 +136,9 @@ export function FaqSection() {
 
             <div className="flex items-center justify-center px-4 py-5 text-center">
               <p className="text-body text-[#4a4a4a]">
-                {FAQ_HEADER.footer.text}{" "}
-                <Link href={FAQ_HEADER.footer.link.href} className="text-[#ff5c00] hover:underline">
-                  {FAQ_HEADER.footer.link.label}
+                {footer.text}{" "}
+                <Link href={footer.link.href} className="text-[#1e3a8a] hover:underline">
+                  {footer.link.label}
                 </Link>
               </p>
             </div>

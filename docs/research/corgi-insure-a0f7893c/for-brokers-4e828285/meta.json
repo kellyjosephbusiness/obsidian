@@ -1,0 +1,46 @@
+{
+ "title": "For Brokers | Corgi Insurance",
+ "description": "Business insurance in one broker workspace: applications, production pricing, payment links, policy documents, and certificates.",
+ "og": [
+  [
+   "og:title",
+   "Corgi Insurance: Startup Insurance, Quoted in Minutes"
+  ],
+  [
+   "og:description",
+   "Get startup insurance in minutes with Corgi. Compare modular CGL, D&O, Tech E&O, Cyber, EPLI, and fiduciary coverage built for founders today."
+  ],
+  [
+   "og:url",
+   "https://www.corgi.insure"
+  ],
+  [
+   "og:site_name",
+   "Corgi Insurance"
+  ],
+  [
+   "og:locale",
+   "en_US"
+  ],
+  [
+   "og:image",
+   "https://www.corgi.insure/api/og?title=Startup+Insurance%2C+Quoted+in+Minutes&type=page&v=10"
+  ],
+  [
+   "og:image:width",
+   "1200"
+  ],
+  [
+   "og:image:height",
+   "630"
+  ],
+  [
+   "og:image:alt",
+   "Startup Insurance, Quoted in Minutes"
+  ],
+  [
+   "og:type",
+   "website"
+  ]
+ ]
+}

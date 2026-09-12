@@ -67,7 +67,7 @@ export function HeroSection() {
               <h1 className="homepage-hero-heading-font mx-auto max-w-[752px] text-[length:var(--h1-font-size)] font-medium leading-none tracking-[-0.032em] text-[#191919]">
                 {HERO.headingLine1} <br />
                 {HERO.headingLine2Prefix}{" "}
-                <span className="homepage-hero-serif-font text-[#FF5C00] italic">{HERO.headingAccent}</span>
+                <span className="homepage-hero-serif-font text-[#1E3A8A] italic">{HERO.headingAccent}</span>
               </h1>
               <p className="text-body-large text-[#4e4e4e]">
                 {HERO.subLine1}
@@ -76,7 +76,7 @@ export function HeroSection() {
             </div>
 
             <PressableButton
-              variant="orange"
+              variant="primary"
               size="small"
               href={HERO.cta.href}
               className="relative z-10 w-fit"

@@ -5,7 +5,7 @@ import { cn } from "@/lib/utils";
 export function FundLineMark({ className, ...props }: SVGProps<SVGSVGElement>) {
   return (
     <svg viewBox="0 0 48 48" aria-hidden="true" className={className} xmlns="http://www.w3.org/2000/svg" {...props}>
-      <rect width="48" height="48" rx="12" fill="#FF5C00" />
+      <rect width="48" height="48" rx="12" fill="#1E3A8A" />
       <path d="M10 33.5 19 25l7 6.5 12-14" fill="none" stroke="#fff" strokeWidth="4" strokeLinecap="round" strokeLinejoin="round" />
       <path d="M30 17.5h8v8" fill="none" stroke="#fff" strokeWidth="4" strokeLinecap="round" strokeLinejoin="round" />
     </svg>
@@ -18,7 +18,7 @@ export function FundLineLogo({ className, dark = false }: { className?: string; 
     <span className={cn("inline-flex items-center gap-2 whitespace-nowrap", className)} aria-label="FundLine Capital">
       <FundLineMark className="h-6 w-6 shrink-0" />
       <span className={cn("font-mono text-[19px] font-medium leading-none tracking-[-0.03em]", dark ? "text-white" : "text-[#191919]")}>
-        FundLine <span className="text-[#ff5c00]">Capital</span>
+        FundLine <span className="text-[#1e3a8a]">Capital</span>
       </span>
     </span>
   );
@@ -29,7 +29,7 @@ export function FundLineBadge({ className }: { className?: string }) {
   return (
     <div className={cn("flex flex-col items-center gap-4", className)} aria-label="FundLine Capital">
       <FundLineMark className="h-[96px] w-[96px]" />
-      <span className="font-mono text-[28px] font-medium leading-none tracking-[-0.03em] text-[#ff5c00]">FundLine</span>
+      <span className="font-mono text-[28px] font-medium leading-none tracking-[-0.03em] text-[#1e3a8a]">FundLine</span>
     </div>
   );
 }

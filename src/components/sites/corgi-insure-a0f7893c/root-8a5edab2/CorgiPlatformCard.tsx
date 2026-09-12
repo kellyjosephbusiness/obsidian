@@ -135,7 +135,7 @@ function paintOrb(orb: Orb, els: OrbEls): void {
     orbEl.style.height = "52px";
     if (contentEl) {
       contentEl.style.borderRadius = "17px";
-      contentEl.style.boxShadow = "0 0 0 3px rgba(255, 92, 0, 0.5)";
+      contentEl.style.boxShadow = "0 0 0 3px rgba(30, 58, 138, 0.5)";
     }
     if (iconEl) {
       const s = orb.fill ? "52px" : "26px";
@@ -383,7 +383,7 @@ function LogoPortalFlow() {
               className="relative flex size-full items-center justify-center overflow-hidden bg-[#f6f6f6]"
               style={{
                 borderRadius: transformed ? "17px" : "32px",
-                boxShadow: transformed ? "0 0 0 3px rgba(255, 92, 0, 0.5)" : "0 0 16px 0 rgba(255, 255, 255, 0.25)",
+                boxShadow: transformed ? "0 0 0 3px rgba(30, 58, 138, 0.5)" : "0 0 16px 0 rgba(255, 255, 255, 0.25)",
               }}
             >
               {logo.src ? (
@@ -421,7 +421,7 @@ function LogoPortalFlow() {
               ref={(el) => {
                 elsRef.current[i].badgeEl = el;
               }}
-              className="-top-[6px] -right-[6px] absolute size-[24px] items-center justify-center rounded-full bg-[#ff5c00]"
+              className="-top-[6px] -right-[6px] absolute size-[24px] items-center justify-center rounded-full bg-[#1e3a8a]"
               style={{ display: transformed ? "flex" : "none" }}
             >
               <MaterialIcon name="verified_user" size={16} className="text-white" />

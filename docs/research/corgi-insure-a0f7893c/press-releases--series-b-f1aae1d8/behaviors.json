@@ -1,0 +1,446 @@
+{
+ "sticky": [
+  {
+   "tag": "DIV",
+   "cls": "sticky py-3 transition-[top] duration-300",
+   "top": "116px",
+   "text": "Overview\nFunding\nExpansion\nLeadership\nAbout Corgi"
+  },
+  {
+   "tag": "DIV",
+   "cls": "sticky flex flex-col items-center gap-3 transition-[top] duration-300",
+   "top": "116px",
+   "text": "Start application\n\nNot familiar with insurance or need guida"
+  }
+ ],
+ "animated": [
+  {
+   "tag": "A",
+   "cls": "flex h-12 w-12 items-center justify-center rounded-full border border-[#e1e1e1] text-[#4a4a4a] trans",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": ""
+  },
+  {
+   "tag": "A",
+   "cls": "flex h-12 w-12 items-center justify-center rounded-full border border-[#e1e1e1] text-[#4a4a4a] trans",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "sticky py-3 transition-[top] duration-300",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "top 0.3s",
+   "text": "Overview\nFunding\nExpansion\nLeadership\nAb"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] shrink-0",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get insured now"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] w-full",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Start your application"
+  },
+  {
+   "tag": "DIV",
+   "cls": "sticky flex flex-col items-center gap-3 transition-[top] duration-300",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "top 0.3s",
+   "text": "Start application\n\nNot familiar with ins"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#626262] w-full",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Start application"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex items-center bg-white p-6 transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Aug. 27 2026\n5 min read\nWhich Acquired I"
+  },
+  {
+   "tag": "DIV",
+   "cls": "flex items-center justify-between text-sm tracking-tight text-[#4a4a4a] transition-colors group-hove",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Aug. 27 2026\n5 min read"
+  },
+  {
+   "tag": "H3",
+   "cls": "font-mono leading-none tracking-tight text-[#191919] transition-colors group-hover:text-[#ff5c00] te",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Which Acquired Insurance Providers Are N"
+  },
+  {
+   "tag": "P",
+   "cls": "leading-snug tracking-tight text-[#4a4a4a] transition-colors group-hover:text-[#ff5c00]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Founders usually do not buy insurance be"
+  },
+  {
+   "tag": "DIV",
+   "cls": "h-px w-full bg-[#e1e1e1] transition-colors group-hover:bg-[#ff5c00]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": ""
+  },
+  {
+   "tag": "P",
+   "cls": "text-sm tracking-tight text-[#191919] transition-colors group-hover:text-[#ff5c00]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "The Corgi team"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex items-center bg-white p-6 transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Aug. 27 2026\n6 min read\nHow to Implement"
+  },
+  {
+   "tag": "DIV",
+   "cls": "flex items-center justify-between text-sm tracking-tight text-[#4a4a4a] transition-colors group-hove",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Aug. 27 2026\n6 min read"
+  },
+  {
+   "tag": "H3",
+   "cls": "font-mono leading-none tracking-tight text-[#191919] transition-colors group-hover:text-[#ff5c00] te",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "How to Implement D&O Coverage with the B"
+  },
+  {
+   "tag": "P",
+   "cls": "leading-snug tracking-tight text-[#4a4a4a] transition-colors group-hover:text-[#ff5c00]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "The private company management liability"
+  },
+  {
+   "tag": "DIV",
+   "cls": "h-px w-full bg-[#e1e1e1] transition-colors group-hover:bg-[#ff5c00]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": ""
+  },
+  {
+   "tag": "P",
+   "cls": "text-sm tracking-tight text-[#191919] transition-colors group-hover:text-[#ff5c00]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "The Corgi team"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex items-center bg-white p-6 transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Aug. 27 2026\n5 min read\nWhich Insurance "
+  },
+  {
+   "tag": "DIV",
+   "cls": "flex items-center justify-between text-sm tracking-tight text-[#4a4a4a] transition-colors group-hove",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Aug. 27 2026\n5 min read"
+  },
+  {
+   "tag": "H3",
+   "cls": "font-mono leading-none tracking-tight text-[#191919] transition-colors group-hover:text-[#ff5c00] te",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Which Insurance Providers Let Founders B"
+  },
+  {
+   "tag": "P",
+   "cls": "leading-snug tracking-tight text-[#4a4a4a] transition-colors group-hover:text-[#ff5c00]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Founders who need Cyber and D&O coverage"
+  },
+  {
+   "tag": "DIV",
+   "cls": "h-px w-full bg-[#e1e1e1] transition-colors group-hover:bg-[#ff5c00]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": ""
+  },
+  {
+   "tag": "P",
+   "cls": "text-sm tracking-tight text-[#191919] transition-colors group-hover:text-[#ff5c00]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "The Corgi team"
+  },
+  {
+   "tag": "A",
+   "cls": "group flex items-center bg-white p-6 transition-colors hover:bg-gray-50",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Aug. 27 2026\n4 min read\nWhere Founders C"
+  },
+  {
+   "tag": "DIV",
+   "cls": "flex items-center justify-between text-sm tracking-tight text-[#4a4a4a] transition-colors group-hove",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Aug. 27 2026\n4 min read"
+  },
+  {
+   "tag": "H3",
+   "cls": "font-mono leading-none tracking-tight text-[#191919] transition-colors group-hover:text-[#ff5c00] te",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Where Founders Can Bind Coverage Instant"
+  },
+  {
+   "tag": "P",
+   "cls": "leading-snug tracking-tight text-[#4a4a4a] transition-colors group-hover:text-[#ff5c00]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "Corgi is the AI-native insurance carrier"
+  },
+  {
+   "tag": "DIV",
+   "cls": "h-px w-full bg-[#e1e1e1] transition-colors group-hover:bg-[#ff5c00]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": ""
+  },
+  {
+   "tag": "P",
+   "cls": "text-sm tracking-tight text-[#191919] transition-colors group-hover:text-[#ff5c00]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to 0.15s",
+   "text": "The Corgi team"
+  }
+ ],
+ "interactive": [
+  {
+   "tag": "BUTTON",
+   "cls": "flex items-start gap-2 text-left text-[12px] leading-[1.3] tracking-tight text-[#FF5C00]",
+   "text": "Overview",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex items-start gap-2 text-left text-[12px] leading-[1.3] tracking-tight text-[#4a4a4a] hover:text-",
+   "text": "Funding",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex items-start gap-2 text-left text-[12px] leading-[1.3] tracking-tight text-[#4a4a4a] hover:text-",
+   "text": "Expansion",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex items-start gap-2 text-left text-[12px] leading-[1.3] tracking-tight text-[#4a4a4a] hover:text-",
+   "text": "Leadership",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex items-start gap-2 text-left text-[12px] leading-[1.3] tracking-tight text-[#4a4a4a] hover:text-",
+   "text": "About Corgi",
+   "expanded": null,
+   "state": null
+  }
+ ],
+ "scrollSamples": [
+  {
+   "y": 0,
+   "s": "DIV|sticky py-3 transition-[top] duration-300|top:calc(var(--navbar-height, 55px) + 24px)|\nDIV|sticky flex flex-col items-center gap-3 transition-[top] dur|top:calc(var(--navbar-height, 55px) + 24px)|"
+  }
+ ],
+ "timeDriven": [
+  {
+   "top": 44,
+   "changed": false
+  },
+  {
+   "top": 604,
+   "changed": false
+  },
+  {
+   "top": 702,
+   "changed": false
+  },
+  {
+   "top": 2599,
+   "changed": false
+  }
+ ],
+ "hover": [
+  {
+   "text": "",
+   "cls": "flex h-12 w-12 items-center justify-center rounded-full border border-[#e1e1e1] text-[#4a4a4a] trans",
+   "before": "rgb(74, 74, 74)|rgba(0, 0, 0, 0)|none|none|rgb(225, 225, 225)|none",
+   "after": "rgb(74, 74, 74)|lab(96.1596 -0.0823438 -1.13575)|none|none|rgb(225, 225, 225)|none"
+  },
+  {
+   "text": "",
+   "cls": "flex h-12 w-12 items-center justify-center rounded-full border border-[#e1e1e1] text-[#4a4a4a] trans",
+   "before": "rgb(74, 74, 74)|rgba(0, 0, 0, 0)|none|none|rgb(225, 225, 225)|none",
+   "after": "rgb(74, 74, 74)|lab(96.1596 -0.0823438 -1.13575)|none|none|rgb(225, 225, 225)|none"
+  },
+  {
+   "text": "Overview",
+   "cls": "flex items-start gap-2 text-left text-[12px] leading-[1.3] tracking-tight text-[#4a4a4a] hover:text-",
+   "before": "rgb(74, 74, 74)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Expansion",
+   "cls": "flex items-start gap-2 text-left text-[12px] leading-[1.3] tracking-tight text-[#4a4a4a] hover:text-",
+   "before": "rgb(74, 74, 74)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Leadership",
+   "cls": "flex items-start gap-2 text-left text-[12px] leading-[1.3] tracking-tight text-[#4a4a4a] hover:text-",
+   "before": "rgb(74, 74, 74)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "About Corgi",
+   "cls": "flex items-start gap-2 text-left text-[12px] leading-[1.3] tracking-tight text-[#4a4a4a] hover:text-",
+   "before": "rgb(74, 74, 74)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Get insured now",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "erika@corgi.com",
+   "cls": "text-[#FF5C00] underline-offset-2 hover:underline",
+   "before": "rgb(255, 92, 0)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|underline"
+  },
+  {
+   "text": "Start your application",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "Start application",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#191919] hove",
+   "before": "rgb(255, 255, 255)|rgb(25, 25, 25)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(74, 74, 74)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "Book a demo",
+   "cls": "text-body font-medium tracking-tight text-[#FF5C00] hover:underline",
+   "before": "rgb(255, 92, 0)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|underline"
+  },
+  {
+   "text": "Aug. 27 2026\n5 min read\nWhich Acquired Insurance P",
+   "cls": "group flex items-center bg-white p-6 transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Aug. 27 2026\n6 min read\nHow to Implement D&O Cover",
+   "cls": "group flex items-center bg-white p-6 transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Aug. 27 2026\n5 min read\nWhich Insurance Providers ",
+   "cls": "group flex items-center bg-white p-6 transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Aug. 27 2026\n4 min read\nWhere Founders Can Bind Co",
+   "cls": "group flex items-center bg-white p-6 transition-colors hover:bg-gray-50",
+   "before": "rgb(29, 29, 29)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(44, 44, 44)|none"
+  }
+ ],
+ "clicks": [
+  {
+   "t": "Overview",
+   "before": "null|3223",
+   "after": "null|3223"
+  },
+  {
+   "t": "Funding",
+   "before": "null|3223",
+   "after": "null|3223"
+  },
+  {
+   "t": "Expansion",
+   "before": "null|3223",
+   "after": "null|3223"
+  },
+  {
+   "t": "Leadership",
+   "before": "null|3223",
+   "after": "null|3223"
+  },
+  {
+   "t": "About Corgi",
+   "before": "null|3223",
+   "after": "null|3223"
+  }
+ ]
+}

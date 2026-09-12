@@ -54,7 +54,7 @@ export function SelfServeCard({ hideFooter = false }: CardProps) {
   const chip = useTryMeChip();
   return (
     <div className="@container relative flex flex-col overflow-clip rounded-[24px] border border-[#e1e1e1]">
-      <div className="relative aspect-[800/465] overflow-clip bg-[#ff7d33] p-[1.09cqw]">
+      <div className="relative aspect-[800/465] overflow-clip bg-[#2b4ca8] p-[1.09cqw]">
         <div
           {...chip.handlers}
           className="@container absolute left-1/2 top-[9.7%] aspect-[701/778] w-[87.625%] -translate-x-1/2 rounded-[1.63cqw] bg-[#f9f9f9] shadow-[0_0_1.63cqw_rgba(25,25,25,0.5)]"
@@ -70,7 +70,7 @@ export function SelfServeCard({ hideFooter = false }: CardProps) {
             faceClassName="w-full gap-1 text-body"
             href={selfServe.cta.href}
             size="small"
-            variant="orange"
+            variant="primary"
           >
             {selfServe.cta.label}
             <MaterialIcon name={selfServe.cta.icon} size={16} />

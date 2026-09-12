@@ -1,0 +1,255 @@
+[
+ {
+  "src": "https://www.corgi.insure/images/corgi%20logo%20vector.svg",
+  "local": "/sites/corgi-insure-a0f7893c/shared/images/corgi-logo-vector.svg",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/images/book%20a%20demo%20image.png",
+  "local": "/sites/corgi-insure-a0f7893c/root-8a5edab2/images/book-a-demo-image.png",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/images/press-releases/series-b-thumbnail.png",
+  "local": "/sites/corgi-insure-a0f7893c/root-8a5edab2/images/press-releases/series-b-thumbnail.png",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Findustry%2Fai-hero-base.png&w=96&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/ai-hero-base.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Findustry%2Fai-hero-base.png&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/ai-hero-base.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Findustry%2Fai-hero-foreground.png&w=96&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/ai-hero-foreground.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Findustry%2Fai-hero-foreground.png&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/ai-hero-foreground.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fseed-leaf.webp&w=96&q=60",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/seed-leaf.webp"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fseed-leaf.webp&w=256&q=60",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/seed-leaf.webp"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fseries-a-plant.png&w=256&q=60",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/series-a-plant.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fseries-a-plant.png&w=384&q=60",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/series-a-plant.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fgrowth-tree.png&w=256&q=60",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/growth-tree.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fgrowth-tree.png&w=640&q=60",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/growth-tree.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fcustom-hands.png&w=256&q=60",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/custom-hands.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fjourney-cards%2Fcustom-hands.png&w=384&q=60",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/custom-hands.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fflying-dog-left.webp&w=1080&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/flying-dog-left.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fflying-dog-right.webp&w=1080&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/flying-dog-right.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fflying-dog-right.webp&w=384&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/flying-dog-right.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fflying-dog-right.webp&w=640&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/flying-dog-right.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fflying-dog-left.webp&w=384&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/flying-dog-left.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fflying-dog-left.webp&w=750&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/flying-dog-left.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcgl.webp&w=384&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/cgl.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcgl.webp&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/cgl.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcyber.webp&w=384&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/cyber.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fcyber.webp&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/cyber.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftech-eo.webp&w=384&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/tech-eo.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ftech-eo.webp&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/tech-eo.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fdo.webp&w=384&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/do.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fdo.webp&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/do.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fepl.webp&w=384&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/epl.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fepl.webp&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/epl.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffl.webp&w=384&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/fl.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffl.webp&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/fl.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fmedia.webp&w=384&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/media.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fmedia.webp&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/media.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhnoa.webp&w=384&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/hnoa.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhnoa.webp&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/hnoa.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Findustry%2Ffintech-hero.png&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/fintech-hero.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Findustry%2Fcrypto-hero.png&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/crypto-hero.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Findustry%2Fmarketplace-hero.png&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/marketplace-hero.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Findustry%2Fhealthtech-hero.png&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/healthtech-hero.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Fhero%2Fsaas-cursor.png&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/ai-97ffa848/saas-cursor.png"
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/footer-corgi-laptop.png",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/footer-corgi-founder.png",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/footer-corgi-suit.png",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/footer-corgi-chef.png",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/footer-corgi-doctor.png",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/brand/forbes.webp",
+  "local": "/sites/corgi-insure-a0f7893c/root-8a5edab2/brand/forbes.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/brand/the-economic-times.webp",
+  "local": "/sites/corgi-insure-a0f7893c/root-8a5edab2/brand/the-economic-times.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/brand/insurance-business.webp",
+  "local": "/sites/corgi-insure-a0f7893c/root-8a5edab2/brand/insurance-business.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/brand/the-wall-street-journal.webp",
+  "local": "/sites/corgi-insure-a0f7893c/root-8a5edab2/brand/the-wall-street-journal.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/brand/inc.webp",
+  "local": "/sites/corgi-insure-a0f7893c/root-8a5edab2/brand/inc.webp",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/brand/corgi-dog.svg",
+  "local": "/sites/corgi-insure-a0f7893c/root-8a5edab2/brand/corgi-dog.svg",
+  "shared": true
+ },
+ {
+  "src": "https://www.corgi.insure/_next/image?url=%2Ffooter-bg.webp&w=3840&q=75",
+  "local": "/sites/corgi-insure-a0f7893c/for-brokers-4e828285/footer-bg.webp",
+  "shared": true
+ }
+]

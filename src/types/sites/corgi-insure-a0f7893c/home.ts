@@ -85,7 +85,7 @@ export interface CoveragePackage {
   art: PackageArt;
   ctaHref: string;
   ctaIcon: MaterialIconName;
-  ctaVariant: "orange" | "black";
+  ctaVariant: "primary" | "black";
 }
 
 export interface Testimonial {

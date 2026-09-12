@@ -1,0 +1,41 @@
+[
+ {
+  "d": 2,
+  "tag": "section",
+  "cls": "relative flex items-center justify-center overflow-hidden border-[#e1e1e1] border-b px-4 p",
+  "rect": [
+   0,
+   0,
+   1440,
+   480
+  ],
+  "heading": "Commercial Insurance, From Quote to Certificate.",
+  "text": "  Commercial Insurance, From Quote to Certificate.  Business insurance in one broker workspace: applications, production pricing, payment li"
+ },
+ {
+  "d": 2,
+  "tag": "section",
+  "cls": "relative flex min-h-[60vh] items-center justify-center overflow-hidden border-[#e1e1e1] bo",
+  "rect": [
+   0,
+   561,
+   1440,
+   540
+  ],
+  "heading": "",
+  "text": "    Complete the application or send your client a link edit_document , then get production pricing request_quote ,  bind coverage and gener"
+ },
+ {
+  "d": 2,
+  "tag": "section",
+  "cls": "relative overflow-hidden border-b border-[#e1e1e1] bg-[#f6f6f6] px-4 py-16 md:px-6 md:py-2",
+  "rect": [
+   0,
+   1101,
+   1440,
+   1246
+  ],
+  "heading": "Our Core Coverages, Ready to Quote",
+  "text": "      Our Core Coverages, Ready to Quote    Commercial General Liability (CGL) Protects your business against third-party claims for bodily "
+ }
+]

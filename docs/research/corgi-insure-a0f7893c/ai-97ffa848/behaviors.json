@@ -1,0 +1,1144 @@
+{
+ "sticky": [],
+ "animated": [
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] w-fit",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get insured\narrow_forward"
+  },
+  {
+   "tag": "DIV",
+   "cls": "absolute inset-0 transition-[opacity,transform,filter] duration-300 ease-[cubic-bezier(0.2,0,0,1)] s",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity, transform, filter 0.3s",
+   "text": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "absolute inset-0 transition-[opacity,transform,filter] duration-300 ease-[cubic-bezier(0.2,0,0,1)] s",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity, transform, filter 0.3s",
+   "text": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "absolute inset-0 transition-[opacity,transform,filter] duration-300 ease-[cubic-bezier(0.2,0,0,1)] s",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity, transform, filter 0.3s",
+   "text": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "absolute inset-0 transition-[opacity,transform,filter] duration-300 ease-[cubic-bezier(0.2,0,0,1)] s",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity, transform, filter 0.3s",
+   "text": ""
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative flex min-h-[130px] flex-1 flex-col items-start overflow-hidden px-6 pt-7 pb-6 text-left tra",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, box-shadow, transform 0.3s",
+   "text": "The model output dispute\n\nA customer all"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative flex min-h-[130px] flex-1 flex-col items-start overflow-hidden px-6 pt-7 pb-6 text-left tra",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, box-shadow, transform 0.3s",
+   "text": "The training data review\n\nEnterprise buy"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "saas-risk-triggers-section-module__96r7tq__progressFill block h-full w-full rounded-full bg-[#9d9d9d",
+   "anim": "saas-risk-triggers-section-module__96r7tq__saas-risk-progress",
+   "dur": "5.6s",
+   "tr": "all 0s",
+   "text": ""
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative flex min-h-[130px] flex-1 flex-col items-start overflow-hidden px-6 pt-7 pb-6 text-left tra",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, box-shadow, transform 0.3s",
+   "text": "The regulatory question\n\nAI governance, "
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative flex min-h-[130px] flex-1 flex-col items-start overflow-hidden px-6 pt-7 pb-6 text-left tra",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, box-shadow, transform 0.3s",
+   "text": "The security audit\n\nVendor risk teams wa"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "CGL"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "D&O"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Tech E&O"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Cyber"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] w-full",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get a quote instantly\npsychiatry"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "CGL"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "D&O"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Tech E&O"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Cyber"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Media"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "EPLI"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] w-full",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get a quote instantly\neco"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "CGL"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "D&O"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Tech E&O"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Cyber"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Media"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "EPLI"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Fiduciary"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] w-full",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get a quote instantly\npark"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "CGL"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "D&O"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Tech E&O"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Cyber"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Fiduciary"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Media"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "EPLI"
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "HNOA"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "+"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#626262] w-full",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get a quote instantly\nwidgets"
+  },
+  {
+   "tag": "A",
+   "cls": "inline-flex items-center justify-center rounded-[4px] bg-[#ffdecc] px-2 py-1 font-medium text-[#ff5c",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, transform 0.3s",
+   "text": "Policy"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] relative z-20 mx-auto w-fit",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get insured"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "pointer-events-none absolute z-20 whitespace-nowrap font-medium font-sans text-[11px] text-[#7a7a7a]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity, transform, filter 0.2s",
+   "text": "FINTECH"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "pointer-events-none absolute z-20 whitespace-nowrap font-medium font-sans text-[11px] text-[#7a7a7a]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity, transform, filter 0.2s",
+   "text": "CRYPTO"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "pointer-events-none absolute z-20 whitespace-nowrap font-medium font-sans text-[11px] text-[#7a7a7a]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity, transform, filter 0.2s",
+   "text": "MARKETPLACE"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "pointer-events-none absolute z-20 whitespace-nowrap font-medium font-sans text-[11px] text-[#7a7a7a]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity, transform, filter 0.2s",
+   "text": "HEALTH-TECH"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "pointer-events-none absolute z-20 whitespace-nowrap font-medium font-sans text-[11px] text-[#7a7a7a]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity, transform, filter 0.2s",
+   "text": "SAAS"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  },
+  {
+   "tag": "DIV",
+   "cls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "height, margin-top 0.5s",
+   "text": "AI startups often evaluate Technology Er"
+  },
+  {
+   "tag": "DIV",
+   "cls": "text-body text-[#4a4a4a] transition-[transform,opacity,filter] duration-500 ease-[cubic-bezier(0.22,",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, opacity, filter 0.5s",
+   "text": "AI startups often evaluate Technology Er"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "size-4 shrink-0 text-[#4a4a4a] transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] ",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "transform, translate, scale, rotate 0.5s",
+   "text": "keyboard_arrow_down"
+  },
+  {
+   "tag": "DIV",
+   "cls": "overflow-hidden transition-[height,margin-top] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "height, margin-top 0.5s",
+   "text": "Most AI companies evaluate Technology E&"
+  }
+ ],
+ "interactive": [
+  {
+   "tag": "BUTTON",
+   "cls": "relative flex min-h-[130px] flex-1 flex-col items-start overflow-hidden px-6 pt-7 pb-6 text-left tra",
+   "text": "The model output dispute\n\nA customer alleges an AI",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative flex min-h-[130px] flex-1 flex-col items-start overflow-hidden px-6 pt-7 pb-6 text-left tra",
+   "text": "The training data review\n\nEnterprise buyers ask fo",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative flex min-h-[130px] flex-1 flex-col items-start overflow-hidden px-6 pt-7 pb-6 text-left tra",
+   "text": "The regulatory question\n\nAI governance, fairness, ",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative flex min-h-[130px] flex-1 flex-col items-start overflow-hidden px-6 pt-7 pb-6 text-left tra",
+   "text": "The security audit\n\nVendor risk teams want proof o",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "CGL",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "D&O",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "Tech E&O",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "Cyber",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "CGL",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "D&O",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "Tech E&O",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "Cyber",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "Media",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "EPLI",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "CGL",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "D&O",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "Tech E&O",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "Cyber",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "Media",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "EPLI",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "Fiduciary",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "CGL",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "D&O",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "Tech E&O",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "Cyber",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "Fiduciary",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "Media",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "EPLI",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "text": "HNOA",
+   "expanded": null,
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "What insurance does an AI startup need?\nkeyboard_a",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "Does AI software need errors and omissions coverag",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "What is AI liability insurance?\nkeyboard_arrow_dow",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "How does cyber insurance protect AI companies?\nkey",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "What coverage do AI startups need before a funding",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "Are AI training data disputes and IP infringement ",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "What about model output liability and hallucinatio",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "How does AI insurance handle regulatory risk like ",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex min-h-[24px] w-full items-center justify-between gap-4 text-left",
+   "text": "Does coverage extend to open-source dependencies a",
+   "expanded": "false",
+   "state": null
+  }
+ ],
+ "scrollSamples": [
+  {
+   "y": 0,
+   "s": "SPAN|h-4 w-4|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV||transform:rotate(-28.18deg)|\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nDIV|overflow-hidden|height:0px;margin-top:0px;opacity:0|\nSPAN|h-4 w-4|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV||transform:rotate(172.17deg) scaleY(-1)|\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nDIV|overflow-hidden|height:0px;margin-top:0px;opacity:0|\nSPAN|h-4 w-4|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV||transform:rotate(-6.17deg)|\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nDIV|overflow-hidden|height:0px;margin-top:0px;opacity:0|\nSPAN|h-4 w-4|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV||transform:rotate(180deg)|\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nBUTTON|relative inline-flex cursor-pointer items-center justify-cen||false\nDIV|overflow-hidden|height:0px;margin-top:0px;opacity:0|\nSPAN|h-4 w-4|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nSPAN|h-5 w-5 shrink-0|display:inline-block;font-family:\"Material Symbols Sharp\";font-feature-settings:|\nDIV|relative|width:344px;height:168px;transform:scale(min(1, calc((100cqw - 32px) / 344px)));|"
+  }
+ ],
+ "timeDriven": [
+  {
+   "top": 44,
+   "changed": true
+  },
+  {
+   "top": 693,
+   "changed": false
+  },
+  {
+   "top": 1593,
+   "changed": true
+  },
+  {
+   "top": 2482,
+   "changed": false
+  },
+  {
+   "top": 3382,
+   "changed": true
+  },
+  {
+   "top": 4802,
+   "changed": true
+  },
+  {
+   "top": 5702,
+   "changed": false
+  },
+  {
+   "top": 6191,
+   "changed": false
+  }
+ ],
+ "hover": [
+  {
+   "text": "Get insured\narrow_forward",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "The model output dispute\n\nA customer alleges an AI",
+   "cls": "relative flex min-h-[130px] flex-1 flex-col items-start overflow-hidden px-6 pt-7 pb-6 text-left tra",
+   "before": "rgb(29, 29, 29)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|oklab(0.999994 0.0000455678 0.0000200868 / 0.45)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "The training data review\n\nEnterprise buyers ask fo",
+   "cls": "relative flex min-h-[130px] flex-1 flex-col items-start overflow-hidden px-6 pt-7 pb-6 text-left tra",
+   "before": "rgb(29, 29, 29)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|oklab(0.999994 0.0000455678 0.0000200868 / 0.45)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "The regulatory question\n\nAI governance, fairness, ",
+   "cls": "relative flex min-h-[130px] flex-1 flex-col items-start overflow-hidden px-6 pt-7 pb-6 text-left tra",
+   "before": "rgb(29, 29, 29)|rgba(0, 0, 0, 0)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(29, 29, 29)|oklab(0.999994 0.0000455678 0.0000200868 / 0.45)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "CGL",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "D&O",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Tech E&O",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Cyber",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Get a quote instantly\npsychiatry",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "CGL",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "D&O",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Tech E&O",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Cyber",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Media",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "EPLI",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Get a quote instantly\neco",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "CGL",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "D&O",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Tech E&O",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Cyber",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Media",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "EPLI",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Fiduciary",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Get a quote instantly\npark",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "CGL",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "D&O",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Tech E&O",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Cyber",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Fiduciary",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Media",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "EPLI",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "HNOA",
+   "cls": "relative inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "+",
+   "cls": "inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[#ffdecc] ",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "Get a quote instantly\nwidgets",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#191919] hove",
+   "before": "rgb(255, 255, 255)|rgb(25, 25, 25)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(74, 74, 74)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "Policy",
+   "cls": "inline-flex items-center justify-center rounded-[4px] bg-[#ffdecc] px-2 py-1 font-medium text-[#ff5c",
+   "before": "rgb(255, 92, 0)|rgb(255, 222, 204)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 201, 163)|none|none|rgb(44, 44, 44)|none"
+  },
+  {
+   "text": "See specialized coverages",
+   "cls": "flex h-[63px] items-center justify-center bg-white p-3 font-medium text-[16px] text-[#ff5c00] tracki",
+   "before": "rgb(255, 92, 0)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|underline"
+  },
+  {
+   "text": "Get insured",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  }
+ ],
+ "clicks": [
+  {
+   "t": "The model output dispute\n\nA customer alleges an AI",
+   "before": "null|639",
+   "after": "null|645"
+  },
+  {
+   "t": "The training data review\n\nEnterprise buyers ask fo",
+   "before": "null|645",
+   "after": "null|645"
+  },
+  {
+   "t": "The regulatory question\n\nAI governance, fairness, ",
+   "before": "null|645",
+   "after": "null|644"
+  },
+  {
+   "t": "The security audit\n\nVendor risk teams want proof o",
+   "before": "null|644",
+   "after": "null|639"
+  },
+  {
+   "t": "CGL",
+   "before": "null|768",
+   "after": "null|923"
+  },
+  {
+   "t": "D&O",
+   "before": "null|923",
+   "after": "null|892"
+  },
+  {
+   "t": "Tech E&O",
+   "before": "null|892",
+   "after": "null|902"
+  },
+  {
+   "t": "Cyber",
+   "before": "null|902",
+   "after": "null|894"
+  },
+  {
+   "t": "CGL",
+   "before": "null|894",
+   "after": "null|1049"
+  },
+  {
+   "t": "D&O",
+   "before": "null|1049",
+   "after": "null|1018"
+  },
+  {
+   "t": "Tech E&O",
+   "before": "null|1018",
+   "after": "null|1028"
+  },
+  {
+   "t": "Cyber",
+   "before": "null|1028",
+   "after": "null|1020"
+  },
+  {
+   "t": "Media",
+   "before": "null|1020",
+   "after": "null|1022"
+  },
+  {
+   "t": "EPLI",
+   "before": "null|1022",
+   "after": "null|1002"
+  },
+  {
+   "t": "CGL",
+   "before": "null|1002",
+   "after": "null|1157"
+  },
+  {
+   "t": "D&O",
+   "before": "null|1157",
+   "after": "null|1126"
+  },
+  {
+   "t": "Tech E&O",
+   "before": "null|1126",
+   "after": "null|1136"
+  },
+  {
+   "t": "Cyber",
+   "before": "null|1136",
+   "after": "null|1128"
+  },
+  {
+   "t": "Media",
+   "before": "null|1128",
+   "after": "null|1130"
+  },
+  {
+   "t": "EPLI",
+   "before": "null|1130",
+   "after": "null|1110"
+  },
+  {
+   "t": "Fiduciary",
+   "before": "null|1110",
+   "after": "null|1094"
+  },
+  {
+   "t": "CGL",
+   "before": "null|1094",
+   "after": "null|1249"
+  },
+  {
+   "t": "D&O",
+   "before": "null|1249",
+   "after": "null|1218"
+  },
+  {
+   "t": "Tech E&O",
+   "before": "null|1218",
+   "after": "null|1228"
+  },
+  {
+   "t": "Cyber",
+   "before": "null|1228",
+   "after": "null|1220"
+  }
+ ]
+}

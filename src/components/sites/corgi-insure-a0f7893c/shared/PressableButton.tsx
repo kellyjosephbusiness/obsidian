@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { CSSProperties, ReactNode } from "react";
 import { cn } from "@/lib/utils";
 
-export type PressableVariant = "orange" | "black" | "white";
+export type PressableVariant = "primary" | "black" | "white";
 export type PressableSize = "small" | "large";
 
 interface PressableButtonProps {
@@ -28,13 +28,13 @@ interface PressableButtonProps {
 }
 
 const BASE_BG: Record<PressableVariant, string> = {
-  orange: "bg-[#cc4a00]",
+  primary: "bg-[#132a66]",
   black: "bg-[#626262]",
   white: "bg-[#e1e1e1]",
 };
 
 const FACE: Record<PressableVariant, string> = {
-  orange: "border-transparent bg-[#ff5c00] text-white hover:bg-[#ff7d33] active:bg-[#ff9d66]",
+  primary: "border-transparent bg-[#1e3a8a] text-white hover:bg-[#2b4ca8] active:bg-[#5b75c4]",
   black: "border-transparent bg-[#191919] text-white hover:bg-[#4a4a4a] active:bg-[#7b7b7b]",
   white: "border-[#e1e1e1] bg-white text-[#191919] hover:bg-gray-50 active:bg-[#ededed]",
 };
@@ -51,7 +51,7 @@ const SIZE: Record<PressableSize, string> = {
  */
 export function PressableButton({
   children,
-  variant = "orange",
+  variant = "primary",
   size = "small",
   href,
   onClick,

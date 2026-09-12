@@ -13,7 +13,8 @@ import type {
   NavMenuColumn,
   NavMenuItem,
 } from "@/types/sites/corgi-insure-a0f7893c/home";
-import { LINKS, NAV_ACTIONS, NAV_MENUS, NAV_PLAIN_LINKS } from "./data";
+import { NAV_ACTIONS, NAV_MENUS, NAV_PLAIN_LINKS } from "./data";
+import type { HeaderActions } from "./SiteHeader";
 
 /**
  * Mobile / tablet (<xl) navigation drawer of the corgi.insure header: a
@@ -29,6 +30,8 @@ export interface MobileNavDrawerProps {
   onToggleGroup: (id: string) => void;
   /** Closes the drawer (link clicks). */
   onClose: () => void;
+  /** Account-action buttons (Sign in / secondary / primary). */
+  actions?: HeaderActions;
   /** In-page hash links navigate through this (closes the drawer first). */
   onHashNavigate: (href: string) => void;
 }
@@ -64,7 +67,7 @@ function ItemContent({ item }: { item: NavMenuItem }) {
       <MaterialIcon name={item.icon} size={16} className="shrink-0 text-[#4a4a4a]" />
       <span className="flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]">{item.label}</span>
       {item.badge && (
-        <span className="rounded-[4px] bg-[#ffdecc] px-2 py-1 text-[8px] font-medium text-[#ff5c00]">
+        <span className="rounded-[4px] bg-[#dde4f6] px-2 py-1 text-[8px] font-medium text-[#1e3a8a]">
           {item.badge}
         </span>
       )}
@@ -136,7 +139,7 @@ function MobileColumn({
             <Link
               href={column.viewAll.href}
               onClick={onClose}
-              className="text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#ff5c00] hover:underline"
+              className="text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#1e3a8a] hover:underline"
             >
               {column.viewAll.label}
             </Link>
@@ -166,10 +169,10 @@ function HighlightCardBody({ card }: { card: NavHighlightCard }) {
         </div>
       )}
       <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-white/0 from-[28%] via-white/[0.55] via-[46%] to-white/90 to-[64%]" />
-      <span className="relative text-[11px] font-bold leading-[1.2] tracking-[-0.17px] text-[#191919] transition-colors group-hover:text-[#ff5c00]">
+      <span className="relative text-[11px] font-bold leading-[1.2] tracking-[-0.17px] text-[#191919] transition-colors group-hover:text-[#1e3a8a]">
         {card.title}
       </span>
-      <span className="relative text-[11px] leading-[1.2] tracking-[-0.17px] text-[#191919] transition-colors group-hover:text-[#ff5c00]">
+      <span className="relative text-[11px] leading-[1.2] tracking-[-0.17px] text-[#191919] transition-colors group-hover:text-[#1e3a8a]">
         {card.description}
       </span>
     </>
@@ -267,7 +270,7 @@ function MobileMenuGroup({
   );
 }
 
-export function MobileNavDrawer({ open, group, onToggleGroup, onClose, onHashNavigate }: MobileNavDrawerProps) {
+export function MobileNavDrawer({ open, group, onToggleGroup, onClose, onHashNavigate, actions = NAV_ACTIONS }: MobileNavDrawerProps) {
   return (
     <div className="overflow-hidden xl:hidden" data-mobile-menu-clip="true">
       <AnimatePresence>
@@ -345,31 +348,31 @@ export function MobileNavDrawer({ open, group, onToggleGroup, onClose, onHashNav
               <PressableButton
                 className="min-w-0"
                 faceClassName="w-full text-[14px] leading-[1.2] tracking-[-0.21px]"
-                href={LINKS.signIn}
+                href={actions.signIn.href}
                 size="small"
                 variant="black"
               >
-                {NAV_ACTIONS.signIn.label}
+                {actions.signIn.label}
               </PressableButton>
               <PressableButton
                 className="min-w-0"
                 faceClassName="w-full whitespace-nowrap text-[16px] leading-[1.2] tracking-[-0.21px]"
                 faceStyle={FACE_16PX_STYLE}
-                href={LINKS.bookCall}
+                href={actions.secondary.href}
                 size="small"
                 variant="black"
               >
-                {NAV_ACTIONS.secondary.label}
+                {actions.secondary.label}
               </PressableButton>
               <PressableButton
                 className="col-span-2"
                 faceClassName="w-full text-[16px] leading-[1.2] tracking-[-0.21px]"
                 faceStyle={FACE_16PX_STYLE}
-                href={LINKS.apply}
+                href={actions.primary.href}
                 size="small"
-                variant="orange"
+                variant="primary"
               >
-                {NAV_ACTIONS.primary.label}
+                {actions.primary.label}
               </PressableButton>
             </div>
           </motion.nav>

@@ -18,7 +18,7 @@ import { cn } from "@/lib/utils";
 import { FundLineLogo } from "@/components/sites/corgi-insure-a0f7893c/shared/FundLineLogo";
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
 import { PressableButton } from "@/components/sites/corgi-insure-a0f7893c/shared/PressableButton";
-import { ANNOUNCEMENT, LINKS, NAV_ACTIONS, NAV_MENUS, NAV_PLAIN_LINKS } from "./data";
+import { ANNOUNCEMENT, NAV_ACTIONS, NAV_MENUS, NAV_PLAIN_LINKS } from "./data";
 import { DesktopNavMenu } from "./DesktopNavMenu";
 import { MobileNavDrawer } from "./MobileNavDrawer";
 
@@ -92,7 +92,7 @@ function AnnouncementBanner({ onDismiss }: { onDismiss: () => void }) {
     <Link
       href={ANNOUNCEMENT.href}
       prefetch={false}
-      className="pointer-events-auto relative flex w-full items-center justify-start bg-[#ff5c00] py-2 pl-7 pr-12 text-left text-white hover:bg-[#FF7D33] md:justify-center md:px-4 md:text-center"
+      className="pointer-events-auto relative flex w-full items-center justify-start bg-[#1e3a8a] py-2 pl-7 pr-12 text-left text-white hover:bg-[#2B4CA8] md:justify-center md:px-4 md:text-center"
     >
       {/* The site's `md:text-body` never takes effect (computed 14px/20px at every width). */}
       <span className="text-sm">
@@ -125,7 +125,13 @@ interface UnderlineState {
   opacity: number;
 }
 
-export function SiteHeader() {
+export interface HeaderActions {
+  signIn: { label: string; href: string };
+  secondary: { label: string; href: string };
+  primary: { label: string; href: string };
+}
+
+export function SiteHeader({ actions = NAV_ACTIONS }: { actions?: HeaderActions } = {}) {
   const pathname = usePathname();
   const router = useRouter();
 
@@ -448,26 +454,26 @@ export function SiteHeader() {
           <div className="flex items-center gap-2">
             <nav aria-label="Account actions" className="hidden h-[39px] items-center gap-2 xl:flex">
               <a
-                href={LINKS.signIn}
+                href={actions.signIn.href}
                 className="hidden h-full items-center whitespace-nowrap rounded-[12px] px-4 text-[14px] font-normal leading-[1.2] tracking-[-0.21px] text-[#4a4a4a] hover:text-[#191919] xl:flex"
               >
-                {NAV_ACTIONS.signIn.label}
+                {actions.signIn.label}
               </a>
               <PressableButton
                 faceClassName="h-[35px] min-w-[96px] whitespace-nowrap px-2 py-0 text-[16px] leading-[1.2] tracking-[-0.21px] md:min-w-[112px] md:px-4"
-                href={LINKS.bookCall}
+                href={actions.secondary.href}
                 size="small"
                 variant="black"
               >
-                {NAV_ACTIONS.secondary.label}
+                {actions.secondary.label}
               </PressableButton>
               <PressableButton
                 faceClassName="h-[35px] min-w-[100px] px-3 py-0 text-[16px] leading-[1.2] tracking-[-0.21px] md:min-w-[119px] md:px-4"
-                href={LINKS.apply}
+                href={actions.primary.href}
                 size="small"
-                variant="orange"
+                variant="primary"
               >
-                {NAV_ACTIONS.primary.label}
+                {actions.primary.label}
               </PressableButton>
             </nav>
 
@@ -480,8 +486,8 @@ export function SiteHeader() {
                 aria-controls="mobile-navigation-drawer"
                 data-open={drawerOpen}
                 className={cn(
-                  "flex size-[39px] cursor-pointer items-center justify-center p-0 leading-none duration-200 hover:text-[#FF5C00]",
-                  drawerOpen ? "text-[#ff5c00]" : "text-[#1d1d1d]",
+                  "flex size-[39px] cursor-pointer items-center justify-center p-0 leading-none duration-200 hover:text-[#1E3A8A]",
+                  drawerOpen ? "text-[#1e3a8a]" : "text-[#1d1d1d]",
                 )}
                 onClick={() => setDrawerOpen((state) => !state)}
                 whileTap={{ scale: 0.96 }}
@@ -558,6 +564,7 @@ export function SiteHeader() {
       {/* Mobile / tablet drawer (<xl) */}
       <div id="mobile-navigation-drawer">
         <MobileNavDrawer
+          actions={actions}
           open={drawerVisible}
           group={drawerGroup}
           onToggleGroup={(id) => setDrawerGroup((current) => (current === id ? null : id))}

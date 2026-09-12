@@ -1,0 +1,42 @@
+{
+ "title": "Startup Insurance | Corgi Insurance",
+ "description": "AI-native, full-stack insurance for startups. Explore General Liability, D&O, Tech E&O, Cyber, EPLI, and more, with online quotes and same-day binding. Coverage placed through federally regulated or A-rated admitted carriers.",
+ "og": [
+  [
+   "og:title",
+   "Startup Insurance | Corgi Insurance"
+  ],
+  [
+   "og:description",
+   "AI-native, full-stack insurance for startups. Explore General Liability, D&O, Tech E&O, Cyber, EPLI, and more, with online quotes and same-day binding. Coverage placed through federally regulated or A-rated admitted carriers."
+  ],
+  [
+   "og:url",
+   "https://www.corgi.insure/startup-insurance"
+  ],
+  [
+   "og:site_name",
+   "Corgi Insurance"
+  ],
+  [
+   "og:image",
+   "https://www.corgi.insure/api/og?title=Startup+Insurance&type=page&v=10"
+  ],
+  [
+   "og:image:width",
+   "1200"
+  ],
+  [
+   "og:image:height",
+   "630"
+  ],
+  [
+   "og:image:alt",
+   "Startup Insurance"
+  ],
+  [
+   "og:type",
+   "website"
+  ]
+ ]
+}

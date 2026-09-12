@@ -72,7 +72,7 @@ export const NAV_MENUS: NavMenu[] = [
         title: "By Type",
         span: 1,
         items: [
-          { label: "Term loans", icon: "payments", href: "/loan-types#term-loans" },
+          { label: "Term loans", icon: "payments", href: "/term-loans" },
           { label: "Line of credit", icon: "credit_score", href: "/loan-types#line-of-credit" },
           { label: "SBA loans", icon: "account_balance", href: "/loan-types#sba-loans" },
           { label: "Equipment financing", icon: "precision_manufacturing", href: "/loan-types#equipment-financing" },
@@ -89,6 +89,7 @@ export const NAV_MENUS: NavMenu[] = [
           { label: "Retail", icon: "storefront", href: "/industry/retail" },
           { label: "Restaurants", icon: "restaurant", href: "/industry/restaurants" },
           { label: "Trucking", icon: "local_shipping", href: "/industry/trucking" },
+          { label: "AI & software", icon: "smart_toy", href: "/industry/ai" },
           { label: "Ecommerce", icon: "shopping_cart", href: "/industry/ecommerce" },
           { label: "Manufacturing", icon: "factory", href: "/industry/manufacturing" },
           { label: "Professional services", icon: "work", href: "/industry/professional-services" },
@@ -130,7 +131,7 @@ export const NAV_MENUS: NavMenu[] = [
         title: "Working Capital",
         span: 1,
         items: [
-          { label: "Term loan", icon: "payments", href: "/loan-types#term-loans" },
+          { label: "Term loan", icon: "payments", href: "/term-loans" },
           { label: "Business line of credit", icon: "credit_score", href: "/loan-types#line-of-credit" },
           { label: "Invoice financing", icon: "receipt_long", href: "/loan-types#invoice-financing" },
           { label: "Merchant cash advance", icon: "point_of_sale", href: "/loan-types#merchant-cash-advance" },
@@ -169,7 +170,7 @@ export const NAV_MENUS: NavMenu[] = [
         title: "Learn",
         span: 1,
         items: [
-          { label: "Newsroom", icon: "newspaper", href: "/newsroom" },
+          { label: "Newsroom", icon: "newspaper", href: "/newsroom/series-b" },
           { label: "Small business guides", icon: "menu_book", href: "/guides" },
           { label: "Blog", icon: "edit", href: "/blog" },
         ],
@@ -290,7 +291,7 @@ export const COVERAGE_PACKAGES: CoveragePackage[] = [
     },
     ctaHref: `${LINKS.apply}?package=starting`,
     ctaIcon: "psychiatry",
-    ctaVariant: "orange",
+    ctaVariant: "primary",
   },
   {
     id: "growing",
@@ -308,7 +309,7 @@ export const COVERAGE_PACKAGES: CoveragePackage[] = [
     },
     ctaHref: `${LINKS.apply}?package=growing`,
     ctaIcon: "eco",
-    ctaVariant: "orange",
+    ctaVariant: "primary",
   },
   {
     id: "established",
@@ -326,7 +327,7 @@ export const COVERAGE_PACKAGES: CoveragePackage[] = [
     },
     ctaHref: `${LINKS.apply}?package=established`,
     ctaIcon: "park",
-    ctaVariant: "orange",
+    ctaVariant: "primary",
   },
   {
     id: "custom",
@@ -527,7 +528,7 @@ export const POLICIES: Policy[] = [
   {
     title: "Term Loan",
     description: "A lump sum with a fixed repayment schedule, sized from $5K to $5M for expansions, build-outs, and big purchases.",
-    href: "/loan-types#term-loans",
+    href: "/term-loans",
     image: `${ASSETS}/images/fl.webp`,
     imageWidth: 384,
     imageHeight: 158,
@@ -689,7 +690,7 @@ export const FOOTER_COLUMNS: FooterColumn[] = [
     links: [
       { label: "About", href: "/about" },
       { label: "Careers", href: "/careers" },
-      { label: "Newsroom", href: "/newsroom" },
+      { label: "Newsroom", href: "/newsroom/series-b" },
       { label: "FundLine reviews", href: "/reviews" },
       { label: "Customer stories", href: LINKS.customers },
     ],
@@ -708,7 +709,7 @@ export const FOOTER_COLUMNS: FooterColumn[] = [
     title: "PRODUCTS",
     links: [
       { label: "Apply now", href: LINKS.apply },
-      { label: "Term loans", href: "/loan-types#term-loans" },
+      { label: "Term loans", href: "/term-loans" },
       { label: "Lines of credit", href: "/loan-types#line-of-credit" },
       { label: "SBA loans", href: "/loan-types#sba-loans" },
       { label: "Equipment financing", href: "/loan-types#equipment-financing" },

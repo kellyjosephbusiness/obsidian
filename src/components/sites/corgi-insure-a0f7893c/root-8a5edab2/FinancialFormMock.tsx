@@ -308,7 +308,7 @@ export function FinancialFormMock({
         <span className="text-[2.08cqw] font-medium text-[#1d1d1d]">{form.uploadLabel}</span>
         <div className="relative">
           <div
-            className={`flex flex-col items-center justify-center gap-[0.78cqw] rounded-[1.56cqw] border border-dashed border-[#999] px-[2.6cqw] py-[4.68cqw] ${showCursor ? "bg-[#ffdecc]" : ""}`}
+            className={`flex flex-col items-center justify-center gap-[0.78cqw] rounded-[1.56cqw] border border-dashed border-[#999] px-[2.6cqw] py-[4.68cqw] ${showCursor ? "bg-[#dde4f6]" : ""}`}
           >
             <UploadIcon className="h-[3.12cqw] w-[3.12cqw] text-[#1d1d1d]" strokeWidth={1.75} />
             <p className="text-[2.08cqw] font-medium text-[#1d1d1d]">{form.dropTitle}</p>
@@ -347,12 +347,12 @@ export function FinancialFormMock({
         </PressableButton>
         <PressableButton
           type="button"
-          variant="orange"
+          variant="primary"
           disabled
           style={PRESSABLE_DEPTH_STYLE}
           /* The site uses pressTrigger:"none"; our CSS presses [data-press-trigger=self], so block pointer events instead. */
           className="pointer-events-none rounded-[1.56cqw] bg-[#b84200] opacity-50"
-          faceClassName="min-h-[24px] cursor-not-allowed rounded-[1.56cqw] border-0 bg-[#ff5c00] px-[2.08cqw] py-[1.04cqw] text-[2.08cqw] font-medium leading-normal"
+          faceClassName="min-h-[24px] cursor-not-allowed rounded-[1.56cqw] border-0 bg-[#1e3a8a] px-[2.08cqw] py-[1.04cqw] text-[2.08cqw] font-medium leading-normal"
           faceStyle={FACE_TEXT_STYLE}
         >
           {form.next}

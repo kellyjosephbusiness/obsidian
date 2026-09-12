@@ -1,0 +1,1324 @@
+<header .pointer-events-none.fixed.top-0.right-0.left-0.z-50.transform-gpu.will-change-transform.transition-transform.duration-300> [0,0,390,112]
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(0, 0, 0); width:390px; height:112px; display:block; position:fixed; bottom:732px; zIndex:50; transition:transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), translate 0.3s cubic-bezier(0.4, 0, 0.2, 1), scale 0.3s cubic-bez; inset:0px 0px 732px; willChange:transform }
+  <a .pointer-events-auto.relative.flex.w-full.items-center.justify-start.bg-[#ff5c00].py-2.pl-7.pr-12> [0,0,390,56] @href=/press-releases/series-b1
+    { color:rgb(255, 255, 255); textAlign:left; backgroundColor:rgb(255, 92, 0); padding:8px 48px 8px 28px; width:390px; height:56px; display:flex; justifyContent:flex-start; alignItems:center; position:relative; cursor:pointer }
+    <span .text-sm.md:text-body> [28,8,314,40] "Announcing our Fundraise at a Valuation |"
+      { fontSize:14px; lineHeight:20px; width:314px; height:40px; display:block }
+      <span .font-bold> [132,9,47,18] "$106M"
+        { fontWeight:700; display:inline }
+      <span .font-bold> [276,9,40,18] "$2.6B"
+        { fontWeight:700; display:inline }
+      <span .whitespace-nowrap> [98,29,58,18] "Series B1"
+        { display:inline }
+    <button .absolute.right-4.p-1.text-white/80.hover:text-white.md:right-3> [350,12,24,32] @aria-label=Dismiss banner
+      { color:oklab(0.999994 0.0000455677 0.0000200868 / 0.8); textAlign:center; padding:4px; width:24px; height:32px; display:block; position:absolute; top:12px; left:350px; right:16px; bottom:12px }
+      <span .h-4.w-4> [354,17,16,16] "close"
+        { fontFamily:Material Symbols Sharp; lineHeight:16px; width:16px; height:16px; display:inline-block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+  <div .pointer-events-auto.relative.z-10.border-b-[1px].border-[#e1e1e1].bg-[rgba(255,255,255,0.85)].px-4.py-2.backdrop-blur-[6px].lg:px-6> [0,56,390,56]
+    { backgroundColor:rgba(255, 255, 255, 0.85); padding:8px 16px; width:390px; height:56px; display:block; borderBottom:1px solid rgb(225, 225, 225); position:relative; zIndex:10; backdropFilter:blur(6px) }
+    <div .mx-auto.flex.w-full.max-w-[1600px].items-center.justify-between> [16,64,358,39]
+      { width:358px; height:39px; maxWidth:1600px; display:flex; justifyContent:space-between; alignItems:center }
+      <div .flex.min-w-0.items-center> [16,64,107,39]
+        { width:107px; height:39px; display:flex; alignItems:center }
+        <a .flex.h-[39px].shrink-0.items-center.px-3.xl:pr-4> [16,64,107,39] @href=/
+          { padding:0px 12px; width:107px; height:39px; display:flex; alignItems:center; flex:0 0 auto; cursor:pointer }
+          <img .h-6.w-auto.shrink-0.-translate-y-0.5> [28,70,83,24] @alt=Corgi @src=/images/corgi logo vector.svg IMG /images/corgi%20logo%20vector.svg nat83x24
+            { width:83px; height:24px; maxWidth:100%; display:block; flex:0 0 auto; overflow:clip; overflowX:clip; overflowY:clip; verticalAlign:middle; translate:0px -2px }
+        <nav .hidden.items-center.xl:flex> [0,0,0,0] @aria-label=Main navigation
+          { alignItems:center }
+          <a .flex.h-[39px].cursor-pointer.items-center.gap-1.rounded-[12px].px-4.text-[14px].leading-[1.2].tracking-[-0.21px]> [0,0,0,0] @href=/startup-insurance @aria-expanded=false @id=desktop-nav-trigger-solutions
+            { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); padding:0px 16px; height:39px; display:flex; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:12px; cursor:pointer }
+            <span .relative> [0,0,0,0] "Tech companies"
+              { display:block; position:relative }
+              <span .invisible.block.h-0.font-medium> [0,0,0,0] "Tech companies"
+                { fontWeight:500; display:block }
+            <span .h-4.w-4.transition-transform.duration-200.> [0,0,0,0] "keyboard_arrow_down"
+              { fontSize:16px; fontFamily:Material Symbols Sharp; lineHeight:16px; width:16px; height:16px; display:block; transition:transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), translate 0.2s cubic-bezier(0.4, 0, 0.2, 1), scale 0.2s cubic-bez; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+          <button .flex.h-[39px].cursor-pointer.items-center.gap-1.rounded-[12px].px-4.text-[14px].leading-[1.2].tracking-[-0.21px]> [0,0,0,0] @aria-expanded=false @id=desktop-nav-trigger-small-businesses
+            { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); textAlign:center; padding:0px 16px; height:39px; display:flex; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:12px; cursor:pointer }
+            <span .relative> [0,0,0,0] "Small businesses"
+              { display:block; position:relative }
+              <span .invisible.block.h-0.font-medium> [0,0,0,0] "Small businesses"
+                { fontWeight:500; display:block }
+            <span .h-4.w-4.transition-transform.duration-200.> [0,0,0,0] "keyboard_arrow_down"
+              { fontSize:16px; fontFamily:Material Symbols Sharp; lineHeight:16px; width:16px; height:16px; display:block; transition:transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), translate 0.2s cubic-bezier(0.4, 0, 0.2, 1), scale 0.2s cubic-bez; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+          <a .flex.h-[39px].cursor-pointer.items-center.gap-1.rounded-[12px].px-4.text-[14px].leading-[1.2].tracking-[-0.21px]> [0,0,0,0] @href=/startup-insurance#custom-package @aria-expanded=false @id=desktop-nav-trigger-products
+            { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); padding:0px 16px; height:39px; display:flex; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:12px; cursor:pointer }
+            <span .relative> [0,0,0,0] "Products"
+              { display:block; position:relative }
+              <span .invisible.block.h-0.font-medium> [0,0,0,0] "Products"
+                { fontWeight:500; display:block }
+            <span .h-4.w-4.transition-transform.duration-200.> [0,0,0,0] "keyboard_arrow_down"
+              { fontSize:16px; fontFamily:Material Symbols Sharp; lineHeight:16px; width:16px; height:16px; display:block; transition:transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), translate 0.2s cubic-bezier(0.4, 0, 0.2, 1), scale 0.2s cubic-bez; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+          <a .flex.h-[39px].cursor-pointer.items-center.gap-1.rounded-[12px].px-4.text-[14px].leading-[1.2].tracking-[-0.21px]> [0,0,0,0] @href=/about @aria-expanded=false @id=desktop-nav-trigger-company
+            { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); padding:0px 16px; height:39px; display:flex; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:12px; cursor:pointer }
+            <span .relative> [0,0,0,0] "Company"
+              { display:block; position:relative }
+              <span .invisible.block.h-0.font-medium> [0,0,0,0] "Company"
+                { fontWeight:500; display:block }
+            <span .h-4.w-4.transition-transform.duration-200.> [0,0,0,0] "keyboard_arrow_down"
+              { fontSize:16px; fontFamily:Material Symbols Sharp; lineHeight:16px; width:16px; height:16px; display:block; transition:transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), translate 0.2s cubic-bezier(0.4, 0, 0.2, 1), scale 0.2s cubic-bez; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+          <a .flex.h-[39px].cursor-pointer.items-center.gap-1.rounded-[12px].px-4.text-[14px].leading-[1.2].tracking-[-0.21px]> [0,0,0,0] @href=/partnerships @aria-expanded=false @id=desktop-nav-trigger-partners
+            { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); padding:0px 16px; height:39px; display:flex; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:12px; cursor:pointer }
+            <span .relative> [0,0,0,0] "Partners"
+              { display:block; position:relative }
+              <span .invisible.block.h-0.font-medium> [0,0,0,0] "Partners"
+                { fontWeight:500; display:block }
+            <span .h-4.w-4.transition-transform.duration-200.> [0,0,0,0] "keyboard_arrow_down"
+              { fontSize:16px; fontFamily:Material Symbols Sharp; lineHeight:16px; width:16px; height:16px; display:block; transition:transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), translate 0.2s cubic-bezier(0.4, 0, 0.2, 1), scale 0.2s cubic-bez; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+          <a .flex.h-[39px].items-center.whitespace-nowrap.rounded-[12px].px-4.text-[14px].leading-[1.2].tracking-[-0.21px].font-normal> [0,0,0,0] @href=/customers
+            { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); padding:0px 16px; height:39px; display:flex; alignItems:center; borderRadius:12px; cursor:pointer }
+            <span .relative> [0,0,0,0] "Customers"
+              { display:block; position:relative }
+              <span .invisible.block.h-0.font-medium> [0,0,0,0] "Customers"
+                { fontWeight:500; display:block }
+      <div .flex.items-center.gap-2> [335,64,39,39]
+        { width:39px; height:39px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+        <nav .hidden.h-[39px].items-center.gap-2.xl:flex> [0,0,0,0] @aria-label=Account actions
+          { height:39px; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <a .hidden.h-full.items-center.whitespace-nowrap.rounded-[12px].px-4.text-[14px].font-normal.leading-[1.2].tracking-[-0.21px]> [0,0,0,0] "Log in" @href=https://app.corgi.insure
+            { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); padding:0px 16px; height:100%; alignItems:center; borderRadius:12px; cursor:pointer }
+          <div .pressable-button.pressable-smooth-corner.bg-[#626262]> [0,0,0,0]
+            { backgroundColor:rgb(98, 98, 98); padding:0px 0px 4px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+            <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#191919].hover:bg-[#4a4a4a].active:bg-[#7b7b7b].btn-text-small> [0,0,0,0] "Book a demo" @href=/book-a-demo
+              { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.21px; color:rgb(255, 255, 255); backgroundColor:rgb(25, 25, 25); padding:0px 8px; height:35px; minWidth:96px; display:flex; justifyContent:center; alignItems:center; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+          <div .pressable-button.pressable-smooth-corner.bg-[#cc4a00]> [0,0,0,0]
+            { backgroundColor:rgb(204, 74, 0); padding:0px 0px 4px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+            <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#ff5c00].hover:bg-[#ff7d33].active:bg-[#ff9d66].btn-text-small> [0,0,0,0] "Get insured" @href=https://app.corgi.insure/sign-up
+              { fontWeight:500; lineHeight:19.2px; letterSpacing:-0.21px; color:rgb(255, 255, 255); backgroundColor:rgb(255, 92, 0); padding:0px 12px; height:35px; minWidth:100px; display:flex; justifyContent:center; alignItems:center; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+        <div .flex.size-[39px].items-center.justify-center.xl:hidden> [335,64,39,39]
+          { width:39px; height:39px; display:flex; justifyContent:center; alignItems:center }
+          <button .flex.size-[39px].cursor-pointer.items-center.justify-center.p-0.leading-none.text-[#1d1d1d].duration-200.hover:text-[#FF5C00]> [335,64,39,39] @aria-label=Toggle menu
+            { lineHeight:16px; color:rgb(29, 29, 29); textAlign:center; width:39px; height:39px; display:flex; justifyContent:center; alignItems:center; transition:0.2s; cursor:pointer }
+            <span .mobile-menu-icon-swap.size-6> [343,72,24,24] @data-state=menu
+              { width:24px; height:24px; display:grid; alignItems:center; gridTemplateColumns:24px; gridTemplateRows:24px; position:relative }
+              <span> [343,72,24,24]
+                { width:24px; height:24px; display:flex; gridColumn:1; gridRow:1; transition:opacity 0.167s ease-in-out, filter 0.167s ease-in-out, transform 0.167s ease-in-out; filter:blur(0px); willChange:opacity, filter, transform }
+                <span .size-6> [343,72,24,24] "menu"
+                  { fontSize:24px; fontFamily:Material Symbols Sharp; lineHeight:24px; width:24px; height:24px; display:block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span> [352,81,6,6]
+                { width:24px; height:24px; display:flex; gridColumn:1; gridRow:1; opacity:0; transform:matrix(0.25, 0, 0, 0.25, 0, 0); transition:opacity 0.167s ease-in-out, filter 0.167s ease-in-out, transform 0.167s ease-in-out; filter:blur(2px); willChange:opacity, filter, transform }
+                <span .size-6> [352,81,6,6] "close"
+                  { fontSize:24px; fontFamily:Material Symbols Sharp; lineHeight:24px; width:24px; height:24px; display:block; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+    <div .pointer-events-none.absolute.bottom-0.hidden.h-[1px].bg-[#191919].xl:block> [0,0,0,0]
+      { backgroundColor:rgb(25, 25, 25); height:1px; position:absolute; opacity:0; inset:auto auto 0px 0px }
+  <div .hidden> [0,0,0,0]
+    <div> [0,0,0,0]
+      { display:block }
+      <div .relative.flex.items-stretch.[--dropdown-column-width:176px].2xl:[--dropdown-column-width:200px].min-[1680px]:[--dropdown-column-width:220px]> [0,0,0,0]
+        { display:flex; position:relative }
+        <div .pointer-events-none.absolute.top-1/2.left-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; inset:50% auto auto 0px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-1/2.right-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; inset:50% 0px auto auto; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-[30px].left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [0,0,0,0]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; top:30px; left:50%; translate:-50% }
+        <div .pointer-events-none.absolute.bottom-0.left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [0,0,0,0]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; left:50%; inset:auto auto 0px 50%; translate:-50% }
+        <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; left:176px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; left:528px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; left:704px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [0,0,0,0]
+          { width:176px; display:flex; flexDirection:column; flex:0 0 auto; gap:8px; rowGap:8px; columnGap:8px }
+          <div .pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; display:block }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "By Stage"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:inline }
+          <div .flex.flex-1.flex-col.gap-2.p-2> [0,0,0,0]
+            { padding:8px; display:flex; flexDirection:column; flex:1 1 0%; gap:8px; rowGap:8px; columnGap:8px }
+            <button .flex.w-full.items-center.gap-2.rounded-lg.p-2.text-left.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0]
+              { textAlign:left; padding:8px; width:100%; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "psychiatry"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Pre-seed & Seed"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <button .flex.w-full.items-center.gap-2.rounded-lg.p-2.text-left.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0]
+              { textAlign:left; padding:8px; width:100%; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "eco"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Series A"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <button .flex.w-full.items-center.gap-2.rounded-lg.p-2.text-left.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0]
+              { textAlign:left; padding:8px; width:100%; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "park"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Growth"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <button .flex.w-full.items-center.gap-2.rounded-lg.p-2.text-left.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0]
+              { textAlign:left; padding:8px; width:100%; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "widgets"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Custom"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <div .mt-auto> [0,0,0,0]
+              { margin:auto 0px 0px; display:block }
+              <a .text-[14px].font-medium.tracking-[-0.18px].text-[#ff5c00].hover:underline> [0,0,0,0] "View all" @href=/startup-insurance
+                { fontSize:14px; fontWeight:500; lineHeight:21px; letterSpacing:-0.18px; color:rgb(255, 92, 0); display:inline; cursor:pointer }
+        <div .flex.w-[calc(var(--dropdown-column-width,240px)*2)].shrink-0.flex-col.gap-2> [0,0,0,0]
+          { width:352px; display:flex; flexDirection:column; flex:0 0 auto; gap:8px; rowGap:8px; columnGap:8px }
+          <div .pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; display:block }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "By Industry"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:inline }
+          <div .grid.grid-cols-2.gap-2.p-2> [0,0,0,0]
+            { padding:8px; display:grid; gap:8px; rowGap:8px; columnGap:8px; gridTemplateColumns:repeat(2, minmax(0px, 1fr)) }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/saas
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "cloud"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "SaaS"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/ai
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "smart_toy"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "AI"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/fintech
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "account_balance"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Fintech"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/crypto
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "currency_bitcoin"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Crypto"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/market
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "store"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Marketplace"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/health-tech
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "monitor_heart"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Health-tech"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=https://trucking.corgi.insure/
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "local_shipping"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Trucking"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=https://getgolden.insure/
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "sports_soccer"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Sports"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+        <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [0,0,0,0]
+          { width:176px; display:flex; flexDirection:column; flex:0 0 auto; gap:8px; rowGap:8px; columnGap:8px }
+          <div .pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; display:block }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "Software"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:inline }
+          <div .flex.flex-col.gap-2.p-2> [0,0,0,0]
+            { padding:8px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=https://dataroom.corgi.com
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "lock"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Dataroom"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+        <div .flex.w-[calc(var(--dropdown-column-width,240px)*2)].shrink-0.flex-col.self-stretch> [0,0,0,0]
+          { width:352px; display:flex; flexDirection:column; flex:0 0 auto }
+          <div .flex.h-[30px].items-center.pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; height:30px; display:flex; alignItems:center }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "Highlights"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:block }
+          <div .flex.min-h-[240px].flex-1.overflow-hidden.rounded-[20px].border-[1px].border-[#e1e1e1]> [0,0,0,0]
+            { minHeight:240px; display:flex; flex:1 1 0%; borderRadius:20px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <a .group.relative.flex.flex-1.flex-col.items-start.justify-end.gap-1.overflow-hidden.border-r-[1px]> [0,0,0,0] @href=/book-a-demo
+              { padding:8px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; flex:1 1 0%; gap:4px; rowGap:4px; columnGap:4px; borderRight:1px solid rgb(225, 225, 225); position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden; cursor:pointer }
+              <img .absolute.inset-0.h-full.w-full.object-cover.object-[20%_center]> [0,0,0,0] @alt=Book a demo @src=/images/book a demo image.png IMG /images/book%20a%20demo%20image.png nat1370x804
+                { width:100%; height:100%; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:20% 50%; verticalAlign:middle }
+              <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [0,0,0,0]
+                { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; display:block; position:absolute }
+              <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "Book a demo"
+                { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+              <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "For customers who want guidance."
+                { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+            <div .relative.flex.flex-1.overflow-hidden> [0,0,0,0]
+              { display:flex; flex:1 1 0%; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <a .group.absolute.inset-0.flex.flex-col.items-start.justify-end.gap-1.overflow-hidden.bg-white> [0,0,0,0] @href=/press-releases/series-b
+                { backgroundColor:rgb(255, 255, 255); padding:8px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; gap:4px; rowGap:4px; columnGap:4px; position:absolute; transition:opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden; cursor:pointer }
+                <img .absolute.inset-0.h-full.w-full.object-cover> [0,0,0,0] @alt=$1.3B valuation @src=/images/press-releases/series-b-thumbnail.png IMG /images/press-releases/series-b-thumbnail.png nat1024x520
+                  { width:100%; height:100%; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+                <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [0,0,0,0]
+                  { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; display:block; position:absolute }
+                <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "$1.3B valuation"
+                  { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "Corgi raises $160M Series B."
+                  { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+    <div> [0,0,0,0]
+      { display:block }
+      <div .relative.flex.items-start.[--dropdown-column-width:240px]> [0,0,0,0]
+        { display:flex; alignItems:flex-start; position:relative }
+        <div .pointer-events-none.absolute.top-1/2.left-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; inset:50% auto auto 0px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-1/2.right-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; inset:50% 0px auto auto; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-[30px].left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [0,0,0,0]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; top:30px; left:50%; translate:-50% }
+        <div .pointer-events-none.absolute.bottom-0.left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [0,0,0,0]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; left:50%; inset:auto auto 0px 50%; translate:-50% }
+        <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; left:240px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [0,0,0,0]
+          { width:240px; display:flex; flexDirection:column; flex:0 0 auto; gap:8px; rowGap:8px; columnGap:8px }
+          <div .pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; display:block }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "Industries"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:inline }
+          <div .flex.flex-col.gap-2.p-2> [0,0,0,0]
+            { padding:8px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/clubs-and-lodges
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "groups"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Clubs & Lodges (liquor)"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <div .flex.items-center.gap-2.rounded-lg.p-2> [0,0,0,0]
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "auto_awesome"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "More coming soon"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+        <div .flex.w-[calc(var(--dropdown-column-width,240px)*2)].shrink-0.flex-col.self-stretch> [0,0,0,0]
+          { width:480px; display:flex; flexDirection:column; flex:0 0 auto }
+          <div .flex.h-[30px].items-center.pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; height:30px; display:flex; alignItems:center }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "Highlights"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:block }
+          <div .flex.min-h-[240px].flex-1.overflow-hidden.rounded-[20px].border-[1px].border-[#e1e1e1]> [0,0,0,0]
+            { minHeight:240px; display:flex; flex:1 1 0%; borderRadius:20px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <a .group.relative.flex.flex-1.flex-col.items-start.justify-end.gap-1.overflow-hidden.border-r-[1px]> [0,0,0,0] @href=/book-a-demo
+              { padding:8px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; flex:1 1 0%; gap:4px; rowGap:4px; columnGap:4px; borderRight:1px solid rgb(225, 225, 225); position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden; cursor:pointer }
+              <img .absolute.inset-0.h-full.w-full.object-cover.object-[20%_center]> [0,0,0,0] @alt=Book a demo @src=/images/book a demo image.png IMG /images/book%20a%20demo%20image.png nat1370x804
+                { width:100%; height:100%; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:20% 50%; verticalAlign:middle }
+              <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [0,0,0,0]
+                { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; display:block; position:absolute }
+              <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "Book a demo"
+                { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+              <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "For customers who want guidance."
+                { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+            <div .relative.flex.flex-1.overflow-hidden> [0,0,0,0]
+              { display:flex; flex:1 1 0%; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <a .group.absolute.inset-0.flex.flex-col.items-start.justify-end.gap-1.overflow-hidden.bg-white> [0,0,0,0] @href=/press-releases/series-b
+                { backgroundColor:rgb(255, 255, 255); padding:8px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; gap:4px; rowGap:4px; columnGap:4px; position:absolute; transition:opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden; cursor:pointer }
+                <img .absolute.inset-0.h-full.w-full.object-cover> [0,0,0,0] @alt=$1.3B valuation @src=/images/press-releases/series-b-thumbnail.png IMG /images/press-releases/series-b-thumbnail.png nat1024x520
+                  { width:100%; height:100%; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+                <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [0,0,0,0]
+                  { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; display:block; position:absolute }
+                <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "$1.3B valuation"
+                  { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "Corgi raises $160M Series B."
+                  { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+    <div> [0,0,0,0]
+      { display:block }
+      <div .relative.flex.items-start.[--dropdown-column-width:200px].2xl:[--dropdown-column-width:220px].min-[1680px]:[--dropdown-column-width:240px]> [0,0,0,0]
+        { display:flex; alignItems:flex-start; position:relative }
+        <div .pointer-events-none.absolute.top-1/2.left-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; inset:50% auto auto 0px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-1/2.right-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; inset:50% 0px auto auto; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-[30px].left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [0,0,0,0]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; top:30px; left:50%; translate:-50% }
+        <div .pointer-events-none.absolute.bottom-0.left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [0,0,0,0]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; left:50%; inset:auto auto 0px 50%; translate:-50% }
+        <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; left:200px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; left:400px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; left:600px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; left:800px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [0,0,0,0]
+          { width:200px; display:flex; flexDirection:column; flex:0 0 auto; gap:8px; rowGap:8px; columnGap:8px }
+          <div .pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; display:block }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "Core Operations"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:inline }
+          <div .flex.flex-col.gap-2.p-2> [0,0,0,0]
+            { padding:8px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/general-liability
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "verified_user"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "General Liability"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/cyber-liability
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "lock"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Cyber Liability"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/tech-eo
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "memory"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Tech E&O Insurance"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/tech-eo
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "smart_toy"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "AI Liability"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/media-liability
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "campaign"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Media Liability"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/hired-non-owned-auto
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "directions_car"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Hired & Non-Owned Auto"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+        <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [0,0,0,0]
+          { width:200px; display:flex; flexDirection:column; flex:0 0 auto; gap:8px; rowGap:8px; columnGap:8px }
+          <div .pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; display:block }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "Management & People"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:inline }
+          <div .flex.flex-col.gap-2.p-2> [0,0,0,0]
+            { padding:8px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/directors-and-officers
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "business_center"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Directors & Officers"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/employment-practices-liability
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "how_to_reg"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Employment Practices"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/fiduciary-liability
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "balance"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Fiduciary Liability"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+        <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [0,0,0,0]
+          { width:200px; display:flex; flexDirection:column; flex:0 0 auto; gap:8px; rowGap:8px; columnGap:8px }
+          <div .pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; display:block }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "Transportation"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:inline }
+          <div .flex.flex-col.gap-2.p-2> [0,0,0,0]
+            { padding:8px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=https://trucking.corgi.insure/insurance/auto-liability
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "traffic"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Auto Liability"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=https://trucking.corgi.insure/insurance/per-load-cargo
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "inventory_2"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Contractual Liability Insurance - Cargo"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+        <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [0,0,0,0]
+          { width:200px; display:flex; flexDirection:column; flex:0 0 auto; gap:8px; rowGap:8px; columnGap:8px }
+          <div .pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; display:block }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "RETAIL"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:inline }
+          <div .flex.flex-col.gap-2.p-2> [0,0,0,0]
+            { padding:8px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/liquor-liability
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "local_bar"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Liquor Liability"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+        <div .flex.w-[calc(var(--dropdown-column-width,240px)*2)].shrink-0.flex-col.self-stretch> [0,0,0,0]
+          { width:400px; display:flex; flexDirection:column; flex:0 0 auto }
+          <div .flex.h-[30px].items-center.pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; height:30px; display:flex; alignItems:center }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "Highlights"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:block }
+          <div .flex.min-h-[240px].flex-1.overflow-hidden.rounded-[20px].border-[1px].border-[#e1e1e1]> [0,0,0,0]
+            { minHeight:240px; display:flex; flex:1 1 0%; borderRadius:20px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <a .group.relative.flex.flex-1.flex-col.items-start.justify-end.gap-1.overflow-hidden.border-r-[1px]> [0,0,0,0] @href=/book-a-demo
+              { padding:8px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; flex:1 1 0%; gap:4px; rowGap:4px; columnGap:4px; borderRight:1px solid rgb(225, 225, 225); position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden; cursor:pointer }
+              <img .absolute.inset-0.h-full.w-full.object-cover.object-[20%_center]> [0,0,0,0] @alt=Book a demo @src=/images/book a demo image.png IMG /images/book%20a%20demo%20image.png nat1370x804
+                { width:100%; height:100%; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:20% 50%; verticalAlign:middle }
+              <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [0,0,0,0]
+                { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; display:block; position:absolute }
+              <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "Book a demo"
+                { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+              <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "For customers who want guidance."
+                { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+            <div .relative.flex.flex-1.overflow-hidden> [0,0,0,0]
+              { display:flex; flex:1 1 0%; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <a .group.absolute.inset-0.flex.flex-col.items-start.justify-end.gap-1.overflow-hidden.bg-white> [0,0,0,0] @href=/press-releases/series-b
+                { backgroundColor:rgb(255, 255, 255); padding:8px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; gap:4px; rowGap:4px; columnGap:4px; position:absolute; transition:opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden; cursor:pointer }
+                <img .absolute.inset-0.h-full.w-full.object-cover> [0,0,0,0] @alt=$1.3B valuation @src=/images/press-releases/series-b-thumbnail.png IMG /images/press-releases/series-b-thumbnail.png nat1024x520
+                  { width:100%; height:100%; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+                <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [0,0,0,0]
+                  { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; display:block; position:absolute }
+                <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "$1.3B valuation"
+                  { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "Corgi raises $160M Series B."
+                  { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+    <div> [0,0,0,0]
+      { display:block }
+      <div .relative.flex.items-start> [0,0,0,0]
+        { display:flex; alignItems:flex-start; position:relative }
+        <div .pointer-events-none.absolute.top-1/2.left-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; inset:50% auto auto 0px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-1/2.right-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; inset:50% 0px auto auto; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-[30px].left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [0,0,0,0]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; top:30px; left:50%; translate:-50% }
+        <div .pointer-events-none.absolute.bottom-0.left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [0,0,0,0]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; left:50%; inset:auto auto 0px 50%; translate:-50% }
+        <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; left:240px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; left:480px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [0,0,0,0]
+          { width:240px; display:flex; flexDirection:column; flex:0 0 auto; gap:8px; rowGap:8px; columnGap:8px }
+          <div .pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; display:block }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "Literature"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:inline }
+          <div .flex.flex-col.gap-2.p-2> [0,0,0,0]
+            { padding:8px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/press-releases
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "newspaper"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Corgi Press"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/featured-articles
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "auto_awesome"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Featuring Corgi"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/blog
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "edit"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Blog"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+        <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [0,0,0,0]
+          { width:240px; display:flex; flexDirection:column; flex:0 0 auto; gap:8px; rowGap:8px; columnGap:8px }
+          <div .pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; display:block }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "Corgi the Company"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:inline }
+          <div .flex.flex-col.gap-2.p-2> [0,0,0,0]
+            { padding:8px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/about
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "info"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "About"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/careers
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "verified"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Careers"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=https://thecorgi.cafe/
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "coffee"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Corgi Cafe"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=https://thecorgi.cafe/corgi-bus
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "directions_bus"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Corgi Bus"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=https://corgifunds.com/
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "candlestick_chart"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Corgi ETFs"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+        <div .flex.w-[calc(var(--dropdown-column-width,240px)*2)].shrink-0.flex-col.self-stretch> [0,0,0,0]
+          { width:480px; display:flex; flexDirection:column; flex:0 0 auto }
+          <div .flex.h-[30px].items-center.pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; height:30px; display:flex; alignItems:center }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "Highlights"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:block }
+          <div .flex.min-h-[240px].flex-1.overflow-hidden.rounded-[20px].border-[1px].border-[#e1e1e1]> [0,0,0,0]
+            { minHeight:240px; display:flex; flex:1 1 0%; borderRadius:20px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <a .group.relative.flex.flex-1.flex-col.items-start.justify-end.gap-1.overflow-hidden.border-r-[1px]> [0,0,0,0] @href=/book-a-demo
+              { padding:8px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; flex:1 1 0%; gap:4px; rowGap:4px; columnGap:4px; borderRight:1px solid rgb(225, 225, 225); position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden; cursor:pointer }
+              <img .absolute.inset-0.h-full.w-full.object-cover.object-[20%_center]> [0,0,0,0] @alt=Book a demo @src=/images/book a demo image.png IMG /images/book%20a%20demo%20image.png nat1370x804
+                { width:100%; height:100%; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:20% 50%; verticalAlign:middle }
+              <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [0,0,0,0]
+                { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; display:block; position:absolute }
+              <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "Book a demo"
+                { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+              <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "For customers who want guidance."
+                { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+            <div .relative.flex.flex-1.overflow-hidden> [0,0,0,0]
+              { display:flex; flex:1 1 0%; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <a .group.absolute.inset-0.flex.flex-col.items-start.justify-end.gap-1.overflow-hidden.bg-white> [0,0,0,0] @href=/press-releases/series-b
+                { backgroundColor:rgb(255, 255, 255); padding:8px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; gap:4px; rowGap:4px; columnGap:4px; position:absolute; transition:opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden; cursor:pointer }
+                <img .absolute.inset-0.h-full.w-full.object-cover> [0,0,0,0] @alt=$1.3B valuation @src=/images/press-releases/series-b-thumbnail.png IMG /images/press-releases/series-b-thumbnail.png nat1024x520
+                  { width:100%; height:100%; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+                <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [0,0,0,0]
+                  { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; display:block; position:absolute }
+                <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "$1.3B valuation"
+                  { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "Corgi raises $160M Series B."
+                  { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+    <div> [0,0,0,0]
+      { display:block }
+      <div .relative.flex.items-start> [0,0,0,0]
+        { display:flex; alignItems:flex-start; position:relative }
+        <div .pointer-events-none.absolute.top-1/2.left-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; inset:50% auto auto 0px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-1/2.right-0.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; inset:50% 0px auto auto; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .pointer-events-none.absolute.top-[30px].left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [0,0,0,0]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; top:30px; left:50%; translate:-50% }
+        <div .pointer-events-none.absolute.bottom-0.left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [0,0,0,0]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; left:50%; inset:auto auto 0px 50%; translate:-50% }
+        <div .pointer-events-none.absolute.top-1/2.flex.h-[2400px].-translate-y-1/2.items-center.justify-center> [0,0,0,0]
+          { height:2400px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:50%; left:240px; translate:0px -50% }
+          <div .h-full.w-[1px].bg-[#e1e1e1]> [0,0,0,0]
+            { backgroundColor:rgb(225, 225, 225); width:1px; height:100%; display:block }
+        <div .flex.w-[var(--dropdown-column-width,240px)].shrink-0.flex-col.gap-2> [0,0,0,0]
+          { width:240px; display:flex; flexDirection:column; flex:0 0 auto; gap:8px; rowGap:8px; columnGap:8px }
+          <div .pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; display:block }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "Programs"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:inline }
+          <div .flex.flex-col.gap-2.p-2> [0,0,0,0]
+            { padding:8px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/partnerships
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "handshake"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Partner With Us"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <a .flex.items-center.gap-2.rounded-lg.p-2.transition-colors.hover:bg-[#f6f6f6]> [0,0,0,0] @href=/for-brokers
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "business_center"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "For brokers"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+            <div .flex.items-center.gap-2.rounded-lg.p-2> [0,0,0,0]
+              { padding:8px; display:flex; alignItems:center; gap:8px; rowGap:8px; columnGap:8px; borderRadius:8px }
+              <span .h-4.w-4.shrink-0.text-[#4a4a4a]> [0,0,0,0] "savings"
+                { fontFamily:Material Symbols Sharp; lineHeight:16px; color:rgb(74, 74, 74); width:16px; height:16px; display:block; flex:0 0 auto; fontVariationSettings:"FILL" 0, "GRAD" 0, "opsz" 24, "wght" 400; fontFeatureSettings:"liga" }
+              <span .flex-1.text-[14px].leading-[1.2].tracking-[-0.21px].text-[#4a4a4a]> [0,0,0,0] "Perks"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); display:block; flex:1 1 0% }
+              <span .rounded-[4px].px-2.py-1.text-[8px].font-medium.bg-[#ffdecc].text-[#ff5c00]> [0,0,0,0] "COMING SOON"
+                { fontSize:8px; fontWeight:500; lineHeight:12px; color:rgb(255, 92, 0); backgroundColor:rgb(255, 222, 204); padding:4px 8px; display:block; borderRadius:4px }
+        <div .flex.w-[calc(var(--dropdown-column-width,240px)*2)].shrink-0.flex-col.self-stretch> [0,0,0,0]
+          { width:480px; display:flex; flexDirection:column; flex:0 0 auto }
+          <div .flex.h-[30px].items-center.pl-2> [0,0,0,0]
+            { padding:0px 0px 0px 8px; height:30px; display:flex; alignItems:center }
+            <span .text-[12px].uppercase.tracking-[-0.18px].text-[#4a4a4a]> [0,0,0,0] "Highlights"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.18px; color:rgb(74, 74, 74); textTransform:uppercase; display:block }
+          <div .flex.min-h-[240px].flex-1.overflow-hidden.rounded-[20px].border-[1px].border-[#e1e1e1]> [0,0,0,0]
+            { minHeight:240px; display:flex; flex:1 1 0%; borderRadius:20px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <a .group.relative.flex.flex-1.flex-col.items-start.justify-end.gap-1.overflow-hidden.border-r-[1px]> [0,0,0,0] @href=/book-a-demo
+              { padding:8px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; flex:1 1 0%; gap:4px; rowGap:4px; columnGap:4px; borderRight:1px solid rgb(225, 225, 225); position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden; cursor:pointer }
+              <img .absolute.inset-0.h-full.w-full.object-cover.object-[20%_center]> [0,0,0,0] @alt=Book a demo @src=/images/book a demo image.png IMG /images/book%20a%20demo%20image.png nat1370x804
+                { width:100%; height:100%; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:20% 50%; verticalAlign:middle }
+              <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [0,0,0,0]
+                { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; display:block; position:absolute }
+              <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "Book a demo"
+                { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+              <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "For customers who want guidance."
+                { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+            <div .relative.flex.flex-1.overflow-hidden> [0,0,0,0]
+              { display:flex; flex:1 1 0%; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <a .group.absolute.inset-0.flex.flex-col.items-start.justify-end.gap-1.overflow-hidden.bg-white> [0,0,0,0] @href=/press-releases/series-b
+                { backgroundColor:rgb(255, 255, 255); padding:8px; display:flex; flexDirection:column; justifyContent:flex-end; alignItems:flex-start; gap:4px; rowGap:4px; columnGap:4px; position:absolute; transition:opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1); overflow:hidden; overflowX:hidden; overflowY:hidden; cursor:pointer }
+                <img .absolute.inset-0.h-full.w-full.object-cover> [0,0,0,0] @alt=$1.3B valuation @src=/images/press-releases/series-b-thumbnail.png IMG /images/press-releases/series-b-thumbnail.png nat1024x520
+                  { width:100%; height:100%; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; verticalAlign:middle }
+                <div .pointer-events-none.absolute.inset-0.bg-gradient-to-b.from-white/0.from-[54%].via-white/[0.56].via-[70%].to-white/95.to-[85%]> [0,0,0,0]
+                  { backgroundImage:linear-gradient(oklab(0 0 0 / 0) 54%, oklab(0.999994 0.0000455678 0.0000200868 / 0.56) 70%, oklab(0.999994 0.0; display:block; position:absolute }
+                <span .relative.text-[12px].font-bold.leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "$1.3B valuation"
+                  { fontSize:12px; fontWeight:700; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                <span .relative.text-[12px].leading-[1.2].tracking-[-0.18px].text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [0,0,0,0] "Corgi raises $160M Series B."
+                  { fontSize:12px; lineHeight:14.4px; letterSpacing:-0.18px; color:rgb(25, 25, 25); display:block; position:relative; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+  <div .overflow-hidden> [0,112,390,0]
+    { width:390px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden }
+<main .relative.z-0.flex-grow> [0,0,390,4136] @id=main-content
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(0, 0, 0); width:390px; height:4136.17px; display:block; flex:1 1 auto; position:relative; zIndex:0 }
+  <div .flex.w-full.flex-col.bg-background.text-foreground> [0,0,390,4136]
+    { color:rgb(29, 29, 29); backgroundColor:rgb(246, 246, 246); width:390px; height:4136.17px; display:flex; flexDirection:column }
+    <script> [0,0,0,0] "{"@context":"https://schema.org","@type":"NewsArticle","headline":"Corgi Raises $160M Series B to Expand Its Full-Stack Insurance Platform","
+    <script> [0,0,0,0] "{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://"
+    <nav .mx-auto.max-w-7xl.px-6.pt-6> [0,0,390,64] @aria-label=Breadcrumb
+      { padding:24px 24px 0px; width:390px; height:64px; maxWidth:1280px; display:block }
+      <ol .flex.items-center.gap-1.5.text-sm.text-muted-foreground> [24,24,342,40]
+        { fontSize:14px; lineHeight:20px; color:rgb(78, 78, 78); width:342px; height:40px; display:flex; alignItems:center; gap:6px; rowGap:6px; columnGap:6px; listStyle:outside none none }
+        <li .flex.items-center.gap-1.5> [24,34,38,20]
+          { width:37.7031px; height:20px; display:flex; alignItems:center; gap:6px; rowGap:6px; columnGap:6px }
+          <a ..hover:text-foreground> [24,34,38,20] "Home" @href=/
+            { width:37.7031px; height:20px; display:block; cursor:pointer }
+        <li .flex.items-center.gap-1.5> [68,24,125,40]
+          { width:124.953px; height:40px; display:flex; alignItems:center; gap:6px; rowGap:6px; columnGap:6px }
+          <svg .[object.SVGAnimatedString]> [68,37,14,14] SVG(212b) viewBox="0 0 24 24"
+            { width:14px; height:14px; display:block; flex:0 0 auto; overflow:hidden; overflowX:hidden; overflowY:hidden; verticalAlign:middle }
+          <a ..hover:text-foreground> [88,24,105,40] "Corgi Press Releases" @href=/press-releases
+            { width:104.953px; height:40px; display:block; cursor:pointer }
+        <li .flex.items-center.gap-1.5> [199,24,167,40]
+          { width:167.344px; height:40px; display:flex; alignItems:center; gap:6px; rowGap:6px; columnGap:6px }
+          <svg .[object.SVGAnimatedString]> [199,37,14,14] SVG(212b) viewBox="0 0 24 24"
+            { width:14px; height:14px; display:block; flex:0 0 auto; overflow:hidden; overflowX:hidden; overflowY:hidden; verticalAlign:middle }
+          <span .font-medium.text-foreground> [219,24,147,40] "Corgi Raises $160M Series B"
+            { fontWeight:500; color:rgb(29, 29, 29); width:147.344px; height:40px; display:block }
+    <section .w-full.px-4.pt-[170px].pb-16.md:px-6.lg:px-16> [0,64,390,621]
+      { padding:170px 16px 64px; width:390px; height:620.781px; display:block }
+      <div .mx-auto.flex.w-full.max-w-[1136px].flex-col.gap-9> [16,234,358,387]
+        { width:358px; height:386.781px; maxWidth:1136px; display:flex; flexDirection:column; gap:36px; rowGap:36px; columnGap:36px }
+        <div> [16,234,358,24]
+          { width:358px; height:24px; display:block }
+          <a .inline-flex.items-center.gap-1.text-body.font-medium.tracking-tight.text-[#191919].hover:text-[#FF5C00]> [16,235,161,17] "Back to press releases" @href=/press-releases
+            { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.35px; color:rgb(25, 25, 25); width:161.484px; height:16.7969px; display:inline-flex; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; cursor:pointer }
+            <svg .[object.SVGAnimatedString]> [16,235,16,16] SVG(211b) viewBox="0 0 16 16"
+              { width:16px; height:16px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden; verticalAlign:middle }
+        <div .grid.w-full.gap-9.lg:grid-cols-[minmax(0,1fr)_minmax(360px,520px)].lg:items-center> [16,294,358,327]
+          { width:358px; height:326.781px; display:grid; gap:36px; rowGap:36px; columnGap:36px; gridTemplateColumns:358px; gridTemplateRows:108px 182.781px }
+          <h1 .font-mono.font-medium> [16,294,358,108] "Corgi Raises $160M Series B at $1.3B Valuation"
+            { fontSize:36px; fontWeight:500; fontFamily:f37Bolton; lineHeight:36px; letterSpacing:-1.152px; color:rgb(25, 25, 25); width:358px; height:108px; display:block }
+          <div .relative.w-full.overflow-hidden.rounded-[24px].border.border-[#e1e1e1].bg-[#191919].lg:justify-self-end> [16,438,358,183]
+            { backgroundColor:rgb(25, 25, 25); width:358px; height:182.781px; display:block; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <img .block.h-auto.w-full.rounded-[24px].object-contain.outline.outline-1.outline-black/10> [17,439,356,181] @alt=$1.3B Series B valuation press release thumbnail @src=/_next/image?url=%2Fimages%2Fpress-releases%2Fseries-b-thumbnail.png&w IMG /_next/image?url=%2Fimages%2Fpress-releases%2Fseries-b-thumbnail.png&w=384&q=75 nat358x181
+              { width:356px; height:180.781px; maxWidth:100%; display:block; borderRadius:24px; outline:oklab(0 0 0 / 0.1) solid 1px; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+    <section .w-full.border-t-[1px].border-b-[1px].border-[#e1e1e1].px-4.py-6.md:px-6.lg:px-16> [0,685,390,98]
+      { padding:24px 16px; width:390px; height:98px; display:block; borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225) }
+      <div .mx-auto.flex.w-full.max-w-[1136px].items-center.justify-between.gap-6> [16,710,358,48]
+        { width:358px; height:48px; maxWidth:1136px; display:flex; justifyContent:space-between; alignItems:center; gap:24px; rowGap:24px; columnGap:24px }
+        <div .flex.items-center.gap-6> [16,710,169,48]
+          { width:168.734px; height:48px; display:flex; alignItems:center; gap:24px; rowGap:24px; columnGap:24px }
+          <div .flex.flex-col.leading-[1.2].tracking-tight.text-[#4a4a4a]> [16,724,37,19]
+            { lineHeight:19.2px; letterSpacing:-0.4px; color:rgb(74, 74, 74); width:36.7344px; height:19.1875px; display:flex; flexDirection:column }
+            <span> [16,724,37,19] "Corgi"
+              { width:36.7344px; height:19.1875px; display:block }
+          <div .flex.items-center.gap-3> [77,710,108,48]
+            { width:108px; height:48px; display:flex; alignItems:center; gap:12px; rowGap:12px; columnGap:12px }
+            <a .flex.h-12.w-12.items-center.justify-center.rounded-full.border.border-[#e1e1e1].text-[#4a4a4a].transition-colors> [77,710,48,48] @href=https://www.linkedin.com/company/corgi-insurance
+              { color:rgb(74, 74, 74); width:48px; height:48px; display:flex; justifyContent:center; alignItems:center; borderRadius:3.35544e+07px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <svg .[object.SVGAnimatedString]> [91,724,20,20] SVG(538b) viewBox="0 0 24 24"
+                { width:20px; height:20px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden; verticalAlign:middle }
+            <a .flex.h-12.w-12.items-center.justify-center.rounded-full.border.border-[#e1e1e1].text-[#4a4a4a].transition-colors> [137,710,48,48] @href=https://x.com/UseCorgi
+              { color:rgb(74, 74, 74); width:48px; height:48px; display:flex; justifyContent:center; alignItems:center; borderRadius:3.35544e+07px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+              <svg .[object.SVGAnimatedString]> [151,724,20,20] SVG(259b) viewBox="0 0 24 24"
+                { width:20px; height:20px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden; verticalAlign:middle }
+        <span .shrink-0.text-right.text-body.text-[#4a4a4a]> [287,717,87,34]
+          { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); textAlign:right; width:87.1719px; height:33.5938px; display:block; flex:0 0 auto }
+          <span .whitespace-nowrap> [287,716,87,18] "May 7th 2026"
+            { display:inline }
+          <span .hidden.md:inline> [0,0,0,0] "|"
+          <br .md:hidden> [374,716,0,18]
+            { display:inline }
+          <span .whitespace-nowrap> [308,733,66,18] "4 min read"
+            { display:inline }
+    <section .relative.w-full.overflow-x-clip.px-4.py-4.md:py-6.md:px-6.lg:py-16.lg:px-16> [0,783,390,2137]
+      { padding:16px; width:390px; height:2137.39px; display:block; position:relative; overflow:clip visible; overflowX:clip }
+      <div .relative.mx-auto.flex.w-fit.max-w-full.gap-9> [16,799,358,2105]
+        { width:358px; height:2105.39px; maxWidth:100%; display:flex; gap:36px; rowGap:36px; columnGap:36px; position:relative }
+        <div .absolute.top-0.right-full.bottom-0.mr-3.hidden.xl:block> [0,0,0,0]
+          { margin:0px 12px 0px 0px; position:absolute; right:100%; inset:0px 100% 0px auto }
+          <div .sticky.py-3.transition-[top].duration-300> [0,0,0,0]
+            { padding:12px 0px; display:block; position:sticky; top:136px; transition:top 0.3s cubic-bezier(0.4, 0, 0.2, 1); inset:136px auto auto }
+            <nav .flex.w-max.max-w-[150px].flex-col.gap-2> [0,0,0,0]
+              { width:max-content; maxWidth:150px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+              <button .flex.items-start.gap-2.text-left.text-[12px].leading-[1.3].tracking-tight.text-[#4a4a4a].hover:text-[#FF5C00]> [0,0,0,0] "Overview"
+                { fontSize:12px; lineHeight:15.6px; letterSpacing:-0.3px; color:rgb(74, 74, 74); textAlign:left; display:flex; alignItems:flex-start; gap:8px; rowGap:8px; columnGap:8px; cursor:pointer }
+              <button .flex.items-start.gap-2.text-left.text-[12px].leading-[1.3].tracking-tight.text-[#4a4a4a].hover:text-[#FF5C00]> [0,0,0,0] "Funding"
+                { fontSize:12px; lineHeight:15.6px; letterSpacing:-0.3px; color:rgb(74, 74, 74); textAlign:left; display:flex; alignItems:flex-start; gap:8px; rowGap:8px; columnGap:8px; cursor:pointer }
+              <button .flex.items-start.gap-2.text-left.text-[12px].leading-[1.3].tracking-tight.text-[#4a4a4a].hover:text-[#FF5C00]> [0,0,0,0] "Expansion"
+                { fontSize:12px; lineHeight:15.6px; letterSpacing:-0.3px; color:rgb(74, 74, 74); textAlign:left; display:flex; alignItems:flex-start; gap:8px; rowGap:8px; columnGap:8px; cursor:pointer }
+              <button .flex.items-start.gap-2.text-left.text-[12px].leading-[1.3].tracking-tight.text-[#4a4a4a].hover:text-[#FF5C00]> [0,0,0,0] "Leadership"
+                { fontSize:12px; lineHeight:15.6px; letterSpacing:-0.3px; color:rgb(74, 74, 74); textAlign:left; display:flex; alignItems:flex-start; gap:8px; rowGap:8px; columnGap:8px; cursor:pointer }
+              <button .flex.items-start.gap-2.text-left.text-[12px].leading-[1.3].tracking-tight.text-[#FF5C00]> [0,0,0,0] "About Corgi"
+                { fontSize:12px; lineHeight:15.6px; letterSpacing:-0.3px; color:rgb(255, 92, 0); textAlign:left; display:flex; alignItems:flex-start; gap:8px; rowGap:8px; columnGap:8px; cursor:pointer }
+                <span .mt-[5px].h-[5px].w-[5px].shrink-0.rounded-full.bg-[#FF5C00]> [0,0,0,0]
+                  { backgroundColor:rgb(255, 92, 0); margin:5px 0px 0px; width:5px; height:5px; display:block; flex:0 0 auto; borderRadius:3.35544e+07px }
+        <div .pointer-events-none.absolute.top-[-16px].bottom-[-16px].left-0.w-[1px].bg-[#e1e1e1].md:top-[-24px].md:bottom-[-24px].lg:top-[-64px]> [16,783,1,2137]
+          { backgroundColor:rgb(225, 225, 225); width:1px; height:2137.39px; display:block; position:absolute; top:-16px; right:357px; bottom:-16px; inset:-16px 357px -16px 0px }
+        <div .pointer-events-none.absolute.top-[-16px].right-0.bottom-[-16px].w-[1px].bg-[#e1e1e1].md:top-[-24px].md:bottom-[-24px].lg:top-[-64px]> [373,783,1,2137]
+          { backgroundColor:rgb(225, 225, 225); width:1px; height:2137.39px; display:block; position:absolute; top:-16px; left:357px; bottom:-16px }
+        <div .pointer-events-none.absolute.top-0.left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [-1005,799,2400,1]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; left:179px; right:-2221px; bottom:2104.39px; inset:0px -2221px 2104.39px 179px; translate:-50% }
+        <div .pointer-events-none.absolute.bottom-0.left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [-1005,2903,2400,1]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; top:2104.39px; left:179px; right:-2221px; translate:-50% }
+        <div .flex.min-w-0.max-w-[740px].flex-1.flex-col.gap-16.py-3.pr-3.pl-3.lg:pr-0> [16,799,358,2105]
+          { padding:12px; width:358px; height:2105.39px; maxWidth:740px; display:flex; flexDirection:column; flex:1 1 0%; gap:64px; rowGap:64px; columnGap:64px }
+          <div .flex.flex-col.gap-4> [28,811,334,84] @id=overview
+            { width:334px; height:83.9844px; display:flex; flexDirection:column; gap:16px; rowGap:16px; columnGap:16px }
+            <p .text-body.text-[#4a4a4a]> [28,811,334,84] "- Corgi announced today it has raised $160 million in Series B funding at a $1.3 billion valuation, advancing its mission to build the first"
+              { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:83.9844px; display:block }
+              <strong .font-bold.text-[#191919]> [28,810,138,18] "SAN FRANCISCO, CA"
+                { fontWeight:700; color:rgb(25, 25, 25); display:inline }
+          <div .flex.flex-col.gap-12> [28,959,334,410] @id=funding
+            { width:334px; height:410.344px; display:flex; flexDirection:column; gap:48px; rowGap:48px; columnGap:48px }
+            <h2 .font-mono.font-medium.text-[28px].leading-none.tracking-tight.text-[#191919].md:text-[36px].lg:text-[48px]> [28,959,334,28] "The Funding"
+              { fontSize:28px; fontWeight:500; fontFamily:f37Bolton; lineHeight:28px; letterSpacing:-0.7px; color:rgb(25, 25, 25); width:334px; height:28px; display:block }
+            <div .flex.flex-col.gap-4> [28,1035,334,334]
+              { width:334px; height:334.344px; display:flex; flexDirection:column; gap:16px; rowGap:16px; columnGap:16px }
+              <p .text-body.text-[#4a4a4a]> [28,1035,334,151] "The round was led by TCV, with participation from both existing and new investors including Oliver Jung, Leblon Capital, Kindred Ventures, R"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:151.172px; display:block }
+              <p .text-body.text-[#4a4a4a]> [28,1202,334,118] "This financing builds on Corgi's previously announced $108 million across its seed and Series A rounds, backed by investors including Y Comb"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:117.578px; display:block }
+              <p .text-body.text-[#4a4a4a]> [28,1336,334,34] "This new funding brings Corgi's total amount raised to over $268 million."
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:33.5938px; display:block }
+          <div .flex.flex-col.gap-12> [28,1433,334,243] @id=expansion
+            { width:334px; height:243.172px; display:flex; flexDirection:column; gap:48px; rowGap:48px; columnGap:48px }
+            <h2 .font-mono.font-medium.text-[28px].leading-none.tracking-tight.text-[#191919].md:text-[36px].lg:text-[48px]> [28,1433,334,28] "Expanding the Platform"
+              { fontSize:28px; fontWeight:500; fontFamily:f37Bolton; lineHeight:28px; letterSpacing:-0.7px; color:rgb(25, 25, 25); width:334px; height:28px; display:block }
+            <div .flex.flex-col.gap-4> [28,1509,334,167]
+              { width:334px; height:167.172px; display:flex; flexDirection:column; gap:16px; rowGap:16px; columnGap:16px }
+              <p .text-body.text-[#4a4a4a]> [28,1509,334,84] "The new capital will support the continued expansion of Corgi's startup insurance products, including broader coverage, deeper distribution,"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:83.9844px; display:block }
+              <p .text-body.text-[#4a4a4a]> [28,1609,334,67] "The company is also moving into new verticals, beginning with trucking, where it plans to bring faster quoting, more adaptive risk models, a"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:67.1875px; display:block }
+          <div .rounded-3xl.bg-[#191919].py-3.pr-3.pl-6> [28,1740,334,124]
+            { backgroundColor:rgb(25, 25, 25); padding:12px 12px 12px 24px; width:334px; height:124.391px; display:block; borderRadius:24px }
+            <div .flex.flex-col.items-start.gap-4.md:flex-row.md:items-center.md:justify-between> [52,1752,298,100]
+              { width:298px; height:100.391px; display:flex; flexDirection:column; alignItems:flex-start; gap:16px; rowGap:16px; columnGap:16px }
+              <div .flex.flex-col.gap-1> [52,1752,264,38]
+                { width:264.172px; height:37.5938px; display:flex; flexDirection:column; gap:4px; rowGap:4px; columnGap:4px }
+                <span .text-body.font-medium.text-white> [52,1752,264,17] "Get your instant quote"
+                  { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(255, 255, 255); width:264.172px; height:16.7969px; display:block }
+                <span .text-body.text-[#a0a0a0]> [52,1773,264,17] "See the real cost and get covered instantly"
+                  { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(160, 160, 160); width:264.172px; height:16.7969px; display:block }
+              <div .pressable-button.pressable-smooth-corner.bg-[#cc4a00].shrink-0> [52,1806,173,47]
+                { backgroundColor:rgb(204, 74, 0); padding:0px 0px 4px; width:173.469px; height:46.7969px; display:block; flex:0 0 auto; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+                <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#ff5c00].hover:bg-[#ff7d33].active:bg-[#ff9d66].btn-text-small> [52,1806,173,43] "Get insured now" @href=https://app.corgi.insure/sign-up
+                  { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(255, 255, 255); backgroundColor:rgb(255, 92, 0); padding:12px 24px; width:173.469px; height:42.7969px; display:flex; justifyContent:center; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+                  <svg .[object.SVGAnimatedString]> [184,1819,16,16] SVG(209b) viewBox="0 0 16 16"
+                    { width:16px; height:16px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden; verticalAlign:middle }
+          <div .flex.flex-col.gap-12> [28,1929,334,461] @id=leadership
+            { width:334px; height:460.734px; display:flex; flexDirection:column; gap:48px; rowGap:48px; columnGap:48px }
+            <h2 .font-mono.font-medium.text-[28px].leading-none.tracking-tight.text-[#191919].md:text-[36px].lg:text-[48px]> [28,1929,334,28] "Leadership"
+              { fontSize:28px; fontWeight:500; fontFamily:f37Bolton; lineHeight:28px; letterSpacing:-0.7px; color:rgb(25, 25, 25); width:334px; height:28px; display:block }
+            <div .flex.flex-col.gap-4> [28,2005,334,385]
+              { width:334px; height:384.734px; display:flex; flexDirection:column; gap:16px; rowGap:16px; columnGap:16px }
+              <p .text-body.text-[#4a4a4a]> [28,2005,334,118] "“Insurance is one of the largest industries in the world, but it's still built on infrastructure from centuries ago,” said Emily Yuan, co-fo"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:117.578px; display:block }
+              <p .text-body.text-[#4a4a4a]> [28,2138,334,134] "Corgi's long-term vision is to modernize one of the most complex sectors in financial services. Traditional insurance is fragmented across T"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:134.375px; display:block }
+              <p .text-body.text-[#4a4a4a]> [28,2289,334,101] "“Where other companies might take the boring but safe path, Corgi will always dream bigger, accomplish more, and take more swings for the fe"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:100.781px; display:block }
+          <div .flex.flex-col.gap-12> [28,2453,334,336] @id=about
+            { width:334px; height:335.969px; display:flex; flexDirection:column; gap:48px; rowGap:48px; columnGap:48px }
+            <h2 .font-mono.font-medium.text-[28px].leading-none.tracking-tight.text-[#191919].md:text-[36px].lg:text-[48px]> [28,2453,334,28] "About Corgi"
+              { fontSize:28px; fontWeight:500; fontFamily:f37Bolton; lineHeight:28px; letterSpacing:-0.7px; color:rgb(25, 25, 25); width:334px; height:28px; display:block }
+            <div .flex.flex-col.gap-4> [28,2529,334,134]
+              { width:334px; height:133.578px; display:flex; flexDirection:column; gap:16px; rowGap:16px; columnGap:16px }
+              <p .text-body.text-[#4a4a4a]> [28,2529,334,84] "Corgi is an AI-native, full-stack insurance carrier built for startups. As a licensed carrier, Corgi designs and manages insurance end-to-en"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:83.9844px; display:block }
+              <p .text-body.text-[#4a4a4a]> [28,2629,334,34] "The company delivers fast, flexible coverage tailored to how startups operate and scale."
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:33.5938px; display:block }
+            <div .flex.flex-col.gap-2> [28,2711,334,78]
+              { width:334px; height:78.3906px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+              <h3 .text-[20px].font-bold.leading-none.tracking-tight.text-[#191919]> [28,2711,334,20] "Media Contact"
+                { fontSize:20px; fontWeight:700; lineHeight:20px; letterSpacing:-0.5px; color:rgb(25, 25, 25); width:334px; height:20px; display:block }
+              <p .text-body.text-[#4a4a4a]> [28,2739,334,50] "Erika Lee Head of Brand"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); width:334px; height:50.3906px; display:block }
+                <br> [85,2738,0,18]
+                  { display:inline }
+                <br> [117,2755,0,18]
+                  { display:inline }
+                <a .text-[#FF5C00].underline-offset-2.hover:underline> [28,2772,103,18] "erika@corgi.com" @href=mailto:erika@corgi.com
+                  { color:rgb(255, 92, 0); display:inline; cursor:pointer }
+          <div .pressable-button.pressable-smooth-corner.bg-[#cc4a00].w-full> [28,2853,334,39]
+            { backgroundColor:rgb(204, 74, 0); padding:0px 0px 4px; width:334px; height:38.7969px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+            <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#ff5c00].hover:bg-[#ff7d33].active:bg-[#ff9d66].px-4> [28,2853,334,35] "Start your application" @href=https://app.corgi.insure/sign-up
+              { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.35px; color:rgb(255, 255, 255); backgroundColor:rgb(255, 92, 0); padding:8px 16px; width:334px; height:34.7969px; display:flex; justifyContent:center; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+              <svg .[object.SVGAnimatedString]> [256,2863,16,16] SVG(209b) viewBox="0 0 16 16"
+                { width:16px; height:16px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden; verticalAlign:middle }
+        <div .hidden.w-[360px].shrink-0.lg:flex.lg:flex-col.lg:items-center.lg:gap-3> [0,0,0,0]
+          { width:360px; flex:0 0 auto }
+          <div .sticky.flex.flex-col.items-center.gap-3.transition-[top].duration-300> [0,0,0,0]
+            { display:flex; flexDirection:column; alignItems:center; gap:12px; rowGap:12px; columnGap:12px; position:sticky; top:136px; transition:top 0.3s cubic-bezier(0.4, 0, 0.2, 1); inset:136px auto auto }
+            <div .flex.w-[360px].flex-col.overflow-hidden.rounded-[24px].border-[1px].border-[#e1e1e1]> [0,0,0,0]
+              { width:360px; display:flex; flexDirection:column; borderRadius:24px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <div .relative.h-[280px].overflow-hidden.bg-white> [0,0,0,0]
+                { backgroundColor:rgb(255, 255, 255); height:280px; display:block; position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+                <img .object-cover.object-top> [0,0,0,0] @alt=Corgi Insurance App @src=/_next/image?url=%2Fimages%2FStart%20Application%20Blog%20CTA%204.png& IMG  nat0x0
+                  { width:100%; height:100%; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+              <div .border-t-[1px].border-[#e1e1e1].bg-white.p-3> [0,0,0,0]
+                { backgroundColor:rgb(255, 255, 255); padding:12px; display:block; borderTop:1px solid rgb(225, 225, 225) }
+                <div .pressable-button.pressable-smooth-corner.bg-[#626262].w-full> [0,0,0,0]
+                  { backgroundColor:rgb(98, 98, 98); padding:0px 0px 4px; width:100%; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+                  <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#191919].hover:bg-[#4a4a4a].active:bg-[#7b7b7b].px-4> [0,0,0,0] "Start application" @href=https://app.corgi.insure/sign-up
+                    { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.35px; color:rgb(255, 255, 255); backgroundColor:rgb(25, 25, 25); padding:8px 16px; width:100%; display:flex; justifyContent:center; alignItems:center; gap:4px; rowGap:4px; columnGap:4px; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+                    <svg .[object.SVGAnimatedString]> [0,0,0,0] SVG(209b) viewBox="0 0 16 16"
+                      { width:16px; height:16px; display:block; overflow:hidden; overflowX:hidden; overflowY:hidden; verticalAlign:middle }
+            <div .flex.flex-col.items-center> [0,0,0,0]
+              { display:flex; flexDirection:column; alignItems:center }
+              <p .text-center.text-body.text-[#4a4a4a]> [0,0,0,0] "Not familiar with insurance or need guidance?"
+                { fontSize:14px; lineHeight:16.8px; letterSpacing:-0.21px; color:rgb(74, 74, 74); textAlign:center; display:block }
+              <a .text-body.font-medium.tracking-tight.text-[#FF5C00].hover:underline> [0,0,0,0] "Book a demo" @href=/book-a-demo
+                { fontSize:14px; fontWeight:500; lineHeight:16.8px; letterSpacing:-0.35px; color:rgb(255, 92, 0); display:block; cursor:pointer }
+    <section .relative.z-10.w-full.overflow-hidden.border-t-[1px].border-b-[1px].border-[#e1e1e1].px-4.py-4.md:py-6> [0,2920,390,1216]
+      { padding:16px; width:390px; height:1216px; display:block; borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); position:relative; zIndex:10; overflow:hidden; overflowX:hidden; overflowY:hidden }
+      <div .relative.mx-auto.flex.max-w-[1600px].flex-col.gap-6> [16,2937,358,1182]
+        { width:358px; height:1182px; maxWidth:1600px; display:flex; flexDirection:column; gap:24px; rowGap:24px; columnGap:24px; position:relative }
+        <div .pointer-events-none.absolute.left-0.-top-[9999px].-bottom-[9999px].w-[1px].bg-[#e1e1e1]> [16,-7062,1,21180]
+          { backgroundColor:rgb(225, 225, 225); width:1px; height:21180px; display:block; position:absolute; top:-9999px; right:357px; bottom:-9999px; inset:-9999px 357px -9999px 0px }
+        <div .pointer-events-none.absolute.right-0.-top-[9999px].-bottom-[9999px].w-[1px].bg-[#e1e1e1]> [373,-7062,1,21180]
+          { backgroundColor:rgb(225, 225, 225); width:1px; height:21180px; display:block; position:absolute; top:-9999px; left:357px; bottom:-9999px }
+        <div .pointer-events-none.absolute.left-1/2.top-0.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [-1005,2937,2400,1]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; left:179px; right:-2221px; bottom:1181px; inset:0px -2221px 1181px 179px; translate:-50% }
+        <div .pointer-events-none.absolute.bottom-0.left-1/2.h-[1px].w-[2400px].-translate-x-1/2.bg-[#e1e1e1]> [-1005,4118,2400,1]
+          { backgroundColor:rgb(225, 225, 225); width:2400px; height:1px; display:block; position:absolute; top:1181px; left:179px; right:-2221px; translate:-50% }
+        <div .relative.flex.flex-col.rounded-t-3xl.border-x-[1px].border-t-[1px].border-[#e1e1e1]> [16,2937,358,1182]
+          { width:358px; height:1182px; display:flex; flexDirection:column; borderRadius:24px 24px 0px 0px; borderTop:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); position:relative }
+          <div .px-6.py-3> [17,2938,356,48]
+            { padding:12px 24px; width:356px; height:48px; display:block }
+            <span .text-[12px].uppercase.tracking-tight.text-[#4a4a4a]> [41,2955,94,16] "LATEST ARTICLES"
+              { fontSize:12px; lineHeight:18px; letterSpacing:-0.3px; color:rgb(74, 74, 74); textTransform:uppercase; display:inline }
+          <div .overflow-hidden.rounded-3xl.bg-[#e1e1e1].py-[1px]> [17,2986,356,1133]
+            { backgroundColor:rgb(225, 225, 225); padding:1px 0px; width:356px; height:1133px; display:block; borderRadius:24px; overflow:hidden; overflowX:hidden; overflowY:hidden }
+            <div .grid.grid-cols-1.gap-px.overflow-hidden.rounded-[23px].md:grid-cols-2> [17,2987,356,1131]
+              { width:356px; height:1131px; display:grid; gap:1px; rowGap:1px; columnGap:1px; gridTemplateColumns:356px; gridTemplateRows:271px 293px 317px 247px; borderRadius:23px; overflow:hidden; overflowX:hidden; overflowY:hidden }
+              <a .group.flex.items-center.bg-white.p-6.transition-colors.hover:bg-gray-50> [17,2987,356,271] @href=/blog/which-acquired-insurance-providers-are-no-longer-startup-friendl
+                { backgroundColor:rgb(255, 255, 255); padding:24px; width:356px; height:271px; display:flex; alignItems:center; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+                <div .flex.flex-1.flex-col.gap-3> [41,3011,308,223]
+                  { width:308px; height:223px; display:flex; flexDirection:column; flex:1 1 0%; gap:12px; rowGap:12px; columnGap:12px }
+                  <div .flex.items-center.justify-between.text-sm.tracking-tight.text-[#4a4a4a].transition-colors.group-hover:text-[#ff5c00]> [41,3011,308,20]
+                    { fontSize:14px; lineHeight:20px; letterSpacing:-0.35px; color:rgb(74, 74, 74); width:308px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                    <span> [41,3011,81,20] "Aug. 27 2026"
+                      { width:81.4219px; height:20px; display:block }
+                    <span> [284,3011,65,20] "5 min read"
+                      { width:64.7188px; height:20px; display:block }
+                  <div .flex.flex-col.gap-2> [41,3043,308,146]
+                    { width:308px; height:146px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+                    <h3 .font-mono.leading-none.tracking-tight.text-[#191919].transition-colors.group-hover:text-[#ff5c00].text-[24px].md:text-[28px].lg:text-[32px]> [41,3043,308,72] "Which Acquired Insurance Providers Are No Longer Startup-Friendly?"
+                      { fontSize:24px; fontFamily:f37Bolton; letterSpacing:-0.6px; color:rgb(25, 25, 25); width:308px; height:72px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                    <p .leading-snug.tracking-tight.text-[#4a4a4a].transition-colors.group-hover:text-[#ff5c00]> [41,3123,308,66] "Founders usually do not buy insurance because they want another administrative project."
+                      { lineHeight:22px; letterSpacing:-0.4px; color:rgb(74, 74, 74); width:308px; height:66px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                  <div .h-px.w-full.bg-[#e1e1e1].transition-colors.group-hover:bg-[#ff5c00]> [41,3201,308,1]
+                    { backgroundColor:rgb(225, 225, 225); width:308px; height:1px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                  <p .text-sm.tracking-tight.text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [41,3214,308,20] "The Corgi team"
+                    { fontSize:14px; lineHeight:20px; letterSpacing:-0.35px; color:rgb(25, 25, 25); width:308px; height:20px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+              <a .group.flex.items-center.bg-white.p-6.transition-colors.hover:bg-gray-50> [17,3259,356,293] @href=/blog/how-to-implement-d-and-o-coverage-with-the-best-startup-insuranc
+                { backgroundColor:rgb(255, 255, 255); padding:24px; width:356px; height:293px; display:flex; alignItems:center; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+                <div .flex.flex-1.flex-col.gap-3> [41,3283,308,245]
+                  { width:308px; height:245px; display:flex; flexDirection:column; flex:1 1 0%; gap:12px; rowGap:12px; columnGap:12px }
+                  <div .flex.items-center.justify-between.text-sm.tracking-tight.text-[#4a4a4a].transition-colors.group-hover:text-[#ff5c00]> [41,3283,308,20]
+                    { fontSize:14px; lineHeight:20px; letterSpacing:-0.35px; color:rgb(74, 74, 74); width:308px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                    <span> [41,3283,81,20] "Aug. 27 2026"
+                      { width:81.4219px; height:20px; display:block }
+                    <span> [285,3283,64,20] "6 min read"
+                      { width:64.25px; height:20px; display:block }
+                  <div .flex.flex-col.gap-2> [41,3315,308,168]
+                    { width:308px; height:168px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+                    <h3 .font-mono.leading-none.tracking-tight.text-[#191919].transition-colors.group-hover:text-[#ff5c00].text-[24px].md:text-[28px].lg:text-[32px]> [41,3315,308,72] "How to Implement D&O Coverage with the Best Startup Insurance Provider"
+                      { fontSize:24px; fontFamily:f37Bolton; letterSpacing:-0.6px; color:rgb(25, 25, 25); width:308px; height:72px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                    <p .leading-snug.tracking-tight.text-[#4a4a4a].transition-colors.group-hover:text-[#ff5c00]> [41,3395,308,88] "The private company management liability market is expanding rapidly, with median settlements rising to $17 million amid insolvency-driven l"
+                      { lineHeight:22px; letterSpacing:-0.4px; color:rgb(74, 74, 74); width:308px; height:88px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                  <div .h-px.w-full.bg-[#e1e1e1].transition-colors.group-hover:bg-[#ff5c00]> [41,3495,308,1]
+                    { backgroundColor:rgb(225, 225, 225); width:308px; height:1px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                  <p .text-sm.tracking-tight.text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [41,3508,308,20] "The Corgi team"
+                    { fontSize:14px; lineHeight:20px; letterSpacing:-0.35px; color:rgb(25, 25, 25); width:308px; height:20px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+              <a .group.flex.items-center.bg-white.p-6.transition-colors.hover:bg-gray-50> [17,3553,356,317] @href=/blog/which-insurance-providers-let-founders-buy-cyber-and-d-and-o-cov
+                { backgroundColor:rgb(255, 255, 255); padding:24px; width:356px; height:317px; display:flex; alignItems:center; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+                <div .flex.flex-1.flex-col.gap-3> [41,3577,308,269]
+                  { width:308px; height:269px; display:flex; flexDirection:column; flex:1 1 0%; gap:12px; rowGap:12px; columnGap:12px }
+                  <div .flex.items-center.justify-between.text-sm.tracking-tight.text-[#4a4a4a].transition-colors.group-hover:text-[#ff5c00]> [41,3577,308,20]
+                    { fontSize:14px; lineHeight:20px; letterSpacing:-0.35px; color:rgb(74, 74, 74); width:308px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                    <span> [41,3577,81,20] "Aug. 27 2026"
+                      { width:81.4219px; height:20px; display:block }
+                    <span> [284,3577,65,20] "5 min read"
+                      { width:64.7188px; height:20px; display:block }
+                  <div .flex.flex-col.gap-2> [41,3609,308,192]
+                    { width:308px; height:192px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+                    <h3 .font-mono.leading-none.tracking-tight.text-[#191919].transition-colors.group-hover:text-[#ff5c00].text-[24px].md:text-[28px].lg:text-[32px]> [41,3609,308,96] "Which Insurance Providers Let Founders Buy Cyber and D&O Coverage Online Without Broker Calls?"
+                      { fontSize:24px; fontFamily:f37Bolton; letterSpacing:-0.6px; color:rgb(25, 25, 25); width:308px; height:96px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                    <p .leading-snug.tracking-tight.text-[#4a4a4a].transition-colors.group-hover:text-[#ff5c00]> [41,3713,308,88] "Founders who need Cyber and D&O coverage do not have time for a slow insurance process disguised as an online form."
+                      { lineHeight:22px; letterSpacing:-0.4px; color:rgb(74, 74, 74); width:308px; height:88px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                  <div .h-px.w-full.bg-[#e1e1e1].transition-colors.group-hover:bg-[#ff5c00]> [41,3813,308,1]
+                    { backgroundColor:rgb(225, 225, 225); width:308px; height:1px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                  <p .text-sm.tracking-tight.text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [41,3826,308,20] "The Corgi team"
+                    { fontSize:14px; lineHeight:20px; letterSpacing:-0.35px; color:rgb(25, 25, 25); width:308px; height:20px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+              <a .group.flex.items-center.bg-white.p-6.transition-colors.hover:bg-gray-50> [17,3871,356,247] @href=/blog/where-founders-can-bind-coverage-instantly
+                { backgroundColor:rgb(255, 255, 255); padding:24px; width:356px; height:247px; display:flex; alignItems:center; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+                <div .flex.flex-1.flex-col.gap-3> [41,3895,308,199]
+                  { width:308px; height:199px; display:flex; flexDirection:column; flex:1 1 0%; gap:12px; rowGap:12px; columnGap:12px }
+                  <div .flex.items-center.justify-between.text-sm.tracking-tight.text-[#4a4a4a].transition-colors.group-hover:text-[#ff5c00]> [41,3895,308,20]
+                    { fontSize:14px; lineHeight:20px; letterSpacing:-0.35px; color:rgb(74, 74, 74); width:308px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                    <span> [41,3895,81,20] "Aug. 27 2026"
+                      { width:81.4219px; height:20px; display:block }
+                    <span> [284,3895,65,20] "4 min read"
+                      { width:64.5625px; height:20px; display:block }
+                  <div .flex.flex-col.gap-2> [41,3927,308,122]
+                    { width:308px; height:122px; display:flex; flexDirection:column; gap:8px; rowGap:8px; columnGap:8px }
+                    <h3 .font-mono.leading-none.tracking-tight.text-[#191919].transition-colors.group-hover:text-[#ff5c00].text-[24px].md:text-[28px].lg:text-[32px]> [41,3927,308,48] "Where Founders Can Bind Coverage Instantly"
+                      { fontSize:24px; fontFamily:f37Bolton; letterSpacing:-0.6px; color:rgb(25, 25, 25); width:308px; height:48px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                    <p .leading-snug.tracking-tight.text-[#4a4a4a].transition-colors.group-hover:text-[#ff5c00]> [41,3983,308,66] "Corgi is the AI-native insurance carrier that empowers founders to get quotes and bind coverage instantly."
+                      { lineHeight:22px; letterSpacing:-0.4px; color:rgb(74, 74, 74); width:308px; height:66px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                  <div .h-px.w-full.bg-[#e1e1e1].transition-colors.group-hover:bg-[#ff5c00]> [41,4061,308,1]
+                    { backgroundColor:rgb(225, 225, 225); width:308px; height:1px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+                  <p .text-sm.tracking-tight.text-[#191919].transition-colors.group-hover:text-[#ff5c00]> [41,4074,308,20] "The Corgi team"
+                    { fontSize:14px; lineHeight:20px; letterSpacing:-0.35px; color:rgb(25, 25, 25); width:308px; height:20px; display:block; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0. }
+<footer .relative.flex.w-full.flex-col.bg-[#f6f6f6]> [0,4136,390,2948]
+  { fontSize:16px; fontWeight:400; fontFamily:Geist; lineHeight:24px; color:rgb(0, 0, 0); backgroundColor:rgb(246, 246, 246); width:390px; height:2947.72px; display:flex; flexDirection:column; position:relative }
+  <section .relative.w-full.overflow-hidden.border-t.border-b.border-[#585858].bg-[#313131].px-4.py-4.md:px-6> [0,4136,390,490]
+    { backgroundColor:rgb(49, 49, 49); padding:16px; width:390px; height:489.734px; display:block; borderTop:1px solid rgb(88, 88, 88); borderBottom:1px solid rgb(88, 88, 88); position:relative; overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .pointer-events-none.absolute.top-0.bottom-0.left-[max(16px,calc((100%-1600px)/2))].w-px.bg-[#585858].md:left-[max(24px,calc((100%-1600px)/2))].lg:left-[max(64px,calc((100%-1600px)/2))]> [16,4137,1,488]
+      { backgroundColor:rgb(88, 88, 88); width:1px; height:487.734px; display:block; position:absolute; left:16px; right:373px; inset:0px 373px 0px 16px }
+    <div .pointer-events-none.absolute.top-0.bottom-0.right-[max(16px,calc((100%-1600px)/2))].w-px.bg-[#585858].md:right-[max(24px,calc((100%-1600px)/2))].lg:right-[max(64px,calc((100%-1600px)/2))]> [373,4137,1,488]
+      { backgroundColor:rgb(88, 88, 88); width:1px; height:487.734px; display:block; position:absolute; left:373px; right:16px; inset:0px 16px 0px 373px }
+    <div .relative.mx-auto.max-w-[1600px]> [16,4153,358,456]
+      { width:358px; height:455.734px; maxWidth:1600px; display:block; position:relative }
+      <div .pointer-events-none.absolute.top-0.left-1/2.h-px.w-screen.-translate-x-1/2.bg-[#585858]> [0,4153,390,1]
+        { backgroundColor:rgb(88, 88, 88); width:390px; height:1px; display:block; position:absolute; left:179px; right:-211px; bottom:454.734px; inset:0px -211px 454.734px 179px; translate:-50% }
+      <div .pointer-events-none.absolute.bottom-0.left-1/2.h-px.w-screen.-translate-x-1/2.bg-[#585858]> [0,4608,390,1]
+        { backgroundColor:rgb(88, 88, 88); width:390px; height:1px; display:block; position:absolute; top:454.734px; left:179px; right:-211px; translate:-50% }
+      <div .flex.flex-col.items-center.gap-9.p-4.md:p-6.lg:p-16> [16,4153,358,456]
+        { padding:16px; width:358px; height:455.734px; display:flex; flexDirection:column; alignItems:center; gap:36px; rowGap:36px; columnGap:36px }
+        <div .flex.w-full.max-w-[596px].items-end.justify-between.gap-3> [32,4169,326,57]
+          { width:326px; height:56.5469px; maxWidth:596px; display:flex; justifyContent:space-between; alignItems:flex-end; gap:12px; rowGap:12px; columnGap:12px }
+          <div .relative.aspect-[118/120].w-[18%].max-w-[118px]> [32,4169,56,57]
+            { width:55.6094px; height:56.5469px; maxWidth:118px; display:block; position:relative; aspectRatio:118 / 120 }
+            <img .object-contain.object-bottom> [32,4169,56,57] @alt=Corgi working on laptop @src=/_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=3840&q=75&dpl=d IMG /_next/image?url=%2Fimages%2Ffooter-corgi-laptop.png&w=128&q=75 nat118x119
+              { width:55.6094px; height:56.5469px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; objectPosition:50% 100%; verticalAlign:middle }
+          <div .relative.aspect-[118/120].w-[18%].max-w-[118px]> [100,4169,56,57]
+            { width:55.5938px; height:56.5312px; maxWidth:118px; display:block; position:relative; aspectRatio:118 / 120 }
+            <img .object-contain.object-bottom> [100,4169,56,57] @alt=Corgi founder @src=/_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=3840&q=75&dpl= IMG /_next/image?url=%2Fimages%2Ffooter-corgi-founder.png&w=128&q=75 nat118x119
+              { width:55.5938px; height:56.5312px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; objectPosition:50% 100%; verticalAlign:middle }
+          <div .relative.aspect-[118/120].w-[18%].max-w-[118px]> [167,4169,56,57]
+            { width:55.6094px; height:56.5469px; maxWidth:118px; display:block; position:relative; aspectRatio:118 / 120 }
+            <img .object-contain.object-bottom> [167,4169,56,57] @alt=Corgi in suit @src=/_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=3840&q=75&dpl=dpl IMG /_next/image?url=%2Fimages%2Ffooter-corgi-suit.png&w=128&q=75 nat118x119
+              { width:55.6094px; height:56.5469px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; objectPosition:50% 100%; verticalAlign:middle }
+          <div .relative.aspect-[118/120].w-[18%].max-w-[118px]> [235,4169,56,57]
+            { width:55.5938px; height:56.5312px; maxWidth:118px; display:block; position:relative; aspectRatio:118 / 120 }
+            <img .object-contain.object-bottom> [235,4169,56,57] @alt=Corgi chef @src=/_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=3840&q=75&dpl=dpl IMG /_next/image?url=%2Fimages%2Ffooter-corgi-chef.png&w=128&q=75 nat118x119
+              { width:55.5938px; height:56.5312px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; objectPosition:50% 100%; verticalAlign:middle }
+          <div .relative.aspect-[118/120].w-[18%].max-w-[118px]> [302,4169,56,57]
+            { width:55.5938px; height:56.5312px; maxWidth:118px; display:block; position:relative; aspectRatio:118 / 120 }
+            <img .object-contain.object-bottom> [302,4169,56,57] @alt=Corgi doctor @src=/_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=3840&q=75&dpl=d IMG /_next/image?url=%2Fimages%2Ffooter-corgi-doctor.png&w=128&q=75 nat118x119
+              { width:55.5938px; height:56.5312px; maxWidth:100%; display:block; position:absolute; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; objectPosition:50% 100%; verticalAlign:middle }
+        <div .flex.flex-col.items-center.gap-12> [32,4262,326,331]
+          { width:326px; height:331.188px; display:flex; flexDirection:column; alignItems:center; gap:48px; rowGap:48px; columnGap:48px }
+          <h2 .text-center.font-medium.font-mono.text-white> [32,4262,326,168] "Corgi Provides the Insurance Built for Founders. Move fast. Break things. Stay covered, under one roof."
+            { fontSize:28px; fontWeight:500; fontFamily:f37Bolton; lineHeight:28px; letterSpacing:-0.896px; color:rgb(255, 255, 255); textAlign:center; width:326px; height:168px; display:block }
+            <br> [304,4314,0,35]
+              { display:inline }
+          <div .flex.flex-col.items-stretch.gap-3.sm:flex-row.sm:items-start> [98,4478,195,115]
+            { width:194.969px; height:115.188px; display:flex; flexDirection:column; gap:12px; rowGap:12px; columnGap:12px }
+            <div .pressable-button.pressable-smooth-corner.bg-[#e1e1e1]> [98,4478,195,52]
+              { backgroundColor:rgb(225, 225, 225); padding:0px 0px 4px; width:194.969px; height:51.5938px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+              <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-[#e1e1e1].bg-white.hover:bg-gray-50.active:bg-[#ededed].px-6> [98,4478,195,48] "Book a demo" @href=/book-a-demo
+                { fontSize:18px; fontWeight:500; lineHeight:21.6px; letterSpacing:-0.27px; color:rgb(25, 25, 25); backgroundColor:rgb(255, 255, 255); padding:12px 24px; width:194.969px; height:47.5938px; display:flex; justifyContent:center; alignItems:center; borderRadius:16px; border:1px solid rgb(225, 225, 225); borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); borderLeft:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225); cursor:pointer }
+            <div .pressable-button.pressable-smooth-corner.bg-[#cc4a00]> [98,4541,195,52]
+              { backgroundColor:rgb(204, 74, 0); padding:0px 0px 4px; width:194.969px; height:51.5938px; display:block; borderRadius:16px; transition:padding 0.075s cubic-bezier(0.4, 0, 0.2, 1), margin 0.075s cubic-bezier(0.4, 0, 0.2, 1) }
+              <a .pressable-smooth-corner.flex.items-center.justify-center.border.border-transparent.bg-[#ff5c00].hover:bg-[#ff7d33].active:bg-[#ff9d66].px-6> [98,4541,195,48] "Get insured today" @href=https://app.corgi.insure/sign-up
+                { fontSize:18px; fontWeight:500; lineHeight:21.6px; letterSpacing:-0.27px; color:rgb(255, 255, 255); backgroundColor:rgb(255, 92, 0); padding:12px 24px; width:194.969px; height:47.5938px; display:flex; justifyContent:center; alignItems:center; borderRadius:16px; border:1px solid rgba(0, 0, 0, 0); borderTop:1px solid rgba(0, 0, 0, 0); borderBottom:1px solid rgba(0, 0, 0, 0); borderLeft:1px solid rgba(0, 0, 0, 0); borderRight:1px solid rgba(0, 0, 0, 0); cursor:pointer }
+  <div .w-full.overflow-hidden.border-t.border-b.border-[#e1e1e1].py-8> [0,4626,390,121]
+    { padding:32px 0px; width:390px; height:120.5px; display:block; borderTop:1px solid rgb(225, 225, 225); borderBottom:1px solid rgb(225, 225, 225); overflow:hidden; overflowX:hidden; overflowY:hidden }
+    <div .flex.w-max.items-center.gap-20> [-9,4659,5368,55]
+      { width:5367.69px; height:54.5px; display:flex; alignItems:center; gap:80px; rowGap:80px; columnGap:80px; transform:matrix(1, 0, 0, 1, -9.49088, 0); animation:40s linear infinite paused logo-scroll }
+      <div .flex.shrink-0.items-end.gap-20> [-9,4659,1282,55]
+        { width:1281.92px; height:54.5px; display:flex; alignItems:flex-end; flex:0 0 auto; gap:80px; rowGap:80px; columnGap:80px }
+        <div .flex.flex-col.items-center.gap-2> [-9,4659,155,55]
+          { width:155.406px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [8,4659,120,30] @alt=Forbes @src=/brand/forbes.webp IMG /brand/forbes.webp nat311x84
+            { width:120px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [-9,4697,155,17] "As covered in Forbes , May 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:155.406px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [226,4665,216,49]
+          { width:215.719px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [234,4665,200,24] @alt=The Economic Times @src=/brand/the-economic-times.webp IMG /brand/the-economic-times.webp nat940x83
+            { width:200px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [226,4697,216,17] "As covered in The Economic Times , Jul 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:215.719px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [522,4661,213,53]
+          { width:213.172px; height:52.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [528,4661,200,28] @alt=Insurance Business @src=/brand/insurance-business.webp IMG  nat0x0
+            { width:200px; height:28px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [522,4697,213,17] "As covered in Insurance Business , Jan 2026 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:213.172px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [815,4665,240,49]
+          { width:240px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [815,4665,240,24] @alt=The Wall Street Journal @src=/brand/the-wall-street-journal.webp IMG  nat0x0
+            { width:240px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [819,4697,232,17] "As covered in The Wall Street Journal , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:231.781px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [1135,4659,138,55]
+          { width:137.625px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [1174,4659,60,30] @alt=Inc. @src=/brand/inc.webp IMG  nat0x0
+            { width:60px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [1135,4697,138,17] "As covered in Inc. , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:137.625px; height:16.5px; display:block }
+      <div .flex.shrink-0.items-end.gap-20> [1352,4659,1282,55]
+        { width:1281.92px; height:54.5px; display:flex; alignItems:flex-end; flex:0 0 auto; gap:80px; rowGap:80px; columnGap:80px }
+        <div .flex.flex-col.items-center.gap-2> [1352,4659,155,55]
+          { width:155.406px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [1370,4659,120,30] @alt=Forbes @src=/brand/forbes.webp IMG /brand/forbes.webp nat311x84
+            { width:120px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [1352,4697,155,17] "As covered in Forbes , May 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:155.406px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [1588,4665,216,49]
+          { width:215.719px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [1596,4665,200,24] @alt=The Economic Times @src=/brand/the-economic-times.webp IMG /brand/the-economic-times.webp nat940x83
+            { width:200px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [1588,4697,216,17] "As covered in The Economic Times , Jul 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:215.719px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [1884,4661,213,53]
+          { width:213.172px; height:52.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [1890,4661,200,28] @alt=Insurance Business @src=/brand/insurance-business.webp IMG  nat0x0
+            { width:200px; height:28px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [1884,4697,213,17] "As covered in Insurance Business , Jan 2026 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:213.172px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [2177,4665,240,49]
+          { width:240px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [2177,4665,240,24] @alt=The Wall Street Journal @src=/brand/the-wall-street-journal.webp IMG  nat0x0
+            { width:240px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [2181,4697,232,17] "As covered in The Wall Street Journal , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:231.781px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [2497,4659,138,55]
+          { width:137.625px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [2536,4659,60,30] @alt=Inc. @src=/brand/inc.webp IMG  nat0x0
+            { width:60px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [2497,4697,138,17] "As covered in Inc. , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:137.625px; height:16.5px; display:block }
+      <div .flex.shrink-0.items-end.gap-20> [2714,4659,1282,55]
+        { width:1281.92px; height:54.5px; display:flex; alignItems:flex-end; flex:0 0 auto; gap:80px; rowGap:80px; columnGap:80px }
+        <div .flex.flex-col.items-center.gap-2> [2714,4659,155,55]
+          { width:155.406px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [2732,4659,120,30] @alt=Forbes @src=/brand/forbes.webp IMG /brand/forbes.webp nat311x84
+            { width:120px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [2714,4697,155,17] "As covered in Forbes , May 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:155.406px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [2950,4665,216,49]
+          { width:215.719px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [2958,4665,200,24] @alt=The Economic Times @src=/brand/the-economic-times.webp IMG /brand/the-economic-times.webp nat940x83
+            { width:200px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [2950,4697,216,17] "As covered in The Economic Times , Jul 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:215.719px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [3245,4661,213,53]
+          { width:213.172px; height:52.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [3252,4661,200,28] @alt=Insurance Business @src=/brand/insurance-business.webp IMG  nat0x0
+            { width:200px; height:28px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [3245,4697,213,17] "As covered in Insurance Business , Jan 2026 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:213.172px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [3539,4665,240,49]
+          { width:240px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [3539,4665,240,24] @alt=The Wall Street Journal @src=/brand/the-wall-street-journal.webp IMG  nat0x0
+            { width:240px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [3543,4697,232,17] "As covered in The Wall Street Journal , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:231.781px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [3859,4659,138,55]
+          { width:137.625px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [3897,4659,60,30] @alt=Inc. @src=/brand/inc.webp IMG  nat0x0
+            { width:60px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [3859,4697,138,17] "As covered in Inc. , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:137.625px; height:16.5px; display:block }
+      <div .flex.shrink-0.items-end.gap-20> [4076,4659,1282,55]
+        { width:1281.92px; height:54.5px; display:flex; alignItems:flex-end; flex:0 0 auto; gap:80px; rowGap:80px; columnGap:80px }
+        <div .flex.flex-col.items-center.gap-2> [4076,4659,155,55]
+          { width:155.406px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [4094,4659,120,30] @alt=Forbes @src=/brand/forbes.webp IMG /brand/forbes.webp nat311x84
+            { width:120px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [4076,4697,155,17] "As covered in Forbes , May 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:155.406px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [4312,4665,216,49]
+          { width:215.719px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [4320,4665,200,24] @alt=The Economic Times @src=/brand/the-economic-times.webp IMG /brand/the-economic-times.webp nat940x83
+            { width:200px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [4312,4697,216,17] "As covered in The Economic Times , Jul 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:215.719px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [4607,4661,213,53]
+          { width:213.172px; height:52.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [4614,4661,200,28] @alt=Insurance Business @src=/brand/insurance-business.webp IMG  nat0x0
+            { width:200px; height:28px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [4607,4697,213,17] "As covered in Insurance Business , Jan 2026 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:213.172px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [4901,4665,240,49]
+          { width:240px; height:48.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [4901,4665,240,24] @alt=The Wall Street Journal @src=/brand/the-wall-street-journal.webp IMG  nat0x0
+            { width:240px; height:24px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [4905,4697,232,17] "As covered in The Wall Street Journal , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:231.781px; height:16.5px; display:block }
+        <div .flex.flex-col.items-center.gap-2> [5221,4659,138,55]
+          { width:137.625px; height:54.5px; display:flex; flexDirection:column; alignItems:center; gap:8px; rowGap:8px; columnGap:8px }
+          <img .object-contain.brightness-0> [5259,4659,60,30] @alt=Inc. @src=/brand/inc.webp IMG  nat0x0
+            { width:60px; height:30px; maxWidth:100%; display:block; opacity:0.9; filter:brightness(0); overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+          <span .whitespace-nowrap.font-mono.text-[11px].text-[#7b7b7b].tracking-[-0.01em]> [5221,4697,138,17] "As covered in Inc. , Sep 2025 ."
+            { fontSize:11px; fontFamily:f37Bolton; lineHeight:16.5px; letterSpacing:-0.11px; color:rgb(123, 123, 123); width:137.625px; height:16.5px; display:block }
+  <div .relative.w-full> [0,4746,390,1629]
+    { width:390px; height:1629.48px; display:block; position:relative }
+    <div .pointer-events-none.absolute.top-0.bottom-0.left-[max(16px,calc((100%-1600px)/2))].z-0.w-px.bg-[#e1e1e1].md:left-[max(24px,calc((100%-1600px)/2))].lg:left-[max(64px,calc((100%-1600px)/2))]> [16,4746,1,1629]
+      { backgroundColor:rgb(225, 225, 225); width:1px; height:1629.48px; display:block; position:absolute; left:16px; right:373px; zIndex:0; inset:0px 373px 0px 16px }
+    <div .pointer-events-none.absolute.top-0.bottom-0.right-[max(16px,calc((100%-1600px)/2))].z-0.w-px.bg-[#e1e1e1].md:right-[max(24px,calc((100%-1600px)/2))].lg:right-[max(64px,calc((100%-1600px)/2))]> [373,4746,1,1629]
+      { backgroundColor:rgb(225, 225, 225); width:1px; height:1629.48px; display:block; position:absolute; left:373px; right:16px; zIndex:0; inset:0px 16px 0px 373px }
+    <div .border-b.border-[#e1e1e1].px-4.md:px-6.lg:px-16> [0,4746,390,1387]
+      { padding:0px 16px; width:390px; height:1386.69px; display:block; borderBottom:1px solid rgb(225, 225, 225) }
+      <div .relative.mx-auto.grid.max-w-[1600px].grid-cols-1.divide-x.divide-y.divide-[#e1e1e1].sm:grid-cols-2.md:grid-cols-5> [16,4746,358,1386]
+        { width:358px; height:1385.69px; maxWidth:1600px; display:grid; gridTemplateColumns:358px; gridTemplateRows:211px 284.125px 284.125px 323.312px 283.125px; position:relative }
+        <div .col-span-1.flex.items-center.justify-center.p-6.sm:col-span-2.md:col-span-1> [16,4746,358,211]
+          { padding:24px; width:358px; height:211px; display:flex; justifyContent:center; alignItems:center; gridColumn:span 1 / span 1; borderBottom:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225) }
+          <img .h-auto.w-[107px].object-contain> [141,4770,107,162] @alt=Corgi @src=/brand/corgi-dog.svg IMG /brand/corgi-dog.svg nat300x150
+            { width:107px; height:162px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:contain; verticalAlign:middle }
+        <div .flex.flex-col.items-start.gap-6.p-6> [16,4957,358,284]
+          { padding:24px; width:358px; height:284.125px; display:flex; flexDirection:column; alignItems:flex-start; gap:24px; rowGap:24px; columnGap:24px; borderBottom:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225) }
+          <p .font-semibold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#191919]> [40,4981,89,19] "SOLUTIONS"
+            { fontWeight:600; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(25, 25, 25); width:88.5469px; height:19.1875px; display:block }
+          <nav .flex.w-full.flex-col.items-stretch.gap-1> [40,5025,309,192] @aria-label=SOLUTIONS
+            { width:309px; height:191.938px; display:flex; flexDirection:column; gap:4px; rowGap:4px; columnGap:4px }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5025,309,35] "Startup Insurance" @href=/startup-insurance
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5064,309,35] "Pre-Seed & Seed" @href=/startup-insurance#pre-seed-seed
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5103,309,35] "Series A" @href=/startup-insurance#series-a
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5142,309,35] "Growth Stage" @href=/startup-insurance#growth-stage
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5181,309,35] "Instant Quote" @href=/instant-quote
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+        <div .flex.flex-col.items-start.gap-6.p-6> [16,5242,358,284]
+          { padding:24px; width:358px; height:284.125px; display:flex; flexDirection:column; alignItems:flex-start; gap:24px; rowGap:24px; columnGap:24px; borderBottom:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225) }
+          <p .font-semibold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#191919]> [40,5266,91,19] "INDUSTRIES"
+            { fontWeight:600; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(25, 25, 25); width:91.1719px; height:19.1875px; display:block }
+          <nav .flex.w-full.flex-col.items-stretch.gap-1> [40,5309,309,192] @aria-label=INDUSTRIES
+            { width:309px; height:191.938px; display:flex; flexDirection:column; gap:4px; rowGap:4px; columnGap:4px }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5309,309,35] "SaaS" @href=/saas
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5348,309,35] "AI" @href=/ai
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5387,309,35] "Fintech" @href=/fintech
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5426,309,35] "Marketplace" @href=/market
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5465,309,35] "Health-tech" @href=/health-tech
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+        <div .flex.flex-col.items-start.gap-6.p-6> [16,5526,358,323]
+          { padding:24px; width:358px; height:323.312px; display:flex; flexDirection:column; alignItems:flex-start; gap:24px; rowGap:24px; columnGap:24px; borderBottom:1px solid rgb(225, 225, 225); borderRight:1px solid rgb(225, 225, 225) }
+          <p .font-semibold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#191919]> [40,5550,78,19] "COMPANY"
+            { fontWeight:600; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(25, 25, 25); width:78.2188px; height:19.1875px; display:block }
+          <nav .flex.w-full.flex-col.items-stretch.gap-1> [40,5593,309,231] @aria-label=COMPANY
+            { width:309px; height:231.125px; display:flex; flexDirection:column; gap:4px; rowGap:4px; columnGap:4px }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5593,309,35] "About" @href=/about
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5632,309,35] "Blog" @href=/blog
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5671,309,35] "Partner With Us" @href=/partnerships
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5710,309,35] "Featuring Corgi" @href=/featured-articles
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5750,309,35] "Careers" @href=/careers
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5789,309,35] "Customers" @href=/customers
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:309px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+        <div .flex.flex-col.items-start.gap-6.p-6> [16,5849,358,283]
+          { padding:24px; width:358px; height:283.125px; display:flex; flexDirection:column; alignItems:flex-start; gap:24px; rowGap:24px; columnGap:24px }
+          <p .font-semibold.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#191919]> [40,5873,96,19] "RESOURCES"
+            { fontWeight:600; lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(25, 25, 25); width:95.8125px; height:19.1875px; display:block }
+          <nav .flex.w-full.flex-col.items-stretch.gap-1> [40,5916,310,192] @aria-label=RESOURCES
+            { width:310px; height:191.938px; display:flex; flexDirection:column; gap:4px; rowGap:4px; columnGap:4px }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5916,310,35] "Book a Demo" @href=/book-a-demo
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:310px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5955,310,35] "Insurance Guide" @href=/blog/startup-insurance-guide-for-founders
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:310px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,5995,310,35] "D&O Insurance" @href=/directors-and-officers
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:310px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,6034,310,35] "Cyber Insurance" @href=/cyber-liability
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:310px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+            <a .flex.w-full.cursor-pointer.rounded-lg.p-2.text-[16px].leading-[1.2].tracking-[-0.24px].text-[#606060].transition-colors> [40,6073,310,35] "Tech E&O Insurance" @href=/tech-eo
+              { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(96, 96, 96); padding:8px; width:310px; height:35.1875px; display:flex; borderRadius:8px; transition:color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.; cursor:pointer }
+    <div .w-full.px-4.py-6.md:px-6.lg:px-16> [0,6133,390,98]
+      { padding:24px 16px; width:390px; height:98.375px; display:block }
+      <div .mx-auto.flex.max-w-[1600px].flex-wrap.items-center.justify-center.gap-x-6.gap-y-3.text-[16px].leading-[1.2]> [16,6157,358,50]
+        { lineHeight:19.2px; letterSpacing:-0.24px; color:rgb(74, 74, 74); width:358px; height:50.375px; maxWidth:1600px; display:flex; flexWrap:wrap; justifyContent:center; alignItems:center; gap:12px 24px; rowGap:12px; columnGap:24px }
+        <div .flex.flex-wrap.items-center.justify-center.gap-x-6.gap-y-2> [39,6157,311,19]
+          { width:311.219px; height:19.1875px; display:flex; flexWrap:wrap; justifyContent:center; alignItems:center; gap:8px 24px; rowGap:8px; columnGap:24px }
+          <a ..hover:text-[#191919]> [39,6157,52,19] "Privacy" @href=/docs/Corgi Privacy Policy.pdf
+            { width:51.7656px; height:19.1875px; display:block; cursor:pointer }
+          <a ..hover:text-[#191919]> [115,6157,43,19] "Terms" @href=/docs/Corgi Terms of Service.pdf
+            { width:42.7656px; height:19.1875px; display:block; cursor:pointer }
+          <a ..hover:text-[#191919]> [182,6157,62,19] "Licenses" @href=/broker-licenses
+            { width:62.1094px; height:19.1875px; display:block; cursor:pointer }
+          <a ..hover:text-[#191919]> [268,6157,83,19] "Disclaimers" @href=/disclaimers
+            { width:82.5781px; height:19.1875px; display:block; cursor:pointer }
+        <div .hidden.h-px.w-12.bg-[#e1e1e1].md:block> [0,0,0,0]
+          { backgroundColor:rgb(225, 225, 225); width:48px; height:1px }
+        <div .flex.flex-wrap.items-center.justify-center.gap-x-6.gap-y-2> [117,6188,157,19]
+          { width:156.641px; height:19.1875px; display:flex; flexWrap:wrap; justifyContent:center; alignItems:center; gap:8px 24px; rowGap:8px; columnGap:24px }
+          <a ..hover:text-[#191919]> [117,6188,39,19] "Email" @href=mailto:hello@corgi.insure
+            { width:39.0312px; height:19.1875px; display:block; cursor:pointer }
+          <a ..hover:text-[#191919]> [180,6188,60,19] "LinkedIn" @href=https://www.linkedin.com/company/corgi-insurance
+            { width:60.1406px; height:19.1875px; display:block; cursor:pointer }
+          <a ..hover:text-[#191919]> [264,6188,9,19] "X" @href=https://x.com/UseCorgi
+            { width:9.46875px; height:19.1875px; display:block; cursor:pointer }
+    <div .relative.z-10.w-full.overflow-hidden> [0,6231,390,144]
+      { width:390px; height:144.422px; display:block; position:relative; zIndex:10; overflow:hidden; overflowX:hidden; overflowY:hidden }
+      <img .h-auto.w-full.object-cover.object-top> [0,6231,390,144] @alt= @src=/_next/image?url=%2Ffooter-bg.webp&w=3840&q=75&dpl=dpl_4zCe6eapdSiqsQS IMG /_next/image?url=%2Ffooter-bg.webp&w=640&q=75 nat390x144
+        { width:390px; height:144.422px; maxWidth:100%; display:block; overflow:clip; overflowX:clip; overflowY:clip; objectFit:cover; objectPosition:50% 0%; verticalAlign:middle }
+  <div .w-full.bg-black.p-8.text-sm.text-stone-200> [0,6376,390,708]
+    { fontSize:14px; lineHeight:20px; color:lab(91.055 0.663072 0.865579); backgroundColor:rgb(0, 0, 0); padding:32px; width:390px; height:708px; display:block }
+    <p> [32,6408,326,80] "Coverage may be underwritten through affiliated or partner carriers, including Corgi Insurance Company, Inc., an admitted property and casua"
+      { width:326px; height:80px; display:block }
+    <p .mt-4> [32,6504,326,180] "Certain coverages may also be underwritten by Technology Risk Retention Group, Inc. (TRRG), a risk retention group organized and operating p"
+      { margin:16px 0px 0px; width:326px; height:180px; display:block }
+    <p .mt-4> [32,6700,326,60] "Corgi Insurance Services, Inc. is a licensed insurance producer (CA License #6012791) and acts as the program administrator, not the insurer"
+      { margin:16px 0px 0px; width:326px; height:60px; display:block }
+    <p .mt-4> [32,6776,326,140] "Certain coverages may also be written through affiliated or partner carriers that are admitted in the applicable state and rated A- (Excelle"
+      { margin:16px 0px 0px; width:326px; height:140px; display:block }
+    <p .mt-4> [32,6932,326,120] "Coverage is subject to underwriting approval and availability varies by jurisdiction. Not all products are available in all states. Limits, "
+      { margin:16px 0px 0px; width:326px; height:120px; display:block }

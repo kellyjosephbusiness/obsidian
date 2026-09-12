@@ -123,7 +123,7 @@ interface CtaButtonProps {
   trackId: string;
   label: string;
   icon: string;
-  variant: "orange" | "black";
+  variant: "primary" | "black";
 }
 
 function CtaButton({ href, trackId, label, icon, variant }: CtaButtonProps) {
@@ -158,7 +158,7 @@ function FlipPanel({ showingDemo, cursorExitProgress, dogEntryProgress }: FlipPa
       <div
         className="relative h-full w-full overflow-clip p-[1.09cqw]"
         style={{
-          backgroundColor: showingDemo ? "#dddddd" : "#ff7d33",
+          backgroundColor: showingDemo ? "#dddddd" : "#2b4ca8",
           transition: `background-color 750ms ${GET_QUOTED_EASE}`,
         }}
       >
@@ -330,11 +330,11 @@ export function GetQuotedSection() {
         <div className="mx-auto w-full max-w-[1728px] px-16">
           <div className="flex flex-col gap-6">
             <h2 className="px-6 font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]">
-              <span style={{ color: showingDemo ? "#191919" : "#ff5c00", transition: `color 750ms ${GET_QUOTED_EASE}` }}>
+              <span style={{ color: showingDemo ? "#191919" : "#1e3a8a", transition: `color 750ms ${GET_QUOTED_EASE}` }}>
                 {GET_QUOTED.headingA}
               </span>
               {GET_QUOTED.headingJoin}
-              <span style={{ color: showingDemo ? "#ff5c00" : "#191919", transition: `color 750ms ${GET_QUOTED_EASE}` }}>
+              <span style={{ color: showingDemo ? "#1e3a8a" : "#191919", transition: `color 750ms ${GET_QUOTED_EASE}` }}>
                 {GET_QUOTED.headingB}
               </span>
             </h2>
@@ -375,7 +375,7 @@ export function GetQuotedSection() {
                         trackId="cta-homepage-self-serve"
                         label={selfServe.cta.label}
                         icon={selfServe.cta.icon}
-                        variant="orange"
+                        variant="primary"
                       />
                     }
                   />

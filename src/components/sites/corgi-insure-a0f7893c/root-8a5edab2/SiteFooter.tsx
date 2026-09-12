@@ -22,7 +22,13 @@ const isExternal = (href: string) => /^(https?:)?\/\//.test(href);
  * 5-column link grid with hairline dividers, legal/social row, landscape illustration and the
  * black disclaimer block. Server component — the only motion is the CSS `logo-scroll` keyframe.
  */
-export function SiteFooter() {
+export interface FooterCta {
+  headingLine1: string;
+  headingLine2: string;
+  buttons: { demo: { label: string; href: string }; insured: { label: string; href: string } };
+}
+
+export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
   return (
     <footer className="relative flex w-full flex-col bg-[#f6f6f6]">
       {/* 1. Dark CTA band */}
@@ -48,16 +54,16 @@ export function SiteFooter() {
             </div>
             <div className="flex flex-col items-center gap-12">
               <h2 className="text-center font-medium font-mono text-[length:var(--h2-font-size)] leading-none tracking-[-0.032em] text-white">
-                {FOOTER_CTA.headingLine1}
+                {cta.headingLine1}
                 <br />
-                {FOOTER_CTA.headingLine2}
+                {cta.headingLine2}
               </h2>
               <div className="flex flex-col items-stretch gap-3 sm:flex-row sm:items-start">
-                <PressableButton variant="white" size="large" href={FOOTER_CTA.buttons.demo.href}>
-                  {FOOTER_CTA.buttons.demo.label}
+                <PressableButton variant="white" size="large" href={cta.buttons.demo.href}>
+                  {cta.buttons.demo.label}
                 </PressableButton>
-                <PressableButton variant="orange" size="large" href={FOOTER_CTA.buttons.insured.href}>
-                  {FOOTER_CTA.buttons.insured.label}
+                <PressableButton variant="primary" size="large" href={cta.buttons.insured.href}>
+                  {cta.buttons.insured.label}
                 </PressableButton>
               </div>
             </div>

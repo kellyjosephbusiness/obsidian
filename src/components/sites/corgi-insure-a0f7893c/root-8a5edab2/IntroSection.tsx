@@ -36,7 +36,7 @@ export function IntroSection() {
         </div>
 
         <h2 className="relative font-mono font-normal text-[20px] text-white leading-none tracking-[-0.032em] md:pr-[360px] md:text-[28px] lg:pr-[420px] lg:text-[32px] min-[1440px]:pr-[460px] min-[1440px]:text-[40px]">
-          <span className="text-[#ff5c00]">{INTRO.accent}</span>
+          <span className="text-[#1e3a8a]">{INTRO.accent}</span>
           {INTRO.rest}
         </h2>
 
@@ -63,7 +63,7 @@ export function IntroSection() {
             <div className="[transform-style:preserve-3d] transition-transform duration-[480ms] ease-[cubic-bezier(0.34,1.7,0.5,1)] group-hover:[transform:translateZ(80px)]">
               <div className="h-[220px] w-[188px] overflow-hidden bg-[#f9f9f9] lg:h-[283px] lg:w-[241px]">
                 <Link href={INTRO.quoteHref} data-track="cta-homepage-journey-desktop">
-                  <p className="cursor-pointer pt-6 pl-6 font-mono font-normal text-[20px] text-black leading-none tracking-[-0.032em] hover:text-[#ff5c00] hover:underline lg:text-[24px]">
+                  <p className="cursor-pointer pt-6 pl-6 font-mono font-normal text-[20px] text-black leading-none tracking-[-0.032em] hover:text-[#1e3a8a] hover:underline lg:text-[24px]">
                     {INTRO.quoteCard}
                   </p>
                 </Link>
@@ -119,7 +119,7 @@ export function IntroSection() {
             <div className="-bottom-[90px] absolute right-[30px] z-0 [transform:rotate(-27.6deg)] [transform-style:preserve-3d] transition-transform duration-[420ms] ease-[cubic-bezier(0.2,0.8,0.2,1)] group-data-[swapped=true]:z-20 group-data-[swapped=true]:[transform:translate(30px,-45px)_rotate(-19.99deg)]">
               <div className="[transform-style:preserve-3d] transition-transform duration-[480ms] ease-[cubic-bezier(0.34,1.7,0.5,1)] group-data-[swapped=true]:[transform:translateZ(80px)]">
                 <div className="h-[270px] w-[225px] overflow-hidden bg-[#f9f9f9]">
-                  <p className="pt-7 pl-7 text-left font-mono font-normal text-[27px] text-black leading-none tracking-[-0.032em] group-data-[swapped=true]:text-[#ff5c00] group-data-[swapped=true]:underline">
+                  <p className="pt-7 pl-7 text-left font-mono font-normal text-[27px] text-black leading-none tracking-[-0.032em] group-data-[swapped=true]:text-[#1e3a8a] group-data-[swapped=true]:underline">
                     {INTRO.quoteCard}
                   </p>
                 </div>

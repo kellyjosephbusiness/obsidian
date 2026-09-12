@@ -63,8 +63,8 @@ function CoverageCard({ coverage }: { coverage: SpecializedCoverage }) {
  * Auto-flicks the front card every 4.2s (alternating right/left); the user can drag/flick it
  * with any pointer. Cursor shows the orange "Flick me!" chip while hovering with a mouse.
  */
-export function SpecializedCoveragesStack() {
-  const [order, setOrder] = useState<number[]>(() => SPECIALIZED_COVERAGES.map((_, i) => i));
+export function SpecializedCoveragesStack({ coverages = SPECIALIZED_COVERAGES }: { coverages?: SpecializedCoverage[] } = {}) {
+  const [order, setOrder] = useState<number[]>(() => coverages.map((_, i) => i));
   const [flicking, setFlicking] = useState<Flick | null>(null);
   const [dragging, setDragging] = useState(false);
   const [dragOffset, setDragOffset] = useState({ x: 0, y: 0 });
@@ -250,7 +250,7 @@ export function SpecializedCoveragesStack() {
       />
       <Link
         href={POLICIES_HEADER.seeSpecialized.href}
-        className="flex h-[63px] items-center justify-center bg-white p-3 font-medium text-[16px] text-[#ff5c00] tracking-[-0.24px] hover:underline"
+        className="flex h-[63px] items-center justify-center bg-white p-3 font-medium text-[16px] text-[#1e3a8a] tracking-[-0.24px] hover:underline"
       >
         {POLICIES_HEADER.seeSpecialized.label}
       </Link>

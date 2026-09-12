@@ -1,0 +1,505 @@
+{
+ "sticky": [],
+ "animated": [
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#cc4a00] w-fit",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Get appointed"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1] w-fit",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Sign in"
+  },
+  {
+   "tag": "DIV",
+   "cls": "logo-carousel-track flex w-max items-center gap-20",
+   "anim": "logo-scroll",
+   "dur": "60s",
+   "tr": "all 0s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": "Complete the application or send your cl"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, -webkit-text-stroke-color 0.15s",
+   "text": "Complete the application or send your cl"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": " then "
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": "get production pricingrequest_quote,"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, -webkit-text-stroke-color 0.15s",
+   "text": "get production pricingrequest_quote,"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": " "
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": "bind coverage and generate policy docume"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, -webkit-text-stroke-color 0.15s",
+   "text": "bind coverage and generate policy docume"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": " "
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": "send a payment linkpayments,"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, -webkit-text-stroke-color 0.15s",
+   "text": "send a payment linkpayments,"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": " and "
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": "issue holder-specific certificatesworksp"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, -webkit-text-stroke-color 0.15s",
+   "text": "issue holder-specific certificatesworksp"
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": " all from one client record."
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, -webkit-text-stroke-color 0.15s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, -webkit-text-stroke-color 0.15s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, -webkit-text-stroke-color 0.15s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, -webkit-text-stroke-color 0.15s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "background-color, -webkit-text-stroke-color 0.15s",
+   "text": ""
+  },
+  {
+   "tag": "SPAN",
+   "cls": "transition-opacity ease-out motion-reduce:transition-none",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "opacity 0.6s",
+   "text": ""
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  },
+  {
+   "tag": "DIV",
+   "cls": "pressable-button pressable-smooth-corner bg-[#e1e1e1]",
+   "anim": "none",
+   "dur": "0s",
+   "tr": "padding, margin 0.075s",
+   "text": "Learn more"
+  }
+ ],
+ "interactive": [
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "text": "Complete the application or send your client a lin",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "text": "get production pricingrequest_quote,",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "text": "bind coverage and generate policy documentspolicy,",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "text": "send a payment linkpayments,",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "text": "issue holder-specific certificatesworkspace_premiu",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "text": "",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "text": "",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "text": "",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "text": "",
+   "expanded": "false",
+   "state": null
+  },
+  {
+   "tag": "SPAN",
+   "cls": "inline rounded-[4px] px-1 py-1.5 text-left font-normal text-inherit leading-none [box-decoration-bre",
+   "text": "",
+   "expanded": "false",
+   "state": null
+  }
+ ],
+ "scrollSamples": [
+  {
+   "y": 0,
+   "s": "DIV|logo-carousel-track flex w-max items-center gap-20|animation-name: logo-scroll; animation-duration: 60s; animation-timing-function:|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nDIV|relative|width:344px;height:168px;transform:scale(min(1, calc((100cqw - 32px) / 344px)));|\nDIV|absolute top-0 left-0|z-index: 100; transform-origin: left top; transform-style: preserve-3d; will-cha|\nDIV|absolute top-0 left-0|z-index: 12; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 11; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 10; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 9; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 8; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 7; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute"
+  },
+  {
+   "y": 400,
+   "s": "DIV|logo-carousel-track flex w-max items-center gap-20|animation-name: logo-scroll; animation-duration: 60s; animation-timing-function:|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nSPAN|transition-opacity ease-out motion-reduce:transition-none|opacity:1;transition-duration:600ms|\nDIV|relative|width:344px;height:168px;transform:scale(min(1, calc((100cqw - 32px) / 344px)));|\nDIV|absolute top-0 left-0|z-index: 1; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 12; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 11; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 10; transform-origin: left top; transform-style: preserve-3d; will-chan|\nDIV|absolute top-0 left-0|z-index: 9; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 8; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute top-0 left-0|z-index: 7; transform-origin: left top; transform-style: preserve-3d; will-chang|\nDIV|absolute"
+  }
+ ],
+ "timeDriven": [
+  {
+   "top": 0,
+   "changed": true
+  },
+  {
+   "top": 480,
+   "changed": false
+  },
+  {
+   "top": 561,
+   "changed": false
+  },
+  {
+   "top": 1101,
+   "changed": false
+  }
+ ],
+ "hover": [
+  {
+   "text": "Get appointed",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-transparent bg-[#ff5c00] hove",
+   "before": "rgb(255, 255, 255)|rgb(255, 92, 0)|none|none|rgba(0, 0, 0, 0)|none",
+   "after": "rgb(255, 255, 255)|rgb(255, 125, 51)|none|none|rgba(0, 0, 0, 0)|none"
+  },
+  {
+   "text": "Sign in",
+   "cls": "pressable-smooth-corner flex items-center justify-center border border-[#e1e1e1] bg-white hover:bg-g",
+   "before": "rgb(25, 25, 25)|rgb(255, 255, 255)|none|none|rgb(225, 225, 225)|none",
+   "after": "rgb(25, 25, 25)|lab(98.2596 -0.247031 -0.706708)|none|none|rgb(225, 225, 225)|none"
+  },
+  {
+   "text": "See specialized coverages",
+   "cls": "flex h-[63px] items-center justify-center bg-white p-3 font-medium text-[16px] text-[#ff5c00] tracki",
+   "before": "rgb(255, 92, 0)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|none",
+   "after": "rgb(255, 92, 0)|rgb(255, 255, 255)|none|none|rgb(44, 44, 44)|underline"
+  }
+ ],
+ "clicks": [
+  {
+   "t": "Complete the application or send your client a lin",
+   "before": "false|271",
+   "after": "true|281"
+  },
+  {
+   "t": "get production pricingrequest_quote,",
+   "before": "false|281",
+   "after": "false|292"
+  },
+  {
+   "t": "bind coverage and generate policy documentspolicy,",
+   "before": "false|292",
+   "after": "false|310"
+  },
+  {
+   "t": "send a payment linkpayments,",
+   "before": "false|310",
+   "after": "false|384"
+  },
+  {
+   "t": "issue holder-specific certificatesworkspace_premiu",
+   "before": "false|384",
+   "after": "false|397"
+  },
+  {
+   "t": "",
+   "before": "false|397",
+   "after": "false|415"
+  },
+  {
+   "t": "",
+   "before": "false|415",
+   "after": "false|401"
+  },
+  {
+   "t": "",
+   "before": "false|401",
+   "after": "false|413"
+  },
+  {
+   "t": "",
+   "before": "false|413",
+   "after": "false|456"
+  },
+  {
+   "t": "",
+   "before": "false|456",
+   "after": "false|467"
+  }
+ ]
+}
