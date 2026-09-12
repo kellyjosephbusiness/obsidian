@@ -1,0 +1,79 @@
+[
+ {
+  "i": 0,
+  "top": 0,
+  "h": 844,
+  "display": "flex",
+  "cls": "relative flex h-svh flex-col items-center pt-[160px]"
+ },
+ {
+  "i": 1,
+  "top": 844,
+  "h": 396,
+  "display": "block",
+  "cls": "relative bg-background px-4 pt-4 md:px-6 md:pt-12 lg:px-16 l"
+ },
+ {
+  "i": 2,
+  "top": 1240,
+  "h": 517,
+  "display": "block",
+  "cls": "relative border-[#e1e1e1] border-b bg-background"
+ },
+ {
+  "i": 3,
+  "top": 1757,
+  "h": 1749,
+  "display": "flex",
+  "cls": "relative flex min-h-[max(720px,100vh)] items-center overflow"
+ },
+ {
+  "i": 4,
+  "top": 3507,
+  "h": 745,
+  "display": "block",
+  "cls": "relative overflow-hidden border-[#585858] border-b bg-[#3131"
+ },
+ {
+  "i": 5,
+  "top": 0,
+  "h": 0,
+  "display": "none",
+  "cls": "relative hidden border-b border-[#e1e1e1] bg-[#f6f6f6] lg:bl"
+ },
+ {
+  "i": 6,
+  "top": 4252,
+  "h": 1330,
+  "display": "block",
+  "cls": "relative overflow-clip border-b border-[#e1e1e1] bg-[#f6f6f6"
+ },
+ {
+  "i": 7,
+  "top": 5582,
+  "h": 844,
+  "display": "flex",
+  "cls": "relative flex h-screen flex-col justify-center overflow-hidd"
+ },
+ {
+  "i": 8,
+  "top": 6426,
+  "h": 3399,
+  "display": "block",
+  "cls": "relative overflow-hidden border-b border-[#e1e1e1] bg-[#f6f6"
+ },
+ {
+  "i": 9,
+  "top": 9825,
+  "h": 724,
+  "display": "block",
+  "cls": "relative border-[#e1e1e1] border-b bg-[#f6f6f6] px-4 py-16 m"
+ },
+ {
+  "i": 10,
+  "top": 10549,
+  "h": 2936,
+  "display": "flex",
+  "cls": "relative flex w-full flex-col bg-[#f6f6f6]"
+ }
+]

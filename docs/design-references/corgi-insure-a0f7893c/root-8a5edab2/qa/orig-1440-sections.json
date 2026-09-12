@@ -1,0 +1,72 @@
+[
+ {
+  "i": 0,
+  "top": 0,
+  "h": 900,
+  "display": "flex",
+  "cls": "relative flex h-svh flex-col items-center pt-[160px]"
+ },
+ {
+  "i": 1,
+  "top": 900,
+  "h": 320,
+  "display": "block",
+  "cls": "relative bg-background px-4 pt-4 md:px-6 md:pt-12 lg:px-16 l"
+ },
+ {
+  "i": 2,
+  "top": 1220,
+  "h": 549,
+  "display": "block",
+  "cls": "relative border-[#e1e1e1] border-b bg-background"
+ },
+ {
+  "i": 3,
+  "top": 1769,
+  "h": 900,
+  "display": "flex",
+  "cls": "relative flex min-h-[max(720px,100vh)] items-center overflow"
+ },
+ {
+  "i": 4,
+  "top": 2669,
+  "h": 638,
+  "display": "block",
+  "cls": "relative overflow-hidden border-[#585858] border-b bg-[#3131"
+ },
+ {
+  "i": 5,
+  "top": 3307,
+  "h": 1747,
+  "display": "block",
+  "cls": "relative hidden border-b border-[#e1e1e1] bg-[#f6f6f6] lg:bl"
+ },
+ {
+  "i": 6,
+  "top": 5054,
+  "h": 900,
+  "display": "flex",
+  "cls": "relative flex h-screen flex-col justify-center overflow-hidd"
+ },
+ {
+  "i": 7,
+  "top": 5954,
+  "h": 1396,
+  "display": "block",
+  "cls": "relative overflow-hidden border-b border-[#e1e1e1] bg-[#f6f6"
+ },
+ {
+  "i": 8,
+  "top": 7350,
+  "h": 706,
+  "display": "block",
+  "cls": "relative border-b border-[#e1e1e1] bg-[#f6f6f6] px-4 py-16 m"
+ },
+ {
+  "i": 9,
+  "top": 8057,
+  "h": 1934,
+  "display": "flex",
+  "cls": "relative flex w-full flex-col bg-[#f6f6f6]"
+ }
+]

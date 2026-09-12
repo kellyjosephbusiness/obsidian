@@ -69,3 +69,8 @@ All values are from getComputedStyle / the site's own compiled component source 
 
 ## Global entrance animations
 Only the quote strip uses staggered entrance. Other sections render immediately (no fade-ups observed at any scroll position).
+
+## QA findings applied after assembly
+- The site has a global `h1,h2,h3,h4,h5,h6 { text-wrap: balance }` rule (now in globals.css) — it changes heading line breaks on every section, especially at 390px.
+- `tailwind-merge` must know the custom typography utilities (`text-body`, `text-body-large`, `btn-text-*`) as font-size classes, otherwise it strips `text-white` from every pressable button that also uses `text-body` (fixed in `src/lib/utils.ts`).
+- Section heights after assembly match the live site at 1440 (9992 vs 9991), 768 (10996 vs 10996) and 390 (13482 vs 13516; the 20px delta is in the policies grid card heights).
