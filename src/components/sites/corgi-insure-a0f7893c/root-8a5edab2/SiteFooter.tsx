@@ -8,11 +8,12 @@ import {
   FOOTER_IMAGES,
   FOOTER_LEGAL,
   FOOTER_SOCIAL,
-  PRESS,
+  FOOTER_STATS,
 } from "./data";
+import { FundLineBadge } from "@/components/sites/corgi-insure-a0f7893c/shared/FundLineLogo";
 
-/** Number of duplicated press strips; `logo-scroll` translates the track by -25% (one copy). */
-const PRESS_COPIES = 4;
+/** Number of duplicated stat strips; `logo-scroll` translates the track by -25% (one copy). */
+const STAT_COPIES = 4;
 
 const isExternal = (href: string) => /^(https?:)?\/\//.test(href);
 
@@ -64,24 +65,18 @@ export function SiteFooter() {
         </div>
       </section>
 
-      {/* 2. Press marquee */}
+      {/* 2. Proof-point marquee (replaces press logos) */}
       <div className="w-full overflow-hidden border-t border-b border-[#e1e1e1] py-8">
         <div className="flex w-max items-center gap-20 motion-safe:animate-[logo-scroll_40s_linear_infinite]">
-          {Array.from({ length: PRESS_COPIES }, (_, copy) => (
+          {Array.from({ length: STAT_COPIES }, (_, copy) => (
             <div key={copy} className="flex shrink-0 items-end gap-20" aria-hidden={copy > 0 || undefined}>
-              {PRESS.map((item) => (
-                <div key={item.outlet} className="flex flex-col items-center gap-2">
-                  {/* eslint-disable-next-line @next/next/no-img-element -- plain <img> on the source site */}
-                  <img
-                    alt={item.alt}
-                    src={item.src}
-                    loading="lazy"
-                    className="object-contain brightness-0"
-                    style={{ width: item.width, height: item.height, opacity: 0.9 }}
-                  />
-                  <span className="whitespace-nowrap font-mono text-[11px] text-[#7b7b7b] tracking-[-0.01em]">
-                    As covered in {item.outlet}, {item.date}.
-                  </span>
+              {FOOTER_STATS.map((item) => (
+                <div key={item.value} className="flex flex-col items-center gap-2">
+                  <div className="flex items-baseline gap-2 whitespace-nowrap">
+                    <span className="font-mono text-[28px] font-medium leading-none tracking-[-0.02em] text-[#191919]">{item.value}</span>
+                    <span className="text-[15px] leading-none tracking-[-0.01em] text-[#606060]">{item.label}</span>
+                  </div>
+                  <span className="whitespace-nowrap font-mono text-[11px] text-[#7b7b7b] tracking-[-0.01em]">{item.caption}</span>
                 </div>
               ))}
             </div>
@@ -102,8 +97,7 @@ export function SiteFooter() {
         <div className="border-b border-[#e1e1e1] px-4 md:px-6 lg:px-16">
           <div className="relative mx-auto grid max-w-[1600px] grid-cols-1 divide-x divide-y divide-[#e1e1e1] sm:grid-cols-2 md:grid-cols-5">
             <div className="col-span-1 flex items-center justify-center p-6 sm:col-span-2 md:col-span-1">
-              {/* eslint-disable-next-line @next/next/no-img-element -- plain <img> on the source site */}
-              <img alt="Corgi" src={FOOTER_IMAGES.corgiDog} className="h-auto w-[107px] object-contain" />
+              <FundLineBadge className="w-[107px]" />
             </div>
             {FOOTER_COLUMNS.map((column) => (
               <div key={column.title} className="flex flex-col items-start gap-6 p-6">

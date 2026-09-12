@@ -91,7 +91,7 @@ export function IntroSection() {
         {/* Mobile click variant — <md */}
         <div className="-bottom-[24px] absolute inset-x-0 flex justify-center md:hidden">
           <Link
-            href={LINKS.signUp}
+            href={LINKS.apply}
             aria-label={swapped ? "Get a quote" : "Reveal Get a quote card"}
             data-swapped={swapped}
             data-track="cta-homepage-journey-mobile"

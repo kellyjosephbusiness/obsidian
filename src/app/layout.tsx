@@ -38,12 +38,13 @@ const heroSerif = localFont({
   display: "swap",
 });
 
-const SEO = "/sites/corgi-insure-a0f7893c/shared/seo";
+const SEO = "/sites/corgi-insure-a0f7893c/shared/seo/fundline";
+const TITLE = "FundLine Capital: Small Business Funding, Matched in Minutes";
 const DESCRIPTION =
-  "Get startup insurance in minutes with Corgi. Compare modular CGL, D&O, Tech E&O, Cyber, EPLI, and fiduciary coverage built for founders today.";
+  "Apply once and compare real offers from 75+ lenders. Term loans, lines of credit, SBA loans, and equipment financing for small businesses, funded in as little as 24 hours.";
 
 export const metadata: Metadata = {
-  title: "Corgi Insurance: Startup Insurance, Quoted in Minutes",
+  title: TITLE,
   description: DESCRIPTION,
   icons: {
     icon: [
@@ -56,12 +57,12 @@ export const metadata: Metadata = {
     apple: [{ url: `${SEO}/apple-icon.png`, sizes: "180x180" }],
   },
   openGraph: {
-    title: "Corgi Insurance: Startup Insurance, Quoted in Minutes",
+    title: TITLE,
     description: DESCRIPTION,
-    siteName: "Corgi Insurance",
+    siteName: "FundLine Capital",
     locale: "en_US",
     type: "website",
-    images: [{ url: `${SEO}/og-image.png`, width: 1200, height: 630, alt: "Startup Insurance, Quoted in Minutes" }],
+    images: [{ url: `${SEO}/og-image.png`, width: 1200, height: 630, alt: "FundLine Capital: Small Business Funding, Matched in Minutes" }],
   },
   twitter: { card: "summary_large_image" },
 };

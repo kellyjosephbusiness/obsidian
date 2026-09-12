@@ -63,7 +63,7 @@ export function PoliciesSection() {
           <PressableButton
             variant="orange"
             size="large"
-            href={LINKS.signUp}
+            href={LINKS.apply}
             className="relative z-20 mx-auto w-fit"
             dataTrack="cta-homepage-policies"
           >

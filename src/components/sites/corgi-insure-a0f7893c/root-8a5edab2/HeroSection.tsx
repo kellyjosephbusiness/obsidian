@@ -2,9 +2,8 @@
    .avif) and the SVG/PNG company logos are plain <img> on the source site; next/image is
    only used for the raster sky background. */
 import Image from "next/image";
-import type { CSSProperties } from "react";
 import { PressableButton } from "@/components/sites/corgi-insure-a0f7893c/shared/PressableButton";
-import { ASSETS, COMPANY_LOGOS, HERO } from "./data";
+import { ASSETS, HERO_TICKER, HERO } from "./data";
 
 const SKY_BG = `${ASSETS}/images/hero/cloud-sky-bg.webp`;
 const CORGI_SRC = `${ASSETS}/images/hero/brand-corgi.avif`;
@@ -58,7 +57,7 @@ export function HeroSection() {
           <div className="pointer-events-none absolute right-[-40px] top-[-100px] z-10 md:right-[-72px] md:top-[-112px] lg:right-[-108px] lg:top-[-136px]">
             <div className="-rotate-[16.78deg]">
               <div className="aspect-[299/269] w-[200px] md:w-[280px] lg:w-[299px]">
-                <SlicedImage src={CORGI_SRC} alt="Corgi mascot" />
+                <SlicedImage src={CORGI_SRC} alt="FundLine mascot" />
               </div>
             </div>
           </div>
@@ -97,31 +96,20 @@ export function HeroSection() {
         </div>
       </div>
 
-      {/* Company logo marquee */}
+      {/* Proof-point ticker (replaces the customer-logo strip) */}
       <div className="relative z-10 w-full bg-[#f6f6f6] py-6">
         <div className="pointer-events-none absolute bottom-0 left-1/2 h-[1px] w-[2400px] -translate-x-1/2 bg-[#e1e1e1]" />
         <div className="w-full overflow-hidden" style={{ contain: "content" }}>
           <div className="logo-carousel-track flex w-max items-center gap-20 [animation:logo-scroll_60s_linear_infinite] motion-reduce:[animation:none]">
             {Array.from({ length: TRACK_COPIES }, (_, copy) => (
               <div key={copy} className="flex shrink-0 items-center gap-20" aria-hidden={copy > 0 || undefined}>
-                {COMPANY_LOGOS.map((logo, i) => (
-                  <img
-                    key={`${logo.alt}-${i}`}
-                    alt={logo.alt}
-                    src={logo.src}
-                    width={logo.width}
-                    height={logo.height}
-                    loading="lazy"
-                    className="h-[var(--logo-mobile-height)] w-[var(--logo-mobile-width)] object-contain grayscale md:h-[var(--logo-height)] md:w-[var(--logo-width)]"
-                    style={
-                      {
-                        "--logo-height": `${logo.height}px`,
-                        "--logo-mobile-height": `${logo.height}px`,
-                        "--logo-mobile-width": `${logo.width}px`,
-                        "--logo-width": `${logo.width}px`,
-                      } as CSSProperties
-                    }
-                  />
+                {HERO_TICKER.map((item, i) => (
+                  <div key={`${item.value}-${i}`} className="flex shrink-0 items-baseline gap-2 whitespace-nowrap">
+                    <span className="font-mono text-[22px] font-medium leading-none tracking-[-0.02em] text-[#191919] md:text-[26px]">
+                      {item.value}
+                    </span>
+                    <span className="text-[14px] leading-none tracking-[-0.01em] text-[#606060] md:text-[15px]">{item.label}</span>
+                  </div>
                 ))}
               </div>
             ))}

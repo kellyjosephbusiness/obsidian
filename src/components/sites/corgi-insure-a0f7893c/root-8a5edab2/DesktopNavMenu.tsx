@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { gradientFor } from "@/components/sites/corgi-insure-a0f7893c/shared/InitialsAvatar";
 import Link from "next/link";
 import type { CSSProperties } from "react";
 import { cn } from "@/lib/utils";
@@ -183,14 +184,20 @@ function MenuColumn({ column }: { column: NavMenuColumn }) {
 function HighlightCardBody({ card }: { card: NavHighlightCard }) {
   return (
     <>
-      <Image
-        alt={card.imageAlt}
-        className={cn("absolute inset-0 h-full w-full object-cover", card.imagePositionClass)}
-        fetchPriority="low"
-        fill
-        sizes="200px"
-        src={card.image}
-      />
+      {card.image ? (
+        <Image
+          alt={card.imageAlt}
+          className={cn("absolute inset-0 h-full w-full object-cover", card.imagePositionClass)}
+          fetchPriority="low"
+          fill
+          sizes="200px"
+          src={card.image}
+        />
+      ) : (
+        <div aria-hidden className="absolute inset-0 flex items-start justify-end p-3" style={gradientFor(card.title)}>
+          <MaterialIcon name={card.icon ?? "trending_up"} size={40} className="text-white/90" />
+        </div>
+      )}
       <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-white/0 from-[54%] via-white/[0.56] via-[70%] to-white/95 to-[85%]" />
       <span className="relative text-[12px] font-bold leading-[1.2] tracking-[-0.18px] text-[#191919] transition-colors group-hover:text-[#ff5c00]">
         {card.title}

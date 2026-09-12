@@ -1,4 +1,4 @@
-/** Content types for the corgi.insure home page clone. */
+/** Content types for the FundLine Capital home page (built on the corgi.insure layout). */
 
 /** A Material Symbols Sharp ligature name, e.g. "keyboard_arrow_down". */
 export type MaterialIconName = string;
@@ -17,7 +17,7 @@ export interface NavMenuColumn {
   items: NavMenuItem[];
   /** Column width multiplier (1 = --dropdown-column-width, 2 = double). */
   span: 1 | 2;
-  /** Render items in a 2-column grid (used by "By Industry"). */
+  /** Render items in a 2-column grid. */
   grid?: boolean;
   /** Optional trailing "View all" link pinned to the bottom of the column. */
   viewAll?: { label: string; href: string };
@@ -27,10 +27,13 @@ export interface NavHighlightCard {
   title: string;
   description: string;
   href: string;
-  image: string;
+  /** Optional photo; when omitted the card renders a branded gradient panel instead. */
+  image?: string;
   imageAlt: string;
   /** Tailwind object-position class for the background image. */
   imagePositionClass?: string;
+  /** Material icon drawn on the gradient panel when there is no image. */
+  icon?: MaterialIconName;
 }
 
 export interface NavMenu {
@@ -42,6 +45,12 @@ export interface NavMenu {
   columnWidth: { base: number; xl2: number; w1680: number };
   columns: NavMenuColumn[];
   highlights: NavHighlightCard[];
+}
+
+/** One item of the hero ticker strip (a stat rendered as text). */
+export interface HeroTickerItem {
+  value: string;
+  label: string;
 }
 
 export interface CompanyLogo {
@@ -58,12 +67,9 @@ export interface PolicyPill {
 
 export interface PackageArt {
   src: string;
-  /** Rendered image size in px. */
   width: number;
   height: number;
-  /** Absolute wrapper box inside the 160px card header (desktop values). */
   wrapper: { top: number; left: number; width: number; height: number };
-  /** CSS transform applied to the image wrapper. */
   transform: string;
   objectFit: "contain" | "cover";
 }
@@ -72,11 +78,9 @@ export interface CoveragePackage {
   id: string;
   title: string;
   description: string;
-  /** Line above the pills. */
   pillsIntro: string;
   /** Labels referencing POLICY_PILLS. */
   policies: string[];
-  /** The "+" chip on the custom package. */
   morePoliciesHref?: string;
   art: PackageArt;
   ctaHref: string;
@@ -88,9 +92,13 @@ export interface Testimonial {
   quote: string;
   author: string;
   role: string;
-  image: string;
-  companyLogo: string;
-  companyUrl: string;
+  /** Company name used for the avatar chip / aria-label. */
+  company: string;
+  /** Optional portrait; when omitted the card renders a gradient block with the author's initials. */
+  image?: string;
+  /** Optional company logo; when omitted the chip shows the company's initial. */
+  companyLogo?: string;
+  companyUrl?: string;
 }
 
 export interface Policy {
@@ -109,7 +117,7 @@ export interface SpecializedCoverage {
 
 export interface FaqItem {
   question: string;
-  /** Trusted HTML from the source site (contains <a class="underline"> links). */
+  /** Trusted HTML (may contain <a class="underline"> links). */
   answerHtml: string;
 }
 
@@ -123,17 +131,18 @@ export interface FooterColumn {
   links: FooterLink[];
 }
 
-export interface PressItem {
-  alt: string;
-  src: string;
-  width: number;
-  height: number;
-  outlet: string;
-  date: string;
+/** One item of the footer ticker (a stat rendered as text instead of a press logo). */
+export interface FooterStat {
+  value: string;
+  label: string;
+  caption: string;
 }
 
 export interface OrbLogo {
-  src: string;
-  /** Fill icons render at the full orb size (64/52px) instead of 40/26px. */
+  /** Image source (legacy) … */
+  src?: string;
+  /** … or a Material icon drawn inside the orb. */
+  icon?: MaterialIconName;
+  /** Fill icons render at the full orb size instead of 40/26px. */
   fill?: boolean;
 }

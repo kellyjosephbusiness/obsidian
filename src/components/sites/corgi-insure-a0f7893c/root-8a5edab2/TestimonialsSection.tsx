@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import { InitialsAvatar } from "@/components/sites/corgi-insure-a0f7893c/shared/InitialsAvatar";
 import { useEffect, useRef, useState, type PointerEvent as ReactPointerEvent } from "react";
 import type { Testimonial } from "@/types/sites/corgi-insure-a0f7893c/home";
 import { CursorChip } from "@/components/sites/corgi-insure-a0f7893c/shared/CursorChip";
@@ -28,18 +29,22 @@ interface Sample {
 }
 
 function TestimonialCard({ testimonial }: { testimonial: Testimonial }) {
-  const company = testimonial.role.split("@").pop()?.trim() ?? testimonial.author;
+  const company = testimonial.company;
   return (
     <article className="flex h-[500px] w-[320px] shrink-0 flex-col overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white md:h-[560px] md:w-[382px]">
       <div className="relative -mx-px -mt-px flex h-[280px] shrink-0 flex-col justify-end overflow-clip rounded-[24px] border border-[#e1e1e1] p-4 shadow-[0px_0px_16px_0px_rgba(25,25,25,0.3)] transition-transform duration-300 ease-out has-[a:hover]:-rotate-[1.2deg] md:h-[320px]">
         <div className="absolute inset-0 bg-[#191919]" />
-        <Image
-          alt={testimonial.author}
-          className="absolute inset-0 object-cover object-top"
-          fill
-          sizes="(min-width: 768px) 382px, 320px"
-          src={testimonial.image}
-        />
+        {testimonial.image ? (
+          <Image
+            alt={testimonial.author}
+            className="absolute inset-0 object-cover object-top"
+            fill
+            sizes="(min-width: 768px) 382px, 320px"
+            src={testimonial.image}
+          />
+        ) : (
+          <InitialsAvatar name={testimonial.company} className="absolute inset-0" textClassName="text-[96px] opacity-90" />
+        )}
         <div
           className="absolute inset-0"
           style={{
@@ -48,9 +53,9 @@ function TestimonialCard({ testimonial }: { testimonial: Testimonial }) {
           }}
         />
         <a
-          href={testimonial.companyUrl}
-          target="_blank"
-          rel="noopener noreferrer"
+          href={testimonial.companyUrl ?? "#"}
+          target={testimonial.companyUrl ? "_blank" : undefined}
+          rel={testimonial.companyUrl ? "noopener noreferrer" : undefined}
           draggable={false}
           onPointerDown={(e) => e.stopPropagation()}
           onDragStart={(e) => e.preventDefault()}
@@ -62,7 +67,11 @@ function TestimonialCard({ testimonial }: { testimonial: Testimonial }) {
               <MaterialIcon name="north_east" size={24} className="shrink-0 text-[#191919]" />
             </div>
             <div className="relative size-11 shrink-0 overflow-hidden rounded-[12px] shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]">
-              <Image alt="" className="object-cover" fill sizes="44px" src={testimonial.companyLogo} />
+              {testimonial.companyLogo ? (
+                <Image alt="" className="object-cover" fill sizes="44px" src={testimonial.companyLogo} />
+              ) : (
+                <InitialsAvatar name={testimonial.company} className="size-full" textClassName="text-[16px]" />
+              )}
             </div>
           </div>
           <div className="flex flex-col gap-1.5 whitespace-nowrap">

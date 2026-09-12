@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { AnimatePresence, motion } from "motion/react";
@@ -16,13 +15,13 @@ import {
   type ReactNode,
 } from "react";
 import { cn } from "@/lib/utils";
+import { FundLineLogo } from "@/components/sites/corgi-insure-a0f7893c/shared/FundLineLogo";
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
 import { PressableButton } from "@/components/sites/corgi-insure-a0f7893c/shared/PressableButton";
-import { ANNOUNCEMENT, LINKS, NAV_MENUS, NAV_PLAIN_LINKS, SHARED } from "./data";
+import { ANNOUNCEMENT, LINKS, NAV_ACTIONS, NAV_MENUS, NAV_PLAIN_LINKS } from "./data";
 import { DesktopNavMenu } from "./DesktopNavMenu";
 import { MobileNavDrawer } from "./MobileNavDrawer";
 
-const LOGO_SRC = `${SHARED}/images/corgi-logo-vector.svg`;
 const DESKTOP_PANEL_ID = "desktop-nav-dropdown-panel";
 const SCROLL_HIDE_THRESHOLD = 50;
 const DESKTOP_QUERY = "(min-width: 1280px)";
@@ -377,14 +376,7 @@ export function SiteHeader() {
         <div className="mx-auto flex w-full max-w-[1600px] items-center justify-between">
           <div className="flex min-w-0 items-center">
             <Link href="/" prefetch={false} className="flex h-[39px] shrink-0 items-center px-3 xl:pr-4">
-              <Image
-                alt="Corgi"
-                src={LOGO_SRC}
-                width={83}
-                height={24}
-                priority
-                className="h-6 w-auto shrink-0 -translate-y-0.5"
-              />
+              <FundLineLogo className="shrink-0 -translate-y-0.5" />
             </Link>
 
             <nav
@@ -456,26 +448,26 @@ export function SiteHeader() {
           <div className="flex items-center gap-2">
             <nav aria-label="Account actions" className="hidden h-[39px] items-center gap-2 xl:flex">
               <a
-                href={LINKS.login}
+                href={LINKS.signIn}
                 className="hidden h-full items-center whitespace-nowrap rounded-[12px] px-4 text-[14px] font-normal leading-[1.2] tracking-[-0.21px] text-[#4a4a4a] hover:text-[#191919] xl:flex"
               >
-                Log in
+                {NAV_ACTIONS.signIn.label}
               </a>
               <PressableButton
                 faceClassName="h-[35px] min-w-[96px] whitespace-nowrap px-2 py-0 text-[16px] leading-[1.2] tracking-[-0.21px] md:min-w-[112px] md:px-4"
-                href={LINKS.bookDemo}
+                href={LINKS.bookCall}
                 size="small"
                 variant="black"
               >
-                Book a demo
+                {NAV_ACTIONS.secondary.label}
               </PressableButton>
               <PressableButton
                 faceClassName="h-[35px] min-w-[100px] px-3 py-0 text-[16px] leading-[1.2] tracking-[-0.21px] md:min-w-[119px] md:px-4"
-                href={LINKS.signUp}
+                href={LINKS.apply}
                 size="small"
                 variant="orange"
               >
-                Get insured
+                {NAV_ACTIONS.primary.label}
               </PressableButton>
             </nav>
 

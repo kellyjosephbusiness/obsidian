@@ -198,7 +198,7 @@ function FlipPanel({ showingDemo, cursorExitProgress, dogEntryProgress }: FlipPa
             transition: `transform 750ms ${GET_QUOTED_EASE}, opacity 500ms ${GET_QUOTED_EASE}`,
           }}
         >
-          <Image alt="Corgi on the phone" src={images.corgiPhone} fill className="object-contain" sizes="(max-width: 1024px) 50vw, 640px" quality={75} />
+          <Image alt="Funding specialist on the phone" src={images.corgiPhone} fill className="object-contain" sizes="(max-width: 1024px) 50vw, 640px" quality={75} />
         </div>
         <EstimateBubble text={text} entryProgress={dogEntryProgress} />
       </div>
@@ -321,7 +321,7 @@ export function GetQuotedSection() {
       ref={sectionRef}
       className="relative hidden border-b border-[#e1e1e1] bg-[#f6f6f6] lg:block"
       style={{ height: `calc(100vh + ${panelHeight + 480}px)` }}
-      aria-label="Get covered or book a demo"
+      aria-label="Get funded or talk to a specialist"
     >
       <div className="sticky top-0 flex h-screen flex-col justify-center overflow-hidden">
         <div aria-hidden className="pointer-events-none absolute bottom-0 top-0 left-[max(64px,calc((100%-1600px)/2))] w-px bg-[#e1e1e1]" />

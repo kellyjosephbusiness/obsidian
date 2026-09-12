@@ -1,14 +1,13 @@
 "use client";
 
-import Image from "next/image";
+import { InitialsAvatar } from "@/components/sites/corgi-insure-a0f7893c/shared/InitialsAvatar";
 import { Fragment, useEffect, useRef, useState, useSyncExternalStore, type ReactNode } from "react";
 import { motion, useInView, type Variants } from "motion/react";
 import { PressableButton } from "@/components/sites/corgi-insure-a0f7893c/shared/PressableButton";
 import { QUOTE_STRIP } from "./data";
 
 /** Shorter quote swapped in on mount for viewports <= 767px (site behavior). */
-const MOBILE_QUOTE =
-  "“I went through the application in five minutes. The team had everything packaged up for me.”";
+const MOBILE_QUOTE = QUOTE_STRIP.mobileQuote;
 
 const COLLAPSE_EASE: [number, number, number, number] = [0.25, 0.1, 0.25, 1];
 
@@ -119,7 +118,7 @@ export function QuoteStripSection() {
             style={WILL_CHANGE}
             variants={logoVariants}
           >
-            <Image alt={QUOTE_STRIP.logoAlt} className="object-cover" fill sizes="48px" src={QUOTE_STRIP.logo} />
+            <InitialsAvatar name={QUOTE_STRIP.company} className="size-full" textClassName="text-[18px]" />
           </motion.div>
         </div>
       </Collapse>
@@ -160,13 +159,7 @@ export function QuoteStripSection() {
               <div className="flex items-center self-stretch">
                 <div className="relative h-20 w-20 shrink-0 overflow-hidden rounded-[24px]">
                   <div className="absolute inset-0 bg-[#191919]" />
-                  <Image
-                    alt={QUOTE_STRIP.author}
-                    className="absolute inset-0 object-cover object-top"
-                    fill
-                    sizes="80px"
-                    src={QUOTE_STRIP.photo}
-                  />
+                  <InitialsAvatar name={QUOTE_STRIP.author} className="absolute inset-0" textClassName="text-[28px]" />
                 </div>
               </div>
               <div className="flex shrink-0 flex-col items-start overflow-hidden p-4">

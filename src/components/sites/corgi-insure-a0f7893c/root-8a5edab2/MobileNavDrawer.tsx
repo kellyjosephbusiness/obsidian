@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import { gradientFor } from "@/components/sites/corgi-insure-a0f7893c/shared/InitialsAvatar";
 import Link from "next/link";
 import { AnimatePresence, motion } from "motion/react";
 import { cn } from "@/lib/utils";
@@ -12,7 +13,7 @@ import type {
   NavMenuColumn,
   NavMenuItem,
 } from "@/types/sites/corgi-insure-a0f7893c/home";
-import { LINKS, NAV_MENUS, NAV_PLAIN_LINKS } from "./data";
+import { LINKS, NAV_ACTIONS, NAV_MENUS, NAV_PLAIN_LINKS } from "./data";
 
 /**
  * Mobile / tablet (<xl) navigation drawer of the corgi.insure header: a
@@ -150,14 +151,20 @@ function MobileColumn({
 function HighlightCardBody({ card }: { card: NavHighlightCard }) {
   return (
     <>
-      <Image
-        alt={card.imageAlt}
-        className={cn("absolute inset-0 h-full w-full object-cover", card.imagePositionClass)}
-        fetchPriority="low"
-        fill
-        sizes="(min-width: 768px) 360px, 190px"
-        src={card.image}
-      />
+      {card.image ? (
+        <Image
+          alt={card.imageAlt}
+          className={cn("absolute inset-0 h-full w-full object-cover", card.imagePositionClass)}
+          fetchPriority="low"
+          fill
+          sizes="(min-width: 768px) 360px, 190px"
+          src={card.image}
+        />
+      ) : (
+        <div aria-hidden className="absolute inset-0 flex items-start justify-end p-3" style={gradientFor(card.title)}>
+          <MaterialIcon name={card.icon ?? "trending_up"} size={40} className="text-white/90" />
+        </div>
+      )}
       <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-white/0 from-[28%] via-white/[0.55] via-[46%] to-white/90 to-[64%]" />
       <span className="relative text-[11px] font-bold leading-[1.2] tracking-[-0.17px] text-[#191919] transition-colors group-hover:text-[#ff5c00]">
         {card.title}
@@ -338,31 +345,31 @@ export function MobileNavDrawer({ open, group, onToggleGroup, onClose, onHashNav
               <PressableButton
                 className="min-w-0"
                 faceClassName="w-full text-[14px] leading-[1.2] tracking-[-0.21px]"
-                href={LINKS.login}
+                href={LINKS.signIn}
                 size="small"
                 variant="black"
               >
-                Log in
+                {NAV_ACTIONS.signIn.label}
               </PressableButton>
               <PressableButton
                 className="min-w-0"
                 faceClassName="w-full whitespace-nowrap text-[16px] leading-[1.2] tracking-[-0.21px]"
                 faceStyle={FACE_16PX_STYLE}
-                href={LINKS.bookDemo}
+                href={LINKS.bookCall}
                 size="small"
                 variant="black"
               >
-                Book a demo
+                {NAV_ACTIONS.secondary.label}
               </PressableButton>
               <PressableButton
                 className="col-span-2"
                 faceClassName="w-full text-[16px] leading-[1.2] tracking-[-0.21px]"
                 faceStyle={FACE_16PX_STYLE}
-                href={LINKS.signUp}
+                href={LINKS.apply}
                 size="small"
                 variant="orange"
               >
-                Get insured
+                {NAV_ACTIONS.primary.label}
               </PressableButton>
             </div>
           </motion.nav>

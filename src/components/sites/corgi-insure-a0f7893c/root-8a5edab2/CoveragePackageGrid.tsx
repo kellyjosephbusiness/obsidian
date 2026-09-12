@@ -7,7 +7,7 @@ import { useEffect, useRef, useState, type ReactNode } from "react";
 import { PressableButton } from "@/components/sites/corgi-insure-a0f7893c/shared/PressableButton";
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
 import type { CoveragePackage, PolicyPill } from "@/types/sites/corgi-insure-a0f7893c/home";
-import { COVERAGE_PACKAGES, POLICY_PILLS } from "./data";
+import { COVERAGE_PACKAGES, JOURNEY, POLICY_PILLS } from "./data";
 
 /**
  * Selection is shared across the whole grid: at most one policy pill (in one card)
@@ -238,7 +238,7 @@ function CoveragePackageCard({ pkg, pills, selectedIdx, closeDelay, onSelect }: 
           variant={pkg.ctaVariant}
           dataTrack="cta-homepage-package"
         >
-          <span className="inline-flex items-center whitespace-nowrap">Get a quote instantly</span>
+          <span className="inline-flex items-center whitespace-nowrap">{JOURNEY.ctaLabel}</span>
           <MaterialIcon name={pkg.ctaIcon} size={16} />
         </PressableButton>
       </div>

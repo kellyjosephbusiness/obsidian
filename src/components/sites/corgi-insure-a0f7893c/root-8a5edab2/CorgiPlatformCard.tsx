@@ -2,7 +2,8 @@
 
 import Image from "next/image";
 import { useEffect, useRef } from "react";
-import { AuroraTunnelSvg, CorgiMarkSvg } from "@/components/sites/corgi-insure-a0f7893c/shared/icons";
+import { AuroraTunnelSvg } from "@/components/sites/corgi-insure-a0f7893c/shared/icons";
+import { FundLineMark } from "@/components/sites/corgi-insure-a0f7893c/shared/FundLineLogo";
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
 import { ADVANTAGE, ORB_LOGOS } from "./data";
 
@@ -21,7 +22,8 @@ const RING_SHADOW = "0 0 0 11.15px rgba(255,255,255,0.4), 0 0 0 22.3px rgba(255,
 const RING_SHADOW_PULSE = "0 0 0 15px rgba(255,255,255,0.6), 0 0 0 30px rgba(255,255,255,0.5)";
 
 interface Orb {
-  iconSrc: string;
+  iconSrc?: string;
+  icon?: string;
   fill: boolean;
   x: number;
   y: number;
@@ -37,7 +39,7 @@ interface Orb {
 interface OrbEls {
   orbEl: HTMLDivElement | null;
   contentEl: HTMLDivElement | null;
-  iconEl: HTMLImageElement | null;
+  iconEl: HTMLElement | null;
   badgeEl: HTMLDivElement | null;
 }
 
@@ -57,9 +59,10 @@ function rand(min: number, max: number): number {
   return min + Math.random() * (max - min);
 }
 
-function makeOrb(src: string, fill: boolean): Orb {
+function makeOrb(src: string | undefined, icon: string | undefined, fill: boolean): Orb {
   return {
     iconSrc: src,
+    icon,
     fill,
     x: INITIAL_X,
     y: MID_Y,
@@ -81,7 +84,7 @@ function initialLayout(nowSec: number): { orbs: Orb[]; nextEntryAt: number } {
     const entryY = MID_Y + rand(-120, 120);
     const t = 1 - Math.min(1, Math.abs(x - CENTER_X) / CENTER_X);
     const y = MID_Y + (entryY - MID_Y) * (1 - t ** 2);
-    const orb = makeOrb(logo.src, Boolean(logo.fill));
+    const orb = makeOrb(logo.src, logo.icon, Boolean(logo.fill));
     orb.x = x;
     orb.y = y;
     orb.vx = 50 + rand(-8, 8);
@@ -95,7 +98,7 @@ function initialLayout(nowSec: number): { orbs: Orb[]; nextEntryAt: number } {
   for (let i = 3; i < ORB_LOGOS.length; i++) {
     const logo = ORB_LOGOS[i];
     const entryY = MID_Y + rand(-120, 120);
-    const orb = makeOrb(logo.src, Boolean(logo.fill));
+    const orb = makeOrb(logo.src, logo.icon, Boolean(logo.fill));
     orb.x = -50 * (nextEntryAt - nowSec);
     orb.y = entryY;
     orb.vx = 50 + rand(-8, 8);
@@ -156,8 +159,8 @@ function paintOrb(orb: Orb, els: OrbEls): void {
   }
 }
 
-/** Center corgi mark with the white ring that pulses on CORGI_PULSE_EVENT. */
-function CorgiMascot() {
+/** Center FundLine mark with the white ring that pulses on CORGI_PULSE_EVENT. */
+function CenterMark() {
   const ringRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -190,7 +193,9 @@ function CorgiMascot() {
         className="absolute rounded-full bg-white"
         style={{ left: "22.3px", top: "22.3px", width: "111.5px", height: "111.5px", boxShadow: RING_SHADOW }}
       />
-      <CorgiMarkSvg className="pointer-events-none absolute inset-0" width="156.1" height="156.1" />
+      <div className="pointer-events-none absolute inset-0 flex items-center justify-center">
+        <FundLineMark className="h-[88px] w-[88px] drop-shadow-[0_4px_12px_rgba(0,0,0,0.25)]" />
+      </div>
     </div>
   );
 }
@@ -358,7 +363,7 @@ function LogoPortalFlow() {
         const iconPx = fill ? 64 : 40;
         return (
           <div
-            key={logo.src}
+            key={logo.src ?? logo.icon}
             ref={(el) => {
               elsRef.current[i].orbEl = el;
             }}
@@ -381,19 +386,36 @@ function LogoPortalFlow() {
                 boxShadow: transformed ? "0 0 0 3px rgba(255, 92, 0, 0.5)" : "0 0 16px 0 rgba(255, 255, 255, 0.25)",
               }}
             >
-              <Image
-                ref={(el) => {
-                  elsRef.current[i].iconEl = el;
-                }}
-                alt=""
-                className="object-contain"
-                loading="lazy"
-                src={logo.src}
-                width={iconPx}
-                height={iconPx}
-                unoptimized
-                style={{ width: iconSize, height: iconSize }}
-              />
+              {logo.src ? (
+                <Image
+                  ref={(el) => {
+                    elsRef.current[i].iconEl = el;
+                  }}
+                  alt=""
+                  className="object-contain"
+                  loading="lazy"
+                  src={logo.src}
+                  width={iconPx}
+                  height={iconPx}
+                  unoptimized
+                  style={{ width: iconSize, height: iconSize }}
+                />
+              ) : (
+                <div
+                  ref={(el) => {
+                    elsRef.current[i].iconEl = el;
+                  }}
+                  className="flex items-center justify-center"
+                  style={{ width: iconSize, height: iconSize, containerType: "size" }}
+                >
+                  <MaterialIcon
+                    name={logo.icon ?? "business_center"}
+                    fill={fill ? 1 : 0}
+                    className="text-[#191919]"
+                    style={{ fontSize: fill ? "58cqw" : "100cqw", width: "100cqw", height: "100cqw" }}
+                  />
+                </div>
+              )}
             </div>
             <div
               ref={(el) => {
@@ -453,7 +475,7 @@ export function CorgiPlatformCard() {
             </div>
           </div>
           <LogoPortalFlow />
-          <CorgiMascot />
+          <CenterMark />
         </div>
       </div>
       <div className="flex flex-col gap-3 p-3 md:p-5">
