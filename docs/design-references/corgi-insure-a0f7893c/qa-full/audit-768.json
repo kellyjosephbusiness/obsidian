@@ -1,0 +1,80 @@
+[
+ {
+  "route": "/",
+  "status": 200,
+  "H": 11059,
+  "broken": [],
+  "overflow": false,
+  "scrollW": 768,
+  "hits": [],
+  "emptyLinks": 0,
+  "title": "FundLine Capital: Small Business Funding, Matched in Minutes",
+  "consoleErrors": [],
+  "failedRequests": []
+ },
+ {
+  "route": "/for-brokers",
+  "status": 200,
+  "H": 4568,
+  "broken": [],
+  "overflow": false,
+  "scrollW": 768,
+  "hits": [],
+  "emptyLinks": 0,
+  "title": "For Brokers & ISO Partners | FundLine Capital",
+  "consoleErrors": [],
+  "failedRequests": []
+ },
+ {
+  "route": "/newsroom/series-b",
+  "status": 200,
+  "H": 5059,
+  "broken": [],
+  "overflow": false,
+  "scrollW": 768,
+  "hits": [],
+  "emptyLinks": 0,
+  "title": "FundLine Capital Raises $160M Series B | Newsroom",
+  "consoleErrors": [],
+  "failedRequests": []
+ },
+ {
+  "route": "/industry/ai",
+  "status": 200,
+  "H": 10109,
+  "broken": [],
+  "overflow": false,
+  "scrollW": 768,
+  "hits": [],
+  "emptyLinks": 0,
+  "title": "Funding for AI Companies | FundLine Capital",
+  "consoleErrors": [],
+  "failedRequests": []
+ },
+ {
+  "route": "/startup-loans",
+  "status": 200,
+  "H": 8670,
+  "broken": [],
+  "overflow": false,
+  "scrollW": 768,
+  "hits": [],
+  "emptyLinks": 0,
+  "title": "Startup Loans & Funding Packages | FundLine Capital",
+  "consoleErrors": [],
+  "failedRequests": []
+ },
+ {
+  "route": "/term-loans",
+  "status": 200,
+  "H": 13558,
+  "broken": [],
+  "overflow": false,
+  "scrollW": 768,
+  "hits": [],
+  "emptyLinks": 0,
+  "title": "Business Term Loans | FundLine Capital",
+  "consoleErrors": [],
+  "failedRequests": []
+ }
+]

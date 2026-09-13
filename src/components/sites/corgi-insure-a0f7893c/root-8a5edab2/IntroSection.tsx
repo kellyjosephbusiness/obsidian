@@ -36,7 +36,7 @@ export function IntroSection() {
         </div>
 
         <h2 className="relative font-mono font-normal text-[20px] text-white leading-none tracking-[-0.032em] md:pr-[360px] md:text-[28px] lg:pr-[420px] lg:text-[32px] min-[1440px]:pr-[460px] min-[1440px]:text-[40px]">
-          <span className="text-[#1e3a8a]">{INTRO.accent}</span>
+          <span className="text-[#8ea6f0]">{INTRO.accent}</span>
           {INTRO.rest}
         </h2>
 
