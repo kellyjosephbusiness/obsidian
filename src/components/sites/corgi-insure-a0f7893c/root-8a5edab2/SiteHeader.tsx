@@ -468,7 +468,7 @@ export function SiteHeader({ actions = NAV_ACTIONS }: { actions?: HeaderActions 
                 {actions.secondary.label}
               </PressableButton>
               <PressableButton
-                faceClassName="h-[35px] min-w-[100px] px-3 py-0 text-[16px] leading-[1.2] tracking-[-0.21px] md:min-w-[119px] md:px-4"
+                faceClassName="h-[35px] min-w-[100px] whitespace-nowrap px-3 py-0 text-[16px] leading-[1.2] tracking-[-0.21px] md:min-w-[119px] md:px-4"
                 href={actions.primary.href}
                 size="small"
                 variant="primary"
