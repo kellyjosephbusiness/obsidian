@@ -32,7 +32,7 @@ export function PoliciesSection({
   policies = POLICIES,
   specialized = SPECIALIZED_COVERAGES,
   cta = POLICIES_HEADER.cta,
-  showMascots = true,
+  showMascots = false,
   dataTrack = "cta-homepage-policies",
 }: PoliciesSectionProps = {}) {
   return (

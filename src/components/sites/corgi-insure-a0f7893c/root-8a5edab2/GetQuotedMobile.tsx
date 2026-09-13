@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import type { ReactNode } from "react";
 import { CursorChip } from "@/components/sites/corgi-insure-a0f7893c/shared/CursorChip";
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
@@ -15,7 +14,7 @@ import { GET_QUOTED } from "./data";
  * block, `N` self-serve card, `C` demo card, and the `lg:hidden` section markup).
  */
 
-const { selfServe, demo, images } = GET_QUOTED;
+const { selfServe, demo } = GET_QUOTED;
 
 /* ------------------------------------------------------------------ */
 /* Text block (`j`)                                                     */
@@ -103,7 +102,6 @@ export function DemoCard({ hideFooter = false }: CardProps) {
           className="pointer-events-none absolute bottom-[-7.71%] right-[-11.875%] aspect-[311/316] w-[38.875%]"
           style={{ transform: `translateX(${(1 - dogEntryProgress) * 100}%)`, opacity: dogEntryProgress }}
         >
-          <Image alt="Funding specialist on the phone" src={images.corgiPhone} fill className="object-contain" sizes="(max-width: 1024px) 50vw, 640px" quality={75} />
         </div>
         <EstimateBubble text={text} entryProgress={dogEntryProgress} />
       </div>

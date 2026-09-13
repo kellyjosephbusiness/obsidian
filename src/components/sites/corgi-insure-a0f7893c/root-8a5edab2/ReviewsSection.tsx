@@ -1,12 +1,10 @@
 "use client";
 
-import Image from "next/image";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { InitialsAvatar } from "@/components/sites/corgi-insure-a0f7893c/shared/InitialsAvatar";
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
-import { ASSETS, REVIEWS, REVIEWS_HEADER } from "./data";
+import { REVIEWS, REVIEWS_HEADER } from "./data";
 
-const MASCOT = `${ASSETS}/images/mascot/bull-fly-right.png`;
 
 /**
  * "100s of Happy Owners and Counting." — a horizontally scrolling list of review cards
@@ -56,10 +54,6 @@ export function ReviewsSection() {
         aria-hidden
         className="pointer-events-none absolute inset-y-0 right-[max(16px,calc((100vw-1600px)/2))] w-px bg-[#e1e1e1] md:right-[max(24px,calc((100vw-1600px)/2))] lg:right-[max(64px,calc((100vw-1600px)/2))]"
       />
-      {/* Mascot hanging off the left edge */}
-      <div aria-hidden className="pointer-events-none absolute bottom-[72px] left-[-70px] z-10 hidden w-[180px] lg:block xl:left-[-90px] xl:w-[210px]">
-        <Image alt="" className="h-auto w-full object-contain" width={1024} height={1024} src={MASCOT} />
-      </div>
 
       <div className="relative mx-auto flex max-w-[1600px] flex-col gap-12 md:gap-16">
         <h2 className="px-4 text-center font-mono font-medium text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)] md:px-6 lg:px-16">

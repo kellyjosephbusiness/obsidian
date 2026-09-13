@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import {
   useEffect,
   useLayoutEffect,
@@ -28,7 +27,7 @@ import { GET_QUOTED } from "./data";
 
 export const GET_QUOTED_EASE = "cubic-bezier(0.4, 0, 0.2, 1)";
 
-const { selfServe, demo, form, images } = GET_QUOTED;
+const { selfServe, demo, form } = GET_QUOTED;
 
 /* ------------------------------------------------------------------ */
 /* Shared hooks / fragments (also used by GetQuotedMobile)              */
@@ -198,7 +197,6 @@ function FlipPanel({ showingDemo, cursorExitProgress, dogEntryProgress }: FlipPa
             transition: `transform 750ms ${GET_QUOTED_EASE}, opacity 500ms ${GET_QUOTED_EASE}`,
           }}
         >
-          <Image alt="Funding specialist on the phone" src={images.corgiPhone} fill className="object-contain" sizes="(max-width: 1024px) 50vw, 640px" quality={75} />
         </div>
         <EstimateBubble text={text} entryProgress={dogEntryProgress} />
       </div>
