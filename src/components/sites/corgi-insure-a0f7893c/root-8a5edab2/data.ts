@@ -428,7 +428,7 @@ export const GET_QUOTED = {
     bubbleInvalid: "numbers please!",
   },
   images: {
-    corgiPhone: `${ASSETS}/images/get-covered/corgi-phone.png`,
+    corgiPhone: `${ASSETS}/images/mascot/bull-chef.png`,
     cursorDocument: `${ASSETS}/images/get-covered/cursor/document.png`,
     cursorFill: `${ASSETS}/images/get-covered/cursor/cursor-fill.svg`,
     cursorBody: `${ASSETS}/images/get-covered/cursor/cursor-body.svg`,
@@ -676,11 +676,11 @@ export const FOOTER_CTA = {
   headingLine1: "FundLine Capital Provides the Funding Built for Owners.",
   headingLine2: "Move fast. Grow things. Stay funded, under one roof.",
   corgis: [
-    { alt: "Owner working on laptop", src: `${ASSETS}/images/footer-corgi-laptop.png` },
-    { alt: "Founder", src: `${ASSETS}/images/footer-corgi-founder.png` },
-    { alt: "Owner in suit", src: `${ASSETS}/images/footer-corgi-suit.png` },
-    { alt: "Chef", src: `${ASSETS}/images/footer-corgi-chef.png` },
-    { alt: "Doctor", src: `${ASSETS}/images/footer-corgi-doctor.png` },
+    { alt: "FundLine bull in a suit", src: `${ASSETS}/images/mascot/bull-fly-right.png`, flip: false },
+    { alt: "FundLine bull chef", src: `${ASSETS}/images/mascot/bull-chef.png`, flip: true },
+    { alt: "FundLine bull in a suit", src: `${ASSETS}/images/mascot/bull-fly-right.png`, flip: true },
+    { alt: "FundLine bull chef", src: `${ASSETS}/images/mascot/bull-chef.png`, flip: false },
+    { alt: "FundLine bull in a suit", src: `${ASSETS}/images/mascot/bull-fly-right.png`, flip: false },
   ],
   buttons: {
     demo: { label: "Book a call", href: LINKS.bookCall },

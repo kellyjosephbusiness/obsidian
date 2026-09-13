@@ -6,7 +6,7 @@ import { InitialsAvatar } from "@/components/sites/corgi-insure-a0f7893c/shared/
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
 import { ASSETS, REVIEWS, REVIEWS_HEADER } from "./data";
 
-const MASCOT = `${ASSETS}/images/flying-dog-left.webp`;
+const MASCOT = `${ASSETS}/images/mascot/bull-fly-right.png`;
 
 /**
  * "100s of Happy Owners and Counting." — a horizontally scrolling list of review cards
@@ -58,7 +58,7 @@ export function ReviewsSection() {
       />
       {/* Mascot hanging off the left edge */}
       <div aria-hidden className="pointer-events-none absolute bottom-[72px] left-[-70px] z-10 hidden w-[180px] lg:block xl:left-[-90px] xl:w-[210px]">
-        <Image alt="" className="h-auto w-full object-contain" width={628} height={622} src={MASCOT} />
+        <Image alt="" className="h-auto w-full object-contain" width={1024} height={1024} src={MASCOT} />
       </div>
 
       <div className="relative mx-auto flex max-w-[1600px] flex-col gap-12 md:gap-16">

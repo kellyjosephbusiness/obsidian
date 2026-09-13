@@ -46,9 +46,9 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
           <div aria-hidden className="pointer-events-none absolute bottom-0 left-1/2 h-px w-screen -translate-x-1/2 bg-[#585858]" />
           <div className="flex flex-col items-center gap-9 p-4 md:p-6 lg:p-16">
             <div className="flex w-full max-w-[596px] items-end justify-between gap-3">
-              {FOOTER_CTA.corgis.map((corgi) => (
-                <div key={corgi.src} className="relative aspect-[118/120] w-[18%] max-w-[118px]">
-                  <Image alt={corgi.alt} src={corgi.src} fill sizes="118px" className="object-contain object-bottom" />
+              {FOOTER_CTA.corgis.map((corgi, i) => (
+                <div key={`${corgi.src}-${i}`} className="relative aspect-[118/120] w-[18%] max-w-[118px]">
+                  <Image alt={corgi.alt} src={corgi.src} fill sizes="118px" className={corgi.flip ? "-scale-x-100 object-contain object-bottom" : "object-contain object-bottom"} />
                 </div>
               ))}
             </div>

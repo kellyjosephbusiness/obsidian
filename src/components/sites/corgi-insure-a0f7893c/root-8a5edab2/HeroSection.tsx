@@ -6,8 +6,9 @@ import { PressableButton } from "@/components/sites/corgi-insure-a0f7893c/shared
 import { ASSETS, HERO_TICKER, HERO } from "./data";
 
 const SKY_BG = `${ASSETS}/images/hero/cloud-sky-bg.webp`;
-const CORGI_SRC = `${ASSETS}/images/hero/brand-corgi.avif`;
+const MASCOT_SRC = `${ASSETS}/images/mascot/bull-fly-right.png`;
 const HAND_SRC = `${ASSETS}/images/hero/hand-with-gradient.avif`;
+const SKYLINE_SRC = `${ASSETS}/images/hero/nyc-skyline-dither.png`;
 
 /** The site renders each hero illustration as three vertical clip-path thirds of one image. */
 const SLICE_CLIPS: readonly string[] = [
@@ -43,33 +44,39 @@ function SlicedImage({ src, alt }: SlicedImageProps) {
 
 export function HeroSection() {
   return (
-    <section className="relative flex h-svh flex-col items-center pt-[160px]">
+    <section className="relative flex flex-col items-center pt-[120px] md:pt-[136px]">
       {/* Sky background + tint + fade to page grey */}
       <div className="pointer-events-none absolute inset-0">
         <Image src={SKY_BG} alt="" fill sizes="100vw" className="object-cover" priority />
+        {/* Dithered NYC skyline (1-bit, like the hand) sitting in the clouds above the ticker */}
+        <img
+          alt=""
+          src={SKYLINE_SRC}
+          width={2400}
+          height={728}
+          className="absolute bottom-[64px] left-1/2 h-auto w-[1300px] max-w-none -translate-x-1/2 opacity-[0.32] [mask-image:linear-gradient(to_bottom,transparent_0%,black_60%)] md:w-[1600px] lg:w-[1900px]"
+        />
         <div className="absolute inset-0 bg-[rgba(79,179,255,0.05)] mix-blend-multiply" />
         <div className="absolute inset-0 bg-gradient-to-b from-[rgba(246,246,246,0)] from-[72%] to-[#f6f6f6] to-[95%]" />
       </div>
 
-      <div className="relative flex w-full flex-1 items-center md:w-auto">
+      <div className="relative flex w-full items-center md:w-auto">
         <div className="relative w-full md:w-auto">
-          {/* Corgi mascot */}
-          <div className="pointer-events-none absolute right-[-40px] top-[-100px] z-10 md:right-[-72px] md:top-[-112px] lg:right-[-108px] lg:top-[-136px]">
-            <div className="-rotate-[16.78deg]">
-              <div className="aspect-[299/269] w-[200px] md:w-[280px] lg:w-[299px]">
-                <SlicedImage src={CORGI_SRC} alt="FundLine mascot" />
-              </div>
+          {/* Mascot: the FundLine bull diving in from the top-right (flipped to face the headline) */}
+          <div className="pointer-events-none absolute right-[-30px] top-[-70px] z-10 md:right-[-90px] md:top-[-60px] lg:right-[-150px] lg:top-[-70px]">
+            <div className="rotate-[14deg]">
+              <img alt="FundLine mascot" src={MASCOT_SRC} width={1024} height={1024} className="w-[190px] max-w-none -scale-x-100 md:w-[260px] lg:w-[300px]" />
             </div>
           </div>
 
-          <div className="relative flex flex-col items-center gap-6 px-4 py-12 text-center md:px-[120px] md:py-16">
-            <div className="flex flex-col items-center gap-6">
-              <h1 className="homepage-hero-heading-font mx-auto max-w-[752px] text-[length:var(--h1-font-size)] font-medium leading-none tracking-[-0.032em] text-[#191919]">
+          <div className="relative flex flex-col items-center gap-8 px-4 pt-10 pb-24 text-center md:px-[120px] md:pt-12 md:pb-28">
+            <div className="flex flex-col items-center gap-7">
+              <h1 className="homepage-hero-heading-font mx-auto max-w-[1000px] text-[48px] font-medium leading-none tracking-[-0.032em] text-[#191919] md:text-[68px] lg:text-[84px]">
                 {HERO.headingLine1} <br />
                 {HERO.headingLine2Prefix}{" "}
                 <span className="homepage-hero-serif-font text-[#1E3A8A] italic">{HERO.headingAccent}</span>
               </h1>
-              <p className="text-body-large text-[#4e4e4e]">
+              <p className="text-[18px] leading-[1.3] tracking-[-0.27px] text-[#4e4e4e] md:text-[24px] md:tracking-[-0.36px]">
                 {HERO.subLine1}
                 <br className="hidden md:block" /> {HERO.subLine2}
               </p>
@@ -77,17 +84,17 @@ export function HeroSection() {
 
             <PressableButton
               variant="primary"
-              size="small"
+              size="large"
               href={HERO.cta.href}
               className="relative z-10 w-fit"
-              faceClassName="px-4 py-2 btn-text-small text-white"
+              faceClassName="px-8 py-3.5 text-[20px] leading-[1.2] tracking-[-0.3px] text-white"
               dataTrack="cta-homepage-hero"
             >
               {HERO.cta.label}
             </PressableButton>
 
             {/* Hand */}
-            <div className="pointer-events-none absolute bottom-[-80px] left-[-64px] h-[180px] w-[238px] -rotate-[15deg] md:bottom-[-88px] md:left-[-56px] md:h-[241px] md:w-[318px] md:rotate-0">
+            <div className="pointer-events-none absolute bottom-[-24px] left-[-64px] h-[180px] w-[238px] -rotate-[15deg] md:bottom-[-16px] md:left-[-56px] md:h-[241px] md:w-[318px] md:rotate-0">
               <div aria-hidden className="absolute inset-0">
                 <SlicedImage src={HAND_SRC} alt="" />
               </div>

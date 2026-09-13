@@ -5,8 +5,7 @@ import { ASSETS, POLICIES, POLICIES_HEADER, SPECIALIZED_COVERAGES } from "./data
 import { PolicyCard } from "./PolicyCard";
 import { SpecializedCoveragesStack } from "./SpecializedCoveragesStack";
 
-const FLYING_DOG_LEFT = `${ASSETS}/images/flying-dog-left.webp`;
-const FLYING_DOG_RIGHT = `${ASSETS}/images/flying-dog-right.webp`;
+const MASCOT = `${ASSETS}/images/mascot/bull-fly-right.png`;
 
 /**
  * "Explore Our Main Policies": heading + sub, a 1/2/3-column grid of the eight PolicyCards with the
@@ -44,17 +43,17 @@ export function PoliciesSection({
       {/* Flying dogs: mobile/tablet */}
       {showMascots && (<>
       <div aria-hidden className="pointer-events-none absolute -left-6 bottom-[56px] z-10 block w-[100px] md:left-0 md:bottom-4 md:w-[130px] lg:hidden">
-        <Image alt="" className="h-auto w-full object-contain" width={628} height={622} src={FLYING_DOG_LEFT} />
+        <Image alt="" className="h-auto w-full object-contain" width={1024} height={1024} src={MASCOT} />
       </div>
       <div aria-hidden className="pointer-events-none absolute top-0 -right-4 z-10 block w-[100px] md:w-[130px] lg:hidden">
-        <Image alt="" className="h-auto w-full object-contain" width={288} height={311} src={FLYING_DOG_RIGHT} />
+        <Image alt="" className="h-auto w-full -scale-x-100 object-contain" width={1024} height={1024} src={MASCOT} />
       </div>
       {/* Flying dogs: desktop */}
       <div aria-hidden className="pointer-events-none absolute top-[60px] right-[-80px] z-10 hidden w-[180px] lg:block xl:right-[-90px] xl:w-[210px]">
-        <Image alt="" className="h-auto w-full object-contain" width={288} height={311} src={FLYING_DOG_RIGHT} />
+        <Image alt="" className="h-auto w-full -scale-x-100 object-contain" width={1024} height={1024} src={MASCOT} />
       </div>
       <div aria-hidden className="pointer-events-none absolute bottom-[100px] left-[-80px] z-10 hidden w-[180px] lg:block xl:left-[-90px] xl:w-[210px]">
-        <Image alt="" className="h-auto w-full object-contain" width={628} height={622} src={FLYING_DOG_LEFT} />
+        <Image alt="" className="h-auto w-full object-contain" width={1024} height={1024} src={MASCOT} />
       </div>
       </>)}
 
