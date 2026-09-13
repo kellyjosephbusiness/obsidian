@@ -53,8 +53,8 @@ export function HeroSection() {
           alt=""
           src={SKYLINE_SRC}
           width={2400}
-          height={728}
-          className="absolute bottom-[64px] left-1/2 h-auto w-[1300px] max-w-none -translate-x-1/2 opacity-[0.32] [mask-image:linear-gradient(to_bottom,transparent_0%,black_60%)] md:w-[1600px] lg:w-[1900px]"
+          height={872}
+          className="absolute bottom-[64px] left-1/2 h-auto w-[1400px] max-w-none -translate-x-1/2 opacity-[0.38] [mask-image:linear-gradient(to_bottom,transparent_0%,black_55%)] md:w-[1800px] lg:w-[2100px]"
         />
         <div className="absolute inset-0 bg-[rgba(79,179,255,0.05)] mix-blend-multiply" />
         <div className="absolute inset-0 bg-gradient-to-b from-[rgba(246,246,246,0)] from-[72%] to-[#f6f6f6] to-[95%]" />
