@@ -218,9 +218,9 @@ export const NAV_ACTIONS = {
 } as const;
 
 export const HERO = {
-  headingLine1: "Small Business Funding",
-  headingLine2Prefix: "at the",
-  headingAccent: "Speed of Ambition.",
+  headingLine1: "Funding That Moves",
+  headingLine2Prefix: "as Fast",
+  headingAccent: "as You Do.",
   subLine1: "No hidden fees. No impact to your credit score to apply.",
   subLine2: "One application, real offers from a network of lenders.",
   cta: { label: "Check eligibility", href: LINKS.apply },
