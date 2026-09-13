@@ -238,13 +238,16 @@
     line-height: var(--btn-large-line-height);
     letter-spacing: var(--btn-large-tracking);
   }
+  /* The site's hero fonts are tiny glyph subsets of the original headline; any other letters fall back
+     to a different face and weight. Use the full F37 Bolton and Georgia files instead. */
   .homepage-hero-heading-font {
-    font-family: var(--font-hero-heading), Arial, sans-serif;
+    font-family: var(--font-mono), Arial, sans-serif;
     font-weight: 500;
   }
   .homepage-hero-serif-font {
-    font-family: var(--font-hero-serif), Georgia, serif;
+    font-family: var(--font-georgia), Georgia, serif;
     font-weight: 400;
+    font-style: italic;
   }
   .animate-chip-ripple {
     animation: 0.35s ease-out chip-ripple;
