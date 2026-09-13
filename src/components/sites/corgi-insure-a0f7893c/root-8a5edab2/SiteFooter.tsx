@@ -103,7 +103,7 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
         <div className="border-b border-[#e1e1e1] px-4 md:px-6 lg:px-16">
           <div className="relative mx-auto grid max-w-[1600px] grid-cols-1 divide-x divide-y divide-[#e1e1e1] sm:grid-cols-2 md:grid-cols-5">
             <div className="col-span-1 flex items-center justify-center p-6 sm:col-span-2 md:col-span-1">
-              <FundLineBadge className="w-[107px]" />
+              <FundLineBadge className="w-[168px]" />
             </div>
             {FOOTER_COLUMNS.map((column) => (
               <div key={column.title} className="flex flex-col items-start gap-6 p-6">
