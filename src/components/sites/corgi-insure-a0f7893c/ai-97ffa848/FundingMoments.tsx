@@ -85,7 +85,8 @@ export function FundingMoments({ heading = AI_MOMENTS_HEADING, items = AI_MOMENT
                     )}
                   >
                     <span
-                      className="msym block bg-[linear-gradient(180deg,#ffffff_0%,#d9d9d9_38%,#7a7a7a_100%)] bg-clip-text text-[128px] leading-none text-transparent drop-shadow-[0_18px_28px_rgba(0,0,0,0.5)] md:text-[160px] [font-variation-settings:'FILL'_1,'wght'_300,'GRAD'_0,'opsz'_48]"
+                      className="msym block bg-[linear-gradient(180deg,#ffffff_0%,#d9d9d9_38%,#7a7a7a_100%)] bg-clip-text leading-none [--glyph:128px] text-transparent drop-shadow-[0_18px_28px_rgba(0,0,0,0.5)] md:[--glyph:160px] [font-variation-settings:'FILL'_1,'wght'_300,'GRAD'_0,'opsz'_48]"
+                      style={{ fontSize: "var(--glyph)" }}
                     >
                       {item.icon}
                     </span>
