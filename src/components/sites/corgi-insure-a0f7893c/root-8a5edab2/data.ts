@@ -436,6 +436,29 @@ export const GET_QUOTED = {
   },
 } as const;
 
+export interface Review {
+  name: string;
+  city: string;
+  quote: string;
+}
+
+export const REVIEWS_HEADER = {
+  headingLine1: "100s of Happy Owners",
+  headingLine2: "and Counting.",
+} as const;
+
+/** Illustrative reviews (names and places are fictional). */
+export const REVIEWS: Review[] = [
+  { name: "Samuel K", city: "Asheville, NC", quote: "Derek at FundLine Capital really helped me out. He took the time to get what my business needed, and it felt personal, not just like another deal." },
+  { name: "Linda F", city: "Boulder, CO", quote: "I worked with Jack from FundLine, and he was great. He really listened to what we needed and gave us solid advice. You can tell he cares." },
+  { name: "Rajesh P", city: "Madison, WI", quote: "FundLine's been awesome for my business. Derek gave me practical advice, and I felt he really got what we were about." },
+  { name: "Maria G", city: "Tucson, AZ", quote: "Three offers in two days and a specialist who explained every line. We picked a term loan and had the money before our supplier's deadline." },
+  { name: "Tom B", city: "Duluth, MN", quote: "I expected a runaround like at the bank. Instead one application, a quick call with Priya, and a line of credit that actually fits our slow months." },
+  { name: "Aisha R", city: "Savannah, GA", quote: "The bank statement upload took five minutes. No credit hit to apply, and the offers were laid out side by side so I could compare real APRs." },
+  { name: "Kevin L", city: "Spokane, WA", quote: "We financed two trucks through FundLine. The lender they matched us with understood freight, and the paperwork was done in a week." },
+  { name: "Dana W", city: "Burlington, VT", quote: "Jack checked in after funding just to see how the expansion was going. That kind of follow-through is why we'll use FundLine again." },
+];
+
 export const TESTIMONIALS_HEADER = {
   headingBefore: "Built for ",
   headingItalic: "Owners",

@@ -6,7 +6,7 @@ import { HeroSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5ed
 import { IntroSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/IntroSection";
 import { JourneySection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/JourneySection";
 import { PoliciesSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/PoliciesSection";
-import { QuoteStripSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/QuoteStripSection";
+import { ReviewsSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/ReviewsSection";
 import { SiteFooter } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/SiteFooter";
 import { SiteHeader } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/SiteHeader";
 import { TestimonialsSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/TestimonialsSection";
@@ -29,8 +29,8 @@ export default function Home() {
         <main id="main-content" className="relative z-0 flex-grow">
           <div className="flex min-h-screen flex-col overflow-clip bg-background text-foreground">
             <HeroSection />
+            <ReviewsSection />
             <IntroSection />
-            <QuoteStripSection />
             <JourneySection />
             <AdvantageSection />
             <GetQuotedSection />
