@@ -94,7 +94,7 @@ export function DemoCard({ hideFooter = false }: CardProps) {
       <div className="@container relative aspect-[800/465] overflow-clip bg-[#dddddd] p-[1.09cqw]">
         <div
           {...chip.handlers}
-          className="@container absolute left-[3.25%] top-[8.46%] aspect-[575/699] w-[71.875%] rounded-[1.63cqw] bg-[#f9f9f9] shadow-[0_0_1.09cqw_rgba(25,25,25,0.2)]"
+          className="@container absolute left-[14.0625%] top-[8.46%] aspect-[575/699] w-[71.875%] rounded-[1.63cqw] bg-[#f9f9f9] shadow-[0_0_1.09cqw_rgba(25,25,25,0.2)]"
         >
           <FinancialFormMock {...formProps} />
         </div>

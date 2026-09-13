@@ -69,14 +69,14 @@ export function HeroSection() {
 
       <div className="relative flex w-full items-center md:w-auto">
         <div className="relative w-full md:w-auto">
-          <div className="relative flex flex-col items-center gap-8 px-4 pt-10 pb-28 text-center md:px-[120px] md:pt-14 md:pb-36">
+          <div className="relative flex flex-col items-center gap-7 px-4 pt-4 pb-20 text-center md:gap-8 md:px-[120px] md:pt-14 md:pb-36">
             <div className="flex flex-col items-center gap-7">
-              <h1 className="homepage-hero-heading-font mx-auto max-w-[1000px] text-[48px] font-medium leading-none tracking-[-0.032em] text-[#191919] md:text-[68px] lg:text-[84px]">
-                {HERO.headingLine1} <br />
+              <h1 className="homepage-hero-heading-font mx-auto max-w-[1000px] text-[42px] font-medium leading-[0.98] tracking-[-0.032em] text-[#191919] sm:text-[52px] md:text-[68px] md:leading-none lg:text-[84px]">
+                {HERO.headingLine1} <br className="hidden md:block" />
                 {HERO.headingLine2Prefix}{" "}
                 <span className="homepage-hero-serif-font text-[#1E3A8A] italic">{HERO.headingAccent}</span>
               </h1>
-              <p className="text-[18px] leading-[1.3] tracking-[-0.27px] text-[#4e4e4e] md:text-[24px] md:tracking-[-0.36px]">
+              <p className="max-w-[360px] text-[17px] leading-[1.35] tracking-[-0.2px] text-[#4e4e4e] sm:max-w-none md:text-[24px] md:leading-[1.3] md:tracking-[-0.36px]">
                 {HERO.subLine1}
                 <br className="hidden md:block" /> {HERO.subLine2}
               </p>
@@ -94,7 +94,7 @@ export function HeroSection() {
             </PressableButton>
 
             {/* Hand */}
-            <div className="pointer-events-none absolute bottom-[-24px] left-[-64px] h-[180px] w-[238px] -rotate-[15deg] [mask-image:linear-gradient(to_bottom,black_45%,transparent_88%)] md:bottom-[-16px] md:left-[-56px] md:h-[241px] md:w-[318px] md:rotate-0">
+            <div className="pointer-events-none absolute bottom-[-40px] left-[-72px] h-[160px] w-[212px] -rotate-[18deg] [mask-image:linear-gradient(to_bottom,black_45%,transparent_88%)] sm:bottom-[-24px] sm:left-[-64px] sm:h-[180px] sm:w-[238px] md:bottom-[-16px] md:left-[-56px] md:h-[241px] md:w-[318px] md:rotate-0">
               <div aria-hidden className="absolute inset-0">
                 <SlicedImage src={HAND_SRC} alt="" />
               </div>

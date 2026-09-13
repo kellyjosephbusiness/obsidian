@@ -181,7 +181,7 @@ function FlipPanel({ showingDemo, cursorExitProgress, dogEntryProgress }: FlipPa
             {/* Back face (pre-rotated 180°): demo form driving the estimate bubble */}
             <div
               {...chip.handlers}
-              className="@container absolute top-[8.46%] right-[3.25%] aspect-[575/699] w-[71.875%] rounded-[1.63cqw] bg-[#f9f9f9] shadow-[0_0_1.09cqw_rgba(25,25,25,0.2)]"
+              className="@container absolute top-[8.46%] right-[14.0625%] aspect-[575/699] w-[71.875%] rounded-[1.63cqw] bg-[#f9f9f9] shadow-[0_0_1.09cqw_rgba(25,25,25,0.2)]"
               style={{ ...FACE_STYLE, transform: "rotateY(180deg)", pointerEvents: showingDemo ? "auto" : "none" }}
             >
               <FinancialFormMock {...formProps} />
