@@ -17,7 +17,7 @@ function ThumbnailCard() {
           aria-hidden
           className="pointer-events-none absolute top-1/2 right-[2cqw] size-[60cqw] -translate-y-1/2 rounded-full bg-[radial-gradient(circle,rgba(91,117,196,0.7)_0%,rgba(30,58,138,0.3)_40%,rgba(25,25,25,0)_70%)]"
         />
-        <FundLineMark className="absolute top-1/2 right-[16cqw] size-[23cqw] -translate-y-1/2 drop-shadow-[0_2cqw_6cqw_rgba(0,0,0,0.45)]" />
+        <FundLineMark variant="white" className="absolute top-1/2 right-[16cqw] size-[23cqw] -translate-y-1/2 drop-shadow-[0_2cqw_6cqw_rgba(0,0,0,0.45)]" />
 
         <div className="absolute top-[4cqw] left-[3cqw] flex flex-col">
           <span className="font-mono text-[10.8cqw] leading-none font-medium tracking-[-0.03em] text-white">{thumbnail.valuation}</span>

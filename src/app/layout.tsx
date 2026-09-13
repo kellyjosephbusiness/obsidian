@@ -48,11 +48,11 @@ export const metadata: Metadata = {
   description: DESCRIPTION,
   icons: {
     icon: [
-      { url: `${SEO}/favicon-96x96.png`, sizes: "96x96", type: "image/png" },
-      { url: `${SEO}/icon.svg`, type: "image/svg+xml" },
-      { url: `${SEO}/favicon.ico`, sizes: "16x16 32x32 48x48" },
+      { url: `${SEO}/favicon.ico`, sizes: "64x64" },
       { url: `${SEO}/favicon-32x32.png`, sizes: "32x32", type: "image/png" },
-      { url: `${SEO}/favicon-16x16.png`, sizes: "16x16", type: "image/png" },
+      { url: `${SEO}/favicon-64x64.png`, sizes: "64x64", type: "image/png" },
+      { url: `${SEO}/icon-192.png`, sizes: "192x192", type: "image/png" },
+      { url: `${SEO}/icon-512.png`, sizes: "512x512", type: "image/png" },
     ],
     apple: [{ url: `${SEO}/apple-icon.png`, sizes: "180x180" }],
   },
