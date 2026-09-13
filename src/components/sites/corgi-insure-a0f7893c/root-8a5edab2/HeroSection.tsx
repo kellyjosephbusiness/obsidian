@@ -44,7 +44,7 @@ function SlicedImage({ src, alt }: SlicedImageProps) {
 
 export function HeroSection() {
   return (
-    <section className="relative flex flex-col items-center pt-[120px] md:pt-[136px]">
+    <section className="relative flex flex-col items-center pt-[150px] md:pt-[176px]">
       {/* Sky background + tint + fade to page grey */}
       <div className="pointer-events-none absolute inset-0">
         <Image src={SKY_BG} alt="" fill sizes="100vw" className="object-cover" priority />
@@ -54,7 +54,7 @@ export function HeroSection() {
           src={SKYLINE_SRC}
           width={2400}
           height={872}
-          className="absolute bottom-[64px] left-1/2 h-auto w-[1400px] max-w-none -translate-x-1/2 opacity-[0.38] [mask-image:linear-gradient(to_bottom,transparent_0%,black_55%)] md:w-[1800px] lg:w-[2100px]"
+          className="absolute bottom-[64px] left-1/2 h-auto w-[1400px] max-w-none -translate-x-1/2 opacity-[0.42] [mask-image:linear-gradient(to_bottom,transparent_0%,black_50%)] md:w-[1800px] lg:w-[2100px]"
         />
         <div className="absolute inset-0 bg-[rgba(79,179,255,0.05)] mix-blend-multiply" />
         <div className="absolute inset-0 bg-gradient-to-b from-[rgba(246,246,246,0)] from-[72%] to-[#f6f6f6] to-[95%]" />
@@ -69,7 +69,7 @@ export function HeroSection() {
             </div>
           </div>
 
-          <div className="relative flex flex-col items-center gap-8 px-4 pt-10 pb-24 text-center md:px-[120px] md:pt-12 md:pb-28">
+          <div className="relative flex flex-col items-center gap-8 px-4 pt-10 pb-28 text-center md:px-[120px] md:pt-14 md:pb-36">
             <div className="flex flex-col items-center gap-7">
               <h1 className="homepage-hero-heading-font mx-auto max-w-[1000px] text-[48px] font-medium leading-none tracking-[-0.032em] text-[#191919] md:text-[68px] lg:text-[84px]">
                 {HERO.headingLine1} <br />
