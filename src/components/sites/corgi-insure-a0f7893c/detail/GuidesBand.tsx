@@ -3,13 +3,13 @@ import { StippleGlyph } from "@/components/sites/corgi-insure-a0f7893c/shared/St
 import type { DetailPageContent } from "@/types/sites/corgi-insure-a0f7893c/detail";
 import { Frame } from "./frame";
 
-/** Dark band: heading + sub, three white guide cards under a tinted stipple cover. */
+/** Dark band: centred heading + sub, three white guide cards under a tinted stipple cover. */
 export function GuidesBand({ guides }: { guides: DetailPageContent["guides"] }) {
   return (
     <Frame tone="dark" inner="flex flex-col gap-10 md:gap-14">
-      <div className="flex flex-col gap-4">
-        <h2 className="font-mono font-medium text-white text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]">{guides.heading}</h2>
-        <p className="max-w-[820px] text-[16px] leading-[1.5] tracking-[-0.24px] text-[#d9d9d9] md:text-[20px] md:tracking-[-0.3px]">{guides.sub}</p>
+      <div className="flex flex-col gap-4 text-center">
+        <h2 className="mx-auto font-mono font-medium text-white text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)] [text-wrap:balance]">{guides.heading}</h2>
+        <p className="mx-auto max-w-[560px] text-[16px] leading-[1.5] tracking-[-0.24px] text-[#d9d9d9] md:text-[20px] md:tracking-[-0.3px]">{guides.sub}</p>
       </div>
       <div className="grid grid-cols-1 gap-6 md:grid-cols-3">
         {guides.cards.map((card) => (

@@ -17,7 +17,6 @@ import {
   USE_OF_FUNDS_OPTIONS,
 } from "./data";
 import { CheckboxField, FormCard, FormField, FormTitle, SelectInput, SubmittedState, TextInput } from "./FormControls";
-import { Eyebrow } from "./PageHero";
 import { Rails } from "./SectionFrame";
 
 interface ApplyValues {
@@ -134,14 +133,13 @@ export function ApplyFlow() {
     <section className="relative border-b border-[#e1e1e1] bg-[#f6f6f6] px-4 pt-[150px] pb-16 md:px-6 md:pt-[176px] md:pb-24 lg:px-16">
       <Rails width={1200} />
       <div className="relative mx-auto grid w-full max-w-[1200px] grid-cols-1 gap-10 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] lg:gap-16">
-        <div className="flex flex-col gap-6 lg:sticky lg:top-[116px] lg:self-start">
-          <Eyebrow>{APPLY_INTRO.eyebrow}</Eyebrow>
-          <h1 className="font-mono font-medium text-[#191919] text-[length:var(--h1-font-size)] leading-[var(--h1-line-height)] tracking-[var(--h1-tracking)]">
+        <div className="flex flex-col items-center gap-6 text-center lg:sticky lg:top-[116px] lg:self-start">
+          <h1 className="mx-auto font-mono font-medium text-[#191919] text-[length:var(--h1-font-size)] leading-[var(--h1-line-height)] tracking-[var(--h1-tracking)]">
             <span className="block">{APPLY_INTRO.headingLine1}</span>
             <span className="block">{APPLY_INTRO.headingLine2}</span>
           </h1>
-          <p className="max-w-[520px] text-body-large text-[#4a4a4a]">{APPLY_INTRO.sub}</p>
-          <ul className="flex flex-col gap-3">
+          <p className="mx-auto max-w-[560px] text-body-large text-[#4a4a4a]">{APPLY_INTRO.sub}</p>
+          <ul className="mx-auto flex w-fit flex-col gap-3 text-left">
             {APPLY_INTRO.bullets.map((b) => (
               <li key={b.text} className="flex items-center gap-3 text-[15px] leading-[1.2] tracking-[-0.2px] text-[#191919]">
                 <span className="flex size-9 shrink-0 items-center justify-center rounded-[8px] bg-[#DDEAFE] text-[#0160CC]">

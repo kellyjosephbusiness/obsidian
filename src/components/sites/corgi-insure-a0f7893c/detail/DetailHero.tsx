@@ -9,7 +9,7 @@ import { Estimator } from "./Estimator";
 import { Sup } from "./frame";
 
 /**
- * Hero: tinted band, big two-line H1, sub with footnotes, CTA + rating badges, estimator card right.
+ * Hero: tinted band, centred two-line H1, sub with footnotes, CTA + rating badges, estimator card right.
  * The page's stipple illustration runs large and decorative behind the estimator column from `lg`
  * up; below `lg` it shrinks to a 72px mark above the H1 so it never pushes the estimator down.
  */
@@ -41,7 +41,7 @@ export function DetailHero({ page }: { page: DetailPageContent }) {
           </ol>
         </nav>
         <div className="grid grid-cols-1 items-start gap-10 lg:grid-cols-[minmax(0,7fr)_minmax(0,5fr)] lg:gap-16">
-          <div className="flex flex-col gap-7">
+          <div className="flex flex-col items-center gap-7 text-center">
             <Image
               alt=""
               aria-hidden
@@ -49,11 +49,11 @@ export function DetailHero({ page }: { page: DetailPageContent }) {
               width={220}
               height={220}
               priority
-              className="h-[72px] w-[72px] object-contain object-left lg:hidden"
+              className="h-[72px] w-[72px] object-contain object-center lg:hidden"
             />
             {/* The text column narrows to 7/12 from `lg` (the estimator takes the rest), so the
                 type steps back down at `lg` and grows again at `xl` to keep every headline on two lines. */}
-            <h1 className="text-balance font-mono font-medium text-[#191919] text-[32px] leading-[1.02] tracking-[-0.032em] sm:text-[40px] md:text-[48px] lg:text-[44px] xl:text-[56px]">
+            <h1 className="mx-auto text-balance font-mono font-medium text-[#191919] text-[32px] leading-[1.02] tracking-[-0.032em] sm:text-[40px] md:text-[48px] lg:text-[44px] xl:text-[56px]">
               {hero.headingLine1}
               <br />
               {hero.accentLine2 !== false ? (
@@ -62,10 +62,10 @@ export function DetailHero({ page }: { page: DetailPageContent }) {
                 hero.headingLine2
               )}
             </h1>
-            <p className="max-w-[600px] text-[18px] leading-[1.45] tracking-[-0.27px] text-[#4a4a4a] md:text-[22px] md:tracking-[-0.33px]">
+            <p className="mx-auto max-w-[560px] text-[18px] leading-[1.45] tracking-[-0.27px] text-[#4a4a4a] md:text-[22px] md:tracking-[-0.33px]">
               <Sup text={hero.sub} />
             </p>
-            <div className="flex flex-col items-start gap-5 sm:flex-row sm:items-center sm:gap-6">
+            <div className="flex flex-col items-center gap-5 sm:flex-row sm:justify-center sm:gap-6">
               <PressableButton variant="primary" size="large" href={hero.cta.href} faceClassName="px-8 py-3.5 text-[18px] leading-[1.2] tracking-[-0.27px] text-white">
                 {hero.cta.label}
               </PressableButton>
@@ -75,7 +75,7 @@ export function DetailHero({ page }: { page: DetailPageContent }) {
                     <MaterialIcon key={i} name="star" size={20} fill={1} />
                   ))}
                 </span>
-                <span className="flex flex-col leading-none">
+                <span className="flex flex-col items-start leading-none">
                   <span className="font-mono text-[18px] font-medium text-[#191919]">{page.reviews.score}</span>
                   <span className="text-[12px] text-[#4a4a4a]">
                     {page.reviews.scoreLabel} · {page.reviews.countLabel}
@@ -83,7 +83,7 @@ export function DetailHero({ page }: { page: DetailPageContent }) {
                 </span>
               </div>
             </div>
-            <p className="max-w-[520px] text-[12px] leading-[1.35] tracking-[-0.18px] text-[#4a4a4a]">{hero.fineprint}</p>
+            <p className="mx-auto max-w-[520px] text-[12px] leading-[1.35] tracking-[-0.18px] text-[#4a4a4a]">{hero.fineprint}</p>
           </div>
           <div className="relative lg:pt-6">
             <Image

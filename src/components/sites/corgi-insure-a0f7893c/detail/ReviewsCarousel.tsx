@@ -60,7 +60,7 @@ export function ReviewsCarousel({ reviews }: { reviews: DetailPageContent["revie
 
   return (
     <Frame tone="white" inner="flex flex-col gap-10">
-      <h2 className={H2}>{reviews.heading}</h2>
+      <h2 className={`${H2} mx-auto text-center [text-wrap:balance]`}>{reviews.heading}</h2>
       <div className="grid grid-cols-1 gap-4 md:grid-cols-[300px_minmax(0,1fr)] md:gap-6">
         <div className="flex flex-col justify-center gap-4 rounded-[8px] bg-[#DDEAFE] p-8">
           <span className="font-mono text-[22px] font-medium leading-none text-[#191919]">{reviews.scoreLabel}</span>

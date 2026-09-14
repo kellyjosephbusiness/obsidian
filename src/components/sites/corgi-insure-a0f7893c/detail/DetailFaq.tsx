@@ -10,7 +10,7 @@ export function DetailFaq({ faq }: { faq: DetailPageContent["faq"] }) {
   const [open, setOpen] = useState<number | null>(null);
   return (
     <Frame tone="white" inner="flex flex-col gap-8 md:gap-12">
-      <h2 className={H2}>{faq.heading}</h2>
+      <h2 className={`${H2} mx-auto text-center [text-wrap:balance]`}>{faq.heading}</h2>
       <div className="flex flex-col border-t border-[#e1e1e1]">
         {faq.items.map((item, i) => {
           const isOpen = open === i;

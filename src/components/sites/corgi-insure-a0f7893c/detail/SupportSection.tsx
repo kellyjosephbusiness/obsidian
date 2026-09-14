@@ -5,19 +5,19 @@ import type { DetailPageContent } from "@/types/sites/corgi-insure-a0f7893c/deta
 import { cn } from "@/lib/utils";
 import { BODY, Frame, H2 } from "./frame";
 
-/** "Expert support" — copy left, a tinted arch with a specialist illustration placeholder right. */
+/** "Expert support" — centred copy in the left column, a tinted arch with a specialist illustration right. */
 export function SupportSection({ support }: { support: DetailPageContent["support"] }) {
   return (
     <Frame inner="grid grid-cols-1 items-center gap-10 md:grid-cols-[minmax(0,7fr)_minmax(0,5fr)] md:gap-16">
-      <div className="flex flex-col gap-6">
+      <div className="flex flex-col items-center gap-6 text-center">
         {/* The text sits in a part-width column, so the display size steps down where it is
             narrowest (`lg`) and returns at `xl`; balanced wrapping keeps both lines even. */}
-        <h2 className={cn(H2, "text-balance lg:text-[40px] xl:text-[48px]")}>
+        <h2 className={cn(H2, "mx-auto text-balance lg:text-[40px] xl:text-[48px]")}>
           {support.headingLine1}
           <br />
           {support.headingLine2}
         </h2>
-        <p className={BODY}>{support.body}</p>
+        <p className={cn(BODY, "mx-auto max-w-[560px]")}>{support.body}</p>
         <Link href={support.link.href} className="inline-flex w-fit items-center gap-1 text-[16px] font-medium text-[#0160CC] hover:underline md:text-[18px]">
           {support.link.label}
           <MaterialIcon name="arrow_forward" size={20} />
