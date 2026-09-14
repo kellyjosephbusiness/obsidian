@@ -91,7 +91,7 @@ export function DetailHero({ page }: { page: DetailPageContent }) {
               width={640}
               height={640}
               priority
-              className="pointer-events-none absolute -top-[96px] right-[-48px] z-0 hidden h-[280px] w-[280px] object-contain opacity-90 lg:block xl:-top-[110px] xl:right-[-64px] xl:h-[320px] xl:w-[320px]"
+              className="pointer-events-none absolute -top-[56px] right-[-48px] z-0 hidden h-[250px] w-[250px] object-contain object-top opacity-90 lg:block xl:-top-[64px] xl:right-[-64px] xl:h-[290px] xl:w-[290px]"
             />
             <div className="relative z-10">
               <Estimator estimator={hero.estimator} />
