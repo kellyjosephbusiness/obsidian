@@ -28,27 +28,27 @@ export const LOAN_TYPES_META: PageMeta = {
 
 export const LOAN_TYPES_HERO: HeroContent = {
   icon: "account_balance_wallet",
-  headingLine1: "Every Way to Fund",
-  headingLine2: "a Small Business. One Application.",
+  headingLine1: "Every way to fund",
+  headingLine2: "a small business. One application.",
   sub: "Eight core products, a dozen specialty programs, and 75+ lenders behind them. Pick the product that fits the job, or let us match you.",
   primary: { label: "Apply now", href: LINKS.apply },
   secondary: { label: "Compare products", href: "#compare" },
 };
 
 export const LOAN_TYPES_PRODUCTS_HEADER = {
-  heading: "All Financing Types",
+  heading: "All financing types",
   sub: "Start with the eight products most owners use. Flip through the specialty stack for industry and stage-specific programs.",
 } as const;
 
 export const LOAN_TYPES_DETAILS_HEADER = {
-  heading: "Loan Types in Detail",
+  heading: "Loan types in detail",
   sub: "What each product is for, how much you can get, and how fast it funds. Figures are typical ranges across our network, not an offer.",
 } as const;
 
 export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
   {
     id: "term-loans",
-    title: "Term Loan",
+    title: "Term loan",
     icon: "payments",
     summary: "A lump sum repaid on a fixed schedule. The workhorse for one-time investments with a clear price tag: a build-out, a large order, an acquisition.",
     amount: "$5K – $5M",
@@ -60,7 +60,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
   },
   {
     id: "line-of-credit",
-    title: "Business Line of Credit",
+    title: "Business line of credit",
     icon: "credit_score",
     summary: "A revolving limit you draw on when cash gets tight and pay interest only on what you use. Repay and the room comes back.",
     amount: "$10K – $500K",
@@ -71,7 +71,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
   },
   {
     id: "sba-loans",
-    title: "SBA 7(a) Loan",
+    title: "SBA 7(a) loan",
     icon: "account_balance",
     summary: "Government-backed financing with the longest terms and lowest rates in the network. Worth the extra paperwork if you can plan a few weeks ahead.",
     amount: "$50K – $5M",
@@ -82,7 +82,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
   },
   {
     id: "equipment-financing",
-    title: "Equipment Financing",
+    title: "Equipment financing",
     icon: "precision_manufacturing",
     summary: "Buy or lease trucks, machines, ovens or servers with a loan secured by the equipment itself. Approvals lean on the asset, not just your credit.",
     amount: "$10K – $2M",
@@ -93,7 +93,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
   },
   {
     id: "invoice-financing",
-    title: "Invoice Financing",
+    title: "Invoice financing",
     icon: "receipt_long",
     summary: "Advance up to 90% of an unpaid invoice today and receive the rest, less a fee, when your customer pays. Turns net-60 into net-now.",
     amount: "Up to 90% of invoice value",
@@ -104,7 +104,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
   },
   {
     id: "merchant-cash-advance",
-    title: "Merchant Cash Advance",
+    title: "Merchant cash advance",
     icon: "point_of_sale",
     summary: "An advance on future card sales repaid as a small percentage of each day’s receipts. Fast and flexible, but read the factor rate as an APR before you accept.",
     amount: "$5K – $500K",
@@ -115,7 +115,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
   },
   {
     id: "commercial-real-estate",
-    title: "Commercial Real Estate Loan",
+    title: "Commercial real estate loan",
     icon: "apartment",
     summary: "Long-term financing to buy, build or refinance the property your business runs from. Stop renting the building you already fill.",
     amount: "$250K – $10M",
@@ -126,7 +126,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
   },
   {
     id: "business-credit-card",
-    title: "Business Credit Card",
+    title: "Business credit card",
     icon: "credit_card",
     summary: "Everyday spending power with rewards, statement-level bookkeeping and a business credit file that grows with every on-time payment.",
     amount: "$2K – $100K limit",
@@ -137,7 +137,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
   },
   {
     id: "working-capital",
-    title: "Working Capital Loan",
+    title: "Working capital loan",
     icon: "savings",
     summary: "Short-term money for payroll, inventory and the dips between big customer payments. Smaller amounts, shorter terms, quick decisions.",
     amount: "$5K – $250K",
@@ -148,7 +148,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
   },
   {
     id: "franchise-financing",
-    title: "Franchise Financing",
+    title: "Franchise financing",
     icon: "store",
     summary: "Capital to open or expand a franchise location, from lenders who already know the brand’s unit economics and approved vendor list.",
     amount: "$50K – $2M",
@@ -160,7 +160,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
 ];
 
 export const COMPARISON_HEADER = {
-  heading: "Compare the Core Eight",
+  heading: "Compare the core eight",
   sub: "Amount, term, time to fund and who each product fits. Scroll sideways on smaller screens.",
   columns: ["Product", "Amount", "Term", "Speed to fund", "Best for"],
   note: "Ranges reflect typical offers across the FundLine lender network and are not a guarantee. Your offer depends on time in business, revenue, credit profile and the lender you select.",
@@ -220,8 +220,8 @@ export const CALCULATORS_META: PageMeta = {
 
 export const CALCULATORS_HERO: HeroContent = {
   icon: "calculate",
-  headingLine1: "Run the Numbers",
-  headingLine2: "Before You Apply.",
+  headingLine1: "Run the numbers",
+  headingLine2: "before you apply.",
   sub: "Two quick tools: what a loan will cost each month, and how much funding a business like yours typically qualifies for. No sign-up, nothing saved.",
   primary: { label: "Apply now", href: LINKS.apply },
   secondary: { label: "Jump to qualification", href: "#qualify" },
@@ -229,7 +229,7 @@ export const CALCULATORS_HERO: HeroContent = {
 
 export const PAYMENT_CALC = {
   id: "payment",
-  heading: "Loan Payment Calculator",
+  heading: "Loan payment calculator",
   sub: "Enter an amount, rate and term to see the monthly payment, total interest and how the balance falls over time.",
   fields: {
     amount: "Loan amount ($)",
@@ -255,7 +255,7 @@ export const PAYMENT_CALC = {
 
 export const QUALIFY_CALC = {
   id: "qualify",
-  heading: "How Much Could I Qualify For?",
+  heading: "How much could I qualify for?",
   sub: "Lenders size offers from monthly revenue, time in business and credit. Move the inputs and watch the range change.",
   fields: {
     revenue: "Average monthly revenue ($)",
@@ -320,13 +320,13 @@ export const CALCULATORS_FAQ: FaqItem[] = [
 /* ------------------------------------------------------------------ */
 
 const LEGAL_ENTITY = "FundLine Capital, Inc. (“FundLine”, “we”, “us”)";
-const LEGAL_ADDRESS = "FundLine Capital, Inc., 400 Market Street, Suite 1200, Salt Lake City, UT 84101";
+const LEGAL_ADDRESS = "FundLine Capital, Inc., 1 Liberty Plaza, Suite 2300, New York, NY 10006";
 
 export const LEGAL_PAGES: LegalPageContent[] = [
   {
     slug: "terms",
     meta: { title: "Terms of Use | FundLine Capital", description: "The terms that govern use of the FundLine Capital website, application and funding brokerage." },
-    title: "Terms of Use",
+    title: "Terms of use",
     lastUpdated: "March 3, 2026",
     intro: "These Terms of Use govern your access to and use of the FundLine Capital website, application and brokerage services. By using the services you agree to these terms. If you are using the services on behalf of a business, you represent that you are authorized to bind that business.",
     sections: [
@@ -408,7 +408,7 @@ export const LEGAL_PAGES: LegalPageContent[] = [
         id: "disputes",
         title: "Governing law and disputes",
         paragraphs: [
-          "These terms are governed by the laws of the State of Utah without regard to conflict-of-law rules. Any dispute will be resolved by binding individual arbitration in Salt Lake County, Utah, except that either party may seek injunctive relief in court. Class actions are waived to the extent permitted by law.",
+          "These terms are governed by the laws of the State of New York without regard to conflict-of-law rules. Any dispute will be resolved by binding individual arbitration in New York County, New York, except that either party may seek injunctive relief in court. Class actions are waived to the extent permitted by law.",
         ],
       },
       {
@@ -428,7 +428,7 @@ export const LEGAL_PAGES: LegalPageContent[] = [
   {
     slug: "privacy",
     meta: { title: "Privacy Policy | FundLine Capital", description: "How FundLine Capital collects, uses, shares and protects information when you use the funding brokerage." },
-    title: "Privacy Policy",
+    title: "Privacy policy",
     lastUpdated: "March 3, 2026",
     intro: "This policy explains what information FundLine Capital collects when you use our website and brokerage services, how we use and share it, and the choices you have. It applies to business owners, lender and broker partners and visitors.",
     sections: [
@@ -510,7 +510,7 @@ export const LEGAL_PAGES: LegalPageContent[] = [
   {
     slug: "privacy-choices",
     meta: { title: "Your Privacy Choices | FundLine Capital", description: "Manage cookies, marketing communications and data requests for your FundLine Capital account." },
-    title: "Your Privacy Choices",
+    title: "Your privacy choices",
     lastUpdated: "March 3, 2026",
     intro: "Use this page to control optional cookies, marketing messages and the sharing of your information for advertising, and to submit access or deletion requests. Choices apply to this browser unless you provide an email so we can apply them to your account.",
     showPreferences: true,
@@ -548,7 +548,7 @@ export const LEGAL_PAGES: LegalPageContent[] = [
   {
     slug: "licenses",
     meta: { title: "Licenses | FundLine Capital", description: "Licensing and registration information for FundLine Capital's broker activities." },
-    title: "Licenses and Registrations",
+    title: "Licenses and registrations",
     lastUpdated: "January 15, 2026",
     intro: "FundLine Capital operates as a commercial loan broker, not as a lender. Where state law requires a license or registration for that activity, the details are listed here. Placeholder license numbers are shown for layout purposes.",
     sections: [

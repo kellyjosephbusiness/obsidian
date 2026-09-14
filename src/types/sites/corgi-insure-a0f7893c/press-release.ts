@@ -74,4 +74,6 @@ export interface ArticleCard {
   excerpt: string;
   author: string;
   href: string;
+  /** Material Symbols name drawn on the card's navy-tint cover block; no cover when omitted. */
+  coverIcon?: string;
 }

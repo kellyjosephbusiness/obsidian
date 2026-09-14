@@ -48,14 +48,39 @@ export function articleHref(article: EditorialArticle): string {
   return `${KIND_META[article.kind].prefix}/${article.slug}`;
 }
 
+/** Cover icon per topic tag (the first tag of an article decides); falls back to a generic article glyph. */
+const TAG_ICONS: Record<string, string> = {
+  Compare: "compare_arrows",
+  "Getting started": "flag",
+  Cost: "payments",
+  "Term loans": "account_balance_wallet",
+  Eligibility: "checklist",
+  Speed: "bolt",
+  "Cash flow": "waves",
+  "Financing basics": "menu_book",
+  Credit: "credit_score",
+  "Product launch": "campaign",
+};
+
+export function coverIconFor(tags: string[]): string {
+  const [first] = tags;
+  return (first && TAG_ICONS[first]) || "article";
+}
+
+/** "Maya Chen, Co-founder & CEO" for named bylines; the plain author otherwise. */
+export function bylineOf(article: Pick<EditorialArticle, "author" | "authorRole">): string {
+  return article.authorRole ? `${article.author}, ${article.authorRole}` : article.author;
+}
+
 export function toCard(article: EditorialArticle): ArticleCard {
   return {
     date: article.cardDate,
     readTime: article.readTime,
     title: article.title,
     excerpt: article.excerpt,
-    author: article.author,
+    author: bylineOf(article),
     href: articleHref(article),
+    coverIcon: coverIconFor(article.tags),
   };
 }
 
@@ -71,6 +96,7 @@ export const SERIES_B_CARD: ArticleCard = {
   excerpt: "New funding supports a broader lender network, partner tools and the funding team behind every application.",
   author: "FundLine Capital",
   href: "/newsroom/series-b",
+  coverIcon: "rocket_launch",
 };
 
 const CARDS_BY_HREF = new Map<string, ArticleCard>([
@@ -151,7 +177,7 @@ export const PRODUCT_UPDATES: ProductUpdate[] = [
   {
     date: "Sep. 8 2026",
     tag: "New",
-    title: "Same-day decisions on lines of credit up to $250K",
+    title: "Same-day decisions on lines of credit up to $500K",
     description:
       "Connect a business bank account and most line-of-credit applications now receive lender decisions the same business day, with funds available as soon as the next morning.",
     href: "/news/same-day-decisions",

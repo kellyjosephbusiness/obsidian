@@ -5,18 +5,21 @@ const ICONS = { linkedin: LinkedInIcon, x: XIcon } as const;
 
 export interface ArticleBylineProps {
   author: string;
+  /** Author's role, rendered muted under the name. */
+  role?: string;
   date: string;
   readTime: string;
 }
 
-/** Prop-driven variant of `PressByline`: author + social row, date / read-time on the right, hairlines top and bottom. */
-export function ArticleByline({ author, date, readTime }: ArticleBylineProps) {
+/** Prop-driven variant of `PressByline`: author (+ role) + social row, date / read-time on the right, hairlines top and bottom. */
+export function ArticleByline({ author, role, date, readTime }: ArticleBylineProps) {
   return (
     <section className="w-full border-t border-b border-[#e1e1e1] px-4 py-6 md:px-6 lg:px-16">
       <div className="mx-auto flex w-full max-w-[1136px] items-center justify-between gap-6">
         <div className="flex items-center gap-6">
-          <div className="flex flex-col leading-[1.2] tracking-tight text-[#4a4a4a]">
-            <span>{author}</span>
+          <div className="flex flex-col gap-0.5 leading-[1.2] tracking-tight text-[#4a4a4a]">
+            <span className={role ? "font-medium text-[#191919]" : undefined}>{author}</span>
+            {role ? <span className="text-[14px] text-[#4a4a4a]">{role}</span> : null}
           </div>
           <div className="flex items-center gap-3">
             {BYLINE_SOCIAL.map((link) => {

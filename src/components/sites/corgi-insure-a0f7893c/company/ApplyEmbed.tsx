@@ -1,5 +1,6 @@
+import { CustomerPhoto } from "@/components/sites/corgi-insure-a0f7893c/shared/CustomerPhoto";
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
-import { APPLY_INTRO } from "./data";
+import { APPLY_INTRO, APPLY_TRUST, APPLY_TRUST_QUOTE } from "./data";
 import { LendTrackEmbed } from "./LendTrackEmbed";
 import { Eyebrow } from "./PageHero";
 import { Rails } from "./SectionFrame";
@@ -27,6 +28,28 @@ export function ApplyEmbed() {
               </li>
             ))}
           </ul>
+
+          {/* Trust strip (desktop only; on phones the first form question stays visible under the headline). */}
+          <div className="hidden max-w-[520px] flex-col gap-4 rounded-[20px] border border-[#e1e1e1] bg-white p-5 lg:flex">
+            <ul className="flex flex-wrap gap-x-5 gap-y-2">
+              {APPLY_TRUST.map((item) => (
+                <li key={item.text} className="flex items-center gap-1.5 text-[13px] leading-[1.2] tracking-[-0.2px] text-[#4a4a4a]">
+                  <MaterialIcon name={item.icon} size={16} className="text-[#1e3a8a]" />
+                  {item.text}
+                </li>
+              ))}
+            </ul>
+            <figure className="flex items-center gap-3 border-t border-[#e1e1e1] pt-4">
+              <CustomerPhoto name={APPLY_TRUST_QUOTE.name} index={APPLY_TRUST_QUOTE.photo} className="size-11 shrink-0 rounded-full" sizes="44px" />
+              <div className="flex flex-col gap-1">
+                <blockquote className="text-[14px] leading-[1.35] tracking-[-0.21px] text-[#191919]">“{APPLY_TRUST_QUOTE.quote}”</blockquote>
+                <figcaption className="text-[12px] leading-[1.2] tracking-[-0.18px] text-[#4a4a4a]">
+                  <span className="font-medium text-[#191919]">{APPLY_TRUST_QUOTE.name}</span> · {APPLY_TRUST_QUOTE.role}
+                </figcaption>
+              </div>
+            </figure>
+          </div>
+
           <p className="hidden text-[14px] leading-[1.3] tracking-[-0.21px] text-[#4a4a4a] lg:block">
             {APPLY_INTRO.helpText}{" "}
             <a href={APPLY_INTRO.helpLink.href} className="font-medium text-[#1e3a8a] hover:underline">

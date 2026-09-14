@@ -1,5 +1,5 @@
 import type { EditorialArticle } from "./types";
-import { AUTHOR } from "./constants";
+import { BYLINES } from "./constants";
 
 /** Long-form small-business guides. All figures and ranges are illustrative placeholders, not offers. */
 export const GUIDES: EditorialArticle[] = [
@@ -12,7 +12,7 @@ export const GUIDES: EditorialArticle[] = [
     cardDate: "Jun. 3 2026",
     isoDate: "2026-06-03",
     readTime: "9 min read",
-    author: AUTHOR,
+    ...BYLINES.daniel,
     tags: ["Financing basics"],
     thumbnail: { stat: "8", statLabel: "loan products, one application", footLead: "Guide:", footTail: " business financing", footTitle: "Financing 101" },
     inlineCtaAfter: "how-much",
@@ -107,7 +107,7 @@ export const GUIDES: EditorialArticle[] = [
     cardDate: "Jun. 10 2026",
     isoDate: "2026-06-10",
     readTime: "8 min read",
-    author: AUTHOR,
+    ...BYLINES.jordan,
     tags: ["Credit"],
     thumbnail: { stat: "680+", statLabel: "the credit band that unlocks bank pricing", footLead: "Guide:", footTail: " building business credit", footTitle: "Business credit" },
     inlineCtaAfter: "steps",
@@ -187,7 +187,7 @@ export const GUIDES: EditorialArticle[] = [
     cardDate: "Jun. 17 2026",
     isoDate: "2026-06-17",
     readTime: "8 min read",
-    author: AUTHOR,
+    ...BYLINES.tom,
     tags: ["Getting started"],
     thumbnail: { stat: "30", statLabel: "days to a stronger application", footLead: "Checklist:", footTail: " getting ready to borrow", footTitle: "Ready to borrow" },
     inlineCtaAfter: "week-two",

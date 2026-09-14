@@ -42,6 +42,8 @@ export interface EditorialArticle {
   isoDate: string;
   readTime: string;
   author: string;
+  /** Author's role, shown after the name in bylines and cards (omitted for company-authored press releases). */
+  authorRole?: string;
   tags: string[];
   thumbnail: ArticleThumbnail;
   blocks: EditorialBlock[];

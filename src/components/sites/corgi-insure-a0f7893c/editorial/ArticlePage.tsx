@@ -19,7 +19,7 @@ export function ArticlePage({ article }: { article: EditorialArticle }) {
         items={[{ label: "Home", href: "/" }, { label: kind.crumbLabel, href: kind.indexHref }, { label: article.title }]}
       />
       <ArticleHero backLabel={kind.backLabel} backHref={kind.indexHref} title={article.title} thumbnail={article.thumbnail} />
-      <ArticleByline author={article.author} date={article.date} readTime={article.readTime} />
+      <ArticleByline author={article.author} role={article.authorRole} date={article.date} readTime={article.readTime} />
       <ArticleBody
         blocks={article.blocks}
         inlineCta={INLINE_CTA}
