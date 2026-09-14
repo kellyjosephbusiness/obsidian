@@ -262,7 +262,7 @@ export function DesktopNavMenu({ menu, id, labelledBy, className, style }: Deskt
       id={id}
       aria-labelledby={labelledBy}
       className={cn(
-        "pointer-events-auto hidden w-fit overflow-clip border-b-[1px] border-r-[1px] border-l-[1px] border-[#e1e1e1] bg-[rgba(255,255,255,0.85)] px-4 py-6 backdrop-blur-[6px] xl:block 2xl:px-8 min-[1680px]:px-16",
+        "pointer-events-auto hidden w-fit overflow-clip border-b-[1px] border-r-[1px] border-l-[1px] border-[#e1e1e1] bg-[rgba(255,255,255,0.96)] px-4 py-6 backdrop-blur-[10px] xl:block 2xl:px-8 min-[1680px]:px-16",
         className,
       )}
       style={style}

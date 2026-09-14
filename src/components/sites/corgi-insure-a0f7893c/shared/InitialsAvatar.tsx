@@ -1,13 +1,14 @@
 import type { CSSProperties } from "react";
 import { cn } from "@/lib/utils";
 
+/** Brand-only gradients (navy, finance blue, near-black) so avatars never drift off palette. */
 const PALETTES = [
   ["#1e3a8a", "#5b75c4"],
   ["#191919", "#4e4e4e"],
-  ["#1f4fd8", "#6f9bff"],
-  ["#0f7b5f", "#4fc39a"],
-  ["#7a2ee6", "#b98cff"],
-  ["#c2410c", "#f59e0b"],
+  ["#132a66", "#2b4ca8"],
+  ["#0376FD", "#8ea6f0"],
+  ["#2b4ca8", "#8ea6f0"],
+  ["#07090D", "#1e3a8a"],
 ];
 
 function hash(input: string) {

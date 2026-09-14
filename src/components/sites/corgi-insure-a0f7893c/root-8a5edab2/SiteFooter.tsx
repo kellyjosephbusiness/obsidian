@@ -121,7 +121,7 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
         </div>
 
         {/* Landscape band: light sky gradient, the hero's clouds, and the dithered NYC skyline at reduced opacity */}
-        <div aria-hidden className="relative z-10 aspect-[1440/534] w-full overflow-hidden bg-gradient-to-b from-[#eef2fb] to-white">
+        <div aria-hidden className="relative z-10 aspect-[390/300] w-full md:aspect-[1440/534] overflow-hidden bg-gradient-to-b from-[#eef2fb] to-white">
           <Image
             alt=""
             src={FOOTER_IMAGES.sky}
