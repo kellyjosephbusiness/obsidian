@@ -43,7 +43,7 @@ function SlicedImage({ src, alt }: SlicedImageProps) {
 
 export function HeroSection() {
   return (
-    <section className="relative flex flex-col items-center pt-[150px] md:pt-[176px]">
+    <section className="relative flex flex-col items-center pt-[124px] md:pt-[112px]">
       {/* Sky background + tint + fade to page grey (purely decorative: hidden from assistive tech) */}
       <div aria-hidden className="pointer-events-none absolute inset-0">
         <Image src={SKY_BG} alt="" fill sizes="100vw" className="object-cover" priority />
@@ -69,7 +69,7 @@ export function HeroSection() {
 
       <div className="relative flex w-full items-center md:w-auto">
         <div className="relative w-full md:w-auto">
-          <div className="relative flex flex-col items-center gap-7 px-4 pt-4 pb-20 text-center md:gap-8 md:px-[120px] md:pt-14 md:pb-36">
+          <div className="relative flex flex-col items-center gap-6 px-4 pt-4 pb-16 text-center md:gap-7 md:px-[120px] md:pt-8 md:pb-20">
             <div className="flex flex-col items-center gap-7">
               <h1 className="homepage-hero-heading-font mx-auto max-w-[1000px] text-[42px] font-medium leading-[0.98] tracking-[-0.032em] text-[#191919] sm:text-[52px] md:text-[68px] md:leading-none lg:text-[84px]">
                 {HERO.headingLine1} <br className="hidden md:block" />

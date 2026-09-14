@@ -90,6 +90,14 @@ export interface CoveragePackage {
   ctaVariant: "primary" | "black";
 }
 
+/** One step of the "How our process works" band. */
+export interface ProcessStep {
+  /** StippleGlyph / Material Symbols name. */
+  icon: MaterialIconName;
+  title: string;
+  body: string;
+}
+
 export interface Testimonial {
   /** 1-based index into the customer portrait pool. */
   photo?: number;

@@ -1,17 +1,17 @@
-import { AdvantageSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/AdvantageSection";
+import { BlogTeaserSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/BlogTeaserSection";
 import { FaqSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/FaqSection";
 import { GetQuotedSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/GetQuotedSection";
 import { HeroSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/HeroSection";
-import { IntroSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/IntroSection";
 import { JourneySection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/JourneySection";
 import { PoliciesSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/PoliciesSection";
+import { ProcessSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/ProcessSection";
+import { RatesSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/RatesSection";
 import { ReviewsSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/ReviewsSection";
 import { SiteFooter } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/SiteFooter";
 import { SiteHeader } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/SiteHeader";
-import { TestimonialsSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/TestimonialsSection";
 
 /**
- * Clone of https://corgi.insure/ (home). Section order and wrappers mirror the live DOM:
+ * FundLine Capital home page. Layout and wrappers mirror the corgi.insure clone:
  * fixed header → #site-content-shell → main#main-content → sections → footer.
  */
 export default function Home() {
@@ -29,12 +29,12 @@ export default function Home() {
           <div className="flex min-h-screen flex-col overflow-clip bg-background text-foreground">
             <HeroSection />
             <ReviewsSection />
-            <IntroSection />
             <JourneySection />
-            <AdvantageSection />
+            <ProcessSection />
             <GetQuotedSection />
-            <TestimonialsSection />
             <PoliciesSection />
+            <RatesSection />
+            <BlogTeaserSection />
             <FaqSection />
           </div>
         </main>
