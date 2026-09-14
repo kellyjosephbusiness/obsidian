@@ -287,8 +287,10 @@ export const GET_QUOTED_PROOF: GetQuotedProof[] = [
 ];
 
 export const GET_QUOTED = {
-  heading: "Apply in 15 minutes. A specialist finishes it with you.",
-  body: "One short application covers every lender we work with. A FundLine funding specialist reviews it, fills in the gaps with you on a quick call, and brings back real offers so you can pick the terms that fit.",
+  /** Line 2 renders in the blue italic serif accent, like the hero heading. */
+  headingLine1: "Apply in just 15 minutes",
+  headingLine2: "with a funding specialist.",
+  body: "One short application, with no impact to your credit score. Your specialist takes it to the lenders that fit your business and brings back real offers you can compare side by side.",
   proof: GET_QUOTED_PROOF,
   cta: { label: "Apply now", href: LINKS.apply },
   form: {
