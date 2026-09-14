@@ -5,6 +5,8 @@ import type { DetailPageContent } from "@/types/sites/corgi-insure-a0f7893c/deta
  * Twelve industries; every figure, business name, reviewer and scenario is fictional.
  */
 
+const INDUSTRY_ART = "/sites/corgi-insure-a0f7893c/shared/art/industry";
+
 const APPLY = "/apply";
 const BOOK_A_CALL = "/apply";
 
@@ -62,6 +64,7 @@ const AI: DetailPageContent = {
   kind: "industry",
   name: "AI & Software",
   icon: "smart_toy",
+  art: `${INDUSTRY_ART}/ai.png`,
   meta: {
     title: "Funding for AI & Software Companies | FundLine Capital",
     description:
@@ -296,6 +299,7 @@ const CONSTRUCTION: DetailPageContent = {
   kind: "industry",
   name: "Construction",
   icon: "construction",
+  art: `${INDUSTRY_ART}/construction.png`,
   meta: {
     title: "Funding for Construction Companies | FundLine Capital",
     description:
@@ -533,6 +537,7 @@ const HEALTHCARE: DetailPageContent = {
   kind: "industry",
   name: "Healthcare",
   icon: "medical_services",
+  art: `${INDUSTRY_ART}/healthcare.png`,
   meta: {
     title: "Funding for Healthcare Practices | FundLine Capital",
     description:
@@ -767,6 +772,7 @@ const RETAIL: DetailPageContent = {
   kind: "industry",
   name: "Retail",
   icon: "storefront",
+  art: `${INDUSTRY_ART}/retail.png`,
   meta: {
     title: "Funding for Retail Businesses | FundLine Capital",
     description:
@@ -1001,6 +1007,7 @@ const RESTAURANTS: DetailPageContent = {
   kind: "industry",
   name: "Restaurants",
   icon: "restaurant",
+  art: `${INDUSTRY_ART}/restaurants.png`,
   meta: {
     title: "Funding for Restaurants | FundLine Capital",
     description:
@@ -1238,6 +1245,7 @@ const TRUCKING: DetailPageContent = {
   kind: "industry",
   name: "Trucking",
   icon: "local_shipping",
+  art: `${INDUSTRY_ART}/trucking.png`,
   meta: {
     title: "Funding for Trucking Companies | FundLine Capital",
     description:
@@ -1475,6 +1483,7 @@ const ECOMMERCE: DetailPageContent = {
   kind: "industry",
   name: "Ecommerce",
   icon: "shopping_cart",
+  art: `${INDUSTRY_ART}/ecommerce.png`,
   meta: {
     title: "Funding for Ecommerce Brands | FundLine Capital",
     description:
@@ -1709,6 +1718,7 @@ const MANUFACTURING: DetailPageContent = {
   kind: "industry",
   name: "Manufacturing",
   icon: "factory",
+  art: `${INDUSTRY_ART}/manufacturing.png`,
   meta: {
     title: "Funding for Manufacturers | FundLine Capital",
     description:
@@ -1946,6 +1956,7 @@ const PROFESSIONAL_SERVICES: DetailPageContent = {
   kind: "industry",
   name: "Professional Services",
   icon: "work",
+  art: `${INDUSTRY_ART}/professional-services.png`,
   meta: {
     title: "Funding for Professional Services Firms | FundLine Capital",
     description:
@@ -2180,6 +2191,7 @@ const FINTECH: DetailPageContent = {
   kind: "industry",
   name: "Fintech",
   icon: "account_balance_wallet",
+  art: `${INDUSTRY_ART}/fintech.png`,
   meta: {
     title: "Funding for Fintech Companies | FundLine Capital",
     description:
@@ -2414,6 +2426,7 @@ const MARKETPLACES: DetailPageContent = {
   kind: "industry",
   name: "Marketplaces",
   icon: "storefront",
+  art: `${INDUSTRY_ART}/marketplaces.png`,
   meta: {
     title: "Funding for Marketplaces | FundLine Capital",
     description:
@@ -2648,6 +2661,7 @@ const SAAS: DetailPageContent = {
   kind: "industry",
   name: "SaaS",
   icon: "cloud",
+  art: `${INDUSTRY_ART}/saas.png`,
   meta: {
     title: "Funding for SaaS Companies | FundLine Capital",
     description:

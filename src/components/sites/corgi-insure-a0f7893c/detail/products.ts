@@ -5,6 +5,8 @@ import type { DetailPageContent } from "@/types/sites/corgi-insure-a0f7893c/deta
  * FundLine is a commercial loan broker, not a lender. Every number here is illustrative.
  */
 
+const PRODUCT_ART = "/sites/corgi-insure-a0f7893c/root-8a5edab2/images/products";
+
 const APPLY = { label: "Apply now", href: "/apply" } as const;
 const BOOK_CALL = { label: "Apply now", href: "/apply" } as const;
 const FINEPRINT =
@@ -32,6 +34,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     kind: "product",
     name: "Term Loans",
     icon: "payments",
+    art: `${PRODUCT_ART}/term-loan.png`,
     meta: {
       title: "Business Term Loans | FundLine Capital",
       description:
@@ -203,6 +206,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     kind: "product",
     name: "Business Line of Credit",
     icon: "credit_score",
+    art: `${PRODUCT_ART}/line-of-credit.png`,
     meta: {
       title: "Business Line of Credit | FundLine Capital",
       description:
@@ -374,6 +378,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     kind: "product",
     name: "SBA Loans",
     icon: "account_balance",
+    art: `${PRODUCT_ART}/sba-7a.png`,
     meta: {
       title: "SBA Loans | FundLine Capital",
       description:
@@ -546,6 +551,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     kind: "product",
     name: "Equipment Financing",
     icon: "precision_manufacturing",
+    art: `${PRODUCT_ART}/equipment-financing.png`,
     meta: {
       title: "Equipment Financing | FundLine Capital",
       description:
@@ -717,6 +723,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     kind: "product",
     name: "Invoice Financing",
     icon: "receipt_long",
+    art: `${PRODUCT_ART}/invoice-financing.png`,
     meta: {
       title: "Invoice Financing | FundLine Capital",
       description:
@@ -888,6 +895,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     kind: "product",
     name: "Merchant Cash Advance",
     icon: "point_of_sale",
+    art: `${PRODUCT_ART}/merchant-cash-advance.png`,
     meta: {
       title: "Merchant Cash Advance | FundLine Capital",
       description:
@@ -1060,6 +1068,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     kind: "product",
     name: "Commercial Real Estate Loans",
     icon: "apartment",
+    art: `${PRODUCT_ART}/commercial-real-estate.png`,
     meta: {
       title: "Commercial Real Estate Loans | FundLine Capital",
       description:
@@ -1232,6 +1241,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     kind: "product",
     name: "Business Credit Card",
     icon: "credit_card",
+    art: `${PRODUCT_ART}/business-credit-card.png`,
     meta: {
       title: "Business Credit Cards | FundLine Capital",
       description:

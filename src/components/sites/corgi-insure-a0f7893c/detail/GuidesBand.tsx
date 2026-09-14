@@ -1,9 +1,9 @@
 import Link from "next/link";
-import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
+import { StippleGlyph } from "@/components/sites/corgi-insure-a0f7893c/shared/StippleGlyph";
 import type { DetailPageContent } from "@/types/sites/corgi-insure-a0f7893c/detail";
 import { Frame } from "./frame";
 
-/** Dark band: heading + sub, three white guide cards with a tinted icon header. */
+/** Dark band: heading + sub, three white guide cards under a tinted stipple cover. */
 export function GuidesBand({ guides }: { guides: DetailPageContent["guides"] }) {
   return (
     <Frame tone="dark" inner="flex flex-col gap-10 md:gap-14">
@@ -13,9 +13,9 @@ export function GuidesBand({ guides }: { guides: DetailPageContent["guides"] }) 
       </div>
       <div className="grid grid-cols-1 gap-6 md:grid-cols-3">
         {guides.cards.map((card) => (
-          <Link key={card.title} href={card.href} className="group flex flex-col overflow-hidden rounded-[24px] bg-white transition-transform duration-300 hover:-translate-y-1">
-            <div className="flex h-[180px] items-center justify-center bg-[#c5d1f0] text-[#1e3a8a]">
-              <MaterialIcon name={card.icon} size={72} />
+          <Link key={card.title} href={card.href} className="group flex flex-col overflow-hidden rounded-[8px] bg-white transition-transform duration-300 hover:-translate-y-1">
+            <div className="flex h-[150px] items-center justify-center bg-[#dde4f6] text-[#1e3a8a]">
+              <StippleGlyph name={card.icon} size={84} />
             </div>
             <div className="flex flex-1 flex-col gap-4 p-6 pb-8">
               <span className="text-[13px] font-medium uppercase tracking-[0.06em] text-[#1e3a8a]">{card.tag}</span>

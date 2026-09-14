@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { Fragment } from "react";
 import { ChevronRight } from "lucide-react";
@@ -7,7 +8,11 @@ import type { DetailPageContent } from "@/types/sites/corgi-insure-a0f7893c/deta
 import { Estimator } from "./Estimator";
 import { Sup } from "./frame";
 
-/** Hero (reference: tinted band, big two-line H1, sub with footnotes, CTA + rating badges, estimator card right). */
+/**
+ * Hero: tinted band, big two-line H1, sub with footnotes, CTA + rating badges, estimator card right.
+ * The page's stipple illustration runs large and decorative behind the estimator column from `lg`
+ * up; below `lg` it shrinks to a 72px mark above the H1 so it never pushes the estimator down.
+ */
 export function DetailHero({ page }: { page: DetailPageContent }) {
   const { hero } = page;
   return (
@@ -37,9 +42,15 @@ export function DetailHero({ page }: { page: DetailPageContent }) {
         </nav>
         <div className="grid grid-cols-1 items-start gap-10 lg:grid-cols-[minmax(0,7fr)_minmax(0,5fr)] lg:gap-16">
           <div className="flex flex-col gap-7">
-            <div className="flex size-14 items-center justify-center rounded-[16px] bg-[#1e3a8a] text-white">
-              <MaterialIcon name={page.icon} size={30} />
-            </div>
+            <Image
+              alt=""
+              aria-hidden
+              src={page.art}
+              width={220}
+              height={220}
+              priority
+              className="h-[72px] w-[72px] object-contain object-left lg:hidden"
+            />
             <h1 className="font-mono font-medium text-[#191919] text-[44px] leading-[0.98] tracking-[-0.032em] md:text-[60px] lg:text-[72px]">
               {hero.headingLine1}
               <br />
@@ -72,8 +83,19 @@ export function DetailHero({ page }: { page: DetailPageContent }) {
             </div>
             <p className="max-w-[520px] text-[12px] leading-[1.35] tracking-[-0.18px] text-[#4a4a4a]">{hero.fineprint}</p>
           </div>
-          <div className="lg:pt-6">
-            <Estimator estimator={hero.estimator} />
+          <div className="relative lg:pt-6">
+            <Image
+              alt=""
+              aria-hidden
+              src={page.art}
+              width={640}
+              height={640}
+              priority
+              className="pointer-events-none absolute -top-[96px] right-[-48px] z-0 hidden h-[280px] w-[280px] object-contain opacity-90 lg:block xl:-top-[110px] xl:right-[-64px] xl:h-[320px] xl:w-[320px]"
+            />
+            <div className="relative z-10">
+              <Estimator estimator={hero.estimator} />
+            </div>
           </div>
         </div>
       </div>

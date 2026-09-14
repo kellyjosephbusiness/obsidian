@@ -17,7 +17,7 @@ export function Estimator({ estimator }: { estimator: DetailHero["estimator"] })
   const monthly = monthlyPayment(amount, estimator.apr, estimator.termMonths);
   const pct = ((amount - estimator.min) / (estimator.max - estimator.min)) * 100;
   return (
-    <div className="flex w-full flex-col gap-5 rounded-[24px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.08)] md:p-8">
+    <div className="flex w-full flex-col gap-5 rounded-[8px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.08)] md:p-8">
       <div className="flex flex-col gap-1">
         <span className="font-mono text-[24px] font-medium leading-none tracking-[-0.768px] text-[#191919] md:text-[28px]">{estimator.title}</span>
         <span className="text-[14px] leading-[1.3] tracking-[-0.21px] text-[#5c5c5c]">{estimator.note}</span>
@@ -41,7 +41,7 @@ export function Estimator({ estimator }: { estimator: DetailHero["estimator"] })
           <span>{money(estimator.max)}</span>
         </span>
       </label>
-      <div className="grid grid-cols-2 gap-3 rounded-[16px] bg-[#f6f6f6] p-4">
+      <div className="grid grid-cols-2 gap-3 rounded-[4px] bg-[#f6f6f6] p-4">
         <div className="flex flex-col gap-1">
           <span className="text-[12px] text-[#5c5c5c]">Est. monthly payment</span>
           <span className="font-mono text-[22px] font-medium leading-none text-[#191919]">{money(monthly)}</span>

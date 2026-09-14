@@ -15,15 +15,17 @@ import { StepsSection } from "./StepsSection";
 import { SupportSection } from "./SupportSection";
 
 /**
- * Loan-product / industry page. Section order mirrors bluevine.com/business-loans/line-of-credit:
- * hero → stat band → feature cards → callout → steps → support → reviews → FAQ → CTA cards → guides → closing → footnotes.
+ * Loan-product / industry page. Owner reviews sit directly under the three feature cards so the
+ * proof lands early: hero → stat band → feature cards → reviews → callout → steps → support →
+ * FAQ → CTA cards → guides → closing → footnotes. Section tones alternate tint/white/grey down
+ * the page, so re-ordering a section means re-checking its `Frame` tone.
  */
 export function DetailPage({ page }: { page: DetailPageContent }) {
   return (
     <>
       <a
         href="#main-content"
-        className="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[60] focus:rounded-lg focus:bg-white focus:px-4 focus:py-2 focus:text-[#191919] focus:shadow-[0_0_24px_0_rgba(25,25,25,0.2)]"
+        className="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[60] focus:rounded-[4px] focus:bg-white focus:px-4 focus:py-2 focus:text-[#191919] focus:shadow-[0_0_24px_0_rgba(25,25,25,0.2)]"
       >
         Skip to main content
       </a>
@@ -34,10 +36,10 @@ export function DetailPage({ page }: { page: DetailPageContent }) {
             <DetailHero page={page} />
             <StatBand stat={page.stat} />
             <FeatureCards features={page.features} />
+            <ReviewsCarousel reviews={page.reviews} />
             <Callout callout={page.callout} />
             <StepsSection steps={page.steps} />
             <SupportSection support={page.support} />
-            <ReviewsCarousel reviews={page.reviews} />
             <DetailFaq faq={page.faq} />
             <CtaCards cards={page.ctaCards} />
             <GuidesBand guides={page.guides} />

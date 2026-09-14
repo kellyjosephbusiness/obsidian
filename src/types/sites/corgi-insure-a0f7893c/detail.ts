@@ -106,6 +106,8 @@ export interface DetailPageContent {
   name: string;
   /** Material Symbols glyph for the page. */
   icon: string;
+  /** Public path to the large 1-bit stipple illustration shown in the hero. */
+  art: string;
   meta: { title: string; description: string };
   breadcrumb: { label: string; href?: string }[];
   hero: DetailHero;
