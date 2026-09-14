@@ -15,9 +15,9 @@ export function SpecialtyPrograms({ items = SPECIALIZED_COVERAGES }: { items?: S
     <section id="specialty" className="relative scroll-mt-[120px] border-b border-[#e1e1e1] bg-white px-4 py-16 md:px-6 md:py-20 lg:px-16 lg:py-24">
       <Rails />
       <div className="relative mx-auto flex max-w-[1200px] flex-col gap-6">
-        <div className="flex flex-col gap-6 px-4 md:px-6">
+        <div className="flex flex-col items-center gap-6 px-4 text-center md:px-6">
           <h2 className={H2_CLASS}>{SPECIALTY_PROGRAMS_HEADER.heading}</h2>
-          <p className="text-body-large text-[#4a4a4a]">{SPECIALTY_PROGRAMS_HEADER.sub}</p>
+          <p className="mx-auto max-w-[560px] text-body-large text-[#4a4a4a]">{SPECIALTY_PROGRAMS_HEADER.sub}</p>
         </div>
         <div className="relative">
           <Hairlines zIndex="z-0" />
