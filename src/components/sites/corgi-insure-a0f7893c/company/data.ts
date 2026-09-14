@@ -1,7 +1,6 @@
 import type { FaqItem } from "@/types/sites/corgi-insure-a0f7893c/home";
 import type {
   ApplyStep,
-  CallSlot,
   CompanyCta,
   CompanyHeroContent,
   CompanyMeta,
@@ -15,7 +14,6 @@ import type {
   RatingSummaryContent,
   ReviewEntry,
   SelectOption,
-  SignInContent,
   TimelineItem,
   TrustItem,
   TrustQuote,
@@ -59,7 +57,7 @@ export const DEFAULT_CTA: CtaBandContent = {
 /* ------------------------------------------------------------------ */
 
 export const ABOUT_META: CompanyMeta = {
-  title: "About FundLine Capital | Built by Owners, for Owners",
+  title: "About FundLine Capital | Built by Business Owners, for Business Owners",
   description:
     "FundLine Capital is a small business funding brokerage: one application, real offers from 75+ lenders, and a specialist who picks up the phone.",
 };
@@ -157,7 +155,7 @@ export const ABOUT_CTA: CtaBandContent = {
 /* ------------------------------------------------------------------ */
 
 export const CAREERS_META: CompanyMeta = {
-  title: "Careers at FundLine Capital | Help Owners Get Funded",
+  title: "Careers at FundLine Capital | Help Business Owners Get Funded",
   description: "Join a small team building the fastest way for small businesses to compare real loan offers. Open roles in sales, engineering, credit and product.",
 };
 
@@ -438,7 +436,7 @@ export const HOW_TIMELINE: TimelineItem[] = [
 
 export const HOW_FAQ: FaqItem[] = [
   { question: "What do I need to apply?", answerHtml: "Basic business details, the last three to six months of bank statements (connect read-only or upload PDFs), and the owner's contact information. Tax returns help for loans over $250K but are not required to start." },
-  { question: "How many offers will I get?", answerHtml: "It depends on the business. Owners with 12+ months in business and $10K+ monthly revenue usually see three to six offers. Newer businesses see fewer, but we will tell you what would change that." },
+  { question: "How many offers will I get?", answerHtml: "It depends on the business. Business owners with 12+ months in business and $10K+ monthly revenue usually see three to six offers. Newer businesses see fewer, but we will tell you what would change that." },
   { question: "Is there a cost to apply or compare?", answerHtml: "No. FundLine is free for business owners. We are paid by the lender when a loan funds, and that fee never changes the rate you are offered." },
   { question: "Do I have to accept an offer?", answerHtml: "Never. Many business owners apply just to see what is available. Offers stay open for 7 to 30 days depending on the lender." },
   { question: "What if I do not qualify yet?", answerHtml: "A specialist will tell you exactly why and what to work on: time in business, revenue, credit or paperwork. Reapply whenever you are ready; your documents stay on file for 13 months." },
@@ -700,96 +698,3 @@ export const CREDIT_BAND_OPTIONS: SelectOption[] = [
   { value: "lt600", label: "Below 600" },
   { value: "unsure", label: "Not sure" },
 ];
-
-/* ------------------------------------------------------------------ */
-/* /sign-in and /partners/sign-in                                       */
-/* ------------------------------------------------------------------ */
-
-export const SIGN_IN_META: CompanyMeta = {
-  title: "Sign in | FundLine Capital",
-  description: "Sign in to your FundLine Capital account to see offers, upload documents and track funding.",
-};
-
-export const SIGN_IN: SignInContent = {
-  eyebrow: "Owners",
-  heading: "Welcome back.",
-  sub: "Sign in to see your offers, upload documents and track funding.",
-  emailLabel: "Email",
-  passwordLabel: "Password",
-  button: "Continue",
-  forgot: { label: "Forgot password?", href: "#" },
-  alt: { text: "New to FundLine?", link: { label: "Start an application", href: LINKS.apply } },
-  note: "Protected by encryption in transit and at rest. Read how we handle your data on the Security page.",
-};
-
-export const PARTNER_SIGN_IN_META: CompanyMeta = {
-  title: "Partner sign in | FundLine Capital",
-  description: "Broker and ISO partner sign in for the FundLine Capital partner workspace: applications, live offers and funding confirmations.",
-};
-
-export const PARTNER_SIGN_IN: SignInContent = {
-  eyebrow: "Brokers & ISO partners",
-  heading: "Partner workspace.",
-  sub: "Manage every client application, offer and payoff letter from one place.",
-  emailLabel: "Work email",
-  passwordLabel: "Password",
-  button: "Continue",
-  forgot: { label: "Forgot password?", href: "#" },
-  alt: { text: "Not a partner yet?", link: { label: "Get approved", href: "/for-brokers#apply" } },
-  note: "Partner accounts use two-step verification. You will be asked for a code after you continue.",
-};
-
-/* ------------------------------------------------------------------ */
-/* /book-a-call                                                         */
-/* ------------------------------------------------------------------ */
-
-export const BOOK_META: CompanyMeta = {
-  title: "Book a Call with a Funding Specialist | FundLine Capital",
-  description: "Pick a time in the next seven days and a FundLine Capital funding specialist will call to walk through your options. Free, no application required.",
-};
-
-export const BOOK_HERO: CompanyHeroContent = {
-  eyebrow: "Book a call",
-  headingLine1: "Twenty minutes with",
-  headingLine2: "a funding specialist.",
-  sub: "Pick a time. We will call you, look at what you are trying to do, and tell you honestly which lenders and products fit. No application needed and nothing to prepare.",
-};
-
-export const BOOK_SLOTS: CallSlot[] = [{ label: "9:00 AM" }, { label: "11:00 AM" }, { label: "1:30 PM" }, { label: "3:30 PM" }];
-
-export const BOOK_FORM = {
-  pickerTitle: "Pick a day and time",
-  pickerSub: "Times shown in your local time zone. Calls last about 20 minutes.",
-  detailsTitle: "Your details",
-  fields: {
-    name: { label: "Your name", placeholder: "Jordan Rivera" },
-    email: { label: "Email", placeholder: "jordan@riveralandscaping.com" },
-    phone: { label: "Phone", placeholder: "(555) 010-2244" },
-    business: { label: "Business name", placeholder: "Rivera Landscaping LLC" },
-    topic: { label: "What would you like to talk about?", placeholder: "Select" },
-  },
-  submit: "Confirm call",
-  noSlot: "Choose a day and time above to continue.",
-  taken: "Taken",
-  done: {
-    title: "You are booked.",
-    body: "A funding specialist will call you at the time below. You will get a calendar invite by email with a number to call if plans change.",
-    action: { label: "Start an application meanwhile", href: LINKS.apply },
-    secondary: { label: "Back to home", href: "/" },
-  },
-} as const;
-
-export const BOOK_TOPIC_OPTIONS: SelectOption[] = [
-  { value: "options", label: "Which loan product fits my business" },
-  { value: "offer", label: "An offer I already have" },
-  { value: "prepare", label: "Getting ready to borrow" },
-  { value: "sba", label: "SBA loans" },
-  { value: "equipment", label: "Equipment or vehicle financing" },
-  { value: "other", label: "Something else" },
-];
-
-export const BOOK_TRUST = [
-  { icon: "schedule", text: "20-minute call" },
-  { icon: "money_off", text: "Free, no obligation" },
-  { icon: "credit_score", text: "No credit check" },
-] as const;

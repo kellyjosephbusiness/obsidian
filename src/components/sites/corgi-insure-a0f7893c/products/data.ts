@@ -96,7 +96,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
     amount: "$10K – $2M",
     term: "2 – 7 years",
     speed: "2 – 5 days",
-    bestFor: "Owners replacing or adding revenue-producing assets",
+    bestFor: "Business owners replacing or adding revenue-producing assets",
     rate: "Fixed APR from 6.5%",
     image: `${ASSETS}/images/products/equipment-financing.png`,
   },

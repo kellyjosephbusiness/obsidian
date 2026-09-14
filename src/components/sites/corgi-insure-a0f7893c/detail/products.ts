@@ -474,7 +474,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     support: {
       headingLine1: "SBA is paperwork.",
       headingLine2: "We carry the folder.",
-      body: "Owners who go it alone often stall on forms and conditions. Your FundLine specialist has walked hundreds of SBA files through closing and knows what each lender wants to see.",
+      body: "Business owners who go it alone often stall on forms and conditions. Your FundLine specialist has walked hundreds of SBA files through closing and knows what each lender wants to see.",
       link: BOOK_CALL,
     },
     reviews: {

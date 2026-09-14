@@ -148,7 +148,7 @@ function StickyRail() {
             <div
               aria-hidden
               inert
-              className="@container pointer-events-none absolute top-[-84px] left-[-118px] w-[500px] select-none"
+              className="@container pointer-events-none absolute top-0 left-0 w-full select-none"
             >
               <FinancialFormMock />
             </div>

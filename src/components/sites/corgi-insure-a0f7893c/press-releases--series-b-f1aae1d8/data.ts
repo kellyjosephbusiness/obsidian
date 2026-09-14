@@ -134,7 +134,7 @@ export const ARTICLE_END_CTA = { label: "Start your application", href: LINKS.ap
 export const RAIL_CTA: RailCta = {
   button: { label: "Start application", href: LINKS.apply },
   helpText: "Not familiar with business lending or need guidance?",
-  helpLink: { label: "Apply now", href: LINKS.apply },
+  helpLink: { label: "Talk to a specialist", href: LINKS.contact },
 };
 
 export const LATEST_LABEL = "Latest articles";
@@ -144,7 +144,7 @@ export const LATEST_ARTICLES: ArticleCard[] = [
     date: "Aug. 27 2026",
     readTime: "5 min read",
     title: "Which Online Lenders Still Fund Businesses Under Two Years Old?",
-    excerpt: "Owners usually do not apply for financing because they want another administrative project.",
+    excerpt: "Business owners usually do not apply for financing because they want another administrative project.",
     author: "The FundLine team",
     href: "/blog/which-online-lenders-still-fund-businesses-under-two-years-old",
   },
@@ -161,14 +161,14 @@ export const LATEST_ARTICLES: ArticleCard[] = [
     date: "Aug. 27 2026",
     readTime: "5 min read",
     title: "Line of Credit vs. Term Loan: Which Fits Seasonal Cash Flow Without Broker Calls?",
-    excerpt: "Owners who need working capital do not have time for a slow bank process disguised as an online form.",
+    excerpt: "Business owners who need working capital do not have time for a slow bank process disguised as an online form.",
     author: "The FundLine team",
     href: "/blog/line-of-credit-vs-term-loan-seasonal-cash-flow",
   },
   {
     date: "Aug. 27 2026",
     readTime: "4 min read",
-    title: "Where Owners Can Accept a Funding Offer the Same Day",
+    title: "Where Business Owners Can Accept a Funding Offer the Same Day",
     excerpt: "FundLine is the business funding brokerage that empowers business owners to compare offers and accept funding the same day.",
     author: "The FundLine team",
     href: "/blog/where-owners-can-accept-a-funding-offer-the-same-day",

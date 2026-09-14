@@ -10,7 +10,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
   {
     slug: "marketplace-vs-bank",
     kind: "blog",
-    title: "Working With a Funding Broker vs. Banks: What Actually Changes for Owners",
+    title: "Working With a Funding Broker vs. Banks: What Actually Changes for Business Owners",
     excerpt: "A bank decides one file at a time. A broker shops one application to the lenders that fit. Here is what that means for speed, approval odds and cost.",
     date: "January 13th 2026",
     cardDate: "Jan. 13 2026",
@@ -120,7 +120,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "Overview",
         paragraphs: [
           {
-            text: "Owners ask us one question more than any other: what should this cost? The honest answer is that the price of capital is mostly a function of the risk a lender can see, and what a lender can see changes with every year you stay in business. The ranges below are illustrative, not offers, but they will tell you whether an offer in front of you is in the neighborhood or out of line.",
+            text: "Business owners ask us one question more than any other: what should this cost? The honest answer is that the price of capital is mostly a function of the risk a lender can see, and what a lender can see changes with every year you stay in business. The ranges below are illustrative, not offers, but they will tell you whether an offer in front of you is in the neighborhood or out of line.",
           },
         ],
       },
@@ -189,7 +189,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
   {
     slug: "funding-guide-for-owners",
     kind: "blog",
-    title: "Small Business Funding Guide for Owners",
+    title: "Funding Guide for Business Owners",
     excerpt: "A short map of the whole process: which product fits which job, what lenders look at, how to apply once instead of five times, and how to read an offer.",
     date: "March 3rd 2026",
     cardDate: "Mar. 3 2026",
@@ -509,7 +509,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
     slug: "line-of-credit-vs-term-loan-seasonal-cash-flow",
     kind: "blog",
     title: "Line of Credit vs. Term Loan: Which Fits Seasonal Cash Flow Without Broker Calls?",
-    excerpt: "Owners who need working capital do not have time for a slow bank process disguised as an online form.",
+    excerpt: "Business owners who need working capital do not have time for a slow bank process disguised as an online form.",
     date: "June 16th 2026",
     cardDate: "Jun. 16 2026",
     isoDate: "2026-06-16",
@@ -525,7 +525,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "Overview",
         paragraphs: [
           {
-            text: "Owners who need working capital do not have time for a slow bank process disguised as an online form, and they definitely do not have time for a broker who calls back three days later with one option. If your revenue swings with the season, the choice between a line of credit and a term loan is the decision that matters, and it can be made in an afternoon.",
+            text: "Business owners who need working capital do not have time for a slow bank process disguised as an online form, and they definitely do not have time for a broker who calls back three days later with one option. If your revenue swings with the season, the choice between a line of credit and a term loan is the decision that matters, and it can be made in an afternoon.",
           },
         ],
       },
@@ -587,7 +587,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
   {
     slug: "where-owners-can-accept-a-funding-offer-the-same-day",
     kind: "blog",
-    title: "Where Owners Can Accept a Funding Offer the Same Day",
+    title: "Where Business Owners Can Accept a Funding Offer the Same Day",
     excerpt: "FundLine is the business funding brokerage that empowers business owners to compare offers and accept funding the same day.",
     date: "July 14th 2026",
     cardDate: "Jul. 14 2026",
@@ -664,7 +664,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
     slug: "which-online-lenders-still-fund-businesses-under-two-years-old",
     kind: "blog",
     title: "Which Online Lenders Still Fund Businesses Under Two Years Old?",
-    excerpt: "Owners usually do not apply for financing because they want another administrative project.",
+    excerpt: "Business owners usually do not apply for financing because they want another administrative project.",
     date: "August 11th 2026",
     cardDate: "Aug. 11 2026",
     isoDate: "2026-08-11",
@@ -680,7 +680,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "Overview",
         paragraphs: [
           {
-            text: "Owners usually do not apply for financing because they want another administrative project. They apply because a supplier wants a deposit or a hire cannot wait. If your business is under two years old, the frustrating part is that the first three lenders you try will say the same thing: come back at twenty-four months. Plenty of lenders do not draw the line there. This post explains who they are and what they look at instead.",
+            text: "Business owners usually do not apply for financing because they want another administrative project. They apply because a supplier wants a deposit or a hire cannot wait. If your business is under two years old, the frustrating part is that the first three lenders you try will say the same thing: come back at twenty-four months. Plenty of lenders do not draw the line there. This post explains who they are and what they look at instead.",
           },
         ],
       },

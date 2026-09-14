@@ -36,7 +36,7 @@ export const ARTICLE_END_CTA = { label: "Start your application", href: LINKS.ap
 export const RAIL_CTA: RailCta = {
   button: { label: "Start application", href: LINKS.apply },
   helpText: "Not familiar with business lending or need guidance?",
-  helpLink: { label: "Apply now", href: LINKS.apply },
+  helpLink: { label: "Talk to a specialist", href: LINKS.contact },
 };
 
 export const RELATED_LABEL = "Related articles";
@@ -141,14 +141,14 @@ export const GUIDES_INDEX: IndexHeroContent = {
 
 export const NEWSROOM_INDEX: IndexHeroContent = {
   eyebrow: "FundLine Newsroom",
-  heading: "Company news and press releases.",
-  sub: "Announcements from FundLine Capital: funding, product launches and lender-network milestones. For media inquiries, email press@fundlinecapital.com.",
+  heading: "News from FundLine Capital.",
+  sub: "Funding rounds, product launches and lender-network milestones. For media inquiries, email press@fundlinecapital.com.",
 };
 
 export const UPDATES_INDEX: IndexHeroContent = {
   eyebrow: "Product updates",
   heading: "What changed in FundLine, month by month.",
-  sub: "New loan products, faster decisions and fixes, in the order we shipped them. Sign in to see the changes in your own dashboard.",
+  sub: "New loan products, faster decisions and fixes, in the order we shipped them.",
 };
 
 export const INDEX_LABELS = {
@@ -162,7 +162,6 @@ export const INDEX_CTA = {
   heading: "Ready to see real offers?",
   sub: "Fifteen minutes to apply. Offers from 75+ lenders. No impact to your credit score to check eligibility.",
   primary: { label: "Apply now", href: LINKS.apply },
-  secondary: { label: "Apply now", href: LINKS.apply },
 } as const;
 
 export const PRESS_CONTACT = {
@@ -187,14 +186,14 @@ export const PRODUCT_UPDATES: ProductUpdate[] = [
     tag: "Improved",
     title: "Read-only bank connection replaces statement uploads",
     description:
-      "Owners can now link a business checking account in about 30 seconds instead of uploading PDFs. Statement uploads remain available for lenders that require them.",
+      "Business owners can now link a business checking account in about 30 seconds instead of uploading PDFs. Statement uploads remain available for lenders that require them.",
   },
   {
     date: "Jul. 28 2026",
     tag: "New",
-    title: "Equipment financing offers inside the partner portal",
+    title: "Equipment financing offers in the application",
     description:
-      "Twelve equipment lenders joined the network. Owners can add a quote or invoice to an application and compare equipment offers next to term loans and lines.",
+      "Twelve equipment lenders joined the network. Business owners can add a quote or invoice to an application and compare equipment offers next to term loans and lines.",
   },
   {
     date: "Jun. 30 2026",
@@ -214,7 +213,7 @@ export const PRODUCT_UPDATES: ProductUpdate[] = [
     tag: "New",
     title: "Shareable application link",
     description:
-      "Owners can now send their in-progress application to a partner, bookkeeper or co-owner to finish, and every offer lands in one place.",
+      "Business owners can now send their in-progress application to a partner, bookkeeper or co-owner to finish, and every offer lands in one place.",
     href: "/apply",
   },
   {

@@ -318,7 +318,7 @@ const CONSTRUCTION: DetailPageContent = {
   stat: {
     value: "10%",
     label: "of every invoice held as retainage",
-    blurb: "Owners hold back 5 to 10 percent until closeout, on every pay application, on every job. Financing bridges the held cash so the next project mobilizes on time.",
+    blurb: "Business owners hold back 5 to 10 percent until closeout, on every pay application, on every job. Financing bridges the held cash so the next project mobilizes on time.",
   },
   features: {
     headingLine1: "Capital for draws,",

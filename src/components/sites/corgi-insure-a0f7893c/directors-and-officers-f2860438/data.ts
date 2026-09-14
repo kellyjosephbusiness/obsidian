@@ -214,7 +214,7 @@ export const READING = {
 export const READING_CARDS: ReadingCard[] = [
   { title: "5 Ways a Term Loan Secures Your Company's Next Stage", href: "/blog/term-loan-next-stage", source: "FundLine Blog", date: "March 16th 2026" },
   { title: "How Much Does Business Funding Really Cost by Stage?", href: "/blog/funding-cost-by-stage", source: "FundLine Blog", date: "March 18th 2026" },
-  { title: "Small Business Funding Guide for Owners", href: "/blog/funding-guide-for-owners", source: "FundLine Blog", date: "March 20th 2026" },
+  { title: "Funding Guide for Business Owners", href: "/blog/funding-guide-for-owners", source: "FundLine Blog", date: "March 20th 2026" },
   { title: "Term Loan Built for Growing Companies", href: "/blog/term-loan-for-growing-companies", source: "FundLine Blog", date: "March 22nd 2026" },
 ];
 

@@ -162,7 +162,7 @@ function StickyRail({ rail }: { rail: RailCta }) {
       <div className="sticky top-[116px] flex flex-col items-center gap-3 transition-[top] duration-300">
         <div className="flex w-[360px] flex-col overflow-hidden rounded-[8px] border border-[#e1e1e1]">
           <div className="relative h-[280px] overflow-hidden bg-white">
-            <div aria-hidden inert className="@container pointer-events-none absolute top-[-84px] left-[-118px] w-[500px] select-none">
+            <div aria-hidden inert className="@container pointer-events-none absolute top-0 left-0 w-full select-none">
               <FinancialFormMock />
             </div>
           </div>

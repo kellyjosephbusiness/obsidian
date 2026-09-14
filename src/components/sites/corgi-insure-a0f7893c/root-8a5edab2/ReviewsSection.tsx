@@ -7,7 +7,7 @@ import { REVIEWS, REVIEWS_HEADER } from "./data";
 
 
 /**
- * "100s of Happy Owners and Counting." — a horizontally scrolling list of review cards
+ * "100s of happy business owners and counting." — a horizontally scrolling list of review cards
  * (scroll-snap, drag/trackpad friendly) with previous/next buttons underneath and the
  * mascot hanging off the left edge like the product grid's flying dogs.
  */
