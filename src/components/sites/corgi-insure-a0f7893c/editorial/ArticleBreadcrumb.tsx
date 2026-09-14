@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ChevronRightIcon } from "@/components/sites/corgi-insure-a0f7893c/press-releases--series-b-f1aae1d8/icons";
+import { ChevronRightIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/EditorialIcons";
 import type { BreadcrumbItem } from "./types";
 
 /** Prop-driven variant of `PressBreadcrumb` (same 14px #4e4e4e trail with 14px chevrons). */

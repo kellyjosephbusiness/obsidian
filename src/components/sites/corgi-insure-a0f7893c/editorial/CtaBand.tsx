@@ -1,4 +1,4 @@
-import { ArrowRightIcon } from "@/components/sites/corgi-insure-a0f7893c/press-releases--series-b-f1aae1d8/icons";
+import { ArrowRightIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/EditorialIcons";
 import { PressableButton } from "@/components/sites/corgi-insure-a0f7893c/shared/PressableButton";
 
 export interface CtaBandProps {

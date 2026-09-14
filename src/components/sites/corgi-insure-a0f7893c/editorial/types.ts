@@ -49,7 +49,7 @@ export interface EditorialArticle {
   blocks: EditorialBlock[];
   /** The block id after which the dark inline CTA card renders. */
   inlineCtaAfter: string;
-  /** Hrefs of 2–4 related articles (any kind, including /newsroom/series-b). */
+  /** Hrefs of 2–4 related articles (any kind). */
   related: string[];
   /** Press releases end with a media-contact block. */
   mediaContact?: MediaContact;

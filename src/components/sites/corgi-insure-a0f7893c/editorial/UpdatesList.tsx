@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRightIcon } from "@/components/sites/corgi-insure-a0f7893c/press-releases--series-b-f1aae1d8/icons";
+import { ArrowRightIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/EditorialIcons";
 import { cn } from "@/lib/utils";
 import type { ProductUpdate } from "./types";
 

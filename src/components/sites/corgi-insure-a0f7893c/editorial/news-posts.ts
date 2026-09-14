@@ -15,7 +15,7 @@ export const NEWS_POSTS: EditorialArticle[] = [
     tags: ["Product launch"],
     thumbnail: { stat: "$500K", statLabel: "line of credit limit, same-day decision", footLead: "Now live:", footTail: " same-day decisions", footTitle: "Lines of credit" },
     inlineCtaAfter: "how-it-works",
-    related: ["/newsroom/series-b", "/blog/where-owners-can-accept-a-funding-offer-the-same-day", "/blog/line-of-credit-vs-term-loan-seasonal-cash-flow"],
+    related: ["/blog/where-owners-can-accept-a-funding-offer-the-same-day", "/blog/line-of-credit-vs-term-loan-seasonal-cash-flow"],
     mediaContact: { heading: "Media Contact", name: "Priya Nair", title: "Head of Communications", email: "press@fundlinecapital.com" },
     blocks: [
       {

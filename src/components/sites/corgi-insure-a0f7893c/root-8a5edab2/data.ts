@@ -115,7 +115,7 @@ export const NAV_MENUS: NavMenu[] = [
         title: "Learn",
         span: 1,
         items: [
-          { label: "Newsroom", icon: "newspaper", href: "/newsroom/series-b" },
+          { label: "Newsroom", icon: "newspaper", href: "/newsroom" },
           { label: "Small business guides", icon: "menu_book", href: "/guides" },
           { label: "Blog", icon: "edit", href: "/blog" },
           { label: "Loan calculators", icon: "calculate", href: "/calculators" },
@@ -690,7 +690,7 @@ export const FOOTER_COLUMNS: FooterColumn[] = [
     links: [
       { label: "About", href: "/about" },
       { label: "Careers", href: "/careers" },
-      { label: "Newsroom", href: "/newsroom/series-b" },
+      { label: "Newsroom", href: "/newsroom" },
       { label: "FundLine reviews", href: "/reviews" },
       { label: "Customer stories", href: LINKS.customers },
     ],

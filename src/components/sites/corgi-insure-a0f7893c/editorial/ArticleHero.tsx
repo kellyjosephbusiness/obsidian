@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowLeftIcon } from "@/components/sites/corgi-insure-a0f7893c/press-releases--series-b-f1aae1d8/icons";
+import { ArrowLeftIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/EditorialIcons";
 import { FundLineMark } from "@/components/sites/corgi-insure-a0f7893c/shared/FundLineLogo";
 import type { ArticleThumbnail } from "./types";
 

@@ -41,7 +41,7 @@ export const RAIL_CTA: RailCta = {
 
 export const RELATED_LABEL = "Related articles";
 
-/** All articles keyed by href, plus the already-built Series B press release as a card only. */
+/** All articles keyed by href. */
 export const ALL_ARTICLES: EditorialArticle[] = [...BLOG_POSTS, ...GUIDES, ...NEWS_POSTS];
 
 export function articleHref(article: EditorialArticle): string {
@@ -88,20 +88,8 @@ export function toTaggedCard(article: EditorialArticle): TaggedArticleCard {
   return { ...toCard(article), tags: article.tags };
 }
 
-/** The Series B release lives in its own folder; it appears in the newsroom index and as a related card. */
-export const SERIES_B_CARD: ArticleCard = {
-  date: "May 7 2026",
-  readTime: "4 min read",
-  title: "FundLine Capital Raises $160M Series B at $1.3B Valuation",
-  excerpt: "New funding supports a broader lender network, partner tools and the funding team behind every application.",
-  author: "FundLine Capital",
-  href: "/newsroom/series-b",
-  coverIcon: "rocket_launch",
-};
-
 const CARDS_BY_HREF = new Map<string, ArticleCard>([
   ...ALL_ARTICLES.map((article): [string, ArticleCard] => [articleHref(article), toCard(article)]),
-  [SERIES_B_CARD.href, SERIES_B_CARD],
 ]);
 
 export function relatedCards(article: EditorialArticle): ArticleCard[] {

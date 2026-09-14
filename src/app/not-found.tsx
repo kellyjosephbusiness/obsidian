@@ -12,7 +12,7 @@ const SHORTCUTS = [
   { label: "Startup loans", href: "/startup-loans" },
   { label: "Funding for AI companies", href: "/industry/ai" },
   { label: "Line of credit", href: "/line-of-credit" },
-  { label: "Newsroom", href: "/newsroom/series-b" },
+  { label: "Newsroom", href: "/newsroom" },
 ];
 
 /** Branded fallback for routes that are linked but not built yet. */

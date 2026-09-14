@@ -1,4 +1,4 @@
-import { LinkedInIcon, XIcon } from "@/components/sites/corgi-insure-a0f7893c/press-releases--series-b-f1aae1d8/icons";
+import { LinkedInIcon, XIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/EditorialIcons";
 import { BYLINE_SOCIAL } from "./data";
 
 const ICONS = { linkedin: LinkedInIcon, x: XIcon } as const;
