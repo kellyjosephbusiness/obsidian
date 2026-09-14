@@ -40,11 +40,11 @@ interface Flick {
 function CoverageCard({ coverage }: { coverage: SpecializedCoverage }) {
   return (
     <div
-      className="flex flex-col overflow-hidden rounded-[24px] border border-[#e1e1e1] bg-[#f6f6f6]"
+      className="flex flex-col overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-[#f6f6f6]"
       style={{ width: `${CARD_WIDTH}px`, height: `${CARD_HEIGHT}px` }}
     >
       <div className="flex w-full flex-col gap-3 border-[#e1e1e1] border-b bg-white p-3">
-        <div className="flex min-h-[24px] w-fit items-center justify-center rounded-[12px] border border-[#e1e1e1] bg-[#f6f6f6] px-2 py-1">
+        <div className="flex min-h-[24px] w-fit items-center justify-center rounded-[4px] border border-[#e1e1e1] bg-[#f6f6f6] px-2 py-1">
           <span className="text-[12px] text-[#4a4a4a] leading-[1.2] tracking-[-0.18px]">{POLICIES_HEADER.turnaround}</span>
         </div>
         <h4 className="font-mono text-[#191919] text-[18px] md:text-[20px] leading-none tracking-[-0.64px]">{coverage.title}</h4>
@@ -160,7 +160,7 @@ export function SpecializedCoveragesStack({ coverages = SPECIALIZED_COVERAGES }:
   };
 
   return (
-    <div className="group flex aspect-[344/308] flex-col self-start overflow-hidden rounded-[24px] border border-[#e1e1e1] bg-white">
+    <div className="group flex aspect-[344/308] flex-col self-start overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-white">
       <div
         ref={stageRef}
         aria-hidden
