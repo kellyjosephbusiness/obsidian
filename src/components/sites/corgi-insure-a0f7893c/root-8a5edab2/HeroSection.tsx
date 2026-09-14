@@ -94,7 +94,7 @@ export function HeroSection() {
             </PressableButton>
 
             {/* Hand (decorative dithered illustration) */}
-            <div aria-hidden className="pointer-events-none absolute bottom-[-40px] left-[-72px] h-[160px] w-[212px] -rotate-[18deg] [mask-image:linear-gradient(to_bottom,black_45%,transparent_88%)] sm:bottom-[-24px] sm:left-[-64px] sm:h-[180px] sm:w-[238px] md:bottom-[-16px] md:left-[-56px] md:h-[241px] md:w-[318px] md:rotate-0">
+            <div aria-hidden className="pointer-events-none absolute bottom-[-14px] left-[-54px] h-[152px] w-[200px] -rotate-[22deg] [mask-image:linear-gradient(to_bottom,black_45%,transparent_88%)] sm:bottom-[-16px] sm:left-[-70px] sm:h-[180px] sm:w-[238px] md:bottom-[-18px] md:left-[-104px] md:h-[241px] md:w-[318px] md:-rotate-[24deg]">
               <div aria-hidden className="absolute inset-0">
                 <SlicedImage src={HAND_SRC} alt="" />
               </div>
