@@ -56,7 +56,7 @@ export const NEWS_POSTS: EditorialArticle[] = [
         heading: "Leadership",
         paragraphs: [
           {
-            text: "\"A line of credit is the product owners reach for when something has to happen this week, and the old timeline made no sense for it,\" said Maya Chen, co-founder and CEO of FundLine Capital. \"The data lenders need already exists in a bank account. We built the connection, the lenders built the models, and the waiting disappeared.\"",
+            text: "\"A line of credit is the product business owners reach for when something has to happen this week, and the old timeline made no sense for it,\" said Maya Chen, co-founder and CEO of FundLine Capital. \"The data lenders need already exists in a bank account. We built the connection, the lenders built the models, and the waiting disappeared.\"",
           },
           {
             text: "\"Same-day decisions are the standard we want for every product we broker,\" said Daniel Okoro, co-founder and COO. \"Lines of credit are first because they are decided almost entirely on cash flow. Short-term term loans are next, and we expect to bring equipment financing into the program before the end of the year.\"",
@@ -68,7 +68,7 @@ export const NEWS_POSTS: EditorialArticle[] = [
         tocLabel: "Availability",
         heading: "Availability",
         paragraphs: [
-          { text: "Same-day decisions are available now to owners in all states where FundLine operates, for lines of credit up to $500,000. Owners can apply at fundlinecapital.com or through FundLine's broker and ISO partner portal. Existing FundLine customers with an open line are not affected; their lenders will contact them directly about any changes to draw processing times." },
+          { text: "Same-day decisions are available now to business owners in all states where FundLine operates, for lines of credit up to $500,000. Owners can apply at fundlinecapital.com or through FundLine's broker and ISO partner portal. Existing FundLine customers with an open line are not affected; their lenders will contact them directly about any changes to draw processing times." },
         ],
       },
       {
@@ -76,7 +76,7 @@ export const NEWS_POSTS: EditorialArticle[] = [
         tocLabel: "About FundLine",
         heading: "About FundLine Capital",
         paragraphs: [
-          { text: "FundLine Capital is an business funding brokerage built for small businesses. With one application, owners receive offers from a network of more than 75 lenders, compare real terms side by side, and accept the one that fits, with no impact to their credit score to apply. The company has matched more than $1.2 billion in funding to over 12,000 businesses and is headquartered in San Francisco." },
+          { text: "FundLine Capital is a business funding brokerage built for small businesses. With one application, business owners receive offers from a network of more than 75 lenders, compare real terms side by side, and accept the one that fits, with no impact to their credit score to apply. The company has matched more than $1.2 billion in funding to over 12,000 businesses and is headquartered in San Francisco." },
         ],
       },
     ],

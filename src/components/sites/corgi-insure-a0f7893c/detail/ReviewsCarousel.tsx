@@ -71,7 +71,7 @@ export function ReviewsCarousel({ reviews }: { reviews: DetailPageContent["revie
           <span className="text-[13px] text-[#4a4a4a]">{reviews.countLabel}</span>
           <span className="flex items-center gap-1.5 text-[14px] font-medium text-[#191919]">
             <MaterialIcon name="verified" size={18} className="text-[#1e3a8a]" />
-            FundLine owner reviews
+            FundLine business owner reviews
           </span>
         </div>
         <div className="flex min-w-0 flex-col gap-4">

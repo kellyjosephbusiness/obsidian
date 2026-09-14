@@ -47,7 +47,7 @@ export const ANNOUNCEMENT = {
 const HIGHLIGHTS: NavMenu["highlights"] = [
   {
     title: "Talk to a specialist",
-    description: "For owners who want a guided funding plan.",
+    description: "For business owners who want a guided funding plan.",
     href: LINKS.apply,
     image: "/sites/corgi-insure-a0f7893c/shared/art/nav/specialist.png",
     imageAlt: "Talk to a funding specialist",
@@ -155,7 +155,7 @@ export const HERO = {
 /** Replaces the customer-logo strip: a ticker of proof points rendered as text. */
 export const HERO_TICKER: HeroTickerItem[] = [
   { value: "24 hrs", label: "fastest time to funding" },
-  { value: "4.8★", label: "average owner rating" },
+  { value: "4.8★", label: "average business owner rating" },
   { value: "75+", label: "lenders in our network" },
   { value: "$1.2B+", label: "matched to small businesses" },
   { value: "12K+", label: "businesses funded" },
@@ -165,7 +165,7 @@ export const HERO_TICKER: HeroTickerItem[] = [
 
 export const INTRO = {
   accent: "FundLine Capital",
-  rest: " is a small business funding brokerage built for owners who don’t have time to wait. That means one application, offers from multiple lenders, and a funding team that knows your industry.",
+  rest: " is a small business funding brokerage built for business owners who don’t have time to wait. That means one application, offers from multiple lenders, and a funding team that knows your industry.",
   quoteCard: "Get funded!",
   quoteHref: LINKS.apply,
   ellipse: `${ASSETS}/images/journey-hero/ellipse.svg`,
@@ -292,7 +292,7 @@ export const ADVANTAGE = {
   },
   corgi: {
     title: "FundLine Capital",
-    descriptionBefore: "FundLine Capital is the small business funding brokerage built for owners in a hurry. FundLine is faster, more transparent, and built to get you a yes because ",
+    descriptionBefore: "FundLine Capital is the small business funding brokerage built for business owners in a hurry. FundLine is faster, more transparent, and built to get you a yes because ",
     descriptionStrong: "we are one application",
     descriptionAfter:
       ". We take that one application, shop it to the lenders that fit your business, and bring back real offers in days so you can pick the terms that work.",
@@ -354,7 +354,7 @@ export interface Review {
 }
 
 export const REVIEWS_HEADER = {
-  headingLine1: "100s of happy owners",
+  headingLine1: "100s of happy business owners",
   headingLine2: "and counting.",
 } as const;
 
@@ -372,7 +372,7 @@ export const REVIEWS: Review[] = [
 
 export const TESTIMONIALS_HEADER = {
   headingBefore: "Built for ",
-  headingItalic: "owners",
+  headingItalic: "business owners",
   headingAfter: "who build",
   sub: "Why small businesses get funded with FundLine Capital.",
   cta: { label: "Read customer stories", href: LINKS.customers },
@@ -451,7 +451,7 @@ export const TESTIMONIALS: Testimonial[] = [
     company: "Haddad Dental Group",
   },
   {
-    quote: "Kudos to the team for building this from the ground up. It’s the first financing experience that felt like it was designed for owners, not banks.",
+    quote: "Kudos to the team for building this from the ground up. It’s the first financing experience that felt like it was designed for business owners, not banks.",
     author: "Owen Gallagher",
     photo: 8,
     role: "Managing Partner @ Gallagher Construction",
@@ -620,7 +620,7 @@ export const FAQ: FaqItem[] = [
   {
     question: "How fast can I actually get funded?",
     answerHtml:
-      "Most owners complete the FundLine application in about 15 minutes and see offers within a few days. Once you accept an offer, many lenders can fund in as little as 24 hours. No branch visits, no waiting on email threads, no phone calls unless you want one.",
+      "Most business owners complete the FundLine application in about 15 minutes and see offers within a few days. Once you accept an offer, many lenders can fund in as little as 24 hours. No branch visits, no waiting on email threads, no phone calls unless you want one.",
   },
   {
     question: "Which financing do I actually need?",
@@ -650,7 +650,7 @@ export const FAQ: FaqItem[] = [
 ];
 
 export const FOOTER_CTA = {
-  headingLine1: "FundLine Capital provides the funding built for owners.",
+  headingLine1: "FundLine Capital provides the funding built for business owners.",
   headingLine2: "Move fast. Grow things. Stay funded, under one roof.",
   corgis: [
     { alt: "FundLine bull in a suit", src: `${ASSETS}/images/mascot/bull-fly-right.png`, flip: false },
@@ -668,7 +668,7 @@ export const FOOTER_CTA = {
 export const FOOTER_STATS: FooterStat[] = [
   { value: "75+", label: "lenders in our network", caption: "Banks, credit unions, and online funders." },
   { value: "12K+", label: "businesses funded", caption: "Across 40+ industries nationwide." },
-  { value: "4.8★", label: "average owner rating", caption: "Based on verified customer reviews." },
+  { value: "4.8★", label: "average business owner rating", caption: "Based on verified customer reviews." },
   { value: "$1.2B+", label: "matched to small businesses", caption: "Through our lender network since 2011." },
   { value: "24 hrs", label: "fastest time to funding", caption: "From accepted offer to money in the bank." },
   { value: "15 min", label: "to complete an application", caption: "One form, no impact to your credit score." },

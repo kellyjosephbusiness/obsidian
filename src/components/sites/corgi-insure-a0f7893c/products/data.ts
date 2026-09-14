@@ -37,7 +37,7 @@ export const LOAN_TYPES_HERO: HeroContent = {
 
 export const LOAN_TYPES_PRODUCTS_HEADER = {
   heading: "All financing types",
-  sub: "Start with the eight products most owners use, then scroll on for the industry and stage-specific programs.",
+  sub: "Start with the eight products most business owners use, then scroll on for the industry and stage-specific programs.",
 } as const;
 
 export const SPECIALTY_PROGRAMS_HEADER = {
@@ -199,7 +199,7 @@ export const LOAN_TYPES_FAQ: FaqItem[] = [
   {
     question: "Can I combine more than one product?",
     answerHtml:
-      "Yes, and many owners do. A common pairing is a term loan for a one-time project plus a line of credit for day-to-day swings. Lenders will look at total debt service, so we help you size the combination so payments stay comfortable.",
+      "Yes, and many business owners do. A common pairing is a term loan for a one-time project plus a line of credit for day-to-day swings. Lenders will look at total debt service, so we help you size the combination so payments stay comfortable.",
   },
   {
     question: "What do lenders in the network require?",

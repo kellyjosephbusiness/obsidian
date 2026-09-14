@@ -134,7 +134,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
       link: BOOK_CALL,
     },
     reviews: {
-      heading: "What owners say about their term loans",
+      heading: "What business owners say about their term loans",
       ...REVIEWS_HEADER,
       items: [
         { title: "Second location, funded in a week", body: "We had a lease signed and no cash for the build-out. Three offers in four days, money in six. The new shop opened on schedule.", author: "Marisol" },
@@ -150,7 +150,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
       items: [
         { question: "How much can I borrow with a term loan?", answer: "Term loans through the FundLine network run from $5,000 to $5,000,000. The amount a lender offers depends on your monthly revenue, time in business and credit profile. Most first-time borrowers land between $25K and $250K." },
         { question: "What terms and rates should I expect?", answer: "Terms run from 6 to 60 months. Fixed APRs in our network start around 7.99% for the strongest files and run higher for newer businesses or thinner credit. Every offer shows APR, so you compare on the same basis." },
-        { question: "How fast can a term loan fund?", answer: "Most owners see offers within one to three business days of applying. Once you accept and sign, many lenders wire the same or next business day. Larger loans over $500K can take a week while the lender verifies financials." },
+        { question: "How fast can a term loan fund?", answer: "Most business owners see offers within one to three business days of applying. Once you accept and sign, many lenders wire the same or next business day. Larger loans over $500K can take a week while the lender verifies financials." },
         { question: "Who qualifies for a term loan?", answer: "Most programs want at least 12 months in business, $10,000 or more in average monthly revenue and a personal credit score of 600 or higher. Stronger numbers unlock lower rates and longer terms. Newer businesses are usually routed to a line of credit or starter program instead." },
         { question: "Does applying affect my credit score?", answer: "No. Submitting an application to FundLine does not affect your personal credit score. If you accept an offer, the lender may run a hard inquiry, which they disclose before you proceed." },
         { question: "What can I use a term loan for?", answer: "Anything with a known, one-time cost: a build-out, a large inventory order, new equipment, hiring ahead of a contract, an acquisition or refinancing an expensive advance. Lenders ask the purpose, but most do not restrict it." },
@@ -306,7 +306,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
       link: BOOK_CALL,
     },
     reviews: {
-      heading: "What owners say about their lines",
+      heading: "What business owners say about their lines",
       ...REVIEWS_HEADER,
       items: [
         { title: "Payroll never sweats now", body: "Our biggest customer pays net-60. The line covers payroll in the gap and I pay it back the day their check lands. Simple.", author: "Renee" },
@@ -408,7 +408,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     stat: {
       value: "10–25 yrs",
       label: "repayment terms on SBA 7(a) and 504 loans",
-      blurb: "Longer terms mean a $500K loan can carry a payment closer to a lease than a loan, which is why owners wait for SBA.",
+      blurb: "Longer terms mean a $500K loan can carry a payment closer to a lease than a loan, which is why business owners wait for SBA.",
     },
     features: {
       headingLine1: "Worth the wait",
@@ -478,7 +478,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
       link: BOOK_CALL,
     },
     reviews: {
-      heading: "What owners say about their SBA loans",
+      heading: "What business owners say about their SBA loans",
       ...REVIEWS_HEADER,
       items: [
         { title: "Bought our building", body: "SBA 504, 25-year term, 10% down. Our mortgage is less than the rent was. FundLine handled the two-lender structure entirely.", author: "Gloria" },
@@ -508,7 +508,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
       {
         icon: "payments",
         heading: "Can't wait 60 days?",
-        body: "A term loan funds in days instead of months. Many owners take one now and refinance into SBA later.",
+        body: "A term loan funds in days instead of months. Many business owners take one now and refinance into SBA later.",
         cta: { label: "Explore term loans", href: "/term-loans" },
         tone: "light",
       },
@@ -651,7 +651,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
       link: BOOK_CALL,
     },
     reviews: {
-      heading: "What owners say about equipment financing",
+      heading: "What business owners say about equipment financing",
       ...REVIEWS_HEADER,
       items: [
         { title: "Truck rolling in 3 days", body: "Sent the dealer quote Monday, lender paid the dealer Wednesday, driver was hauling Thursday. Zero down.", author: "Luis" },
@@ -823,7 +823,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
       link: BOOK_CALL,
     },
     reviews: {
-      heading: "What owners say about invoice financing",
+      heading: "What business owners say about invoice financing",
       ...REVIEWS_HEADER,
       items: [
         { title: "Payroll every Friday, no stress", body: "We staff 60 temps and bill net-45. Advances hit Thursday, payroll clears Friday. The facility scaled with us from $80K to $300K.", author: "Teresa" },
@@ -953,7 +953,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
       icon: "sync",
       heading: "Already carrying an advance?",
       boldLead: "Refinancing may cut the daily hit in half.",
-      body: "Many owners with six months of on-time advance payments now qualify for a term loan or line of credit at a fraction of the cost. Your specialist will tell you if you're one of them before placing another advance.",
+      body: "Many business owners with six months of on-time advance payments now qualify for a term loan or line of credit at a fraction of the cost. Your specialist will tell you if you're one of them before placing another advance.",
       cta: { label: "See how refinancing works", href: "/term-loans" },
     },
     steps: {
@@ -995,7 +995,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
       link: BOOK_CALL,
     },
     reviews: {
-      heading: "What owners say about their advances",
+      heading: "What business owners say about their advances",
       ...REVIEWS_HEADER,
       items: [
         { title: "Funded before the weekend", body: "Walk-in freezer died Wednesday. Applied that afternoon, $25K in the account Thursday, new unit installed Friday. Saved the weekend.", author: "Marco" },
@@ -1098,12 +1098,12 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     stat: {
       value: "10%",
       label: "down on most owner-occupied purchases through SBA 504",
-      blurb: "Conventional commercial mortgages usually want 20% to 30% down. SBA-backed structures cut that in half for qualifying owners.",
+      blurb: "Conventional commercial mortgages usually want 20% to 30% down. SBA-backed structures cut that in half for qualifying business owners.",
     },
     features: {
       headingLine1: "Rent becomes equity.",
       headingLine2: "Payments stay predictable.",
-      sub: "A commercial mortgage is the largest loan most owners will take. Here is how we structure the ones we place.",
+      sub: "A commercial mortgage is the largest loan most business owners will take. Here is how we structure the ones we place.",
       cards: [
         {
           icon: "apartment",
@@ -1168,7 +1168,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
       link: BOOK_CALL,
     },
     reviews: {
-      heading: "What owners say about their property loans",
+      heading: "What business owners say about their property loans",
       ...REVIEWS_HEADER,
       items: [
         { title: "Bought the shop we rented", body: "Fifteen years of rent and the landlord wanted to sell. SBA 504 through FundLine, 10% down, closed in 68 days. Payment is less than rent.", author: "Ernesto" },
@@ -1341,7 +1341,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
       link: BOOK_CALL,
     },
     reviews: {
-      heading: "What owners say about their business cards",
+      heading: "What business owners say about their business cards",
       ...REVIEWS_HEADER,
       items: [
         { title: "First credit for my LLC", body: "Eight months in business, no business credit. FundLine matched me with an issuer that approved a $10K limit. Now I have a file.", author: "Alicia" },

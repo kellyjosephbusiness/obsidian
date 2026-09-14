@@ -74,7 +74,7 @@ export const STAGE_PACKAGES: StagePackage[] = [
     id: "growing",
     bestFor: "Businesses with steady revenue adding people, inventory, or a second location.",
     description:
-      "Designed for fast-growing companies, this package scales with your revenue. It adds a term loan for one-time investments like a build-out or a large order, invoice financing to unlock cash tied up in receivables, and an SBA 7(a) option for owners who can plan ahead for lower rates. Fund your next hire and your next customer at the same time as you scale.",
+      "Designed for fast-growing companies, this package scales with your revenue. It adds a term loan for one-time investments like a build-out or a large order, invoice financing to unlock cash tied up in receivables, and an SBA 7(a) option for business owners who can plan ahead for lower rates. Fund your next hire and your next customer at the same time as you scale.",
     title: "Growing",
     tagline: "Capital to add locations, inventory, and people",
     art: {
@@ -99,7 +99,7 @@ export const STAGE_PACKAGES: StagePackage[] = [
     id: "established",
     bestFor: "Established businesses with large teams, several locations, or an acquisition ahead.",
     description:
-      "Our most complete funding bundle for established owners and scale-ups. This plan offers the highest limits, including commercial real estate loans to buy or refinance the property you operate from and SBA-backed terms for major expansions. Finance acquisitions, new markets, and larger inventory positions with offers from lenders who specialize in bigger deals.",
+      "Our most complete funding bundle for established business owners and scale-ups. This plan offers the highest limits, including commercial real estate loans to buy or refinance the property you operate from and SBA-backed terms for major expansions. Finance acquisitions, new markets, and larger inventory positions with offers from lenders who specialize in bigger deals.",
     title: "Established",
     tagline: "Bigger limits for property, acquisitions, and scale",
     art: {
@@ -212,7 +212,7 @@ export const STARTUP_FAQ: FaqItem[] = [
   {
     question: "How quickly can I get funded?",
     answerHtml:
-      "Most owners complete the FundLine application in about 15 minutes and see offers within a few days. Once you accept an offer, many lenders can fund in as little as 24 hours. Our marketplace replaces the traditional 2-4 week bank underwriting cycle, so you can get funded before your next big decision.",
+      "Most business owners complete the FundLine application in about 15 minutes and see offers within a few days. Once you accept an offer, many lenders can fund in as little as 24 hours. Our marketplace replaces the traditional 2-4 week bank underwriting cycle, so you can get funded before your next big decision.",
   },
   {
     question: "What makes FundLine different from a bank?",

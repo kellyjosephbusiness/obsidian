@@ -130,7 +130,7 @@ export function tagsOfKind(kind: ArticleKind): string[] {
 export const BLOG_INDEX: IndexHeroContent = {
   eyebrow: "FundLine Blog",
   heading: "Straight answers on small business funding.",
-  sub: "How lenders decide, what financing really costs, and how to get to a yes faster. Written by the FundLine team for owners who do not have time to wait.",
+  sub: "How lenders decide, what financing really costs, and how to get to a yes faster. Written by the FundLine team for business owners who do not have time to wait.",
 };
 
 export const GUIDES_INDEX: IndexHeroContent = {
@@ -222,7 +222,7 @@ export const PRODUCT_UPDATES: ProductUpdate[] = [
     tag: "Improved",
     title: "Faster document requests",
     description:
-      "When a lender needs one more document, owners now get a single checklist in the dashboard and by text instead of separate emails from each lender.",
+      "When a lender needs one more document, business owners now get a single checklist in the dashboard and by text instead of separate emails from each lender.",
   },
   {
     date: "Mar. 5 2026",

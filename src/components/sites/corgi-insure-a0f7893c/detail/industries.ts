@@ -1210,7 +1210,7 @@ const RESTAURANTS: DetailPageContent = {
       },
       {
         tag: "Blog",
-        title: "Where owners can accept an offer the same day",
+        title: "Where business owners can accept an offer the same day",
         body: "Which products move at kitchen speed, and what to have ready so they do.",
         href: "/blog/where-owners-can-accept-a-funding-offer-the-same-day",
         icon: "bolt",
@@ -2091,7 +2091,7 @@ const PROFESSIONAL_SERVICES: DetailPageContent = {
       {
         question: "We have no physical assets. Can we still borrow?",
         answer:
-          "Yes. Most working-capital products are unsecured or secured by receivables, not equipment. Lenders focus on revenue consistency, client quality, time in business and the owners' credit profile.",
+          "Yes. Most working-capital products are unsecured or secured by receivables, not equipment. Lenders focus on revenue consistency, client quality, time in business and the business owners' credit profile.",
       },
       {
         question: "Can we finance against retainers and unpaid invoices?",
@@ -2111,7 +2111,7 @@ const PROFESSIONAL_SERVICES: DetailPageContent = {
       {
         question: "Can partners apply without personally guaranteeing the loan?",
         answer:
-          "Most small-business products ask for a personal guarantee from owners with a meaningful stake. Larger firms with strong financials sometimes qualify for guarantee-free products; each offer states its requirements before you accept, and we flag them.",
+          "Most small-business products ask for a personal guarantee from business owners with a meaningful stake. Larger firms with strong financials sometimes qualify for guarantee-free products; each offer states its requirements before you accept, and we flag them.",
       },
       {
         question: "Can we finance an acquisition or a partner buyout?",
@@ -2166,8 +2166,8 @@ const PROFESSIONAL_SERVICES: DetailPageContent = {
       },
       {
         tag: "Blog",
-        title: "A funding guide for owners",
-        body: "The plain-language overview of every product, written for owners who bill by the hour.",
+        title: "A funding guide for business owners",
+        body: "The plain-language overview of every product, written for business owners who bill by the hour.",
         href: "/blog/funding-guide-for-owners",
         icon: "work",
       },

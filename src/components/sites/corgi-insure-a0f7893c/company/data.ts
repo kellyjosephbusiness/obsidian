@@ -66,8 +66,8 @@ export const ABOUT_META: CompanyMeta = {
 
 export const ABOUT_HERO: CompanyHeroContent = {
   eyebrow: "About FundLine",
-  headingLine1: "Built by owners,",
-  headingLine2: "for owners.",
+  headingLine1: "Built by business owners,",
+  headingLine2: "for business owners.",
   sub: "FundLine Capital is a funding brokerage. One application, real offers from 75+ lenders, and a specialist who picks up the phone. We started it because borrowing for a small business should not take a month.",
   primary: APPLY,
   secondary: { label: "Meet the team", href: "#leadership" },
@@ -163,22 +163,22 @@ export const CAREERS_META: CompanyMeta = {
 
 export const CAREERS_HERO: CompanyHeroContent = {
   eyebrow: "Careers",
-  headingLine1: "Help owners",
+  headingLine1: "Help business owners",
   headingLine2: "get funded.",
-  sub: "We are 84 people across six offices and a lot of kitchen tables. Every week we help hundreds of owners get a yes that used to take a month. Come build the next part.",
+  sub: "We are 84 people across six offices and a lot of kitchen tables. Every week we help hundreds of business owners get a yes that used to take a month. Come build the next part.",
   primary: { label: "See open roles", href: "#open-roles" },
   secondary: { label: "Meet the team", href: "/about#leadership" },
 };
 
 export const CAREERS_VALUES_HEADER = {
   heading: "What it is like here",
-  sub: "Small teams, real owners on the phone, and a bias for shipping.",
+  sub: "Small teams, real business owners on the phone, and a bias for shipping.",
 } as const;
 
 export const CAREERS_VALUES: IconCard[] = [
   { icon: "rocket_launch", title: "Ship weekly", description: "Product, credit and specialist teams release together every Thursday. Nothing waits for a quarter." },
-  { icon: "call", title: "Talk to owners", description: "Everyone, engineers included, listens to two funding calls a month. It is the fastest way to learn what matters." },
-  { icon: "flag", title: "Own the outcome", description: "You will be measured on funded owners and honest offers, not tickets closed or leads logged." },
+  { icon: "call", title: "Talk to business owners", description: "Everyone, engineers included, listens to two funding calls a month. It is the fastest way to learn what matters." },
+  { icon: "flag", title: "Own the outcome", description: "You will be measured on funded business owners and honest offers, not tickets closed or leads logged." },
   { icon: "self_improvement", title: "Stay humble", description: "We have been wrong about lenders, pricing and products. Say so early, fix it, write it down." },
 ];
 
@@ -263,7 +263,7 @@ export const SUPPORT_CARDS: InfoCard[] = [
   {
     icon: "mail",
     title: "Email",
-    lines: ["support@fundlinecapital.com for owners", "press@fundlinecapital.com for media"],
+    lines: ["support@fundlinecapital.com for business owners", "press@fundlinecapital.com for media"],
     link: { label: "Email support", href: "mailto:support@fundlinecapital.com" },
   },
   {
@@ -425,7 +425,7 @@ export const HOW_STEPS: ProcessStep[] = [
 
 export const HOW_TIMELINE_HEADER = {
   heading: "A typical week",
-  sub: "Most owners go from first click to money in the bank inside three business days.",
+  sub: "Most business owners go from first click to money in the bank inside three business days.",
 } as const;
 
 export const HOW_TIMELINE: TimelineItem[] = [
@@ -439,8 +439,8 @@ export const HOW_TIMELINE: TimelineItem[] = [
 export const HOW_FAQ: FaqItem[] = [
   { question: "What do I need to apply?", answerHtml: "Basic business details, the last three to six months of bank statements (connect read-only or upload PDFs), and the owner's contact information. Tax returns help for loans over $250K but are not required to start." },
   { question: "How many offers will I get?", answerHtml: "It depends on the business. Owners with 12+ months in business and $10K+ monthly revenue usually see three to six offers. Newer businesses see fewer, but we will tell you what would change that." },
-  { question: "Is there a cost to apply or compare?", answerHtml: "No. FundLine is free for owners. We are paid by the lender when a loan funds, and that fee never changes the rate you are offered." },
-  { question: "Do I have to accept an offer?", answerHtml: "Never. Many owners apply just to see what is available. Offers stay open for 7 to 30 days depending on the lender." },
+  { question: "Is there a cost to apply or compare?", answerHtml: "No. FundLine is free for business owners. We are paid by the lender when a loan funds, and that fee never changes the rate you are offered." },
+  { question: "Do I have to accept an offer?", answerHtml: "Never. Many business owners apply just to see what is available. Offers stay open for 7 to 30 days depending on the lender." },
   { question: "What if I do not qualify yet?", answerHtml: "A specialist will tell you exactly why and what to work on: time in business, revenue, credit or paperwork. Reapply whenever you are ready; your documents stay on file for 13 months." },
   { question: "How fast is fast?", answerHtml: "Lines of credit and short-term loans have funded within 24 hours of an accepted offer. SBA loans and commercial real estate take longer, typically two to eight weeks, and we tell you that up front." },
 ];
@@ -457,14 +457,14 @@ export const HOW_CTA: CtaBandContent = {
 
 export const REVIEWS_META: CompanyMeta = {
   title: "FundLine Capital Reviews | Rated 4.8 by Business Owners",
-  description: "Read what owners say about applying, comparing offers and getting funded through FundLine Capital. 4.8 out of 5 across 2,140 verified reviews.",
+  description: "Read what business owners say about applying, comparing offers and getting funded through FundLine Capital. 4.8 out of 5 across 2,140 verified reviews.",
 };
 
 export const REVIEWS_HERO: CompanyHeroContent = {
   eyebrow: "Reviews",
   headingLine1: "Rated 4.8",
-  headingLine2: "by owners.",
-  sub: "Every review below is from an owner who applied, compared offers and told us how it went. We publish the ones that are hard to read too.",
+  headingLine2: "by business owners.",
+  sub: "Every review below is from a business owner who applied, compared offers and told us how it went. We publish the ones that are hard to read too.",
   primary: APPLY,
 };
 
@@ -504,7 +504,7 @@ export const REVIEW_ENTRIES: ReviewEntry[] = [
 ];
 
 export const REVIEWS_GRID_HEADER = {
-  heading: "What owners say",
+  heading: "What business owners say",
   sub: "Twelve recent reviews across term loans, lines of credit, equipment financing and more.",
 } as const;
 
@@ -520,12 +520,12 @@ export const REVIEWS_CTA: CtaBandContent = {
 
 export const STORIES_META: CompanyMeta = {
   title: "Customer Stories | FundLine Capital",
-  description: "Eleven owners, eleven loans, and what the money did: payroll made, trucks bought, locations opened. Real funding stories from FundLine Capital.",
+  description: "Eleven business owners, eleven loans, and what the money did: payroll made, trucks bought, locations opened. Real funding stories from FundLine Capital.",
 };
 
 export const STORIES_HERO: CompanyHeroContent = {
   eyebrow: "Customer stories",
-  headingLine1: "Real owners.",
+  headingLine1: "Real business owners.",
   headingLine2: "Real funding.",
   sub: "Eleven businesses, what they borrowed, and what it did. Amounts are rounded and names are used with permission.",
   primary: APPLY,
@@ -644,7 +644,7 @@ export const APPLY_FIELDS = {
   submit: "Submit application",
   done: {
     title: "Application received.",
-    body: "We are matching it against 75+ lenders now. Most owners see their first offers within the hour, and a funding specialist will reach out by phone or email to walk you through them.",
+    body: "We are matching it against 75+ lenders now. Most business owners see their first offers within the hour, and a funding specialist will reach out by phone or email to walk you through them.",
     reference: "Reference",
     action: { label: "Back to home", href: "/" },
     secondary: BOOK,

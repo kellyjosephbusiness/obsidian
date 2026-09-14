@@ -197,7 +197,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
     readTime: "8 min read",
     ...BYLINES.jordan,
     tags: ["Getting started"],
-    thumbnail: { stat: "15 min", statLabel: "to complete one application", footLead: "Guide:", footTail: " funding basics for owners", footTitle: "Owner's guide" },
+    thumbnail: { stat: "15 min", statLabel: "to complete one application", footLead: "Guide:", footTail: " funding basics for business owners", footTitle: "Owner's guide" },
     inlineCtaAfter: "apply-once",
     related: ["/guides/business-financing", "/guides/getting-ready-to-borrow", "/blog/marketplace-vs-bank"],
     blocks: [
@@ -206,7 +206,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "Overview",
         paragraphs: [
           {
-            text: "Most owners borrow two or three times over the life of a business and never get comfortable with it. This guide is the map we wish someone had handed us: what the money is for, which product does that job, what a lender will check, and how to read the offer that comes back. Bookmark it and come back the next time you need capital.",
+            text: "Most business owners borrow two or three times over the life of a business and never get comfortable with it. This guide is the map we wish someone had handed us: what the money is for, which product does that job, what a lender will check, and how to read the offer that comes back. Bookmark it and come back the next time you need capital.",
           },
         ],
       },
@@ -350,7 +350,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
     readTime: "5 min read",
     ...BYLINES.maya,
     tags: ["Term loans"],
-    thumbnail: { stat: "5", statLabel: "ways owners use a term loan", footLead: "Playbook:", footTail: " reaching the next stage", footTitle: "Next stage" },
+    thumbnail: { stat: "5", statLabel: "ways business owners use a term loan", footLead: "Playbook:", footTail: " reaching the next stage", footTitle: "Next stage" },
     inlineCtaAfter: "refinance",
     related: ["/blog/term-loan-for-growing-companies", "/blog/funding-cost-by-stage", "/guides/getting-ready-to-borrow"],
     blocks: [
@@ -359,7 +359,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "Overview",
         paragraphs: [
           {
-            text: "Growth rarely fails for lack of ideas. It fails for lack of timing: the inventory that had to be bought in August, the lease that had to be signed in March, the hire that had to start before the contract did. A term loan is a way to buy timing. Here are the five uses we see pay off most often, with the numbers owners actually run.",
+            text: "Growth rarely fails for lack of ideas. It fails for lack of timing: the inventory that had to be bought in August, the lease that had to be signed in March, the hire that had to start before the contract did. A term loan is a way to buy timing. Here are the five uses we see pay off most often, with the numbers business owners actually run.",
           },
         ],
       },
@@ -392,7 +392,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "4. Refinance",
         heading: "4. Refinance expensive daily-pay debt",
         paragraphs: [
-          { text: "Many owners carry an advance repaid daily from card sales at an effective APR of 40% or more. Replacing it with a monthly-pay term loan at 12% to 20% can cut the cost of that debt by more than half and free up daily cash flow immediately. Ask the current lender for a payoff letter, then apply for a term loan large enough to clear it with a small cushion." },
+          { text: "Many business owners carry an advance repaid daily from card sales at an effective APR of 40% or more. Replacing it with a monthly-pay term loan at 12% to 20% can cut the cost of that debt by more than half and free up daily cash flow immediately. Ask the current lender for a payoff letter, then apply for a term loan large enough to clear it with a small cushion." },
         ],
       },
       {
@@ -588,7 +588,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
     slug: "where-owners-can-accept-a-funding-offer-the-same-day",
     kind: "blog",
     title: "Where Owners Can Accept a Funding Offer the Same Day",
-    excerpt: "FundLine is the business funding brokerage that empowers owners to compare offers and accept funding the same day.",
+    excerpt: "FundLine is the business funding brokerage that empowers business owners to compare offers and accept funding the same day.",
     date: "July 14th 2026",
     cardDate: "Jul. 14 2026",
     isoDate: "2026-07-14",
@@ -604,7 +604,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "Overview",
         paragraphs: [
           {
-            text: "FundLine is the business funding brokerage that lets owners compare offers and accept funding the same day. That sentence gets used a lot, so this post explains what \"same day\" actually requires, which products can move that fast, what a realistic timeline looks like hour by hour, and what quietly slows it down.",
+            text: "FundLine is the business funding brokerage that lets business owners compare offers and accept funding the same day. That sentence gets used a lot, so this post explains what \"same day\" actually requires, which products can move that fast, what a realistic timeline looks like hour by hour, and what quietly slows it down.",
           },
         ],
       },
@@ -649,7 +649,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "How FundLine does it",
         heading: "How FundLine does it",
         paragraphs: [
-          { text: "One application reaches more than 75 lenders, the ones with automated decisions respond first, and every offer is displayed in the same format so the comparison takes minutes, not phone calls. Checking eligibility does not affect your credit score. Lines of credit up to $250,000 now carry same-day decisions for owners who connect a bank account." },
+          { text: "One application reaches more than 75 lenders, the ones with automated decisions respond first, and every offer is displayed in the same format so the comparison takes minutes, not phone calls. Checking eligibility does not affect your credit score. Lines of credit up to $250,000 now carry same-day decisions for business owners who connect a bank account." },
         ],
       },
       {
@@ -703,7 +703,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
           "Equipment lenders, because the asset secures the loan; some fund startups with a strong owner credit profile.",
           "Business credit card issuers, which decide almost entirely on the owner's personal credit.",
           "Invoice financing providers, which care about who owes you money more than how long you have existed.",
-          "Community and nonprofit microlenders, slower but built for early-stage owners.",
+          "Community and nonprofit microlenders, slower but built for early-stage business owners.",
         ],
       },
       {

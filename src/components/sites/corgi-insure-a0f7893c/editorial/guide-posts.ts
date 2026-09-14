@@ -23,7 +23,7 @@ export const GUIDES: EditorialArticle[] = [
         tocLabel: "Overview",
         paragraphs: [
           {
-            text: "There are more ways to fund a small business than most owners realize, and fewer that fit any particular moment. This guide walks the whole landscape once: the difference between debt and equity, the eight loan products lenders actually offer, what secured and unsecured mean in practice, how much you can realistically borrow, what it costs, and a simple way to choose. Read it start to finish once; afterwards, jump to the section you need.",
+            text: "There are more ways to fund a small business than most business owners realize, and fewer that fit any particular moment. This guide walks the whole landscape once: the difference between debt and equity, the eight loan products lenders actually offer, what secured and unsecured mean in practice, how much you can realistically borrow, what it costs, and a simple way to choose. Read it start to finish once; afterwards, jump to the section you need.",
           },
         ],
       },
@@ -127,7 +127,7 @@ export const GUIDES: EditorialArticle[] = [
         tocLabel: "Personal vs. business",
         heading: "Personal credit vs. business credit",
         paragraphs: [
-          { text: "Your personal score is tied to your social security number and follows you everywhere. Business credit is tied to the company's tax ID and its legal name. In the first year or two, nearly every lender decides on your personal score because the business has no file yet. Over time the balance shifts: a strong business file lets lenders price the company on its own record, and it stops every business loan from showing up on your personal report. For most owners, the personal score never stops mattering entirely, but it stops being the whole story." },
+          { text: "Your personal score is tied to your social security number and follows you everywhere. Business credit is tied to the company's tax ID and its legal name. In the first year or two, nearly every lender decides on your personal score because the business has no file yet. Over time the balance shifts: a strong business file lets lenders price the company on its own record, and it stops every business loan from showing up on your personal report. For most business owners, the personal score never stops mattering entirely, but it stops being the whole story." },
         ],
       },
       {
@@ -142,7 +142,7 @@ export const GUIDES: EditorialArticle[] = [
         id: "steps",
         tocLabel: "Six steps",
         heading: "Six steps that build it",
-        paragraphs: [{ text: "Do these in order. Most owners can finish the first four in a month." }],
+        paragraphs: [{ text: "Do these in order. Most business owners can finish the first four in a month." }],
         bullets: [
           "Form a legal entity and get an employer identification number, so the business has an identity to build a file under.",
           "Open a business checking account and run all revenue and expenses through it. Lenders read statements first.",
