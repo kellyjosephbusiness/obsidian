@@ -10,7 +10,7 @@ export const metadata: Metadata = article
   ? { title: `${article.title} | Newsroom`, description: article.excerpt }
   : { title: "Newsroom | FundLine Capital" };
 
-/** Press release linked from the announcement bar ("New: same-day funding decisions on lines of credit up to $250K"). */
+/** Press release linked from the announcement bar ("New: same-day funding decisions on lines of credit up to $500K"). */
 export default function SameDayDecisionsPressRelease() {
   if (!article) notFound();
   return <ArticlePage article={article} />;

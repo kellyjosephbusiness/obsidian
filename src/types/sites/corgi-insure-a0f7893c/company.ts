@@ -43,6 +43,23 @@ export interface Leader {
   name: string;
   role: string;
   bio: string;
+  /** Headshot under /public; the card falls back to an initials tile when omitted. */
+  photo?: string;
+}
+
+/** One item of the /apply trust strip (desktop only). */
+export interface TrustItem {
+  icon: MaterialIconName;
+  text: string;
+}
+
+/** Short owner quote with a portrait, shown under the /apply trust strip. */
+export interface TrustQuote {
+  quote: string;
+  name: string;
+  /** 1-based index into the customer portrait pool. */
+  photo: number;
+  role: string;
 }
 
 export interface OpenRole {

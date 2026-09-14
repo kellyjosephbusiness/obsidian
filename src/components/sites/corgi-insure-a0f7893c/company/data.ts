@@ -17,6 +17,8 @@ import type {
   SelectOption,
   SignInContent,
   TimelineItem,
+  TrustItem,
+  TrustQuote,
 } from "@/types/sites/corgi-insure-a0f7893c/company";
 import { LINKS, REVIEWS, TESTIMONIALS } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/data";
 
@@ -36,8 +38,8 @@ export const CONTACT_DETAILS = {
   careersEmail: "careers@fundlinecapital.com",
   phone: "1-800-555-0142",
   phoneHref: "tel:+18005550142",
-  hours: ["Mon–Fri, 7am–6pm MT", "Sat, 9am–2pm MT"],
-  address: ["FundLine Capital", "410 South Temple, Suite 900", "Salt Lake City, UT 84101"],
+  hours: ["Mon–Fri, 8am–7pm ET", "Sat, 9am–2pm ET"],
+  address: ["FundLine Capital", "1 Liberty Plaza, Suite 2300", "New York, NY 10006"],
 } as const;
 
 /* ------------------------------------------------------------------ */
@@ -91,36 +93,44 @@ export const LEADERSHIP_HEADER = {
   sub: "A small team of former owners, lenders and engineers. Most of us have borrowed for a business; all of us have been told no.",
 } as const;
 
+const TEAM_PHOTOS = "/sites/corgi-insure-a0f7893c/shared/team";
+
 export const LEADERS: Leader[] = [
   {
     name: "Maya Chen",
     role: "Co-founder & CEO",
     bio: "Ran a regional delivery company for nine years before starting FundLine. Still reads every owner review.",
+    photo: `${TEAM_PHOTOS}/leader-01.jpg`,
   },
   {
     name: "Daniel Okoro",
     role: "Co-founder & COO",
     bio: "Fifteen years in commercial credit at two community banks. Wrote the first version of our lender fit checklist by hand.",
+    photo: `${TEAM_PHOTOS}/leader-02.jpg`,
   },
   {
     name: "Renee Castillo",
     role: "Head of Lender Partnerships",
     bio: "Onboards and audits every lender we work with. Her rule: if she would not take the offer, it does not get listed.",
+    photo: `${TEAM_PHOTOS}/leader-03.jpg`,
   },
   {
     name: "Jordan Blake",
     role: "Head of Funding Specialists",
     bio: "Leads the team that calls you back. Former owner of a three-location coffee roaster in Denver.",
+    photo: `${TEAM_PHOTOS}/leader-04.jpg`,
   },
   {
     name: "Anika Sørensen",
     role: "VP of Engineering",
     bio: "Built the same-day decision pipeline. Previously led payments infrastructure at a mid-size fintech.",
+    photo: `${TEAM_PHOTOS}/leader-05.jpg`,
   },
   {
     name: "Tom Adeyemi",
     role: "Head of Credit & Risk",
     bio: "Keeps offers honest. Reviews pricing across the network so a fast offer is never a bad one.",
+    photo: `${TEAM_PHOTOS}/leader-06.jpg`,
   },
 ];
 
@@ -178,12 +188,12 @@ export const OPEN_ROLES_HEADER = {
 } as const;
 
 export const OPEN_ROLES: OpenRole[] = [
-  { title: "Senior Funding Specialist", team: "Funding", location: "Salt Lake City, UT", type: "Full-time", href: "/contact" },
+  { title: "Senior Funding Specialist", team: "Funding", location: "New York, NY", type: "Full-time", href: "/contact" },
   { title: "Software Engineer, Lender Integrations", team: "Engineering", location: "Remote (US)", type: "Full-time", href: "/contact" },
   { title: "Credit Analyst", team: "Credit & Risk", location: "Denver, CO", type: "Full-time", href: "/contact" },
   { title: "Product Designer", team: "Product", location: "Remote (US)", type: "Full-time", href: "/contact" },
   { title: "Partnerships Manager, Banks & Credit Unions", team: "Partnerships", location: "Austin, TX", type: "Full-time", href: "/contact" },
-  { title: "Customer Support Lead", team: "Operations", location: "Salt Lake City, UT", type: "Full-time", href: "/contact" },
+  { title: "Customer Support Lead", team: "Operations", location: "New York, NY", type: "Full-time", href: "/contact" },
 ];
 
 export const BENEFITS_HEADER = {
@@ -195,7 +205,7 @@ export const BENEFITS: IconCard[] = [
   { icon: "favorite", title: "Medical, dental, vision", description: "Fully paid for employees, 75% for dependents, from day one." },
   { icon: "savings", title: "401(k) with 4% match", description: "Vests immediately. We want you saving, not waiting." },
   { icon: "beach_access", title: "Flexible time off", description: "Minimum three weeks a year, and we track that you take it." },
-  { icon: "home_work", title: "Remote-friendly", description: "Work from an office or your kitchen. Two team weeks a year in Salt Lake City." },
+  { icon: "home_work", title: "Remote-friendly", description: "Work from an office or your kitchen. Two team weeks a year in New York." },
   { icon: "school", title: "$2,500 learning budget", description: "Courses, books, conferences. Annual and no approval chain." },
   { icon: "trending_up", title: "Equity for everyone", description: "Every full-time employee owns a piece of FundLine." },
 ];
@@ -214,7 +224,7 @@ export const CAREERS_CTA: CtaBandContent = {
 
 export const CONTACT_META: CompanyMeta = {
   title: "Contact FundLine Capital | Talk to a Funding Specialist",
-  description: "Reach a real funding specialist by phone, email or the form below. Support hours Mon–Fri 7am–6pm MT.",
+  description: "Reach a real funding specialist by phone, email or the form below. Support hours Mon–Fri 8am–7pm ET.",
 };
 
 export const CONTACT_HERO: CompanyHeroContent = {
@@ -253,25 +263,25 @@ export const SUPPORT_CARDS: InfoCard[] = [
   {
     icon: "mail",
     title: "Email",
-    lines: ["support@fundlinecapital.com for owners", "partners@fundlinecapital.com for brokers and lenders", "press@fundlinecapital.com for media"],
+    lines: ["support@fundlinecapital.com for owners", "press@fundlinecapital.com for media"],
     link: { label: "Email support", href: "mailto:support@fundlinecapital.com" },
   },
   {
     icon: "call",
     title: "Phone",
-    lines: ["1-800-555-0142", "Mon–Fri, 7am–6pm MT", "Sat, 9am–2pm MT"],
+    lines: ["1-800-555-0142", "Mon–Fri, 8am–7pm ET", "Sat, 9am–2pm ET"],
     link: { label: "Call now", href: "tel:+18005550142" },
   },
   {
     icon: "location_on",
     title: "Mailing address",
-    lines: ["FundLine Capital", "410 South Temple, Suite 900", "Salt Lake City, UT 84101"],
+    lines: ["FundLine Capital", "1 Liberty Plaza, Suite 2300", "New York, NY 10006"],
     link: { label: "All locations", href: "/locations" },
   },
 ];
 
 export const CONTACT_FAQ: FaqItem[] = [
-  { question: "How fast will someone get back to me?", answerHtml: "Within one business day by email, and usually within the hour during support hours. Phone calls are answered live Mon–Fri, 7am–6pm MT." },
+  { question: "How fast will someone get back to me?", answerHtml: "Within one business day by email, and usually within the hour during support hours. Phone calls are answered live Mon–Fri, 8am–7pm ET." },
   { question: "Can I talk to someone before I apply?", answerHtml: "Yes. <a class=\"underline\" href=\"/book-a-call\">Book a call</a> and a funding specialist will walk through your options, what lenders look for and whether now is the right time to borrow. No application needed." },
   { question: "I already have an application in. Who do I contact?", answerHtml: "Reply to any email from your specialist or call the number above and give your business name. Your specialist has your full file and every offer in front of them." },
   { question: "Do you charge for a call or a consultation?", answerHtml: "Never. FundLine is paid by the lender when a loan funds. Advice, comparisons and calls are free whether or not you borrow." },
@@ -330,7 +340,7 @@ export const SECURITY_CTA: CtaBandContent = {
 
 export const LOCATIONS_META: CompanyMeta = {
   title: "FundLine Capital Locations | Six Offices, One Application",
-  description: "FundLine Capital offices in Salt Lake City, Denver, Austin, Atlanta, Chicago and Phoenix. Hours, addresses and how to reach a specialist near you.",
+  description: "FundLine Capital offices in New York, Denver, Austin, Atlanta, Chicago and Phoenix. Hours, addresses and how to reach a specialist near you.",
 };
 
 export const LOCATIONS_HERO: CompanyHeroContent = {
@@ -343,7 +353,7 @@ export const LOCATIONS_HERO: CompanyHeroContent = {
 };
 
 export const OFFICES: InfoCard[] = [
-  { icon: "apartment", title: "Salt Lake City", badge: "HQ", lines: ["410 South Temple, Suite 900", "Salt Lake City, UT 84101", "Mon–Fri, 7am–6pm MT"] },
+  { icon: "apartment", title: "New York", badge: "HQ", lines: ["1 Liberty Plaza, Suite 2300", "New York, NY 10006", "Mon–Fri, 8am–7pm ET"] },
   { icon: "apartment", title: "Denver", lines: ["1550 Wewatta Street, Floor 4", "Denver, CO 80202", "Mon–Fri, 8am–5pm MT"] },
   { icon: "apartment", title: "Austin", lines: ["600 Congress Avenue, Suite 1400", "Austin, TX 78701", "Mon–Fri, 8am–5pm CT"] },
   { icon: "apartment", title: "Atlanta", lines: ["1180 Peachtree Street NE, Suite 700", "Atlanta, GA 30309", "Mon–Fri, 8am–5pm ET"] },
@@ -353,9 +363,9 @@ export const OFFICES: InfoCard[] = [
 
 export const MAP_PLACEHOLDER = {
   title: "Specialists in every time zone",
-  sub: "Hours overlap so someone is answering the phone from 7am ET to 6pm PT on weekdays.",
+  sub: "Hours overlap so someone is answering the phone from 8am ET to 6pm PT on weekdays.",
   pins: [
-    { city: "Salt Lake City", x: 24, y: 40 },
+    { city: "New York", x: 86, y: 34 },
     { city: "Denver", x: 34, y: 45 },
     { city: "Phoenix", x: 22, y: 62 },
     { city: "Austin", x: 46, y: 74 },
@@ -587,6 +597,19 @@ export const APPLY_INTRO = {
   helpText: "Questions first?",
   helpLink: { label: "Contact us", href: "/contact" },
 } as const;
+
+export const APPLY_TRUST: TrustItem[] = [
+  { icon: "lock", text: "Encrypted end to end" },
+  { icon: "verified", text: "No impact to your credit score" },
+  { icon: "handshake", text: "75+ lenders in our network" },
+];
+
+export const APPLY_TRUST_QUOTE: TrustQuote = {
+  quote: "Derek at FundLine really helped me out. It felt personal, not just like another deal.",
+  name: "Samuel K",
+  photo: 1,
+  role: "Owner, funded through FundLine",
+};
 
 export const APPLY_STEPS: ApplyStep[] = [
   { id: "business", label: "Business", title: "Business basics", sub: "Who you are and what the business does." },

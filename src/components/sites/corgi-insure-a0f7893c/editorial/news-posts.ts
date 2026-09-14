@@ -5,7 +5,7 @@ export const NEWS_POSTS: EditorialArticle[] = [
   {
     slug: "same-day-decisions",
     kind: "news",
-    title: "FundLine Capital Launches Same-Day Funding Decisions on Lines of Credit up to $250K",
+    title: "FundLine Capital Launches Same-Day Funding Decisions on Lines of Credit up to $500K",
     excerpt: "Owners who connect a business bank account now receive lender decisions on lines of credit the same business day, with funds available as soon as the next morning.",
     date: "September 8th 2026",
     cardDate: "Sep. 8 2026",
@@ -13,7 +13,7 @@ export const NEWS_POSTS: EditorialArticle[] = [
     readTime: "3 min read",
     author: "FundLine Capital",
     tags: ["Product launch"],
-    thumbnail: { stat: "$250K", statLabel: "line of credit limit, same-day decision", footLead: "Now live:", footTail: " same-day decisions", footTitle: "Lines of credit" },
+    thumbnail: { stat: "$500K", statLabel: "line of credit limit, same-day decision", footLead: "Now live:", footTail: " same-day decisions", footTitle: "Lines of credit" },
     inlineCtaAfter: "how-it-works",
     related: ["/newsroom/series-b", "/blog/where-owners-can-accept-a-funding-offer-the-same-day", "/blog/line-of-credit-vs-term-loan-seasonal-cash-flow"],
     mediaContact: { heading: "Media Contact", name: "Priya Nair", title: "Head of Communications", email: "press@fundlinecapital.com" },
@@ -24,7 +24,7 @@ export const NEWS_POSTS: EditorialArticle[] = [
         paragraphs: [
           {
             lead: "SAN FRANCISCO, CA",
-            text: " – FundLine Capital today announced same-day funding decisions on business lines of credit up to $250,000 across its funding brokerage. Owners who connect a business bank account during the application now receive decisions from participating lenders the same business day, with funds available as soon as the following morning. The capability is live for all new applications starting today.",
+            text: " – FundLine Capital today announced same-day funding decisions on business lines of credit up to $500,000 across its funding brokerage. Owners who connect a business bank account during the application now receive decisions from participating lenders the same business day, with funds available as soon as the following morning. The capability is live for all new applications starting today.",
           },
         ],
       },
@@ -37,7 +37,7 @@ export const NEWS_POSTS: EditorialArticle[] = [
             text: "Until now, a line-of-credit application on FundLine typically returned offers within one to three business days, depending on how quickly each lender could review uploaded statements. With a read-only bank connection in place of uploads, lenders in the program receive verified cash-flow data at the moment the application is submitted, and their automated credit models return a decision within hours.",
           },
           {
-            text: "Twenty-two lenders in the FundLine network are participating at launch, covering limits from $10,000 to $250,000 and businesses from six months in business. Applications that fall outside the program's criteria continue to receive offers through the standard process.",
+            text: "Twenty-two lenders in the FundLine network are participating at launch, covering limits from $10,000 to $500,000 and businesses from six months in business. Applications that fall outside the program's criteria continue to receive offers through the standard process.",
           },
         ],
       },
@@ -68,7 +68,7 @@ export const NEWS_POSTS: EditorialArticle[] = [
         tocLabel: "Availability",
         heading: "Availability",
         paragraphs: [
-          { text: "Same-day decisions are available now to owners in all states where FundLine operates, for lines of credit up to $250,000. Owners can apply at fundlinecapital.com or through FundLine's broker and ISO partner portal. Existing FundLine customers with an open line are not affected; their lenders will contact them directly about any changes to draw processing times." },
+          { text: "Same-day decisions are available now to owners in all states where FundLine operates, for lines of credit up to $500,000. Owners can apply at fundlinecapital.com or through FundLine's broker and ISO partner portal. Existing FundLine customers with an open line are not affected; their lenders will contact them directly about any changes to draw processing times." },
         ],
       },
       {

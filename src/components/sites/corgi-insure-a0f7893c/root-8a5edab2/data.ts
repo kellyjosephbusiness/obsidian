@@ -39,8 +39,8 @@ export const LINKS = {
 
 export const ANNOUNCEMENT = {
   href: LINKS.announcement,
-  /** "New: **same-day** funding decisions on lines of credit up to **$250K** | Learn more" */
-  parts: ["New: ", "same-day", " funding decisions on lines of credit up to ", "$250K", " | ", "Learn more"],
+  /** "New: **same-day** funding decisions on lines of credit up to **$500K** | Learn more" */
+  parts: ["New: ", "same-day", " funding decisions on lines of credit up to ", "$500K", " | ", "Learn more"],
 } as const;
 
 const HIGHLIGHTS: NavMenu["highlights"] = [
@@ -52,34 +52,38 @@ const HIGHLIGHTS: NavMenu["highlights"] = [
     icon: "support_agent",
   },
   {
-    title: "$1.2B+ funded",
-    description: "Matched to owners through our lender network.",
+    title: "$1.2B+ matched to small businesses",
+    description: "Through our lender network, one application at a time.",
     href: "/customer-stories",
-    imageAlt: "$1.2B+ funded",
+    imageAlt: "$1.2B+ matched to small businesses",
     icon: "trending_up",
   },
 ];
 
 export const NAV_MENUS: NavMenu[] = [
   {
-    id: "solutions",
-    label: "Business loans",
+    id: "financing",
+    label: "Financing",
     href: LINKS.loanTypes,
-    columnWidth: { base: 176, xl2: 200, w1680: 220 },
+    columnWidth: { base: 200, xl2: 220, w1680: 240 },
     columns: [
       {
-        title: "By Type",
+        title: "Loan types",
         span: 1,
         items: [
           { label: "Term loans", icon: "payments", href: "/term-loans" },
           { label: "Line of credit", icon: "credit_score", href: "/line-of-credit" },
           { label: "SBA loans", icon: "account_balance", href: "/sba-loans" },
           { label: "Equipment financing", icon: "precision_manufacturing", href: "/equipment-financing" },
+          { label: "Invoice financing", icon: "receipt_long", href: "/invoice-financing" },
+          { label: "Merchant cash advance", icon: "point_of_sale", href: "/merchant-cash-advance" },
+          { label: "Commercial real estate", icon: "apartment", href: "/commercial-real-estate" },
+          { label: "Business credit card", icon: "credit_card", href: "/business-credit-card" },
         ],
-        viewAll: { label: "View all", href: LINKS.loanTypes },
+        viewAll: { label: "All loan types", href: LINKS.loanTypes },
       },
       {
-        title: "By Industry",
+        title: "Industries",
         span: 2,
         grid: true,
         items: [
@@ -88,54 +92,9 @@ export const NAV_MENUS: NavMenu[] = [
           { label: "Retail", icon: "storefront", href: "/industry/retail" },
           { label: "Restaurants", icon: "restaurant", href: "/industry/restaurants" },
           { label: "Trucking", icon: "local_shipping", href: "/industry/trucking" },
-          { label: "AI & software", icon: "smart_toy", href: "/industry/ai" },
           { label: "Ecommerce", icon: "shopping_cart", href: "/industry/ecommerce" },
           { label: "Manufacturing", icon: "factory", href: "/industry/manufacturing" },
           { label: "Professional services", icon: "work", href: "/industry/professional-services" },
-        ],
-      },
-      {
-        title: "Tools",
-        span: 1,
-        items: [{ label: "Loan calculators", icon: "calculate", href: "/calculators" }],
-      },
-    ],
-    highlights: HIGHLIGHTS,
-  },
-  {
-    id: "products",
-    label: "Products",
-    href: LINKS.loanTypes,
-    columnWidth: { base: 190, xl2: 210, w1680: 230 },
-    columns: [
-      {
-        title: "Working Capital",
-        span: 1,
-        items: [
-          { label: "Term loan", icon: "payments", href: "/term-loans" },
-          { label: "Business line of credit", icon: "credit_score", href: "/line-of-credit" },
-          { label: "Invoice financing", icon: "receipt_long", href: "/invoice-financing" },
-          { label: "Merchant cash advance", icon: "point_of_sale", href: "/merchant-cash-advance" },
-          { label: "Business credit card", icon: "credit_card", href: "/business-credit-card" },
-          { label: "Working capital loan", icon: "savings", href: "/loan-types#working-capital" },
-        ],
-      },
-      {
-        title: "Growth & Assets",
-        span: 1,
-        items: [
-          { label: "SBA 7(a) loans", icon: "account_balance", href: "/sba-loans" },
-          { label: "Equipment financing", icon: "precision_manufacturing", href: "/equipment-financing" },
-          { label: "Commercial real estate", icon: "apartment", href: "/commercial-real-estate" },
-        ],
-      },
-      {
-        title: "Specialty",
-        span: 1,
-        items: [
-          { label: "Truck financing", icon: "local_shipping", href: "/industry/trucking#truck-financing" },
-          { label: "Fleet lines of credit", icon: "inventory_2", href: "/industry/trucking#fleet-credit" },
-          { label: "Franchise financing", icon: "store", href: "/loan-types#franchise-financing" },
         ],
       },
     ],
@@ -154,6 +113,7 @@ export const NAV_MENUS: NavMenu[] = [
           { label: "Newsroom", icon: "newspaper", href: "/newsroom/series-b" },
           { label: "Small business guides", icon: "menu_book", href: "/guides" },
           { label: "Blog", icon: "edit", href: "/blog" },
+          { label: "Loan calculators", icon: "calculate", href: "/calculators" },
         ],
       },
       {
@@ -663,11 +623,12 @@ export const FOOTER_CTA = {
 
 /** Replaces the press-logo marquee with a ticker of proof points. */
 export const FOOTER_STATS: FooterStat[] = [
-  { value: "15+ years", label: "serving small business", caption: "Since our first funded loan in 2011." },
-  { value: "75+ lenders", label: "in our network", caption: "Banks, credit unions, and online funders." },
-  { value: "12K+ businesses", label: "matched with financing", caption: "Across 40+ industries nationwide." },
-  { value: "4.8★ rating", label: "from business owners", caption: "Based on verified customer reviews." },
-  { value: "24 hours", label: "fastest time to funding", caption: "From accepted offer to money in the bank." },
+  { value: "75+", label: "lenders in our network", caption: "Banks, credit unions, and online funders." },
+  { value: "12K+", label: "businesses funded", caption: "Across 40+ industries nationwide." },
+  { value: "4.8★", label: "average owner rating", caption: "Based on verified customer reviews." },
+  { value: "$1.2B+", label: "matched to small businesses", caption: "Through our lender network since 2011." },
+  { value: "24 hrs", label: "fastest time to funding", caption: "From accepted offer to money in the bank." },
+  { value: "15 min", label: "to complete an application", caption: "One form, no impact to your credit score." },
 ];
 
 export const FOOTER_COLUMNS: FooterColumn[] = [

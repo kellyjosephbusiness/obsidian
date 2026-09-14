@@ -60,7 +60,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     },
     stat: {
       value: "$1.2B+",
-      label: "matched to owners through our lender network",
+      label: "matched to small businesses",
       blurb: "Term loans are the most common product we place, from a $20K walk-in cooler to a $3M second plant.",
     },
     features: {
@@ -231,7 +231,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     },
     stat: {
       value: "24 hrs",
-      label: "from accepted offer to first draw, for most lines",
+      label: "fastest time to funding",
       blurb: "Lines of credit are the fastest product we place because lenders decide on bank data, not a stack of documents.",
     },
     features: {
@@ -916,7 +916,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     },
     stat: {
       value: "24 hrs",
-      label: "from accepted offer to funds in your account",
+      label: "fastest time to funding",
       blurb: "Advances are the fastest capital we place, which is why restaurants and retailers reach for them ahead of a busy weekend.",
     },
     features: {

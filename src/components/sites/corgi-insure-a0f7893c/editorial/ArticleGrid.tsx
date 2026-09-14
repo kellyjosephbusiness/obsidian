@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
 import type { ArticleCard } from "./types";
 
 export interface ArticleGridProps {
@@ -11,6 +12,7 @@ export interface ArticleGridProps {
 /**
  * Prop-driven variant of the press release's `LatestArticles`: an uppercase label row above a 2-column grid of
  * hairline-separated white cards (1px #e1e1e1 grid gap on a tinted wrapper); the whole card turns primary on hover.
+ * Cards with a `coverIcon` open with a navy-tint cover block so the grid has visual rhythm without external images.
  */
 export function ArticleGrid({ label, articles, emptyText = "No articles match that tag yet." }: ArticleGridProps) {
   return (
@@ -33,7 +35,15 @@ export function ArticleGrid({ label, articles, emptyText = "No articles match th
             ) : (
               <div className="grid grid-cols-1 gap-px overflow-hidden rounded-[23px] md:grid-cols-2">
                 {articles.map((article) => (
-                  <Link key={article.href} href={article.href} className="group flex items-center bg-white p-6 transition-colors hover:bg-gray-50">
+                  <Link key={article.href} href={article.href} className="group flex flex-col gap-5 bg-white p-6 transition-colors hover:bg-gray-50">
+                    {article.coverIcon ? (
+                      <div
+                        aria-hidden
+                        className="flex aspect-[5/2] w-full items-center justify-center rounded-[16px] bg-[#dde4f6] text-[#1e3a8a] transition-colors group-hover:bg-[#c5d1f0]"
+                      >
+                        <MaterialIcon name={article.coverIcon} size={48} weight={300} />
+                      </div>
+                    ) : null}
                     <div className="flex flex-1 flex-col gap-3">
                       <div className="flex items-center justify-between text-sm tracking-tight text-[#4a4a4a] transition-colors group-hover:text-[#1e3a8a]">
                         <span>{article.date}</span>
@@ -45,7 +55,7 @@ export function ArticleGrid({ label, articles, emptyText = "No articles match th
                         </h3>
                         <p className="leading-snug tracking-tight text-[#4a4a4a] transition-colors group-hover:text-[#1e3a8a]">{article.excerpt}</p>
                       </div>
-                      <div className="h-px w-full bg-[#e1e1e1] transition-colors group-hover:bg-[#1e3a8a]" />
+                      <div className="mt-auto h-px w-full bg-[#e1e1e1] transition-colors group-hover:bg-[#1e3a8a]" />
                       <p className="text-sm tracking-tight text-[#191919] transition-colors group-hover:text-[#1e3a8a]">{article.author}</p>
                     </div>
                   </Link>
