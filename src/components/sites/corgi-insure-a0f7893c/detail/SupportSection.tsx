@@ -2,14 +2,17 @@ import Link from "next/link";
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
 import { StippleGlyph } from "@/components/sites/corgi-insure-a0f7893c/shared/StippleGlyph";
 import type { DetailPageContent } from "@/types/sites/corgi-insure-a0f7893c/detail";
+import { cn } from "@/lib/utils";
 import { BODY, Frame, H2 } from "./frame";
 
 /** "Expert support" — copy left, a tinted arch with a specialist illustration placeholder right. */
 export function SupportSection({ support }: { support: DetailPageContent["support"] }) {
   return (
-    <Frame inner="grid grid-cols-1 items-center gap-10 md:grid-cols-2 md:gap-16">
+    <Frame inner="grid grid-cols-1 items-center gap-10 md:grid-cols-[minmax(0,7fr)_minmax(0,5fr)] md:gap-16">
       <div className="flex flex-col gap-6">
-        <h2 className={H2}>
+        {/* The text sits in a part-width column, so the display size steps down where it is
+            narrowest (`lg`) and returns at `xl`; balanced wrapping keeps both lines even. */}
+        <h2 className={cn(H2, "text-balance lg:text-[40px] xl:text-[48px]")}>
           {support.headingLine1}
           <br />
           {support.headingLine2}

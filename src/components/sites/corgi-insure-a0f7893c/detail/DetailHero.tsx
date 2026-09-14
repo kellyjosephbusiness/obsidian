@@ -51,7 +51,9 @@ export function DetailHero({ page }: { page: DetailPageContent }) {
               priority
               className="h-[72px] w-[72px] object-contain object-left lg:hidden"
             />
-            <h1 className="font-mono font-medium text-[#191919] text-[44px] leading-[0.98] tracking-[-0.032em] md:text-[60px] lg:text-[72px]">
+            {/* The text column narrows to 7/12 from `lg` (the estimator takes the rest), so the
+                type steps back down at `lg` and grows again at `xl` to keep every headline on two lines. */}
+            <h1 className="text-balance font-mono font-medium text-[#191919] text-[38px] leading-[0.98] tracking-[-0.032em] sm:text-[44px] md:text-[56px] lg:text-[52px] xl:text-[62px]">
               {hero.headingLine1}
               <br />
               {hero.accentLine2 !== false ? (

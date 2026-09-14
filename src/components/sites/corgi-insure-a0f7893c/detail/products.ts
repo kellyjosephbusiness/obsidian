@@ -386,8 +386,8 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     },
     breadcrumb: productCrumb("SBA Loans"),
     hero: {
-      headingLine1: "Long terms, low rates,",
-      headingLine2: "SBA-backed.",
+      headingLine1: "Long terms and",
+      headingLine2: "low SBA rates.",
       accentLine2: true,
       sub: "SBA loans stretch repayment to 10 or 25 years at rates capped by the program, for amounts from $25K to $5M.¹ The paperwork is real, so we prepare the package and shop it to SBA-preferred lenders.² Applying does not affect your credit score.³",
       cta: APPLY,
@@ -530,8 +530,8 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
       ],
     },
     closing: {
-      headingLine1: "Start the SBA package today.",
-      headingLine2: "Fund in weeks, not quarters.",
+      headingLine1: "Start the SBA package.",
+      headingLine2: "Weeks, not quarters.",
       cta: APPLY,
       note: "15-minute application. No impact to your credit score. A specialist assembles the SBA file with you.",
     },
@@ -559,8 +559,8 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     },
     breadcrumb: productCrumb("Equipment Financing"),
     hero: {
-      headingLine1: "Put the equipment to work",
-      headingLine2: "before it's paid for.",
+      headingLine1: "Put the equipment",
+      headingLine2: "to work early.",
       accentLine2: true,
       sub: "Finance up to 100% of the purchase price on new or used equipment from $5K to $5M, with terms from 12 to 84 months.¹ The equipment is the collateral, so approvals lean on the asset, not just your credit.² Apply with no impact to your credit score.³",
       cta: APPLY,
@@ -1250,7 +1250,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     breadcrumb: productCrumb("Business Credit Card"),
     hero: {
       headingLine1: "Everyday spend that",
-      headingLine2: "builds business credit.",
+      headingLine2: "builds credit.",
       accentLine2: true,
       sub: "Get a business credit card with a limit from $5K to $100K, separate from your personal accounts, with rewards on the spending you already do.¹ Many issuers we work with offer 0% intro APR for 9 to 12 months.² Apply once, no impact to your credit score, and compare card offers side by side.³",
       cta: APPLY,

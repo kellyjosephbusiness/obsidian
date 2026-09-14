@@ -72,8 +72,8 @@ const AI: DetailPageContent = {
   },
   breadcrumb: breadcrumb("AI & Software"),
   hero: {
-    headingLine1: "Funding for AI and software,",
-    headingLine2: "sized to the compute bill.",
+    headingLine1: "Funding for AI,",
+    headingLine2: "sized to compute.",
     accentLine2: true,
     sub: "GPU reservations, cloud commitments and enterprise pilots that pay on net-90 all land before the revenue does. One 15-minute application, and we shop it to the lenders we work with that read contract revenue, with funding in as little as 24 hours.¹ No impact to your credit score to apply.²",
     cta: { label: "Apply now", href: APPLY },
@@ -148,7 +148,7 @@ const AI: DetailPageContent = {
   },
   support: {
     headingLine1: "Talk to someone who has",
-    headingLine2: "funded a model team before.",
+    headingLine2: "funded an AI team before.",
     body: "Our advisors have placed compute lines, pilot invoices and hiring loans for software companies at every stage from seed to Series C. Bring your ARR and your cloud bill; we will tell you which products fit before you apply.",
     link: { label: "Apply now", href: BOOK_A_CALL },
   },
@@ -307,8 +307,8 @@ const CONSTRUCTION: DetailPageContent = {
   },
   breadcrumb: breadcrumb("Construction"),
   hero: {
-    headingLine1: "Funding for construction,",
-    headingLine2: "paced to how jobs pay.",
+    headingLine1: "Funding for builders,",
+    headingLine2: "paced to the job.",
     accentLine2: true,
     sub: "Materials, payroll and equipment are due weeks before the first draw clears. One application, shopped to the lenders we work with that read a schedule of values, with funding in as little as 24 hours.¹ No impact to your credit score to apply.² Amounts from $5K to $5M.³",
     cta: { label: "Apply now", href: APPLY },
@@ -545,8 +545,8 @@ const HEALTHCARE: DetailPageContent = {
   },
   breadcrumb: breadcrumb("Healthcare"),
   hero: {
-    headingLine1: "Funding for healthcare practices,",
-    headingLine2: "timed to reimbursement.",
+    headingLine1: "Funding for clinics,",
+    headingLine2: "timed to payers.",
     accentLine2: true,
     sub: "The care is delivered today and the payer settles in 45 days. One application, shopped to the lenders we work with that understand how practices get paid, with funding in as little as 24 hours.¹ No impact to your credit score to apply.² Amounts from $5K to $5M.³",
     cta: { label: "Apply now", href: APPLY },
@@ -781,7 +781,7 @@ const RETAIL: DetailPageContent = {
   breadcrumb: breadcrumb("Retail"),
   hero: {
     headingLine1: "Funding for retail,",
-    headingLine2: "stocked ahead of the season.",
+    headingLine2: "stocked for season.",
     accentLine2: true,
     sub: "Holiday inventory is ordered in July and paid for in September, long before the register rings. One application, shopped to the lenders we work with that fund retailers, with funding in as little as 24 hours.¹ No impact to your credit score to apply.² Amounts from $5K to $5M.³",
     cta: { label: "Apply now", href: APPLY },
@@ -856,7 +856,7 @@ const RETAIL: DetailPageContent = {
   },
   support: {
     headingLine1: "Talk to someone who knows",
-    headingLine2: "the best quarter is bought in the quietest one.",
+    headingLine2: "a season is bought early.",
     body: "Our advisors have placed inventory lines, remodel loans and card-sales advances for boutiques, hardware stores and multi-location chains. Bring your seasonal calendar and your biggest supplier's terms; we will tell you what fits.",
     link: { label: "Apply now", href: BOOK_A_CALL },
   },
@@ -1015,8 +1015,8 @@ const RESTAURANTS: DetailPageContent = {
   },
   breadcrumb: breadcrumb("Restaurants"),
   hero: {
-    headingLine1: "Funding for restaurants,",
-    headingLine2: "ready before the rush.",
+    headingLine1: "Funding for kitchens,",
+    headingLine2: "ready for the rush.",
     accentLine2: true,
     sub: "A walk-in dies on a Friday, covers drop 40 percent in January, and the second location needs a build-out before the first table is seated. One application, shopped to the lenders we work with that fund food service, with funding in as little as 24 hours.¹ No impact to your credit score to apply.²",
     cta: { label: "Apply now", href: APPLY },
@@ -1091,7 +1091,7 @@ const RESTAURANTS: DetailPageContent = {
   },
   support: {
     headingLine1: "Talk to someone who has",
-    headingLine2: "replaced a cooler on a Thursday.",
+    headingLine2: "replaced a cooler fast.",
     body: "Our advisors have placed same-week equipment loans, slow-season lines and second-location SBA loans for cafes, bistros, bars and multi-unit groups. Bring your card statements and your lease; we will tell you what fits before you apply.",
     link: { label: "Apply now", href: BOOK_A_CALL },
   },
@@ -1254,7 +1254,7 @@ const TRUCKING: DetailPageContent = {
   breadcrumb: breadcrumb("Trucking"),
   hero: {
     headingLine1: "Funding for trucking,",
-    headingLine2: "built for the long haul.",
+    headingLine2: "built for the haul.",
     accentLine2: true,
     sub: "The load is delivered today and the shipper pays in 45 days, while fuel, tolls and driver pay are due this week. One application, shopped to the lenders we work with that fund carriers, with funding in as little as 24 hours.¹ No impact to your credit score to apply.² Amounts from $5K to $5M.³",
     cta: { label: "Apply now", href: APPLY },
@@ -1329,7 +1329,7 @@ const TRUCKING: DetailPageContent = {
   },
   support: {
     headingLine1: "Talk to someone who knows",
-    headingLine2: "what net-60 does to an owner-operator.",
+    headingLine2: "what net-60 does to cash.",
     body: "Our advisors have placed truck loans, freight advances and fleet lines for single-truck operators and 40-unit carriers. Bring your settlement statements and your slowest shipper; we will tell you which products fit before you apply.",
     link: { label: "Apply now", href: BOOK_A_CALL },
   },
@@ -1491,8 +1491,8 @@ const ECOMMERCE: DetailPageContent = {
   },
   breadcrumb: breadcrumb("Ecommerce"),
   hero: {
-    headingLine1: "Funding for ecommerce,",
-    headingLine2: "sized to the next purchase order.",
+    headingLine1: "Funding for sellers,",
+    headingLine2: "sized to your PO.",
     accentLine2: true,
     sub: "The factory wants 50 percent at order and the balance before shipping, months before the first unit sells. One application, shopped to the lenders we work with that read sell-through and payouts, with funding in as little as 24 hours.¹ No impact to your credit score to apply.² Amounts from $5K to $5M.³",
     cta: { label: "Apply now", href: APPLY },
@@ -1567,7 +1567,7 @@ const ECOMMERCE: DetailPageContent = {
   },
   support: {
     headingLine1: "Talk to someone who knows",
-    headingLine2: "what a healthy sell-through looks like.",
+    headingLine2: "a healthy sell-through.",
     body: "Our advisors have placed inventory lines, ad-spend loans and supplier-paid financing for DTC brands and multi-channel sellers. Bring your margins, your sell-through and the next purchase order; we will tell you which products fit before you apply.",
     link: { label: "Apply now", href: BOOK_A_CALL },
   },
@@ -1726,8 +1726,8 @@ const MANUFACTURING: DetailPageContent = {
   },
   breadcrumb: breadcrumb("Manufacturing"),
   hero: {
-    headingLine1: "Funding for manufacturers,",
-    headingLine2: "matched to the production cycle.",
+    headingLine1: "Funding for makers,",
+    headingLine2: "built for the cycle.",
     accentLine2: true,
     sub: "Materials are bought on net-30 at the start of a run and the customer pays on net-60 after delivery. One application, shopped to the lenders we work with that understand tooling costs and record orders, with funding in as little as 24 hours.¹ No impact to your credit score to apply.² Amounts from $5K to $5M.³",
     cta: { label: "Apply now", href: APPLY },
@@ -1802,7 +1802,7 @@ const MANUFACTURING: DetailPageContent = {
   },
   support: {
     headingLine1: "Talk to someone who can",
-    headingLine2: "read a purchase order and an equipment list.",
+    headingLine2: "read a purchase order.",
     body: "Our advisors have placed mill and press financing, PO funding and building loans for job shops, contract manufacturers and food processors. Bring your backlog and your biggest customer's terms; we will tell you which products fit before you apply.",
     link: { label: "Apply now", href: BOOK_A_CALL },
   },
@@ -1964,8 +1964,8 @@ const PROFESSIONAL_SERVICES: DetailPageContent = {
   },
   breadcrumb: breadcrumb("Professional Services"),
   hero: {
-    headingLine1: "Funding for professional services,",
-    headingLine2: "paced to how clients pay.",
+    headingLine1: "Funding for firms,",
+    headingLine2: "paced to client pay.",
     accentLine2: true,
     sub: "Payroll runs every two weeks and the client pays in 45, or 90 when their process allows. One application, shopped to the lenders we work with that fund firms with no hard assets, with funding in as little as 24 hours.¹ No impact to your credit score to apply.² Amounts from $5K to $5M.³",
     cta: { label: "Apply now", href: APPLY },
@@ -2040,7 +2040,7 @@ const PROFESSIONAL_SERVICES: DetailPageContent = {
   },
   support: {
     headingLine1: "Talk to someone who knows",
-    headingLine2: "the gap between billed and collected.",
+    headingLine2: "billed versus collected.",
     body: "Our advisors have placed payroll lines, invoice advances and acquisition loans for agencies, consultancies, law practices and accounting firms. Bring your AR aging and your largest client's terms; we will tell you which products fit before you apply.",
     link: { label: "Apply now", href: BOOK_A_CALL },
   },
@@ -2200,7 +2200,7 @@ const FINTECH: DetailPageContent = {
   breadcrumb: breadcrumb("Fintech"),
   hero: {
     headingLine1: "Funding for fintech,",
-    headingLine2: "without another dilutive round.",
+    headingLine2: "without dilution.",
     accentLine2: true,
     sub: "Licenses, audits and bank-partner reviews cost six figures before the first customer transacts. One application, shopped to the lenders we work with that read take rates and processed volume, with funding in as little as 24 hours.¹ No impact to your credit score to apply.² Amounts from $5K to $5M.³",
     cta: { label: "Apply now", href: APPLY },
@@ -2275,7 +2275,7 @@ const FINTECH: DetailPageContent = {
   },
   support: {
     headingLine1: "Talk to someone who knows",
-    headingLine2: "what a bank-partner audit costs.",
+    headingLine2: "what an audit costs.",
     body: "Our advisors have placed licensing loans, launch lines and runway extensions for payments, lending-software and embedded-finance companies. Bring your volume, take rate and partner agreements; we will tell you which products fit before you apply.",
     link: { label: "Apply now", href: BOOK_A_CALL },
   },
@@ -2434,7 +2434,7 @@ const MARKETPLACES: DetailPageContent = {
   },
   breadcrumb: breadcrumb("Marketplaces"),
   hero: {
-    headingLine1: "Funding for marketplaces,",
+    headingLine1: "Funding for markets,",
     headingLine2: "built for both sides.",
     accentLine2: true,
     sub: "Sellers are paid on delivery and buyers pay on card settlement, and the gap between them grows with every good month. One application, shopped to the lenders we work with that read GMV and take rate, with funding in as little as 24 hours.¹ No impact to your credit score to apply.² Amounts from $5K to $5M.³",
@@ -2510,7 +2510,7 @@ const MARKETPLACES: DetailPageContent = {
   },
   support: {
     headingLine1: "Talk to someone who reads",
-    headingLine2: "GMV and take rate, not just revenue.",
+    headingLine2: "GMV and take rate.",
     body: "Our advisors have placed payout lines, city-launch loans and buyer-acquisition capital for services, goods and B2B marketplaces. Bring your take rate and your weekly payout number; we will tell you which products fit before you apply.",
     link: { label: "Apply now", href: BOOK_A_CALL },
   },
@@ -2670,7 +2670,7 @@ const SAAS: DetailPageContent = {
   breadcrumb: breadcrumb("SaaS"),
   hero: {
     headingLine1: "Funding for SaaS,",
-    headingLine2: "priced on recurring revenue.",
+    headingLine2: "priced on revenue.",
     accentLine2: true,
     sub: "A new customer costs a year of subscription to win and pays it back over eighteen months. One application, shopped to the lenders we work with that read ARR, churn and net retention, with funding in as little as 24 hours.¹ No impact to your credit score to apply.² Amounts from $5K to $5M.³",
     cta: { label: "Apply now", href: APPLY },
@@ -2745,7 +2745,7 @@ const SAAS: DetailPageContent = {
   },
   support: {
     headingLine1: "Talk to someone who reads",
-    headingLine2: "net retention before net income.",
+    headingLine2: "net retention first.",
     body: "Our advisors have placed hiring loans, annual-invoice advances and runway lines for subscription companies from $500K to $20M in ARR. Bring your ARR, churn and margin; we will tell you which products fit before you apply.",
     link: { label: "Apply now", href: BOOK_A_CALL },
   },
