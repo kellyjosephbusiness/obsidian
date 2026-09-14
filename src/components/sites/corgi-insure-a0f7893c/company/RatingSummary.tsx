@@ -8,7 +8,7 @@ export function StarRow({ value, size = 20 }: { value: number; size?: number }) 
       {[1, 2, 3, 4, 5].map((n) => {
         const name = value >= n ? "star" : value >= n - 0.5 ? "star_half" : "star";
         const dim = value < n - 0.5;
-        return <MaterialIcon key={n} name={name} size={size} fill={dim ? 0 : 1} className={dim ? "text-[#c9c9c9]" : "text-[#1e3a8a]"} />;
+        return <MaterialIcon key={n} name={name} size={size} fill={dim ? 0 : 1} className={dim ? "text-[#c9c9c9]" : "text-[#0160CC]"} />;
       })}
     </span>
   );
@@ -30,10 +30,10 @@ export function RatingSummary({ content }: { content: RatingSummaryContent }) {
           <li key={bar.stars} className="flex items-center gap-3">
             <span className="flex w-[44px] shrink-0 items-center gap-1 text-[14px] font-medium leading-none tracking-[-0.21px] text-[#191919]">
               {bar.stars}
-              <MaterialIcon name="star" size={14} fill={1} className="text-[#1e3a8a]" />
+              <MaterialIcon name="star" size={14} fill={1} className="text-[#0160CC]" />
             </span>
             <div className="h-2.5 flex-1 overflow-hidden rounded-full bg-[#ededed]">
-              <div className="h-full rounded-full bg-[#1e3a8a]" style={{ width: `${bar.percent}%` }} />
+              <div className="h-full rounded-full bg-[#0376FD]" style={{ width: `${bar.percent}%` }} />
             </div>
             <span className="w-[40px] shrink-0 text-right text-[14px] leading-none tracking-[-0.21px] text-[#4a4a4a]">{bar.percent}%</span>
           </li>

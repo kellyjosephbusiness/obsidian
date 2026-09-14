@@ -36,12 +36,12 @@ export function JourneySection({ heading = JOURNEY.heading, sub = JOURNEY.sub, p
 
         <CoveragePackageGrid packages={packages} pills={pills} />
 
-        <div className="flex flex-wrap items-center justify-center gap-2 pt-4 text-[#1e3a8a]">
+        <div className="flex flex-wrap items-center justify-center gap-2 pt-4 text-[#0160CC]">
           <MaterialIcon name="info" size={20} className="shrink-0" />
           <span className="font-medium text-body">{JOURNEY.hint.before}</span>
           <a
             href={JOURNEY.hint.chipHref}
-            className="inline-flex items-center justify-center rounded-[4px] bg-[#dde4f6] px-2 py-1 font-medium text-[#1e3a8a] text-[14px] leading-none transition-[background-color,transform] duration-300 hover:bg-[#c5d1f0]"
+            className="inline-flex items-center justify-center rounded-[4px] bg-[#DDEAFE] px-2 py-1 font-medium text-[#0160CC] text-[14px] leading-none transition-[background-color,transform] duration-300 hover:bg-[#C2DBFE]"
           >
             {JOURNEY.hint.chip}
           </a>

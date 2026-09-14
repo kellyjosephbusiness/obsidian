@@ -22,7 +22,7 @@ export function customerPhotoSrc(name: string, index?: number) {
  */
 export function CustomerPhoto({ name, index, className, sizes = "160px", priority = false }: { name: string; index?: number; className?: string; sizes?: string; priority?: boolean }) {
   return (
-    <span className={cn("relative block overflow-hidden bg-[#dde4f6]", className)}>
+    <span className={cn("relative block overflow-hidden bg-[#DDEAFE]", className)}>
       <Image alt="" src={customerPhotoSrc(name, index)} fill sizes={sizes} priority={priority} className="object-cover object-[50%_20%]" />
     </span>
   );

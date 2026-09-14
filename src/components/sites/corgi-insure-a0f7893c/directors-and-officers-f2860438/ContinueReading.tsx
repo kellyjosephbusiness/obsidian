@@ -17,7 +17,7 @@ export function ContinueReading() {
           <div className="relative z-10 grid grid-cols-1 gap-px overflow-clip rounded-[8px] border border-[#e1e1e1] bg-[#e1e1e1] md:grid-cols-2">
             {READING_CARDS.map((card) => (
               <Link key={card.href} href={card.href} className="group flex flex-col gap-6 bg-white p-6 transition-colors hover:bg-gray-50">
-                <h3 className="font-mono text-[24px] leading-none tracking-[-1.024px] text-[#191919] transition-colors group-hover:text-[#1e3a8a] md:text-[32px]">{card.title}</h3>
+                <h3 className="font-mono text-[24px] leading-none tracking-[-1.024px] text-[#191919] transition-colors group-hover:text-[#0160CC] md:text-[32px]">{card.title}</h3>
                 <div className="mt-auto h-px w-full bg-[#e1e1e1]" />
                 <div className="flex items-center justify-between gap-3 whitespace-nowrap text-[14px] leading-[21px] tracking-[-0.21px] text-[#4a4a4a]">
                   <span>{card.source}</span>

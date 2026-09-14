@@ -15,7 +15,7 @@ export function PressContactCard() {
           <div className="flex flex-col gap-0.5">
             <span className="text-body font-medium text-[#191919]">{PRESS_CONTACT.name}</span>
             <span className="text-sm tracking-tight text-[#4a4a4a]">{PRESS_CONTACT.title}</span>
-            <a href={`mailto:${PRESS_CONTACT.email}`} className="text-sm font-medium tracking-tight text-[#1e3a8a] hover:underline">
+            <a href={`mailto:${PRESS_CONTACT.email}`} className="text-sm font-medium tracking-tight text-[#0160CC] hover:underline">
               {PRESS_CONTACT.email}
             </a>
           </div>

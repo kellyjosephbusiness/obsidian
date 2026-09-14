@@ -4,7 +4,7 @@ import { cn } from "@/lib/utils";
 import type { ProductUpdate } from "./types";
 
 const TAG_STYLES: Record<ProductUpdate["tag"], string> = {
-  New: "border-[#1e3a8a] bg-[#dde4f6] text-[#1e3a8a]",
+  New: "border-[#0376FD] bg-[#DDEAFE] text-[#0160CC]",
   Improved: "border-[#e1e1e1] bg-[#f6f6f6] text-[#4a4a4a]",
   Fixed: "border-[#ffe9ec] bg-[#ffe9ec] text-[#ff405d]",
 };
@@ -40,7 +40,7 @@ export function UpdatesList({ label, updates }: UpdatesListProps) {
                     <h3 className="font-mono text-[22px] leading-none tracking-tight text-[#191919] md:text-[26px]">{update.title}</h3>
                     <p className="text-body text-[#4a4a4a]">{update.description}</p>
                     {update.href ? (
-                      <Link href={update.href} className="inline-flex w-fit items-center gap-1 text-body font-medium tracking-tight text-[#1e3a8a] hover:underline">
+                      <Link href={update.href} className="inline-flex w-fit items-center gap-1 text-body font-medium tracking-tight text-[#0160CC] hover:underline">
                         Read more
                         <ArrowRightIcon className="h-4 w-4" />
                       </Link>

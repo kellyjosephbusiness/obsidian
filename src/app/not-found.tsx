@@ -41,7 +41,7 @@ export default function NotFound() {
               </div>
               <nav aria-label="Available pages" className="flex flex-wrap justify-center gap-2 pt-4">
                 {SHORTCUTS.map((s) => (
-                  <Link key={s.href} href={s.href} className="rounded-[4px] border border-[#e1e1e1] bg-white px-4 py-2 text-[14px] font-medium text-[#191919] transition-colors hover:border-[#1e3a8a] hover:text-[#1e3a8a]">
+                  <Link key={s.href} href={s.href} className="rounded-[4px] border border-[#e1e1e1] bg-white px-4 py-2 text-[14px] font-medium text-[#191919] transition-colors hover:border-[#0376FD] hover:text-[#0160CC]">
                     {s.label}
                   </Link>
                 ))}

@@ -18,14 +18,14 @@ export function SupportSection({ support }: { support: DetailPageContent["suppor
           {support.headingLine2}
         </h2>
         <p className={BODY}>{support.body}</p>
-        <Link href={support.link.href} className="inline-flex w-fit items-center gap-1 text-[16px] font-medium text-[#1e3a8a] hover:underline md:text-[18px]">
+        <Link href={support.link.href} className="inline-flex w-fit items-center gap-1 text-[16px] font-medium text-[#0160CC] hover:underline md:text-[18px]">
           {support.link.label}
           <MaterialIcon name="arrow_forward" size={20} />
         </Link>
       </div>
-      <div className="relative mx-auto flex aspect-square w-full max-w-[460px] items-center justify-center overflow-hidden rounded-[8px] bg-[#dde4f6]">
+      <div className="relative mx-auto flex aspect-square w-full max-w-[460px] items-center justify-center overflow-hidden rounded-[8px] bg-[#DDEAFE]">
         <div className="flex flex-col items-center gap-5">
-          <div className="flex size-40 items-center justify-center rounded-[8px] bg-white text-[#1e3a8a] shadow-[0_0_24px_0_rgba(25,25,25,0.08)]">
+          <div className="flex size-40 items-center justify-center rounded-[8px] bg-white text-[#0160CC] shadow-[0_0_24px_0_rgba(25,25,25,0.08)]">
             <StippleGlyph name="handshake" size={120} />
           </div>
           <div className="rounded-[4px] bg-white px-4 py-2 text-[14px] font-medium text-[#191919] shadow-[0_0_16px_0_rgba(25,25,25,0.08)]">Real people, any day of the week</div>

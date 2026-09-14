@@ -1,10 +1,11 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { CustomerPhoto } from "@/components/sites/corgi-insure-a0f7893c/shared/CustomerPhoto";
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
-import { REVIEWS, REVIEWS_HEADER } from "./data";
+import { REVIEWS, REVIEWS_HEADER, SHARED } from "./data";
 
 
 /**
@@ -57,11 +58,22 @@ export function ReviewsSection() {
       />
 
       <div className="relative mx-auto flex max-w-[1600px] flex-col gap-8 md:gap-10">
-        <h2 className="px-4 text-center font-mono font-medium text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)] md:px-6 lg:px-16">
-          {REVIEWS_HEADER.headingLine1}
-          <br />
-          {REVIEWS_HEADER.headingLine2}
-        </h2>
+        <div className="relative px-4 md:px-6 lg:px-16">
+          {/* Decorative: the hero's dithered hand, pointing down at the review cards. */}
+          <Image
+            aria-hidden
+            alt=""
+            src={`${SHARED}/art/hands/point-down.png`}
+            width={560}
+            height={480}
+            className="pointer-events-none absolute top-[-12px] left-[6%] hidden h-[132px] w-[132px] -rotate-6 object-contain opacity-90 lg:block xl:left-[11%] xl:h-[150px] xl:w-[150px]"
+          />
+          <h2 className="text-center font-mono font-medium text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]">
+            {REVIEWS_HEADER.headingLine1}
+            <br />
+            {REVIEWS_HEADER.headingLine2}
+          </h2>
+        </div>
 
         <div
           ref={trackRef}
@@ -79,7 +91,7 @@ export function ReviewsSection() {
                   <span className="whitespace-nowrap font-mono text-[20px] font-medium leading-none tracking-[-0.02em] text-[#191919] md:text-[22px]">{review.name}</span>
                   <span className="whitespace-nowrap text-[15px] leading-none tracking-[-0.24px] text-[#5c5c5c] md:text-[18px]">{review.city}</span>
                 </div>
-                <MaterialIcon name="format_quote" size={48} className="ml-auto shrink-0 text-[#1e3a8a]" fill={1} />
+                <MaterialIcon name="format_quote" size={48} className="ml-auto shrink-0 text-[#0160CC]" fill={1} />
               </div>
               <p className="text-[18px] leading-[1.6] tracking-[-0.2px] text-[#4a4a4a] md:text-[20px]">{review.quote}</p>
             </article>
@@ -110,7 +122,7 @@ export function ReviewsSection() {
           <Link
             href={REVIEWS_HEADER.cta.href}
             data-track="cta-homepage-reviews"
-            className="group inline-flex min-h-[44px] items-center gap-1.5 rounded-[4px] text-[16px] font-medium leading-[1.2] tracking-[-0.24px] text-[#1e3a8a] hover:underline md:text-[18px]"
+            className="group inline-flex min-h-[44px] items-center gap-1.5 rounded-[4px] text-[16px] font-medium leading-[1.2] tracking-[-0.24px] text-[#0160CC] hover:underline md:text-[18px]"
           >
             {REVIEWS_HEADER.cta.label}
             <MaterialIcon name="arrow_forward" size={20} className="transition-transform duration-200 group-hover:translate-x-0.5" />

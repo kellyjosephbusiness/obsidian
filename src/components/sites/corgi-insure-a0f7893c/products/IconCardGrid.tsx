@@ -24,8 +24,8 @@ export function IconCardGrid({ id, heading, sub, cards }: IconCardGridProps) {
           <div className="relative z-10 grid grid-cols-1 gap-6 md:grid-cols-3">
             {cards.map((card) => (
               <article key={card.title} className="flex flex-col gap-5 rounded-[8px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
-                <div className="flex size-10 shrink-0 items-center justify-center rounded-[8px] bg-[#dde4f6]">
-                  <MaterialIcon name={card.icon} size={24} className="text-[#1e3a8a]" />
+                <div className="flex size-10 shrink-0 items-center justify-center rounded-[8px] bg-[#DDEAFE]">
+                  <MaterialIcon name={card.icon} size={24} className="text-[#0160CC]" />
                 </div>
                 <div className="flex flex-col gap-3">
                   <h3 className="text-[20px] font-bold leading-none tracking-[-0.64px] text-[#191919]">{card.title}</h3>

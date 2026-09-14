@@ -67,7 +67,7 @@ function ItemContent({ item }: { item: NavMenuItem }) {
       <MaterialIcon name={item.icon} size={16} className="shrink-0 text-[#4a4a4a]" />
       <span className="flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]">{item.label}</span>
       {item.badge && (
-        <span className="rounded-[4px] bg-[#dde4f6] px-2 py-1 text-[12px] font-medium leading-none text-[#1e3a8a]">
+        <span className="rounded-[4px] bg-[#DDEAFE] px-2 py-1 text-[12px] font-medium leading-none text-[#0160CC]">
           {item.badge}
         </span>
       )}
@@ -139,7 +139,7 @@ function MobileColumn({
             <Link
               href={column.viewAll.href}
               onClick={onClose}
-              className="inline-flex min-h-[44px] items-center text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#1e3a8a] hover:underline"
+              className="inline-flex min-h-[44px] items-center text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#0160CC] hover:underline"
             >
               {column.viewAll.label}
             </Link>
@@ -157,7 +157,7 @@ function HighlightCardBody({ card }: { card: NavHighlightCard }) {
       {card.image ? (
         <>
           {/* Nav art is a transparent 1-bit stipple drawing, so it sits on a navy tint plate, contained not cropped. */}
-          <div aria-hidden className="absolute inset-0 bg-[#dde4f6]" />
+          <div aria-hidden className="absolute inset-0 bg-[#DDEAFE]" />
           <Image
             alt={card.imageAlt}
             className={cn("absolute inset-0 h-full w-full object-cover", card.imagePositionClass)}
@@ -173,10 +173,10 @@ function HighlightCardBody({ card }: { card: NavHighlightCard }) {
         </div>
       )}
       <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-white/0 from-[28%] via-white/[0.55] via-[46%] to-white/90 to-[64%]" />
-      <span className="relative text-[12px] font-bold leading-[1.2] tracking-[-0.18px] text-[#191919] transition-colors group-hover:text-[#1e3a8a]">
+      <span className="relative text-[12px] font-bold leading-[1.2] tracking-[-0.18px] text-[#191919] transition-colors group-hover:text-[#0160CC]">
         {card.title}
       </span>
-      <span className="relative text-[12px] leading-[1.2] tracking-[-0.18px] text-[#191919] transition-colors group-hover:text-[#1e3a8a]">
+      <span className="relative text-[12px] leading-[1.2] tracking-[-0.18px] text-[#191919] transition-colors group-hover:text-[#0160CC]">
         {card.description}
       </span>
     </>

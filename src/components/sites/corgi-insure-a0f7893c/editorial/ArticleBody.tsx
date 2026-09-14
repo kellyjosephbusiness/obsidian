@@ -57,10 +57,10 @@ function TableOfContents({ blocks }: { blocks: EditorialBlock[] }) {
                 onClick={() => scrollToBlock(block.id)}
                 className={cn(
                   "flex items-start gap-2 text-left text-[12px] leading-[1.3] tracking-tight",
-                  isActive ? "text-[#1e3a8a]" : "text-[#4a4a4a] hover:text-[#1e3a8a]",
+                  isActive ? "text-[#0160CC]" : "text-[#4a4a4a] hover:text-[#0160CC]",
                 )}
               >
-                {isActive ? <span className="mt-[5px] h-[5px] w-[5px] shrink-0 rounded-full bg-[#1e3a8a]" /> : null}
+                {isActive ? <span className="mt-[5px] h-[5px] w-[5px] shrink-0 rounded-full bg-[#0376FD]" /> : null}
                 {block.tocLabel}
               </button>
             );
@@ -97,7 +97,7 @@ function MediaContactBlock({ contact }: { contact: MediaContact }) {
         <br />
         {contact.title}
         <br />
-        <a href={`mailto:${contact.email}`} className="text-[#1e3a8a] underline-offset-2 hover:underline">
+        <a href={`mailto:${contact.email}`} className="text-[#0160CC] underline-offset-2 hover:underline">
           {contact.email}
         </a>
       </p>
@@ -133,7 +133,7 @@ function Body({ blocks, inlineCta, inlineCtaAfter, endCta, mediaContact }: BodyP
                 </p>
               ))}
               {block.bullets ? (
-                <ul className="flex list-disc flex-col gap-2 pl-5 text-body text-[#4a4a4a] marker:text-[#1e3a8a]">
+                <ul className="flex list-disc flex-col gap-2 pl-5 text-body text-[#4a4a4a] marker:text-[#0160CC]">
                   {block.bullets.map((item) => (
                     <li key={item} className="pl-1">
                       {item}
@@ -175,7 +175,7 @@ function StickyRail({ rail }: { rail: RailCta }) {
         </div>
         <div className="flex flex-col items-center">
           <p className="text-center text-body text-[#4a4a4a]">{rail.helpText}</p>
-          <Link href={rail.helpLink.href} className="text-body font-medium tracking-tight text-[#1e3a8a] hover:underline">
+          <Link href={rail.helpLink.href} className="text-body font-medium tracking-tight text-[#0160CC] hover:underline">
             {rail.helpLink.label}
           </Link>
         </div>

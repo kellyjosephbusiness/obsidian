@@ -14,7 +14,7 @@ export function IndustryChips() {
             <Link
               key={pill.href}
               href={pill.href}
-              className="group inline-flex items-center gap-2 rounded-[4px] border border-[#e1e1e1] bg-white px-4 py-2 font-medium text-[14px] leading-[21px] tracking-[-0.21px] text-[#191919] transition-colors hover:border-[#1e3a8a] hover:text-[#1e3a8a]"
+              className="group inline-flex items-center gap-2 rounded-[4px] border border-[#e1e1e1] bg-white px-4 py-2 font-medium text-[14px] leading-[21px] tracking-[-0.21px] text-[#191919] transition-colors hover:border-[#0376FD] hover:text-[#0160CC]"
             >
               {pill.label}
               <svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" className="transition-transform group-hover:translate-x-0.5" aria-hidden>

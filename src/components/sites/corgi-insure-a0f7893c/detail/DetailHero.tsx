@@ -16,7 +16,7 @@ import { Sup } from "./frame";
 export function DetailHero({ page }: { page: DetailPageContent }) {
   const { hero } = page;
   return (
-    <section className="relative overflow-hidden border-b border-[#e1e1e1] bg-[#dde4f6] px-4 pt-[140px] pb-12 md:px-6 md:pt-[168px] md:pb-16 lg:px-16 lg:pb-20">
+    <section className="relative overflow-hidden border-b border-[#e1e1e1] bg-[#DDEAFE] px-4 pt-[140px] pb-12 md:px-6 md:pt-[168px] md:pb-16 lg:px-16 lg:pb-20">
       <div className="relative mx-auto w-full max-w-[1200px]">
         <nav aria-label="Breadcrumb" className="mb-8">
           <ol className="flex flex-wrap items-center gap-1.5 text-[14px] leading-5 text-[#4e4e4e]">
@@ -57,7 +57,7 @@ export function DetailHero({ page }: { page: DetailPageContent }) {
               {hero.headingLine1}
               <br />
               {hero.accentLine2 !== false ? (
-                <span className="homepage-hero-serif-font text-[#1e3a8a]">{hero.headingLine2}</span>
+                <span className="homepage-hero-serif-font text-[#0160CC]">{hero.headingLine2}</span>
               ) : (
                 hero.headingLine2
               )}
@@ -70,7 +70,7 @@ export function DetailHero({ page }: { page: DetailPageContent }) {
                 {hero.cta.label}
               </PressableButton>
               <div className="flex items-center gap-3">
-                <span className="flex items-center gap-0.5 text-[#1e3a8a]" aria-hidden>
+                <span className="flex items-center gap-0.5 text-[#0160CC]" aria-hidden>
                   {[0, 1, 2, 3, 4].map((i) => (
                     <MaterialIcon key={i} name="star" size={20} fill={1} />
                   ))}

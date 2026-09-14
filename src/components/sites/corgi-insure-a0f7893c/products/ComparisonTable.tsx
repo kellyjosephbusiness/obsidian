@@ -47,7 +47,7 @@ export function ComparisonTable({ rows = COMPARISON_ROWS }: { rows?: ComparisonR
                           scope="row"
                           className={`sticky left-0 z-10 px-5 py-4 text-[14px] font-bold leading-[1.25] tracking-[-0.21px] text-[#191919] shadow-[1px_0_0_0_#e1e1e1] ${zebra}`}
                         >
-                          <Link href={row.anchor} className="hover:text-[#1e3a8a] hover:underline">
+                          <Link href={row.anchor} className="hover:text-[#0160CC] hover:underline">
                             {row.product}
                           </Link>
                         </th>

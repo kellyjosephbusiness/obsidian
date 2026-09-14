@@ -50,7 +50,7 @@ export function RatesSection() {
               className="flex flex-col gap-4 rounded-[8px] border border-[#e1e1e1] bg-white p-5 shadow-[0_0_24px_0_rgba(25,25,25,0.05)]"
             >
               <div className="flex items-center gap-3">
-                <span className="flex size-11 shrink-0 items-center justify-center rounded-[8px] border border-[#dde4f6] bg-[#f6f8ff] text-[#1e3a8a]">
+                <span className="flex size-11 shrink-0 items-center justify-center rounded-[8px] border border-[#DDEAFE] bg-[#f6f8ff] text-[#0160CC]">
                   <StippleGlyph name={row.icon} size={28} sizes="28px" />
                 </span>
                 <span className="font-mono text-[17px] font-medium leading-[1.2] tracking-[-0.02em] text-[#191919]">{row.title}</span>
@@ -93,7 +93,7 @@ export function RatesSection() {
                 <tr key={row.id} className="border-b border-[#f0f0f0] last:border-0">
                   <th scope="row" className="px-5 py-5 font-normal lg:px-6">
                     <span className="flex items-center gap-3">
-                      <span className="flex size-10 shrink-0 items-center justify-center rounded-[8px] border border-[#dde4f6] bg-[#f6f8ff] text-[#1e3a8a]">
+                      <span className="flex size-10 shrink-0 items-center justify-center rounded-[8px] border border-[#DDEAFE] bg-[#f6f8ff] text-[#0160CC]">
                         <StippleGlyph name={row.icon} size={26} sizes="26px" />
                       </span>
                       <span className="font-mono text-[16px] font-medium leading-[1.2] tracking-[-0.02em] text-[#191919] lg:text-[18px]">
@@ -128,7 +128,7 @@ export function RatesSection() {
             </PressableButton>
             <a
               href={RATES.seeAll.href}
-              className="inline-flex min-h-[44px] items-center justify-center whitespace-nowrap text-[16px] font-medium leading-[1.2] tracking-[-0.24px] text-[#1e3a8a] hover:underline"
+              className="inline-flex min-h-[44px] items-center justify-center whitespace-nowrap text-[16px] font-medium leading-[1.2] tracking-[-0.24px] text-[#0160CC] hover:underline"
             >
               {RATES.seeAll.label}
             </a>

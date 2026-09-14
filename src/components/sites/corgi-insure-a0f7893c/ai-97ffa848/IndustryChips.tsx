@@ -70,13 +70,13 @@ export function IndustryChips({ heading = AI_INDUSTRIES_HEADING, chips = AI_INDU
                 href={chip.href}
                 aria-label={`Explore ${chip.label} funding`}
                 className={cn(
-                  "group relative flex min-h-20 min-w-20 items-end justify-center rounded-[8px] outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a8a] focus-visible:ring-offset-4 focus-visible:ring-offset-[#f6f6f6]",
+                  "group relative flex min-h-20 min-w-20 items-end justify-center rounded-[8px] outline-none focus-visible:ring-2 focus-visible:ring-[#0376FD] focus-visible:ring-offset-4 focus-visible:ring-offset-[#f6f6f6]",
                   i < last && "md:mr-3 lg:mr-4",
                 )}
               >
                 <span
                   aria-hidden
-                  className="-translate-x-1/2 pointer-events-none absolute top-[-60px] left-1/2 z-20 translate-y-2 scale-95 whitespace-nowrap font-medium font-sans text-[12px] text-[#5c5c5c] uppercase leading-none tracking-[0.18em] opacity-0 blur-[2px] transition-[opacity,transform,filter,color] duration-200 ease-[cubic-bezier(0.2,0,0,1)] group-hover:translate-y-0 group-hover:scale-100 group-hover:text-[#1e3a8a] group-hover:opacity-100 group-hover:blur-0 group-focus-visible:translate-y-0 group-focus-visible:scale-100 group-focus-visible:opacity-100 group-focus-visible:blur-0 md:text-xs"
+                  className="-translate-x-1/2 pointer-events-none absolute top-[-60px] left-1/2 z-20 translate-y-2 scale-95 whitespace-nowrap font-medium font-sans text-[12px] text-[#5c5c5c] uppercase leading-none tracking-[0.18em] opacity-0 blur-[2px] transition-[opacity,transform,filter,color] duration-200 ease-[cubic-bezier(0.2,0,0,1)] group-hover:translate-y-0 group-hover:scale-100 group-hover:text-[#0160CC] group-hover:opacity-100 group-hover:blur-0 group-focus-visible:translate-y-0 group-focus-visible:scale-100 group-focus-visible:opacity-100 group-focus-visible:blur-0 md:text-xs"
                 >
                   {chip.label}
                 </span>

@@ -22,7 +22,7 @@ export function CtaBand({ content = DEFAULT_CTA, dataTrack }: { content?: CtaBan
             <div className="flex max-w-[760px] flex-col gap-4 md:gap-6">
               <h2 className="font-mono font-medium text-white text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]">
                 <span className="block">{content.headingLine1}</span>
-                <span className="block text-[#8ea6f0]">{content.headingLine2}</span>
+                <span className="block text-[#7FB6FE]">{content.headingLine2}</span>
               </h2>
               <p className="text-body-large" style={{ color: "#d9d9d9" }}>{content.sub}</p>
             </div>

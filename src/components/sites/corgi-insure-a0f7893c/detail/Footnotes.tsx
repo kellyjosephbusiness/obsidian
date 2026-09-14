@@ -6,7 +6,7 @@ export function Footnotes({ notes }: { notes: string[] }) {
       <ol className="mx-auto flex w-full max-w-[1200px] flex-col gap-2 text-[13px] leading-[1.45] tracking-[-0.2px] text-[#4a4a4a]">
         {notes.map((n, i) => (
           <li key={n} className="flex gap-2">
-            <span className="w-3 shrink-0 text-[#1e3a8a]">{i + 1}</span>
+            <span className="w-3 shrink-0 text-[#0160CC]">{i + 1}</span>
             <span>{n}</span>
           </li>
         ))}

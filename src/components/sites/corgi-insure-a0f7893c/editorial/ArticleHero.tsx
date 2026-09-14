@@ -49,7 +49,7 @@ export function ArticleHero({ backLabel, backHref, title, thumbnail }: ArticleHe
     <section className="w-full px-4 pt-[170px] pb-16 md:px-6 lg:px-16">
       <div className="mx-auto flex w-full max-w-[1136px] flex-col gap-9">
         <div>
-          <Link href={backHref} className="inline-flex items-center gap-1 text-body font-medium tracking-tight text-[#191919] hover:text-[#1e3a8a]">
+          <Link href={backHref} className="inline-flex items-center gap-1 text-body font-medium tracking-tight text-[#191919] hover:text-[#0160CC]">
             <ArrowLeftIcon className="h-4 w-4" />
             {backLabel}
           </Link>

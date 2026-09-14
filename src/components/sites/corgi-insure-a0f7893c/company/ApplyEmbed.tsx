@@ -19,7 +19,7 @@ export function ApplyEmbed() {
           <ul className="hidden flex-col gap-3 lg:flex">
             {APPLY_INTRO.bullets.map((b) => (
               <li key={b.text} className="flex items-center gap-3 text-[15px] leading-[1.2] tracking-[-0.2px] text-[#191919]">
-                <span className="flex size-9 shrink-0 items-center justify-center rounded-[8px] bg-[#dde4f6] text-[#1e3a8a]">
+                <span className="flex size-9 shrink-0 items-center justify-center rounded-[8px] bg-[#DDEAFE] text-[#0160CC]">
                   <MaterialIcon name={b.icon} size={20} />
                 </span>
                 {b.text}
@@ -32,7 +32,7 @@ export function ApplyEmbed() {
             <ul className="flex flex-wrap gap-x-5 gap-y-2">
               {APPLY_TRUST.map((item) => (
                 <li key={item.text} className="flex items-center gap-1.5 text-[13px] leading-[1.2] tracking-[-0.2px] text-[#4a4a4a]">
-                  <MaterialIcon name={item.icon} size={16} className="text-[#1e3a8a]" />
+                  <MaterialIcon name={item.icon} size={16} className="text-[#0160CC]" />
                   {item.text}
                 </li>
               ))}
@@ -50,7 +50,7 @@ export function ApplyEmbed() {
 
           <p className="hidden text-[14px] leading-[1.3] tracking-[-0.21px] text-[#4a4a4a] lg:block">
             {APPLY_INTRO.helpText}{" "}
-            <a href={APPLY_INTRO.helpLink.href} className="font-medium text-[#1e3a8a] hover:underline">
+            <a href={APPLY_INTRO.helpLink.href} className="font-medium text-[#0160CC] hover:underline">
               {APPLY_INTRO.helpLink.label}
             </a>
           </p>

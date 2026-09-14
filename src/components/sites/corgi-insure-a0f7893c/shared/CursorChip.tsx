@@ -33,7 +33,7 @@ export function CursorChip({
     <div
       ref={chipRef}
       aria-hidden="true"
-      className="pointer-events-none fixed left-0 top-0 z-50 overflow-hidden rounded-[4px] bg-[#2b4ca8]"
+      className="pointer-events-none fixed left-0 top-0 z-50 overflow-hidden rounded-[4px] bg-[#0268DE]"
       style={{
         width: open && width !== null ? `${width}px` : "0px",
         transform: "translateY(-100%)",

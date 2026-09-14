@@ -84,8 +84,8 @@ function ProgressBar({ index, steps }: { index: number; steps: ApplyStep[] }) {
               <span
                 className={cn(
                   "flex size-6 shrink-0 items-center justify-center rounded-full text-[12px] font-medium leading-none",
-                  state === "done" && "bg-[#1e3a8a] text-white",
-                  state === "current" && "border-2 border-[#1e3a8a] bg-white text-[#1e3a8a]",
+                  state === "done" && "bg-[#0376FD] text-white",
+                  state === "current" && "border-2 border-[#0376FD] bg-white text-[#0160CC]",
                   state === "todo" && "border border-[#c9c9c9] bg-white text-[#5c5c5c]",
                 )}
               >
@@ -97,7 +97,7 @@ function ProgressBar({ index, steps }: { index: number; steps: ApplyStep[] }) {
         })}
       </ol>
       <div className="h-1.5 w-full overflow-hidden rounded-full bg-[#e1e1e1]" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={Math.round(pct)} aria-label="Application progress">
-        <div className="h-full rounded-full bg-[#1e3a8a] transition-[width] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]" style={{ width: `${pct}%` }} />
+        <div className="h-full rounded-full bg-[#0376FD] transition-[width] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)]" style={{ width: `${pct}%` }} />
       </div>
     </div>
   );
@@ -144,7 +144,7 @@ export function ApplyFlow() {
           <ul className="flex flex-col gap-3">
             {APPLY_INTRO.bullets.map((b) => (
               <li key={b.text} className="flex items-center gap-3 text-[15px] leading-[1.2] tracking-[-0.2px] text-[#191919]">
-                <span className="flex size-9 shrink-0 items-center justify-center rounded-[8px] bg-[#dde4f6] text-[#1e3a8a]">
+                <span className="flex size-9 shrink-0 items-center justify-center rounded-[8px] bg-[#DDEAFE] text-[#0160CC]">
                   <MaterialIcon name={b.icon} size={20} />
                 </span>
                 {b.text}
@@ -153,7 +153,7 @@ export function ApplyFlow() {
           </ul>
           <p className="text-[14px] leading-[1.3] tracking-[-0.21px] text-[#4a4a4a]">
             {APPLY_INTRO.helpText}{" "}
-            <a href={APPLY_INTRO.helpLink.href} className="font-medium text-[#1e3a8a] hover:underline">
+            <a href={APPLY_INTRO.helpLink.href} className="font-medium text-[#0160CC] hover:underline">
               {APPLY_INTRO.helpLink.label}
             </a>
           </p>
@@ -168,7 +168,7 @@ export function ApplyFlow() {
                 <dt className="text-[#5c5c5c]">Business</dt>
                 <dd className="text-[#191919]">{values.businessName}</dd>
                 <dt className="text-[#5c5c5c]">Requested</dt>
-                <dd className="font-mono font-medium text-[#1e3a8a]">{formatMoney(values.amount)}</dd>
+                <dd className="font-mono font-medium text-[#0160CC]">{formatMoney(values.amount)}</dd>
               </dl>
             </SubmittedState>
           </FormCard>

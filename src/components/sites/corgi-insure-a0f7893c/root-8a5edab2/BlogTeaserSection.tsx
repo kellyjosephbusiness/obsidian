@@ -41,7 +41,7 @@ export function BlogTeaserSection() {
           <Link
             href={BLOG_TEASER.cta.href}
             data-track="cta-homepage-blog"
-            className="group inline-flex min-h-[44px] shrink-0 items-center gap-1.5 whitespace-nowrap rounded-[4px] text-[16px] font-medium leading-[1.2] tracking-[-0.24px] text-[#1e3a8a] hover:underline md:text-[18px]"
+            className="group inline-flex min-h-[44px] shrink-0 items-center gap-1.5 whitespace-nowrap rounded-[4px] text-[16px] font-medium leading-[1.2] tracking-[-0.24px] text-[#0160CC] hover:underline md:text-[18px]"
           >
             {BLOG_TEASER.cta.label}
             <MaterialIcon name="arrow_forward" size={20} className="transition-transform duration-200 group-hover:translate-x-0.5" />
@@ -53,12 +53,12 @@ export function BlogTeaserSection() {
             <li key={card.href} className="flex">
               <Link
                 href={card.href}
-                className="group flex w-full flex-col gap-5 rounded-[8px] border border-[#e1e1e1] bg-white p-5 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] transition-colors hover:border-[#c5d1f0] md:p-6"
+                className="group flex w-full flex-col gap-5 rounded-[8px] border border-[#e1e1e1] bg-white p-5 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] transition-colors hover:border-[#C2DBFE] md:p-6"
               >
                 {card.coverIcon ? (
                   <span
                     aria-hidden
-                    className="flex aspect-[5/2] w-full items-center justify-center overflow-hidden rounded-[8px] bg-[#dde4f6] p-4 text-[#1e3a8a] transition-colors group-hover:bg-[#c5d1f0]"
+                    className="flex aspect-[5/2] w-full items-center justify-center overflow-hidden rounded-[8px] bg-[#DDEAFE] p-4 text-[#0160CC] transition-colors group-hover:bg-[#C2DBFE]"
                   >
                     <StippleGlyph name={card.coverIcon} size={80} sizes="80px" />
                   </span>
@@ -68,7 +68,7 @@ export function BlogTeaserSection() {
                     <span>{card.date}</span>
                     <span>{card.readTime}</span>
                   </div>
-                  <h3 className="font-mono text-[20px] font-medium leading-[1.15] tracking-[-0.02em] text-[#191919] transition-colors group-hover:text-[#1e3a8a] md:text-[22px]">
+                  <h3 className="font-mono text-[20px] font-medium leading-[1.15] tracking-[-0.02em] text-[#191919] transition-colors group-hover:text-[#0160CC] md:text-[22px]">
                     {card.title}
                   </h3>
                   <p className="line-clamp-3 text-[15px] leading-[1.45] tracking-[-0.2px] text-[#4a4a4a]">{card.excerpt}</p>

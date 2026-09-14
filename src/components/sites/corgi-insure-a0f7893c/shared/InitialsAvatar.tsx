@@ -3,12 +3,12 @@ import { cn } from "@/lib/utils";
 
 /** Brand-only gradients (navy, finance blue, near-black) so avatars never drift off palette. */
 const PALETTES = [
-  ["#1e3a8a", "#5b75c4"],
+  ["#0376FD", "#5AA5FE"],
   ["#191919", "#4e4e4e"],
-  ["#132a66", "#2b4ca8"],
-  ["#0376FD", "#8ea6f0"],
-  ["#2b4ca8", "#8ea6f0"],
-  ["#07090D", "#1e3a8a"],
+  ["#0154B4", "#0268DE"],
+  ["#0376FD", "#7FB6FE"],
+  ["#0268DE", "#7FB6FE"],
+  ["#07090D", "#0376FD"],
 ];
 
 function hash(input: string) {

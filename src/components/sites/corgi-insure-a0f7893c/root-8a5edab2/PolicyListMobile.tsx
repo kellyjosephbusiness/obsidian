@@ -20,14 +20,14 @@ const ROW_CLASS =
 
 function IconBox({ name }: { name: MaterialIconName }) {
   return (
-    <div className="flex size-14 shrink-0 items-center justify-center rounded-[8px] bg-[#dde4f6] text-[#1e3a8a]">
+    <div className="flex size-14 shrink-0 items-center justify-center rounded-[8px] bg-[#DDEAFE] text-[#0160CC]">
       <MaterialIcon name={name} size={28} />
     </div>
   );
 }
 
 function Chevron() {
-  return <MaterialIcon name="chevron_right" size={22} className="shrink-0 text-[#5c5c5c] transition-colors group-hover:text-[#1e3a8a]" />;
+  return <MaterialIcon name="chevron_right" size={22} className="shrink-0 text-[#5c5c5c] transition-colors group-hover:text-[#0160CC]" />;
 }
 
 /**
@@ -66,7 +66,7 @@ export function PolicyListMobile({ policies = POLICIES, specialized = SPECIALIZE
           <Link href={LINKS.loanTypes} className={ROW_CLASS}>
             <IconBox name="grid_view" />
             <div className="flex min-w-0 flex-1 flex-col gap-1">
-              <h3 className="text-[16px] font-bold leading-[1.2] tracking-[-0.24px] text-[#1e3a8a]">More specialty programs</h3>
+              <h3 className="text-[16px] font-bold leading-[1.2] tracking-[-0.24px] text-[#0160CC]">More specialty programs</h3>
               <p className="line-clamp-2 text-[13px] leading-[1.35] tracking-[-0.13px] text-[#5c5c5c]">{specialtyPreview}</p>
             </div>
             <Chevron />

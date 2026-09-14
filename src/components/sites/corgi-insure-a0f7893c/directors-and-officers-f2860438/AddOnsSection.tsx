@@ -15,7 +15,7 @@ export function AddOnsSection() {
             {ADD_ONS.cards.map((card) => (
               <article key={card.title} className="flex flex-col overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_16px_0_rgba(25,25,25,0.05)]">
                 <div className="flex items-center justify-center rounded-[8px] bg-white py-12 shadow-[0_0_16px_0_rgba(25,25,25,0.15)]">
-                  <MaterialIcon name={card.icon} size={24} className="text-[#1e3a8a]" />
+                  <MaterialIcon name={card.icon} size={24} className="text-[#0160CC]" />
                 </div>
                 <div className="flex flex-col gap-[10px] p-5">
                   <h3 className="font-mono text-[24px] leading-none tracking-[-0.77px] text-[#191919]">{card.title}</h3>

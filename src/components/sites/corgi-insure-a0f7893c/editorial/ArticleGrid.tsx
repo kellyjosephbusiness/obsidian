@@ -39,24 +39,24 @@ export function ArticleGrid({ label, articles, emptyText = "No articles match th
                     {article.coverIcon ? (
                       <div
                         aria-hidden
-                        className="flex aspect-[5/2] w-full items-center justify-center overflow-hidden rounded-[8px] bg-[#dde4f6] p-4 text-[#1e3a8a] transition-colors group-hover:bg-[#c5d1f0]"
+                        className="flex aspect-[5/2] w-full items-center justify-center overflow-hidden rounded-[8px] bg-[#DDEAFE] p-4 text-[#0160CC] transition-colors group-hover:bg-[#C2DBFE]"
                       >
                         <StippleGlyph name={article.coverIcon} size={96} />
                       </div>
                     ) : null}
                     <div className="flex flex-1 flex-col gap-3">
-                      <div className="flex items-center justify-between text-sm tracking-tight text-[#4a4a4a] transition-colors group-hover:text-[#1e3a8a]">
+                      <div className="flex items-center justify-between text-sm tracking-tight text-[#4a4a4a] transition-colors group-hover:text-[#0160CC]">
                         <span>{article.date}</span>
                         <span>{article.readTime}</span>
                       </div>
                       <div className="flex flex-col gap-2">
-                        <h3 className="font-mono text-[24px] leading-none tracking-tight text-[#191919] transition-colors group-hover:text-[#1e3a8a] md:text-[28px] lg:text-[32px]">
+                        <h3 className="font-mono text-[24px] leading-none tracking-tight text-[#191919] transition-colors group-hover:text-[#0160CC] md:text-[28px] lg:text-[32px]">
                           {article.title}
                         </h3>
-                        <p className="leading-snug tracking-tight text-[#4a4a4a] transition-colors group-hover:text-[#1e3a8a]">{article.excerpt}</p>
+                        <p className="leading-snug tracking-tight text-[#4a4a4a] transition-colors group-hover:text-[#0160CC]">{article.excerpt}</p>
                       </div>
-                      <div className="mt-auto h-px w-full bg-[#e1e1e1] transition-colors group-hover:bg-[#1e3a8a]" />
-                      <p className="text-sm tracking-tight text-[#191919] transition-colors group-hover:text-[#1e3a8a]">{article.author}</p>
+                      <div className="mt-auto h-px w-full bg-[#e1e1e1] transition-colors group-hover:bg-[#0376FD]" />
+                      <p className="text-sm tracking-tight text-[#191919] transition-colors group-hover:text-[#0160CC]">{article.author}</p>
                     </div>
                   </Link>
                 ))}

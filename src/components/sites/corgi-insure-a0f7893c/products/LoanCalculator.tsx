@@ -97,7 +97,7 @@ export function LoanCalculator() {
                   step={limits.amount.step}
                   value={safeAmount}
                   onChange={(e) => setAmount(numberValue(e.target, defaults.amount))}
-                  className="w-full accent-[#1e3a8a]"
+                  className="w-full accent-[#0376FD]"
                 />
               </Field>
               <div className="grid grid-cols-2 gap-4">
@@ -137,8 +137,8 @@ export function LoanCalculator() {
             {/* Results */}
             <div className="flex flex-col gap-6 rounded-[8px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
               <dl className="grid grid-cols-1 gap-4 sm:grid-cols-3">
-                <div className="flex flex-col gap-2 rounded-[8px] bg-[#1e3a8a] p-4 text-white">
-                  <dt className="text-[12px] leading-[1.2] tracking-[-0.18px] text-[#dde4f6]">{results.payment}</dt>
+                <div className="flex flex-col gap-2 rounded-[8px] bg-[#0376FD] p-4 text-white">
+                  <dt className="text-[12px] leading-[1.2] tracking-[-0.18px] text-[#DDEAFE]">{results.payment}</dt>
                   <dd className="font-mono text-[32px] font-medium leading-none tracking-[-1.02px]">{usdCents.format(result.payment)}</dd>
                 </div>
                 <div className="flex flex-col gap-2 rounded-[8px] border border-[#e1e1e1] bg-[#f9f9f9] p-4">
@@ -153,12 +153,12 @@ export function LoanCalculator() {
 
               <div className="flex flex-col gap-2">
                 <div className="flex h-3 w-full overflow-hidden rounded-full bg-[#e1e1e1]" aria-hidden>
-                  <div className="h-full bg-[#1e3a8a] transition-[width] duration-300" style={{ width: `${principalShare}%` }} />
+                  <div className="h-full bg-[#0376FD] transition-[width] duration-300" style={{ width: `${principalShare}%` }} />
                   <div className="h-full flex-1 bg-[#ff94a4]" />
                 </div>
                 <div className="flex justify-between text-[12px] leading-[1.2] tracking-[-0.18px] text-[#4a4a4a]">
                   <span>
-                    <span className="mr-1.5 inline-block size-2 rounded-full bg-[#1e3a8a] align-middle" />
+                    <span className="mr-1.5 inline-block size-2 rounded-full bg-[#0376FD] align-middle" />
                     Principal {usd.format(safeAmount)}
                   </span>
                   <span>
@@ -175,7 +175,7 @@ export function LoanCalculator() {
                     type="button"
                     onClick={() => setShowAll((v) => !v)}
                     aria-expanded={showAll}
-                    className="text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#1e3a8a] hover:underline"
+                    className="text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#0160CC] hover:underline"
                   >
                     {showAll ? preview.toggleLess : preview.toggleMore}
                   </button>

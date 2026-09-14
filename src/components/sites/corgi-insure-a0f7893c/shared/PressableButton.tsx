@@ -28,13 +28,13 @@ interface PressableButtonProps {
 }
 
 const BASE_BG: Record<PressableVariant, string> = {
-  primary: "bg-[#132a66]",
+  primary: "bg-[#0154B4]",
   black: "bg-[#626262]",
   white: "bg-[#e1e1e1]",
 };
 
 const FACE: Record<PressableVariant, string> = {
-  primary: "border-transparent bg-[#1e3a8a] text-white hover:bg-[#2b4ca8] active:bg-[#5b75c4]",
+  primary: "border-transparent bg-[#0376FD] text-white hover:bg-[#0268DE] active:bg-[#5AA5FE]",
   black: "border-transparent bg-[#191919] text-white hover:bg-[#4a4a4a] active:bg-[#7b7b7b]",
   white: "border-[#e1e1e1] bg-white text-[#191919] hover:bg-gray-50 active:bg-[#ededed]",
 };

@@ -56,10 +56,10 @@ export function ProcessSection() {
                   <>
                     <span
                       aria-hidden
-                      className="pointer-events-none absolute top-[84px] bottom-[-36px] left-[35px] w-[2px] overflow-hidden rounded-full bg-[#dde4f6] md:hidden"
+                      className="pointer-events-none absolute top-[84px] bottom-[-36px] left-[35px] w-[2px] overflow-hidden rounded-full bg-[#DDEAFE] md:hidden"
                     >
                       <motion.span
-                        className="absolute inset-x-0 top-0 h-10 bg-gradient-to-b from-transparent via-[#1e3a8a] to-transparent"
+                        className="absolute inset-x-0 top-0 h-10 bg-gradient-to-b from-transparent via-[#0376FD] to-transparent"
                         initial={{ opacity: 0 }}
                         animate={reduce ? { opacity: 0 } : { y: ["-120%", "420%"], opacity: [0, 0.6, 0] }}
                         transition={reduce ? { duration: 0 } : { duration: 2.8, delay: index * 0.45, repeat: Infinity, repeatDelay: 1.4, ease: "easeInOut" }}
@@ -67,10 +67,10 @@ export function ProcessSection() {
                     </span>
                     <span
                       aria-hidden
-                      className="pointer-events-none absolute top-[35px] right-[-24px] left-[84px] hidden h-[2px] overflow-hidden rounded-full bg-[#dde4f6] md:block"
+                      className="pointer-events-none absolute top-[35px] right-[-24px] left-[84px] hidden h-[2px] overflow-hidden rounded-full bg-[#DDEAFE] md:block"
                     >
                       <motion.span
-                        className="absolute inset-y-0 left-0 w-16 bg-gradient-to-r from-transparent via-[#1e3a8a] to-transparent"
+                        className="absolute inset-y-0 left-0 w-16 bg-gradient-to-r from-transparent via-[#0376FD] to-transparent"
                         initial={{ opacity: 0 }}
                         animate={reduce ? { opacity: 0 } : { x: ["-140%", "460%"], opacity: [0, 0.6, 0] }}
                         transition={reduce ? { duration: 0 } : { duration: 2.8, delay: index * 0.45, repeat: Infinity, repeatDelay: 1.4, ease: "easeInOut" }}
@@ -79,12 +79,12 @@ export function ProcessSection() {
                   </>
                 )}
 
-                <span className="relative z-10 flex size-[72px] shrink-0 items-center justify-center rounded-[8px] border border-[#dde4f6] bg-white text-[#1e3a8a] shadow-[0_0_16px_0_rgba(25,25,25,0.05)]">
+                <span className="relative z-10 flex size-[72px] shrink-0 items-center justify-center rounded-[8px] border border-[#DDEAFE] bg-white text-[#0160CC] shadow-[0_0_16px_0_rgba(25,25,25,0.05)]">
                   <StippleGlyph name={step.icon} size={44} sizes="44px" />
                 </span>
 
                 <div className="flex min-w-0 flex-col gap-2">
-                  <span className="inline-flex w-fit items-center rounded-[4px] bg-[#dde4f6] px-2 py-1 font-mono text-[12px] font-medium leading-none tracking-[0.04em] text-[#1e3a8a]">
+                  <span className="inline-flex w-fit items-center rounded-[4px] bg-[#DDEAFE] px-2 py-1 font-mono text-[12px] font-medium leading-none tracking-[0.04em] text-[#0160CC]">
                     {`0${index + 1}`}
                   </span>
                   <h3 className="font-mono text-[18px] font-medium leading-[1.2] tracking-[-0.02em] text-[#191919] md:text-[20px]">

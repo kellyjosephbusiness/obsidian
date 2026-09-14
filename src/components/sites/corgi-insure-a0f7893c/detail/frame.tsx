@@ -15,7 +15,7 @@ export function Frame({
   tone?: "page" | "white" | "dark" | "navy";
   id?: string;
 }) {
-  const bg = { page: "bg-[#f6f6f6]", white: "bg-white", dark: "bg-[#191919]", navy: "bg-[#1e3a8a]" }[tone];
+  const bg = { page: "bg-[#f6f6f6]", white: "bg-white", dark: "bg-[#191919]", navy: "bg-[#0376FD]" }[tone];
   const rail = tone === "dark" || tone === "navy" ? "bg-white/15" : "bg-[#e1e1e1]";
   return (
     <section id={id} className={cn("relative px-4 py-16 md:px-6 md:py-20 lg:px-16 lg:py-24", bg, className)}>
@@ -37,7 +37,7 @@ export function Sup({ text }: { text: string }) {
     <>
       {parts.map((p, i) =>
         /[¹²³⁴⁵]/.test(p) ? (
-          <sup key={i} className="ml-0.5 text-[max(12px,0.6em)] text-[#1e3a8a]">
+          <sup key={i} className="ml-0.5 text-[max(12px,0.6em)] text-[#0160CC]">
             {"¹²³⁴⁵".indexOf(p) + 1}
           </sup>
         ) : (

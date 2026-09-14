@@ -32,7 +32,7 @@ export function LegalPage({ content }: { content: LegalPageContent }) {
             <ol className="flex flex-col gap-2 border-l border-[#e1e1e1]">
               {content.sections.map((s, i) => (
                 <li key={s.id}>
-                  <a href={`#${s.id}`} className="-ml-px flex gap-2 border-l border-transparent pl-4 text-[14px] leading-[1.3] tracking-[-0.21px] text-[#4a4a4a] hover:border-[#1e3a8a] hover:text-[#1e3a8a]">
+                  <a href={`#${s.id}`} className="-ml-px flex gap-2 border-l border-transparent pl-4 text-[14px] leading-[1.3] tracking-[-0.21px] text-[#4a4a4a] hover:border-[#0376FD] hover:text-[#0160CC]">
                     <span className="w-5 shrink-0 tabular-nums text-[#5c5c5c]">{i + 1}.</span>
                     {s.title}
                   </a>
@@ -40,7 +40,7 @@ export function LegalPage({ content }: { content: LegalPageContent }) {
               ))}
               {content.showPreferences && (
                 <li>
-                  <a href="#preferences" className="-ml-px flex gap-2 border-l border-transparent pl-4 text-[14px] leading-[1.3] tracking-[-0.21px] text-[#1e3a8a] hover:border-[#1e3a8a]">
+                  <a href="#preferences" className="-ml-px flex gap-2 border-l border-transparent pl-4 text-[14px] leading-[1.3] tracking-[-0.21px] text-[#0160CC] hover:border-[#0376FD]">
                     <span className="w-5 shrink-0 text-[#5c5c5c]">→</span>
                     Manage preferences
                   </a>
@@ -53,7 +53,7 @@ export function LegalPage({ content }: { content: LegalPageContent }) {
             {content.sections.map((s, i) => (
               <section key={s.id} id={s.id} className="flex scroll-mt-[120px] flex-col gap-4">
                 <h2 className="font-mono text-[24px] font-medium leading-none tracking-[-0.77px] text-[#191919] md:text-[28px] md:tracking-[-0.9px]">
-                  <span className="mr-2 text-[#1e3a8a]">{i + 1}.</span>
+                  <span className="mr-2 text-[#0160CC]">{i + 1}.</span>
                   {s.title}
                 </h2>
                 {s.paragraphs.map((p) => (

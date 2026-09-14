@@ -22,7 +22,7 @@ export function PageHero({ content, dataTrack }: PageHeroProps) {
       <div className="relative mx-auto flex w-full max-w-[860px] flex-col items-center gap-6 text-center">
         {content.icon && (
           <div className="flex size-[72px] items-center justify-center rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
-            <MaterialIcon name={content.icon} size={36} className="text-[#1e3a8a]" />
+            <MaterialIcon name={content.icon} size={36} className="text-[#0160CC]" />
           </div>
         )}
         {content.eyebrow && <span className={EYEBROW_CLASS}>{content.eyebrow}</span>}

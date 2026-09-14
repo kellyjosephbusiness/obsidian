@@ -93,7 +93,7 @@ export function QualifyEstimator() {
 
               <div className="flex flex-col gap-2" aria-hidden>
                 <div className="relative h-3 w-full overflow-hidden rounded-full bg-[#e1e1e1]">
-                  <div className="absolute inset-y-0 rounded-full bg-[#1e3a8a] transition-[left,width] duration-300" style={{ left: `${lowShare}%`, width: `${Math.max(1.5, highShare - lowShare)}%` }} />
+                  <div className="absolute inset-y-0 rounded-full bg-[#0376FD] transition-[left,width] duration-300" style={{ left: `${lowShare}%`, width: `${Math.max(1.5, highShare - lowShare)}%` }} />
                 </div>
                 <div className="flex justify-between text-[12px] leading-[1.2] tracking-[-0.16px] text-[#5c5c5c]">
                   <span>$5K</span>
@@ -106,7 +106,7 @@ export function QualifyEstimator() {
                 <span className="text-[12px] leading-[1.2] tracking-[-0.18px] text-[#4a4a4a]">{results.products}</span>
                 <ul className="flex flex-wrap gap-2">
                   {(estimate?.products ?? []).map((p) => (
-                    <li key={p} className="inline-flex items-center gap-1 rounded-[4px] bg-[#dde4f6] px-2 py-1 text-[14px] font-medium leading-none text-[#1e3a8a]">
+                    <li key={p} className="inline-flex items-center gap-1 rounded-[4px] bg-[#DDEAFE] px-2 py-1 text-[14px] font-medium leading-none text-[#0160CC]">
                       <MaterialIcon name="check" size={16} />
                       {p}
                     </li>
@@ -116,7 +116,7 @@ export function QualifyEstimator() {
 
               <div className="mt-auto flex flex-col gap-3 border-t border-[#e1e1e1] pt-6 sm:flex-row sm:items-center sm:justify-between">
                 <p className="flex items-center gap-2 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]">
-                  <MaterialIcon name="verified_user" size={20} className="text-[#1e3a8a]" />
+                  <MaterialIcon name="verified_user" size={20} className="text-[#0160CC]" />
                   No impact to your credit score to apply.
                 </p>
                 <PressableButton variant="primary" size="small" href={QUALIFY_CALC.cta.href} className="w-fit" dataTrack="cta-calculators-qualify">

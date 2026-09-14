@@ -10,8 +10,8 @@ export function StepsSection({ steps }: { steps: ProcessStep[] }) {
         <Reveal key={step.number} index={i} className="flex">
           <li className="flex w-full flex-col gap-6 rounded-[8px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
             <div className="flex items-center justify-between">
-              <span className="font-mono text-[40px] font-medium leading-none tracking-[-0.04em] text-[#1e3a8a] md:text-[48px]">{step.number}</span>
-              <span className="flex size-12 items-center justify-center rounded-[8px] bg-[#dde4f6] text-[#1e3a8a]">
+              <span className="font-mono text-[40px] font-medium leading-none tracking-[-0.04em] text-[#0160CC] md:text-[48px]">{step.number}</span>
+              <span className="flex size-12 items-center justify-center rounded-[8px] bg-[#DDEAFE] text-[#0160CC]">
                 <MaterialIcon name={step.icon} size={24} />
               </span>
             </div>
@@ -22,7 +22,7 @@ export function StepsSection({ steps }: { steps: ProcessStep[] }) {
             <ul className="mt-auto flex flex-col gap-2 border-t border-[#e1e1e1] pt-5">
               {step.facts.map((fact) => (
                 <li key={fact} className="flex items-start gap-2 text-[14px] leading-[1.3] tracking-[-0.21px] text-[#191919]">
-                  <MaterialIcon name="check" size={18} className="mt-px shrink-0 text-[#1e3a8a]" weight={600} />
+                  <MaterialIcon name="check" size={18} className="mt-px shrink-0 text-[#0160CC]" weight={600} />
                   {fact}
                 </li>
               ))}

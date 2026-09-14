@@ -3,7 +3,7 @@ import { InitialsAvatar } from "@/components/sites/corgi-insure-a0f7893c/shared/
 import type { Leader } from "@/types/sites/corgi-insure-a0f7893c/company";
 import { Reveal } from "./Reveal";
 
-const PORTRAIT_BOX_CLASS = "relative h-[200px] w-full overflow-hidden bg-[#dde4f6] md:h-[220px]";
+const PORTRAIT_BOX_CLASS = "relative h-[200px] w-full overflow-hidden bg-[#DDEAFE] md:h-[220px]";
 
 /** Six leader cards: headshot (initials tile when no photo is set), name, role and a two-line bio. */
 export function LeadershipGrid({ leaders }: { leaders: Leader[] }) {
@@ -30,7 +30,7 @@ export function LeadershipGrid({ leaders }: { leaders: Leader[] }) {
             <div className="flex flex-col gap-3 p-6">
               <div className="flex flex-col gap-1">
                 <h3 className="font-mono text-[22px] font-medium leading-[1.1] tracking-[-0.02em] text-[#191919]">{leader.name}</h3>
-                <p className="text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#1e3a8a]">{leader.role}</p>
+                <p className="text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#0160CC]">{leader.role}</p>
               </div>
               <p className="text-body text-[#4a4a4a]">{leader.bio}</p>
             </div>

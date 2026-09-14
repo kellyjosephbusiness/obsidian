@@ -74,7 +74,7 @@ export function HeroSection() {
               <h1 className="homepage-hero-heading-font mx-auto max-w-[1000px] text-[42px] font-medium leading-[0.98] tracking-[-0.032em] text-[#191919] sm:text-[52px] md:text-[68px] md:leading-none lg:text-[84px]">
                 {HERO.headingLine1} <br className="hidden md:block" />
                 {HERO.headingLine2Prefix}{" "}
-                <span className="homepage-hero-serif-font text-[#1E3A8A] italic">{HERO.headingAccent}</span>
+                <span className="homepage-hero-serif-font text-[#0160CC] italic">{HERO.headingAccent}</span>
               </h1>
               <p className="max-w-[360px] text-[17px] leading-[1.35] tracking-[-0.2px] text-[#4e4e4e] sm:max-w-none md:text-[24px] md:leading-[1.3] md:tracking-[-0.36px]">
                 {HERO.subLine1}

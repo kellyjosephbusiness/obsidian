@@ -28,7 +28,7 @@ export function PlainEnglishTable() {
                   <div className="flex flex-1 items-start p-5">
                     <p className="font-medium font-mono text-[20px] leading-none tracking-[-0.64px] text-[#4a4a4a] lg:text-[24px] lg:tracking-[-0.768px]">
                       {s.prompt}
-                      <span className="ml-0.5 align-super text-[14px] text-[#1e3a8a] lg:text-[16px]">{s.note}</span>
+                      <span className="ml-0.5 align-super text-[14px] text-[#0160CC] lg:text-[16px]">{s.note}</span>
                     </p>
                   </div>
                   <div className="flex w-full flex-col gap-4 border-t border-[#e1e1e1] p-5 lg:w-[400px] lg:border-t-0 lg:border-l">
@@ -54,7 +54,7 @@ export function PlainEnglishTable() {
           <p className="font-medium text-[12px] leading-[1.2] tracking-[-0.18px] text-[#191919]">{PLAIN_ENGLISH.scenarioNotesTitle}</p>
           {SCENARIO_NOTES.map((note, i) => (
             <div key={note} className="flex items-baseline gap-2">
-              <span className="w-[10px] shrink-0 text-[14px] leading-none text-[#1e3a8a] lg:text-[16px]">{i + 1}</span>
+              <span className="w-[10px] shrink-0 text-[14px] leading-none text-[#0160CC] lg:text-[16px]">{i + 1}</span>
               <p className="text-[12px] leading-[1.2] tracking-[-0.18px] text-[#4a4a4a]">{note}</p>
             </div>
           ))}
@@ -63,7 +63,7 @@ export function PlainEnglishTable() {
           <p className="font-medium text-[12px] leading-[1.2] tracking-[-0.18px] text-[#191919]">{PLAIN_ENGLISH.loanNotesTitle}</p>
           {LOAN_NOTES.map((note, i) => (
             <div key={note} className="flex items-start gap-2">
-              <span className="mt-[5px] size-1.5 shrink-0 rounded-full bg-[#1e3a8a]" />
+              <span className="mt-[5px] size-1.5 shrink-0 rounded-full bg-[#0376FD]" />
               <p className={`text-[12px] leading-[1.2] tracking-[-0.18px] text-[#4a4a4a] ${i === LOAN_NOTES.length - 1 ? "italic" : ""}`}>{note}</p>
             </div>
           ))}

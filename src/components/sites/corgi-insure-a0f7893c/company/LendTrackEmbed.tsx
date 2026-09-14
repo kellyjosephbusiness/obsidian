@@ -40,7 +40,7 @@ export function LendTrackEmbed({ slug = "lendpeak", type = "broker" }: { slug?: 
       aria-label="Funding application"
     >
       <noscript>
-        <a href={`https://lendtrack.ai/embed/${type}/${slug}`} className="text-[#1e3a8a] underline">
+        <a href={`https://lendtrack.ai/embed/${type}/${slug}`} className="text-[#0160CC] underline">
           Open the funding application
         </a>
       </noscript>

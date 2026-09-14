@@ -43,7 +43,7 @@ export function GetQuotedSection() {
             <ul className="flex flex-col gap-3">
               {GET_QUOTED.proof.map((item) => (
                 <li key={item.label} className="flex items-center gap-3 text-body font-medium text-[#191919]">
-                  <span className="flex size-8 shrink-0 items-center justify-center rounded-[8px] bg-[#dde4f6] text-[#1e3a8a]">
+                  <span className="flex size-8 shrink-0 items-center justify-center rounded-[8px] bg-[#DDEAFE] text-[#0160CC]">
                     <MaterialIcon name={item.icon} size={18} />
                   </span>
                   {item.label}
@@ -58,7 +58,7 @@ export function GetQuotedSection() {
           </div>
 
           {/* Application-form screenshot card */}
-          <div className="@container relative overflow-clip rounded-[8px] border border-[#e1e1e1] bg-[#2b4ca8] shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
+          <div className="@container relative overflow-clip rounded-[8px] border border-[#e1e1e1] bg-[#0268DE] shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
             <div className="relative aspect-[800/465] w-full overflow-clip p-[1.09cqw]">
               <div
                 aria-hidden

@@ -133,7 +133,7 @@ export function FaqSection({ items = FAQ, heading = FAQ_HEADER.heading, footer =
             <div className="flex items-center justify-center px-4 py-5 text-center">
               <p className="text-body text-[#4a4a4a]">
                 {footer.text}{" "}
-                <Link href={footer.link.href} className="text-[#1e3a8a] hover:underline">
+                <Link href={footer.link.href} className="text-[#0160CC] hover:underline">
                   {footer.link.label}
                 </Link>
               </p>

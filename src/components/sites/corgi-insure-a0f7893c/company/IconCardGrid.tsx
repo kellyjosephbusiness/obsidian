@@ -22,7 +22,7 @@ export function IconCardGrid({ items, columns = 3 }: IconCardGridProps) {
       {items.map((item, i) => (
         <Reveal key={item.title} index={i} className="flex">
           <li className="flex w-full flex-col gap-5 rounded-[8px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
-            <span className="flex size-12 items-center justify-center rounded-[8px] bg-[#dde4f6] text-[#1e3a8a]">
+            <span className="flex size-12 items-center justify-center rounded-[8px] bg-[#DDEAFE] text-[#0160CC]">
               <MaterialIcon name={item.icon} size={24} />
             </span>
             <div className="flex flex-col gap-2">

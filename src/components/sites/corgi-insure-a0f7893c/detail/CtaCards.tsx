@@ -8,8 +8,8 @@ export function CtaCards({ cards }: { cards: [DetailCtaCard, DetailCtaCard] }) {
   return (
     <Frame inner="grid grid-cols-1 gap-6 md:grid-cols-2">
       {cards.map((card) => (
-        <article key={card.heading} className={`flex flex-col items-start gap-5 rounded-[8px] p-8 md:p-10 ${card.tone === "light" ? "bg-[#dde4f6]" : "bg-[#c5d1f0]"}`}>
-          <div className="flex size-[88px] items-center justify-center rounded-[8px] bg-white text-[#1e3a8a]">
+        <article key={card.heading} className={`flex flex-col items-start gap-5 rounded-[8px] p-8 md:p-10 ${card.tone === "light" ? "bg-[#DDEAFE]" : "bg-[#C2DBFE]"}`}>
+          <div className="flex size-[88px] items-center justify-center rounded-[8px] bg-white text-[#0160CC]">
             <StippleGlyph name={card.icon} size={64} />
           </div>
           <h2 className="font-mono text-[28px] font-medium leading-[1.05] tracking-[-0.03em] text-[#191919] md:text-[36px]">{card.heading}</h2>

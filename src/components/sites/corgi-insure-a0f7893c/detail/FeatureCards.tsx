@@ -16,8 +16,8 @@ export function FeatureCards({ features }: { features: DetailPageContent["featur
       </div>
       <div className="grid grid-cols-1 gap-6 md:grid-cols-3">
         {features.cards.map((card) => (
-          <article key={card.title} className="group flex flex-col items-center gap-6 rounded-[8px] bg-[#dde4f6] p-8 text-center md:p-10">
-            <div className="flex size-[88px] items-center justify-center rounded-[8px] bg-white text-[#1e3a8a] shadow-[0_0_24px_0_rgba(25,25,25,0.06)] transition-transform duration-300 group-hover:scale-105">
+          <article key={card.title} className="group flex flex-col items-center gap-6 rounded-[8px] bg-[#DDEAFE] p-8 text-center md:p-10">
+            <div className="flex size-[88px] items-center justify-center rounded-[8px] bg-white text-[#0160CC] shadow-[0_0_24px_0_rgba(25,25,25,0.06)] transition-transform duration-300 group-hover:scale-105">
               <StippleGlyph name={card.icon} size={64} />
             </div>
             <div className="flex flex-col gap-3">

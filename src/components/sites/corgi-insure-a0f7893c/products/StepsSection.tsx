@@ -23,7 +23,7 @@ export function StepsSection({ id, heading, sub, items }: StepsSectionProps) {
           <ol className="relative z-10 grid grid-cols-1 gap-px overflow-clip rounded-[8px] border border-[#e1e1e1] bg-[#e1e1e1] md:grid-cols-2 lg:grid-cols-4">
             {items.map((step, i) => (
               <li key={step.title} className="flex flex-col gap-5 bg-white p-6">
-                <span className="font-mono text-[40px] font-medium leading-none tracking-[-1.28px] text-[#1e3a8a]">{String(i + 1).padStart(2, "0")}</span>
+                <span className="font-mono text-[40px] font-medium leading-none tracking-[-1.28px] text-[#0160CC]">{String(i + 1).padStart(2, "0")}</span>
                 <div className="flex flex-col gap-3">
                   <h3 className="text-[20px] font-bold leading-none tracking-[-0.64px] text-[#191919]">{step.title}</h3>
                   <p className="text-[14px] leading-[1.3] tracking-[-0.21px] text-[#4a4a4a]">{step.body}</p>

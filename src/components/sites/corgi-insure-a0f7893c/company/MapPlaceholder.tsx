@@ -20,7 +20,7 @@ export function MapPlaceholder() {
             <span className="mb-1 whitespace-nowrap rounded-[4px] border border-[#e1e1e1] bg-white px-2.5 py-1 text-[12px] font-medium leading-none tracking-[-0.18px] text-[#191919] shadow-[0_0_8px_0_rgba(25,25,25,0.08)]">
               {pin.city}
             </span>
-            <MaterialIcon name="location_on" size={24} fill={1} className="text-[#1e3a8a]" />
+            <MaterialIcon name="location_on" size={24} fill={1} className="text-[#0160CC]" />
           </div>
         ))}
         <span className="absolute right-4 bottom-4 rounded-[4px] bg-white/90 px-3 py-1 text-[12px] font-medium uppercase leading-none tracking-[0.08em] text-[#5c5c5c]">Illustrative map</span>

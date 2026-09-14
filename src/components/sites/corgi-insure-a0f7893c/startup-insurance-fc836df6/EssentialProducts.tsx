@@ -8,7 +8,7 @@ import { ESSENTIAL_HEADER } from "./data";
 const SECTION_FADE =
   "linear-gradient(rgb(246,246,246) 0%, rgba(0,0,0,0) 21%), linear-gradient(rgba(0,0,0,0) 71%, rgb(246,246,246) 98%)";
 
-const BADGE_GRADIENT = "bg-[#dde4f6]";
+const BADGE_GRADIENT = "bg-[#DDEAFE]";
 
 const CELL_TITLE = "font-mono text-[#191919] text-[20px] leading-none tracking-tight md:text-[22px] lg:text-[24px]";
 
@@ -37,13 +37,13 @@ function ProductListCell({ policy }: { policy: Policy }) {
       <div className="relative flex h-[120px] items-start p-3">
         <Image alt={policy.title} src={policy.image} fill sizes="436px" className="pointer-events-none object-contain" />
         <div className={`relative z-10 flex items-center justify-center rounded-[8px] px-3 py-1.5 ${BADGE_GRADIENT}`}>
-          <span className="text-[12px] text-[#1e3a8a] leading-[1.2] tracking-[-0.18px]">{ESSENTIAL_HEADER.instant.badge}</span>
+          <span className="text-[12px] text-[#0160CC] leading-[1.2] tracking-[-0.18px]">{ESSENTIAL_HEADER.instant.badge}</span>
         </div>
       </div>
       <div className="flex flex-1 flex-col gap-2 border-[#e1e1e1] border-t p-3 lg:p-5">
         <h3 className={CELL_TITLE}>{policy.title}</h3>
         <p className="text-body text-[#4e4e4e]">{policy.description}</p>
-        <span className="mt-auto pt-4 font-medium text-[#1e3a8a] text-[14px] leading-[1.5] tracking-[-0.24px] group-hover:underline">
+        <span className="mt-auto pt-4 font-medium text-[#0160CC] text-[14px] leading-[1.5] tracking-[-0.24px] group-hover:underline">
           {ESSENTIAL_HEADER.instant.learnMore}
         </span>
       </div>

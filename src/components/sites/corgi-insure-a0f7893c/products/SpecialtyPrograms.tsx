@@ -37,7 +37,7 @@ export function SpecialtyPrograms({ items = SPECIALIZED_COVERAGES }: { items?: S
                     <h3 className="text-[16px] font-bold leading-[1.2] tracking-[-0.24px] text-[#191919]">{item.title}</h3>
                     <p className="line-clamp-2 text-[13px] leading-[1.35] tracking-[-0.13px] text-[#5c5c5c]">{item.desc}</p>
                   </div>
-                  <MaterialIcon name="chevron_right" size={22} className="shrink-0 text-[#5c5c5c] transition-colors group-hover:text-[#1e3a8a]" />
+                  <MaterialIcon name="chevron_right" size={22} className="shrink-0 text-[#5c5c5c] transition-colors group-hover:text-[#0160CC]" />
                 </Link>
               </li>
             ))}
@@ -49,13 +49,13 @@ export function SpecialtyPrograms({ items = SPECIALIZED_COVERAGES }: { items?: S
               <Link
                 key={item.title}
                 href={LINKS.apply}
-                className="group flex flex-col overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-white transition-colors hover:border-[#1e3a8a]"
+                className="group flex flex-col overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-white transition-colors hover:border-[#0376FD]"
               >
                 <div className="relative h-[160px] w-full border-b border-[#e1e1e1] bg-[#f6f6f6]">
                   <Image alt="" aria-hidden src={item.image} fill sizes="384px" className="object-contain p-6" />
                 </div>
                 <div className="flex flex-1 flex-col gap-2 p-5">
-                  <h3 className="text-[20px] font-bold leading-none tracking-[-0.64px] text-[#191919] group-hover:text-[#1e3a8a]">{item.title}</h3>
+                  <h3 className="text-[20px] font-bold leading-none tracking-[-0.64px] text-[#191919] group-hover:text-[#0160CC]">{item.title}</h3>
                   <p className="line-clamp-2 text-[14px] leading-[1.3] tracking-[-0.21px] text-[#4a4a4a]">{item.desc}</p>
                 </div>
               </Link>

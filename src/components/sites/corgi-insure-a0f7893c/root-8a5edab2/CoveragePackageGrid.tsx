@@ -15,7 +15,7 @@ import { COVERAGE_PACKAGES, JOURNEY, POLICY_PILLS } from "./data";
 const DESKTOP_HEADER_INNER_WIDTH = 308;
 
 const PILL_CLASS =
-  "inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[#dde4f6] px-2 py-1 font-medium text-[#1e3a8a] text-[12px] leading-none transition-[background-color,transform] duration-300 ease-out hover:rotate-[8deg] hover:bg-[#c5d1f0] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#1e3a8a] active:bg-[#b7c5ec]";
+  "inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[#DDEAFE] px-2 py-1 font-medium text-[#0160CC] text-[12px] leading-none transition-[background-color,transform] duration-300 ease-out hover:rotate-[8deg] hover:bg-[#C2DBFE] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#0376FD] active:bg-[#ADD0FD]";
 
 /** Keeps the last two words together (no-orphan text helper). */
 function NoOrphan({ text }: { text: string }): ReactNode {

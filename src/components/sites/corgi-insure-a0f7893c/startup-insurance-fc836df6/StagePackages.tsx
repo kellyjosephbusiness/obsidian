@@ -10,7 +10,7 @@ const SECTION_FADE =
   "linear-gradient(rgb(246,246,246) 0%, rgba(0,0,0,0) 21%), linear-gradient(rgba(0,0,0,0) 71%, rgb(246,246,246) 98%)";
 
 const CHIP_CLASS =
-  "inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[#dde4f6] px-2 py-1 font-medium text-[#1e3a8a] text-[12px] leading-none transition-[background-color,transform] duration-300 ease-out hover:rotate-[8deg] hover:bg-[#c5d1f0]";
+  "inline-flex cursor-pointer items-center justify-center whitespace-nowrap rounded-[4px] bg-[#DDEAFE] px-2 py-1 font-medium text-[#0160CC] text-[12px] leading-none transition-[background-color,transform] duration-300 ease-out hover:rotate-[8deg] hover:bg-[#C2DBFE]";
 
 function ProductChip({ label }: { label: string }) {
   return (
@@ -93,7 +93,7 @@ function StageCard({ pkg, className }: { pkg: StagePackage; className: string })
                 <MaterialIcon name="check" size={14} className="shrink-0 text-[#4a4a4a]" />
                 <span className="flex-1 font-medium text-[#4a4a4a] text-[12px] leading-tight">{line.text}</span>
               </div>
-              <div aria-hidden className="h-px w-2 bg-[#1e3a8a]" />
+              <div aria-hidden className="h-px w-2 bg-[#0376FD]" />
               <ProductChip label={line.product} />
             </div>
           ))}

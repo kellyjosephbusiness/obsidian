@@ -25,7 +25,7 @@ function Switch({ id, checked, onChange, labelledBy }: SwitchProps) {
       aria-checked={checked}
       aria-labelledby={labelledBy}
       onClick={() => onChange(!checked)}
-      className={`relative h-7 w-12 shrink-0 rounded-full transition-colors duration-200 focus-visible:outline-none focus-visible:shadow-[0_0_0_3px_rgba(30,58,138,0.35)] ${checked ? "bg-[#1e3a8a]" : "bg-[#c9c9c9]"}`}
+      className={`relative h-7 w-12 shrink-0 rounded-full transition-colors duration-200 focus-visible:outline-none focus-visible:shadow-[0_0_0_3px_rgba(30,58,138,0.35)] ${checked ? "bg-[#0376FD]" : "bg-[#c9c9c9]"}`}
     >
       <span className={`absolute top-0.5 left-0.5 size-6 rounded-full bg-white shadow-[0_1px_3px_rgba(0,0,0,0.25)] transition-transform duration-200 ${checked ? "translate-x-5" : ""}`} />
     </button>

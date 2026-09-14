@@ -11,7 +11,7 @@ export function MissionSection() {
           <h2 className="font-mono font-medium text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]">
             {ABOUT_MISSION.heading}
           </h2>
-          <p className="border-l-2 border-[#1e3a8a] pl-5 font-serif text-[22px] italic leading-[1.3] tracking-[-0.02em] text-[#191919] md:text-[26px]">
+          <p className="border-l-2 border-[#0376FD] pl-5 font-serif text-[22px] italic leading-[1.3] tracking-[-0.02em] text-[#191919] md:text-[26px]">
             {ABOUT_MISSION.pull}
           </p>
         </div>

@@ -69,32 +69,32 @@
   --card-foreground: #d9d9d9;
   --popover: #2c2c2c;
   --popover-foreground: #d9d9d9;
-  --primary: #1e3a8a;
+  --primary: #0376FD;
   --primary-foreground: #fff;
   --secondary: #2c2c2c;
   --secondary-foreground: #d9d9d9;
   --muted: #2c2c2c;
   --muted-foreground: #4e4e4e;
-  --accent: #1e3a8a;
+  --accent: #0376FD;
   --accent-foreground: #1d1d1d;
   --destructive: #ef4444;
   --destructive-foreground: #fff;
   --border: #2c2c2c;
   --input: #2c2c2c;
-  --ring: #1e3a8a;
-  --chart-1: #1e3a8a;
+  --ring: #0376FD;
+  --chart-1: #0376FD;
   --chart-2: #fbbf24;
   --chart-3: #facc15;
   --chart-4: #fb923c;
   --chart-5: #f97316;
   --sidebar: #1d1d1d;
   --sidebar-foreground: #d9d9d9;
-  --sidebar-primary: #1e3a8a;
+  --sidebar-primary: #0376FD;
   --sidebar-primary-foreground: #fff;
-  --sidebar-accent: #1e3a8a;
+  --sidebar-accent: #0376FD;
   --sidebar-accent-foreground: #1d1d1d;
   --sidebar-border: #2c2c2c;
-  --sidebar-ring: #1e3a8a;
+  --sidebar-ring: #0376FD;
   --radius: 0.5rem;
 
   /* Typography scale (mobile-first; overridden at 768 / 1024 below) */
@@ -294,8 +294,8 @@
   50% { box-shadow: 0 0 0 8px #ecdcdc; }
 }
 @keyframes chip-ripple {
-  0% { box-shadow: 0 0 #1e3a8a80; }
-  to { box-shadow: 0 0 0 3px #1e3a8a00; }
+  0% { box-shadow: 0 0 #0376FD80; }
+  to { box-shadow: 0 0 0 3px #0376FD00; }
 }
 @media (max-width: 767px) {
   .logo-carousel-track {

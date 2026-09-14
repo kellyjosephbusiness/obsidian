@@ -24,7 +24,7 @@ export function Estimator({ estimator }: { estimator: DetailHero["estimator"] })
       </div>
       <label className="flex flex-col gap-2">
         <span className="text-[12px] font-medium uppercase tracking-[0.06em] text-[#4a4a4a]">{estimator.label}</span>
-        <span className="font-mono text-[40px] font-medium leading-none tracking-[-0.03em] text-[#1e3a8a] md:text-[48px]">{money(amount)}</span>
+        <span className="font-mono text-[40px] font-medium leading-none tracking-[-0.03em] text-[#0160CC] md:text-[48px]">{money(amount)}</span>
         <input
           type="range"
           min={estimator.min}
@@ -32,8 +32,8 @@ export function Estimator({ estimator }: { estimator: DetailHero["estimator"] })
           step={estimator.step}
           value={amount}
           onChange={(e) => setAmount(Number(e.target.value))}
-          className="mt-2 h-2 w-full cursor-pointer appearance-none rounded-full accent-[#1e3a8a]"
-          style={{ background: `linear-gradient(to right, #1e3a8a ${pct}%, #dde4f6 ${pct}%)` }}
+          className="mt-2 h-2 w-full cursor-pointer appearance-none rounded-full accent-[#0376FD]"
+          style={{ background: `linear-gradient(to right, #0376FD ${pct}%, #DDEAFE ${pct}%)` }}
           aria-label={estimator.label}
         />
         <span className="flex justify-between text-[12px] text-[#5c5c5c]">

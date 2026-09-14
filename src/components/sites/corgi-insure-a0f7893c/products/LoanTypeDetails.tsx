@@ -52,8 +52,8 @@ export function LoanTypeDetails({ items = LOAN_TYPE_DETAILS }: { items?: LoanTyp
                     />
                   </div>
                   <div className="order-2 flex min-w-0 items-center gap-3 md:order-1 md:flex-1 md:pt-1">
-                    <div className="flex size-10 shrink-0 items-center justify-center rounded-[8px] bg-[#dde4f6]">
-                      <MaterialIcon name={item.icon} size={24} className="text-[#1e3a8a]" />
+                    <div className="flex size-10 shrink-0 items-center justify-center rounded-[8px] bg-[#DDEAFE]">
+                      <MaterialIcon name={item.icon} size={24} className="text-[#0160CC]" />
                     </div>
                     <h3 className="text-[20px] font-bold leading-none tracking-[-0.64px] text-[#191919] md:text-[24px] md:tracking-[-0.77px]">{item.title}</h3>
                   </div>
@@ -69,10 +69,10 @@ export function LoanTypeDetails({ items = LOAN_TYPE_DETAILS }: { items?: LoanTyp
                 </dl>
                 <div className={DASHED} />
                 <div className="mt-auto flex flex-wrap items-center justify-between gap-3">
-                  <span className="text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#1e3a8a]">{item.rate}</span>
+                  <span className="text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#0160CC]">{item.rate}</span>
                   <div className="flex items-center gap-4">
                     {item.href && (
-                      <Link href={item.href} className="text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#4a4a4a] hover:text-[#1e3a8a] hover:underline">
+                      <Link href={item.href} className="text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#4a4a4a] hover:text-[#0160CC] hover:underline">
                         Learn more
                       </Link>
                     )}

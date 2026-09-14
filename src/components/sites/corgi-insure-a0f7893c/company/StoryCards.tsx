@@ -31,7 +31,7 @@ export function StoryCards({ stories }: { stories: CustomerStory[] }) {
               onClick={() => setActive(product)}
               className={cn(
                 "shrink-0 rounded-[4px] border px-4 py-2 text-[14px] font-medium leading-[1.2] tracking-[-0.21px] transition-colors",
-                selected ? "border-[#1e3a8a] bg-[#1e3a8a] text-white" : "border-[#e1e1e1] bg-white text-[#4a4a4a] hover:border-[#1e3a8a] hover:text-[#1e3a8a]",
+                selected ? "border-[#0376FD] bg-[#0376FD] text-white" : "border-[#e1e1e1] bg-white text-[#4a4a4a] hover:border-[#0376FD] hover:text-[#0160CC]",
               )}
             >
               {product}
@@ -60,7 +60,7 @@ export function StoryCards({ stories }: { stories: CustomerStory[] }) {
                 <dt className="text-[#5c5c5c]">Product</dt>
                 <dd className="font-medium text-[#191919]">{story.product}</dd>
                 <dt className="text-[#5c5c5c]">Amount</dt>
-                <dd className="font-mono text-[16px] font-medium tracking-[-0.02em] text-[#1e3a8a]">{story.amount}</dd>
+                <dd className="font-mono text-[16px] font-medium tracking-[-0.02em] text-[#0160CC]">{story.amount}</dd>
                 <dt className="text-[#5c5c5c]">Outcome</dt>
                 <dd className="text-[#191919]">{story.outcome}</dd>
               </dl>

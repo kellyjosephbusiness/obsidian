@@ -7,8 +7,8 @@ import { Frame } from "./frame";
 export function Callout({ callout }: { callout: DetailCallout }) {
   return (
     <Frame>
-      <div className="flex flex-col items-start gap-6 rounded-[8px] border-[3px] border-[#c5d1f0] bg-white p-6 md:flex-row md:items-center md:gap-8 md:p-10">
-        <div className="flex size-20 shrink-0 items-center justify-center rounded-[8px] bg-[#dde4f6] text-[#1e3a8a]">
+      <div className="flex flex-col items-start gap-6 rounded-[8px] border-[3px] border-[#C2DBFE] bg-white p-6 md:flex-row md:items-center md:gap-8 md:p-10">
+        <div className="flex size-20 shrink-0 items-center justify-center rounded-[8px] bg-[#DDEAFE] text-[#0160CC]">
           <StippleGlyph name={callout.icon} size={56} />
         </div>
         <div className="flex flex-1 flex-col gap-3">

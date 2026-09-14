@@ -13,15 +13,15 @@ export function OpenRolesList({ roles }: { roles: OpenRole[] }) {
             className="group flex flex-col gap-3 px-5 py-5 transition-colors hover:bg-[#f9f9f9] md:flex-row md:items-center md:gap-6 md:px-8 md:py-6"
           >
             <div className="flex min-w-0 flex-1 flex-col gap-1.5">
-              <span className="font-mono text-[20px] font-medium leading-[1.15] tracking-[-0.02em] text-[#191919] group-hover:text-[#1e3a8a] md:text-[22px]">{role.title}</span>
+              <span className="font-mono text-[20px] font-medium leading-[1.15] tracking-[-0.02em] text-[#191919] group-hover:text-[#0160CC] md:text-[22px]">{role.title}</span>
               <span className="text-[14px] leading-[1.2] tracking-[-0.21px] text-[#5c5c5c] md:hidden">
                 {role.location} · {role.type}
               </span>
             </div>
-            <span className="w-fit rounded-[4px] bg-[#dde4f6] px-3 py-1 text-[12px] font-medium leading-[1.2] tracking-[-0.18px] text-[#1e3a8a] md:w-[150px] md:text-center">{role.team}</span>
+            <span className="w-fit rounded-[4px] bg-[#DDEAFE] px-3 py-1 text-[12px] font-medium leading-[1.2] tracking-[-0.18px] text-[#0160CC] md:w-[150px] md:text-center">{role.team}</span>
             <span className="hidden w-[170px] text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a] md:block">{role.location}</span>
             <span className="hidden w-[90px] text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a] md:block">{role.type}</span>
-            <MaterialIcon name="arrow_forward" size={20} className="hidden shrink-0 text-[#4a4a4a] transition-transform group-hover:translate-x-1 group-hover:text-[#1e3a8a] md:block" />
+            <MaterialIcon name="arrow_forward" size={20} className="hidden shrink-0 text-[#4a4a4a] transition-transform group-hover:translate-x-1 group-hover:text-[#0160CC] md:block" />
           </Link>
         </li>
       ))}

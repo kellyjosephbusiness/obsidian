@@ -20,10 +20,10 @@ export function DetailFaq({ faq }: { faq: DetailPageContent["faq"] }) {
                 type="button"
                 aria-expanded={isOpen}
                 onClick={() => setOpen(isOpen ? null : i)}
-                className="flex w-full items-center justify-between gap-6 py-6 text-left font-mono text-[18px] font-medium leading-[1.25] tracking-[-0.02em] text-[#191919] transition-colors hover:text-[#1e3a8a] md:py-7 md:text-[22px]"
+                className="flex w-full items-center justify-between gap-6 py-6 text-left font-mono text-[18px] font-medium leading-[1.25] tracking-[-0.02em] text-[#191919] transition-colors hover:text-[#0160CC] md:py-7 md:text-[22px]"
               >
                 {item.question}
-                <MaterialIcon name={isOpen ? "remove" : "add"} size={24} className="shrink-0 text-[#1e3a8a]" />
+                <MaterialIcon name={isOpen ? "remove" : "add"} size={24} className="shrink-0 text-[#0160CC]" />
               </button>
               <div className="grid transition-[grid-template-rows] duration-300 ease-out" style={{ gridTemplateRows: isOpen ? "1fr" : "0fr" }}>
                 <div className="overflow-hidden">

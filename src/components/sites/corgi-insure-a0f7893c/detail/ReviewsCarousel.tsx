@@ -9,7 +9,7 @@ function Stars({ size = 18 }: { size?: number }) {
   return (
     <span className="flex items-center gap-0.5" aria-label="5 out of 5 stars">
       {[0, 1, 2, 3, 4].map((i) => (
-        <span key={i} className="flex size-[22px] items-center justify-center rounded-[4px] bg-[#1e3a8a] text-white">
+        <span key={i} className="flex size-[22px] items-center justify-center rounded-[4px] bg-[#0376FD] text-white">
           <MaterialIcon name="star" size={size} fill={1} />
         </span>
       ))}
@@ -62,7 +62,7 @@ export function ReviewsCarousel({ reviews }: { reviews: DetailPageContent["revie
     <Frame tone="white" inner="flex flex-col gap-10">
       <h2 className={H2}>{reviews.heading}</h2>
       <div className="grid grid-cols-1 gap-4 md:grid-cols-[300px_minmax(0,1fr)] md:gap-6">
-        <div className="flex flex-col justify-center gap-4 rounded-[8px] bg-[#dde4f6] p-8">
+        <div className="flex flex-col justify-center gap-4 rounded-[8px] bg-[#DDEAFE] p-8">
           <span className="font-mono text-[22px] font-medium leading-none text-[#191919]">{reviews.scoreLabel}</span>
           <div className="flex items-center gap-3">
             <Stars />
@@ -70,7 +70,7 @@ export function ReviewsCarousel({ reviews }: { reviews: DetailPageContent["revie
           </div>
           <span className="text-[13px] text-[#4a4a4a]">{reviews.countLabel}</span>
           <span className="flex items-center gap-1.5 text-[14px] font-medium text-[#191919]">
-            <MaterialIcon name="verified" size={18} className="text-[#1e3a8a]" />
+            <MaterialIcon name="verified" size={18} className="text-[#0160CC]" />
             FundLine business owner reviews
           </span>
         </div>
@@ -91,7 +91,7 @@ export function ReviewsCarousel({ reviews }: { reviews: DetailPageContent["revie
             </button>
             <div className="relative h-2 flex-1 overflow-hidden rounded-full bg-[#e1e1e1]">
               <div
-                className="absolute inset-y-0 rounded-full bg-[#1e3a8a] transition-[left] duration-150"
+                className="absolute inset-y-0 rounded-full bg-[#0376FD] transition-[left] duration-150"
                 style={{ width: `${Math.max(12, visible * 100)}%`, left: `${progress * (100 - Math.max(12, visible * 100))}%` }}
               />
             </div>

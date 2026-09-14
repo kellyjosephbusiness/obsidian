@@ -92,7 +92,7 @@ function AnnouncementBanner({ onDismiss }: { onDismiss: () => void }) {
     <Link
       href={ANNOUNCEMENT.href}
       prefetch={false}
-      className="pointer-events-auto relative flex w-full items-center justify-start bg-[#1e3a8a] py-2 pl-7 pr-12 text-left text-white hover:bg-[#2B4CA8] md:justify-center md:px-4 md:text-center"
+      className="pointer-events-auto relative flex w-full items-center justify-start bg-[#0376FD] py-2 pl-7 pr-12 text-left text-white hover:bg-[#0268DE] md:justify-center md:px-4 md:text-center"
     >
       {/* The site's `md:text-body` never takes effect (computed 14px/20px at every width). */}
       <span className="text-sm">
@@ -470,8 +470,8 @@ export function SiteHeader({ actions = NAV_ACTIONS }: { actions?: HeaderActions 
                 aria-controls="mobile-navigation-drawer"
                 data-open={drawerOpen}
                 className={cn(
-                  "flex size-[39px] cursor-pointer items-center justify-center p-0 leading-none duration-200 hover:text-[#1E3A8A]",
-                  drawerOpen ? "text-[#1e3a8a]" : "text-[#1d1d1d]",
+                  "flex size-[39px] cursor-pointer items-center justify-center p-0 leading-none duration-200 hover:text-[#0160CC]",
+                  drawerOpen ? "text-[#0160CC]" : "text-[#1d1d1d]",
                 )}
                 onClick={() => setDrawerOpen((state) => !state)}
                 whileTap={{ scale: 0.96 }}

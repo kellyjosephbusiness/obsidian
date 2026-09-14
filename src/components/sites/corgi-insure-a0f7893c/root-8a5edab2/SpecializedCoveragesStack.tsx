@@ -250,7 +250,7 @@ export function SpecializedCoveragesStack({ coverages = SPECIALIZED_COVERAGES }:
       />
       <Link
         href={POLICIES_HEADER.seeSpecialized.href}
-        className="flex h-[63px] items-center justify-center bg-white p-3 font-medium text-[16px] text-[#1e3a8a] tracking-[-0.24px] hover:underline"
+        className="flex h-[63px] items-center justify-center bg-white p-3 font-medium text-[16px] text-[#0160CC] tracking-[-0.24px] hover:underline"
       >
         {POLICIES_HEADER.seeSpecialized.label}
       </Link>
