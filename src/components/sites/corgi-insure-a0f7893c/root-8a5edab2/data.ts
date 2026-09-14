@@ -705,9 +705,8 @@ export const FOOTER_LEGAL: FooterLink[] = [
 ];
 
 export const FOOTER_SOCIAL: FooterLink[] = [
-  { label: "Email", href: "mailto:hello@fundlinecapital.com" },
-  { label: "LinkedIn", href: "https://www.linkedin.com/" },
-  { label: "X", href: "https://x.com/" },
+  { label: "Email", href: "mailto:info@fundlinecapital.com" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/company/fundline-capital" },
 ];
 
 /** Footer landscape: the hero's cloud sky and dithered NYC skyline, composed with CSS. */

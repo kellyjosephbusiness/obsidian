@@ -117,7 +117,7 @@ export function FaqSection({ items = FAQ, heading = FAQ_HEADER.heading, footer =
           />
 
           <div className="relative w-full overflow-clip rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
-            <div className="-m-px relative flex flex-col justify-center gap-4 overflow-clip rounded-[8px] bg-[#f6f6f6] p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
+            <div className="-m-px relative flex flex-col justify-center gap-4 overflow-clip rounded-[8px] bg-[#f6f6f6] px-7 py-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:px-12 md:py-8 lg:px-16">
               {items.map((item, i) => (
                 <Fragment key={item.question}>
                   <FaqRow
