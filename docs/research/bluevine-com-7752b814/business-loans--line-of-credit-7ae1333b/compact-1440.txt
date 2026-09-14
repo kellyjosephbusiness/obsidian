@@ -1,0 +1,572 @@
+<main> [0,0,1440,7956] @id=content
+  {fontSize:16px; fontWeight:400; fontFamily:domaine; lineHeight:24px; color:rgb(2, 5, 83); width:1440px; height:7955.52px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+  <section .position-relative.pt-12.pt-lg-15> [0,0,1440,800]
+    {backgroundColor:rgb(215, 231, 255); padding:120px 0px 80px; width:1440px; height:800px; display:block; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+    <div .container> [60,120,1320,600]
+      {padding:0px 15px; margin:0px 60px; width:1320px; height:600px; maxWidth:1320px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+      <div .row> [60,120,1320,600]
+        {margin:0px -15px; width:1320px; height:600px; display:flex; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-12.col-md-6.pt-7> [60,120,660,600]
+          {padding:40px 0px 0px 15px; width:660px; height:600px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <h1 .font-size-42.font-size-xl-70.font-size-xxl-80> [75,160,645,240] "Grow with a business line of credit."
+            {fontSize:80px; fontWeight:600; fontFamily:gellix; lineHeight:80px; margin:0px 0px 40px; width:645px; height:240px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <br .d-none.d-xl-block> [390,235,0,89]
+              {display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <p .font-size-20.font-size-xl-24.mb-9> [75,440,645,108] "Get instant funding with interest rates as low as 7.8% for top qualifying customers. Apply with no i"
+            {fontSize:24px; lineHeight:36px; margin:0px 0px 40px; width:645px; height:108px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <sup .d-inline> [295,443,5,18] "1"
+              {fontSize:13.2px; display:inline; border:0px none rgb(2, 5, 83); position:relative; top:-9.9px; opacity:1; transition:all}
+            <br .d-none.d-xl-block> [540,442,0,32]
+              {display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <sup .d-inline> [528,479,8,18] "2"
+              {fontSize:13.2px; display:inline; border:0px none rgb(2, 5, 83); position:relative; top:-9.9px; opacity:1; transition:all}
+            <br .d-none.d-xl-block> [535,478,0,32]
+              {display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <sup .d-inline> [541,515,8,18] "3"
+              {fontSize:13.2px; display:inline; border:0px none rgb(2, 5, 83); position:relative; top:-9.9px; opacity:1; transition:all}
+          <div .d-xl-flex.align-items-center.gap-0> [75,588,645,60]
+            {width:645px; height:60px; display:flex; alignItems:center; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <a .btn.btn-blue.btn-lg> [75,588,290,60] "Start application" @href=https://app.bluevine.com/signup/?signup_parent_url
+              {fontSize:20px; fontWeight:600; fontFamily:gellix; color:rgb(255, 255, 255); backgroundColor:rgb(25, 67, 220); padding:16px 66px; width:289.938px; height:60px; display:block; borderRadius:5px; border:2px solid rgb(25, 67, 220); textAlign:center; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+            <section .d-flex.align-items-center.mt-8> [365,588,246,60]
+              {width:246.281px; height:60px; display:flex; alignItems:center; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <figure .ms-xl-8.mb-0> [389,598,68,40]
+                {margin:0px 0px 0px 24px; width:68px; height:40px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <img> [389,598,68,40] @alt=BBB A+ rating badge @src=/_next/image?url=%2Fimages%2Fcommon%2Fbadge_bbb.pn IMG 96x56
+                  {width:68px; height:40px; display:inline; border:0px none rgba(0, 0, 0, 0); opacity:1; transition:all; aspectRatio:auto 68 / 40}
+                <figcaption .visually-hidden> [388,637,1,1] "Better Business Bureau A+ rating"
+                  {fontSize:14px; lineHeight:21px; margin:-1px; width:1px; height:1px; display:block; border:0px none rgb(2, 5, 83); textAlign:left; position:absolute; top:638px; left:388.938px; opacity:1; transition:all}
+              <figure .ms-8.d-flex.flex-column> [481,589,130,58]
+                {margin:0px 0px 0px 24px; width:130.281px; height:58.4062px; display:flex; flexDirection:column; alignItems:flex-start; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                <img .img-fluid> [481,589,65,16] @alt=Trustpilot logo @src=/images/trustpilot/trustpilot-logo-navy.svg IMG 99x25
+                  {width:65px; height:16.4062px; maxWidth:100%; display:block; border:0px none rgba(0, 0, 0, 0); opacity:1; transition:all; aspectRatio:auto 65 / 16}
+                <div .d-flex.align-items-center.position-relative> [481,605,113,24]
+                  {width:112.578px; height:24px; display:flex; alignItems:center; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                  <img .img-fluid> [481,610,86,14] @alt=Trustpilot 4.7 star rating @src=/images/trustpilot/trustpilot-score-4.5-navy-alt.s IMG 251x41
+                    {width:86px; height:14.0469px; maxWidth:100%; display:block; border:0px none rgba(0, 0, 0, 0); opacity:1; transition:all; aspectRatio:auto 86 / 16}
+                  <span .fw-semibold.ms-2.ff-gellix> [572,605,22,24] "4.7"
+                    {fontWeight:600; fontFamily:gellix; margin:0px 0px 0px 5px; width:21.5781px; height:24px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <figcaption .ff-gellix.font-size-12.text-navy> [481,629,130,18]
+                  {fontSize:12px; fontFamily:gellix; lineHeight:18px; width:130.281px; height:18px; display:block; border:0px none rgb(2, 5, 83); textAlign:left; opacity:1; transition:all}
+                  <span .fw-semibold> [481,631,49,13] "Excellent"
+                    {fontWeight:600; display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                  <span .mx-1> [532,631,3,13] "|"
+                    {margin:0px 2.5px; display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                  <a .text-decoration-underline.fw-normal.text-navy> [537,631,74,13] "11,488 reviews" @href=https://www.trustpilot.com/review/bluevine.com
+                    {display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div .mt-8.row> [60,672,675,30]
+            {margin:24px -15px 0px; width:675px; height:30px; display:flex; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <div .d-flex.flex-row.align-items-center> [60,672,675,30]
+              {padding:0px 15px; width:675px; height:30px; maxWidth:100%; display:flex; alignItems:center; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <p .ff-gellix.font-size-12.lh-sm> [75,672,303,30] "Bluevine is a financial technology company, not a bank. The Bluevine Line of Credit is issued by Cel"
+                {fontSize:12px; fontFamily:gellix; lineHeight:15px; width:303px; height:30px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <br .d-none.d-xl-block> [378,673,0,13]
+                  {display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-10.col-md-6.ps-md-5> [720,120,660,600]
+          {padding:0px 15px 0px 30px; width:660px; height:600px; maxWidth:100%; display:flex; justifyContent:flex-end; alignItems:flex-end; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div .overflow-hidden.lh-0.w-100> [765,120,600,600]
+            {backgroundColor:rgb(184, 182, 255); margin:0px 0px 0px 15px; width:600px; height:600px; maxWidth:600px; display:block; borderRadius:45% 0px 0px; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <img .img-fluid> [765,120,600,600] @alt=banking tools hero graphic @src=/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero. IMG 599x599
+              {width:600px; height:600px; maxWidth:100%; display:inline; border:0px none rgba(0, 0, 0, 0); opacity:1; transition:all; aspectRatio:auto 1200 / 1200}
+  <section .bg-gray-light.mb-lg-15> [0,800,1440,220]
+    {backgroundColor:rgb(245, 246, 250); margin:0px 0px 120px; width:1440px; height:220px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+    <div .container> [60,800,1320,220]
+      {padding:0px 15px; margin:0px 60px; width:1320px; height:220px; maxWidth:1320px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+      <div .d-flex.align-items-center.bg-box> [75,800,1290,220]
+        {backgroundColor:rgb(245, 246, 250); width:1290px; height:220px; display:flex; alignItems:center; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-12.col-md-3.col-xl-4> [75,800,430,220]
+          {padding:56px 15px; width:430px; height:220px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <h2 .font-size-42.font-size-xl-72.mb-0> [90,856,400,72] "$17B+"
+            {fontSize:72px; fontWeight:600; fontFamily:gellix; lineHeight:72px; width:400px; height:72px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <p .font-size-md-20.font-size-xl-24.mb-0> [90,928,400,36] "working capital delivered"
+            {fontSize:24px; fontFamily:gellix; lineHeight:36px; width:400px; height:36px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <sup .d-inline> [363,932,8,15] "4"
+              {fontSize:13.2px; display:inline; border:0px none rgb(2, 5, 83); position:relative; top:-9.9px; opacity:1; transition:all}
+        <div .col-12.col-md-6.col-xl-8> [505,858,860,104]
+          {padding:16px 15px; width:860px; height:104px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <p .font-size-md-20.font-size-xl-24.ff-gellix> [520,874,830,72] "Join the 1M+ U.S. businesses we’ve helped with funding and banking solutions tailored to their needs"
+            {fontSize:24px; fontFamily:gellix; lineHeight:36px; width:830px; height:72px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <br .d-none.d-xl-block> [1164,878,0,27]
+              {display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+  <section .jsx-2424294056.mt-12.mt-lg-15> [0,1140,1440,877]
+    {margin:120px 0px 0px; width:1440px; height:877.438px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+    <div .container> [60,1140,1320,877]
+      {padding:0px 15px; margin:0px 60px; width:1320px; height:877.438px; maxWidth:1320px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+      <div .justify-between.row> [60,1140,1320,877]
+        {margin:0px -15px; width:1320px; height:877.438px; display:flex; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-12> [60,1140,1320,304]
+          {padding:0px 15px; width:1320px; height:304px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <h2 .jsx-2424294056.font-size-36.font-size-xl-72> [75,1140,1290,144] "Quick, easy access to a business line of credit."
+            {fontSize:72px; fontWeight:600; fontFamily:gellix; lineHeight:72px; margin:0px 0px 24px; width:1290px; height:144px; display:block; border:0px none rgb(2, 5, 83); textAlign:center; opacity:1; transition:all}
+            <br .d-none.d-lg-block> [1105,1136,0,80]
+              {display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <p .jsx-2424294056.font-size-20.font-size-xl-24> [75,1308,1290,72] "Access the flexible financing you need to run and grow your business smoothly, with competitive inte"
+            {fontSize:24px; lineHeight:36px; margin:0px 0px 64px; width:1290px; height:72px; display:block; border:0px none rgb(2, 5, 83); textAlign:center; opacity:1; transition:all}
+            <br .d-none.d-lg-block> [1159,1310,0,32]
+              {display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-lg-4.mb-8.mb-lg-0> [60,1444,440,573]
+          {padding:0px 15px; width:440px; height:573.438px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div .jsx-2424294056.card.h-100> [75,1444,410,573]
+            {backgroundColor:rgb(215, 231, 255); padding:40px; width:410px; height:573.438px; display:block; border:0px none rgb(2, 5, 83); textAlign:center; opacity:1; transition:all}
+            <img .jsx-2424294056.img-fluid.icon> [182,1484,197,239] @alt=blue logo showing graphs @src=/images/landing-page/business-loans-01-funds.png IMG 396x480
+              {width:197px; height:238.781px; maxWidth:100%; display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:transform 0.2s ease-in-out; aspectRatio:auto 197 / 240}
+            <h3 .jsx-2424294056.font-size-28.font-size-xl-32> [115,1747,330,64] "Instant access to funds"
+              {fontSize:32px; fontWeight:600; fontFamily:gellix; lineHeight:32px; margin:24px 0px 16px; width:330px; height:64px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <br .d-none.d-lg-block> [403,1745,0,35]
+                {display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <p .jsx-2424294056.font-size-18.font-size-xl-20> [115,1827,330,90] "Get instant access to approved draws with a Bluevine Business Checking account."
+              {fontSize:20px; lineHeight:30px; margin:16px 0px 0px; width:330px; height:90px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-lg-4.mb-8.mb-lg-0> [500,1444,440,573]
+          {padding:0px 15px; width:440px; height:573.438px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div .jsx-2424294056.card.h-100> [515,1444,410,573]
+            {backgroundColor:rgb(215, 231, 255); padding:40px; width:410px; height:573.438px; display:block; border:0px none rgb(2, 5, 83); textAlign:center; opacity:1; transition:all}
+            <img .jsx-2424294056.img-fluid.icon> [611,1484,218,239] @alt=blue logo showing graphs @src=/images/landing-page/business-loans-01-credit.png IMG 437x480
+              {width:218px; height:239.438px; maxWidth:100%; display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:transform 0.2s ease-in-out; aspectRatio:auto 218 / 240}
+            <h3 .jsx-2424294056.font-size-28.font-size-xl-32> [555,1747,330,64] "Credit lines up to $250K"
+              {fontSize:32px; fontWeight:600; fontFamily:gellix; lineHeight:32px; margin:24px 0px 16px; width:330px; height:64px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <br .d-none.d-lg-block> [843,1745,0,35]
+                {display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <p .jsx-2424294056.font-size-18.font-size-xl-20> [555,1827,330,90] "Apply for credit lines up to $250,000 and only pay for what you use, with no maintenance fees."
+              {fontSize:20px; lineHeight:30px; margin:16px 0px 0px; width:330px; height:90px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <sup .d-inline> [858,1890,6,14] "2"
+                {fontSize:11px; display:inline; border:0px none rgb(2, 5, 83); position:relative; top:-8.25px; opacity:1; transition:all}
+        <div .col-lg-4.col-12> [940,1444,440,573]
+          {padding:0px 15px; width:440px; height:573.438px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div .jsx-2424294056.card.h-100> [955,1444,410,573]
+            {backgroundColor:rgb(215, 231, 255); padding:40px; width:410px; height:573.438px; display:block; border:0px none rgb(2, 5, 83); textAlign:center; opacity:1; transition:all}
+            <img .jsx-2424294056.img-fluid.icon> [1052,1484,216,239] @alt=blue logo showing graphs @src=/images/landing-page/business-loans-01-capital.png IMG 433x480
+              {width:216px; height:239.438px; maxWidth:100%; display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:transform 0.2s ease-in-out; aspectRatio:auto 216 / 240}
+            <h3 .jsx-2424294056.font-size-28.font-size-xl-32> [995,1747,330,64] "Access to ongoing capital"
+              {fontSize:32px; fontWeight:600; fontFamily:gellix; lineHeight:32px; margin:24px 0px 16px; width:330px; height:64px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <br .d-none.d-lg-block> [1230,1745,0,35]
+                {display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <p .jsx-2424294056.font-size-18.font-size-xl-20> [995,1827,330,150] "Draw funds when you need to cover big expenses, improve cash flow, and take advantage of growth oppo"
+              {fontSize:20px; lineHeight:30px; margin:16px 0px 0px; width:330px; height:150px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <sup .d-inline> [1136,1920,4,14] "1"
+                {fontSize:11px; display:inline; border:0px none rgb(2, 5, 83); position:relative; top:-8.25px; opacity:1; transition:all}
+  <section .jsx-1bfe741c99726b41.my-14.my-xl-15> [0,2137,1440,256]
+    {margin:120px 0px; width:1440px; height:256px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+    <div .container> [60,2137,1320,256]
+      {padding:0px 15px; margin:0px 60px; width:1320px; height:256px; maxWidth:1320px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+      <div .py-9.rounded-bottom-end-9.mx-0> [75,2137,1290,256]
+        {padding:32px 0px; width:1290px; height:256px; display:flex; justifyContent:center; alignItems:center; borderRadius:0px 0px 90px; border:5px solid rgb(184, 182, 255); opacity:1; transition:all}
+        <div .col-12.col-lg-2.px-0> [80,2207,213,116]
+          {width:213.328px; height:116px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); textAlign:center; opacity:1; transition:all}
+          <img> [113,2207,148,116] @alt=Bluevine growth @src=/images/common/bluevine-growth.svg IMG 149x116
+            {width:148px; height:116px; display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:all; aspectRatio:auto 148 / 116}
+        <div .col-12.col-md-7.col-lg-8> [293,2174,853,182]
+          {padding:16px 30px 0px 40px; width:853.328px; height:182px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div .align-items-center.row> [318,2190,813,36]
+            {margin:0px -15px; width:813.328px; height:36px; display:flex; alignItems:center; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <div .col.col-md-12.col> [318,2190,813,36]
+              {padding:0px 15px; width:813.328px; height:36px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <h2 .jsx-1bfe741c99726b41.font-size-20.font-size-xl-36> [333,2190,783,36] "Use your line to build business credit." @id=heading-use-your-line-to-build-business-credit-0
+                {fontSize:36px; fontWeight:600; fontFamily:gellix; lineHeight:36px; width:783.328px; height:36px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <p .jsx-1bfe741c99726b41.font-size-16.font-size-xl-20> [333,2250,783,90] "We report your repayment history to Experian, so you can improve your business credit score for futu"
+            {fontSize:20px; lineHeight:30px; margin:24px 0px 16px; width:783.328px; height:90px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <b> [333,2251,661,27] "A Bluevine Line of Credit may help set your business up for growth."
+              {fontWeight:700; display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-12.col-md-3.col-lg-2> [1147,2235,213,60]
+          {padding:16px 0px 0px; width:213.328px; height:60px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); textAlign:center; opacity:1; transition:all}
+          <a .btn.btn-blue.btn> [1182,2251,143,44] "Learn more" @href=https://www.bluevine.com/blog/building-business-cr @id=link-use-your-line-to-build-business-credit-0
+            {fontWeight:600; fontFamily:gellix; lineHeight:20px; color:rgb(25, 67, 220); backgroundColor:rgb(255, 255, 255); padding:10px 28px; width:143.203px; height:44px; display:inline-block; borderRadius:5px; border:2px solid rgb(25, 67, 220); opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+            <span .jsx-1bfe741c99726b41.screen-reader-text> [1294,2262,1,1] "About Bluevine Premier"
+              {margin:-1px; width:1px; height:1px; display:block; border:0px none rgb(25, 67, 220); position:absolute; top:2263.44px; left:1294.92px; opacity:1; transition:all}
+  <section .mb-0.mt-10.mt-lg-11> [0,2513,1440,836]
+    {margin:48px 0px 64px; width:1440px; height:836.312px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+    <div .container> [60,2513,1320,836]
+      {padding:0px 15px; margin:0px 60px; width:1320px; height:836.312px; maxWidth:1320px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+      <div .row> [60,2513,1320,152]
+        {margin:0px -15px; width:1320px; height:152px; display:flex; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-12> [60,2513,1320,152]
+          {padding:0px 15px; width:1320px; height:152px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <h2 .font-size-36.font-size-xl-72.mb-9> [75,2513,1290,72] "Get started with business financing." @id=heading-get-started-with-business-financing-0
+            {fontSize:72px; fontWeight:600; fontFamily:gellix; lineHeight:72px; margin:0px 0px 80px; width:1290px; height:72px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+      <div .align-items-center.row> [60,2665,1320,684]
+        {margin:0px -15px; width:1320px; height:684.312px; display:flex; alignItems:center; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-12.col-md-7.col-lg-6> [720,2708,660,600]
+          {padding:0px 15px; margin:0px 0px 0px 110px; width:660px; height:600px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div .row.py-7.mx-0> [735,2708,630,202]
+            {padding:16px 15px 16px 0px; width:630px; height:202px; display:flex; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <img .col-auto.px-0.max-width-55> [735,2724,55,55] @alt=number duo icon @src=/images/icons/number-1-duo.svg IMG 55x55
+              {width:55px; height:55px; maxWidth:55px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all; aspectRatio:auto 55 / 55}
+            <div .border-bottom.col.border-bottom-0> [790,2724,560,170]
+              {padding:0px 15px 0px 30px; width:560px; height:170px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <h3 .font-size-20.font-size-lg-32.d-flex> [820,2724,515,32]
+                {fontSize:32px; fontWeight:600; fontFamily:gellix; lineHeight:32px; margin:0px 0px 24px; width:515px; height:32px; display:flex; justifyContent:space-between; alignItems:flex-start; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <span .pe-4.pe-lg-0> [820,2724,344,32] "Apply online in minutes."
+                  {width:344.328px; height:32px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <p .font-size-15.font-size-xl-20.text-navy> [820,2780,515,90] "Provide basic info about your business, and get a decision in as fast as five minutes. Plus, applyin"
+                {fontSize:20px; lineHeight:30px; margin:0px 0px 24px; width:515px; height:90px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <sup .d-inline> [1052,2842,6,14] "3"
+                  {fontSize:11px; display:inline; border:0px none rgb(2, 5, 83); position:relative; top:-8.25px; opacity:1; transition:all}
+          <div .row.py-7.mx-0> [735,2910,630,202]
+            {padding:16px 15px 16px 0px; width:630px; height:202px; display:flex; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <img .col-auto.px-0.max-width-55> [735,2926,55,55] @alt=number duo icon @src=/images/icons/number-2-duo.svg IMG 56x55
+              {width:55px; height:55px; maxWidth:55px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all; aspectRatio:auto 55 / 55}
+            <div .border-bottom.col.border-bottom-0> [790,2926,560,170]
+              {padding:0px 15px 0px 30px; width:560px; height:170px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <h3 .font-size-20.font-size-lg-32.d-flex> [820,2926,515,32]
+                {fontSize:32px; fontWeight:600; fontFamily:gellix; lineHeight:32px; margin:0px 0px 24px; width:515px; height:32px; display:flex; justifyContent:space-between; alignItems:flex-start; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <span .pe-4.pe-lg-0> [820,2926,327,32] "Access funds in a click"
+                  {width:326.531px; height:32px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <p .font-size-15.font-size-xl-20.text-navy> [820,2982,515,90] "Request funds in a click, and see approved draws in your account in as fast as 24 hours—or instantly"
+                {fontSize:20px; lineHeight:30px; margin:0px 0px 24px; width:515px; height:90px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <sup .d-inline> [1164,3044,6,14] "3"
+                  {fontSize:11px; display:inline; border:0px none rgb(2, 5, 83); position:relative; top:-8.25px; opacity:1; transition:all}
+          <div .mb-8.row.py-7> [735,3112,630,172]
+            {padding:16px 15px 16px 0px; margin:0px 0px 24px; width:630px; height:172px; display:flex; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <img .col-auto.px-0.max-width-55> [735,3128,55,55] @alt=number duo icon @src=/images/icons/number-3-duo.svg IMG 56x55
+              {width:55px; height:55px; maxWidth:55px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all; aspectRatio:auto 55 / 55}
+            <div .border-0.col.border-bottom-0> [790,3128,560,140]
+              {padding:0px 15px 0px 30px; width:560px; height:140px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <h3 .font-size-20.font-size-lg-32.d-flex> [820,3128,515,32]
+                {fontSize:32px; fontWeight:600; fontFamily:gellix; lineHeight:32px; margin:0px 0px 24px; width:515px; height:32px; display:flex; justifyContent:space-between; alignItems:flex-start; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <span .pe-4.pe-lg-0> [820,3128,422,32] "Make automatic repayments"
+                  {width:422.203px; height:32px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <p .font-size-15.font-size-xl-20.text-navy> [820,3184,515,60] "Repay automatically on a fixed schedule, and your credit line will replenish as you make repayments."
+                {fontSize:20px; lineHeight:30px; margin:0px 0px 24px; width:515px; height:60px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-12.col-md-5.d-flex> [60,2665,550,684]
+          {padding:0px 15px; width:550px; height:684.312px; maxWidth:100%; display:flex; alignItems:flex-start; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div .overflow-hidden.lh-0.position-relative> [75,2665,520,684]
+            {width:520px; height:684.312px; display:block; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+            <div> [75,2665,520,684]
+              {width:520px; height:684.312px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <svg .[object.SVGAnimatedString]> [75,2665,520,684] SVG
+                {width:520px; height:684.312px; display:inline; border:0px none rgb(2, 5, 83); opacity:1; transform:matrix(1, 0, 0, 1, 0, 0); transition:all}
+  <section .my-13.my-lg-16> [0,3510,1440,500]
+    {margin:160px 0px; width:1440px; height:500px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+    <div .container> [60,3510,1320,500]
+      {padding:0px 15px; margin:0px 60px; width:1320px; height:500px; maxWidth:1320px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+      <div .align-items-center.row> [60,3510,1320,500]
+        {margin:0px -15px; width:1320px; height:500px; display:flex; alignItems:center; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-12.col-md-6> [60,3585,660,350]
+          {padding:0px 15px; width:660px; height:350px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <h2 .font-size-36.font-size-xl-60.mb-7> [75,3585,630,120] "Expert support when you need it." @id=heading-expert-support-when-you-need-it-0
+            {fontSize:60px; fontWeight:600; fontFamily:gellix; lineHeight:60px; margin:0px 0px 40px; width:630px; height:120px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <br .d-none.d-lg-block> [643,3581,0,67]
+              {display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <p .font-size-18.font-size-xl-20.mb-9> [75,3745,630,150] "The personalized support your small business needs is just a message or phone call away, with real p"
+            {fontSize:20px; lineHeight:30px; margin:0px 0px 40px; width:630px; height:150px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <br> [617,3776,0,27]
+              {display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <br> [75,3806,0,27]
+              {display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <a .text-blue.fw-semibold.hover:underline> [75,3836,587,57] "Help Center" @href=https://support.bluevine.com/s/
+              {fontWeight:600; color:rgb(25, 67, 220); display:inline; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+        <div .col-12.col-md-5.offset-lg-1> [830,3510,550,500]
+          {padding:0px 15px; margin:0px 0px 0px 110px; width:550px; height:500px; maxWidth:100%; display:flex; alignItems:flex-start; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div .overflow-hidden.lh-0.w-100> [865,3510,500,500]
+            {margin:0px 0px 0px 20px; width:500px; height:500px; maxWidth:500px; display:block; borderRadius:90% 90% 0px 0px; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <img .img-fluid> [865,3510,500,500] @alt=expert support illustration @src=/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexper IMG 750x750
+              {width:500px; height:500px; maxWidth:100%; display:inline; border:0px none rgba(0, 0, 0, 0); opacity:1; transition:all; aspectRatio:auto 1000 / 1000}
+  <section .jsx-753eb856716d6c3f.my-12.mt-lg-14> [0,4170,1440,385]
+    {margin:80px 0px 120px; width:1440px; height:385.203px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+    <div .container> [60,4170,1320,385]
+      {padding:0px 15px; margin:0px 60px; width:1320px; height:385.203px; maxWidth:1320px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+      <div .row> [60,4170,1320,112]
+        {margin:0px -15px; width:1320px; height:112px; display:flex; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-12> [60,4170,1320,112]
+          {padding:0px 15px; width:1320px; height:112px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <h2 .jsx-753eb856716d6c3f.font-size-42.font-size-xl-72> [75,4170,1290,72] "Read the latest from Trustpilot."
+            {fontSize:72px; fontWeight:600; fontFamily:gellix; lineHeight:72px; margin:0px 0px 40px; width:1290px; height:72px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+      <div .jsx-753eb856716d6c3f.row> [60,4282,1320,273]
+        {margin:0px -15px; width:1320px; height:273.203px; display:flex; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-md-3.col-12> [60,4282,330,273]
+          {padding:0px 15px; width:330px; height:273.203px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div .bg-blue-light.border-blue-light.rounded-bottom-end-9> [75,4282,300,233]
+            {backgroundColor:rgb(215, 231, 255); width:300px; height:233.203px; display:flex; justifyContent:center; alignItems:center; borderRadius:0px 0px 90px; border:1px solid rgb(215, 231, 255); textAlign:center; opacity:1; transition:all}
+            <div .text-start.card-body> [119,4327,212,143]
+              {width:211.969px; height:142.5px; display:block; border:0px none rgb(2, 5, 83); textAlign:left; opacity:1; transition:all}
+              <div .card-header> [119,4327,212,66]
+                {width:211.969px; height:66px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <div .font-size-20.mb-7.text-navy> [119,4327,212,20] "Excellent"
+                  {fontSize:20px; fontWeight:600; fontFamily:gellix; lineHeight:20px; margin:0px 0px 16px; width:211.969px; height:20px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <div .d-flex.align-items-center.gap-2> [119,4363,212,30]
+                  {width:211.969px; height:30px; display:flex; alignItems:center; gap:5px; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                  <img .img-fluid> [119,4363,180,29] @alt=Trustpilot rating stars @src=/images/trustpilot/trustpilot-score-4.5-periwinkle IMG 251x41
+                    {width:180px; height:29.3906px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all; aspectRatio:auto 180 / 30}
+                  <span .ff-gellix.fw-semibold.text-navy> [304,4363,27,30] "4.7"
+                    {fontSize:20px; fontWeight:600; fontFamily:gellix; lineHeight:30px; width:26.9688px; height:30px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <p .font-size-13.ff-gellix.my-7> [119,4409,212,20] "Based on"
+                {fontSize:13px; fontFamily:gellix; lineHeight:19.5px; margin:16px 0px; width:211.969px; height:19.5px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <a .fw-semibold.text-navy> [177,4411,82,15] "11,488 reviews" @href=https://www.trustpilot.com/review/bluevine.com
+                  {fontWeight:600; display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <div .card-subtitle.h6> [119,4445,212,25]
+                {fontSize:10px; fontWeight:600; fontFamily:gellix; lineHeight:12px; width:211.969px; height:25px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <img .img-fluid> [119,4445,99,25] @alt=Trustpilot logo @src=/images/trustpilot/trustpilot-logo-navy.svg IMG 99x25
+                  {width:99px; height:25px; maxWidth:100%; display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:all; aspectRatio:auto 99 / 25}
+        <div .col-md-9.col-12> [390,4282,990,273]
+          {padding:0px 15px; width:990px; height:273.203px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div .swiper.swiper-initialized.swiper-horizontal> [405,4282,960,273]
+            {width:960px; height:273.203px; display:block; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+            <div .swiper-wrapper> [405,4282,960,233] @id=swiper-wrapper-6cd1803e7b89f29b
+              {margin:0px 0px 40px; width:960px; height:233.203px; display:flex; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transform:matrix(1, 0, 0, 1, 0, 0); transition:transform}
+              <div .swiper-slide.swiper-slide-active.px-0> [405,4282,310,233]
+                {margin:0px 15px 0px 0px; width:310px; height:233.203px; display:block; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transform:matrix(1, 0, 0, 1, 0, 0); transition:transform}
+                <div .bg-white.py-8.px-8> [405,4282,310,233]
+                  {backgroundColor:rgb(255, 255, 255); padding:24px; width:310px; height:233.203px; display:block; borderRadius:0px 90px 0px 0px; border:1px solid rgb(215, 231, 255); opacity:1; transition:all}
+                  <a .card-link> [430,4307,260,183] @href=https://www.trustpilot.com/reviews/6a8e18a0a06ed01
+                    {color:rgb(25, 67, 220); display:inline; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+              <div .swiper-slide.swiper-slide-next.px-0> [730,4282,310,233]
+                {margin:0px 15px 0px 0px; width:310px; height:233.203px; display:block; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transform:matrix(1, 0, 0, 1, 0, 0); transition:transform}
+                <div .bg-white.py-8.px-8> [730,4282,310,233]
+                  {backgroundColor:rgb(255, 255, 255); padding:24px; width:310px; height:233.203px; display:block; borderRadius:0px 90px 0px 0px; border:1px solid rgb(215, 231, 255); opacity:1; transition:all}
+                  <a .card-link> [755,4307,260,183] @href=https://www.trustpilot.com/reviews/6a8da3a3a045060
+                    {color:rgb(25, 67, 220); display:inline; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+              <div .swiper-slide.px-0> [1055,4282,310,233]
+                {margin:0px 15px 0px 0px; width:310px; height:233.203px; display:block; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transform:matrix(1, 0, 0, 1, 0, 0); transition:transform}
+                <div .bg-white.py-8.px-8> [1055,4282,310,233]
+                  {backgroundColor:rgb(255, 255, 255); padding:24px; width:310px; height:233.203px; display:block; borderRadius:0px 90px 0px 0px; border:1px solid rgb(215, 231, 255); opacity:1; transition:all}
+                  <a .card-link> [1080,4307,260,183] @href=https://www.trustpilot.com/reviews/6a8cc0de67f89cd
+                    {color:rgb(25, 67, 220); display:inline; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+              <div .swiper-slide.px-0> [1380,4282,310,233]
+                {margin:0px 15px 0px 0px; width:310px; height:233.203px; display:block; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transform:matrix(1, 0, 0, 1, 0, 0); transition:transform}
+                <div .bg-white.py-8.px-8> [1380,4282,310,233]
+                  {backgroundColor:rgb(255, 255, 255); padding:24px; width:310px; height:233.203px; display:block; borderRadius:0px 90px 0px 0px; border:1px solid rgb(215, 231, 255); opacity:1; transition:all}
+                  <a .card-link> [1405,4307,260,164] @href=https://www.trustpilot.com/reviews/6a8c7c944c4a141
+                    {color:rgb(25, 67, 220); display:inline; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+              <div .swiper-slide.px-0> [1705,4282,310,233]
+                {margin:0px 15px 0px 0px; width:310px; height:233.203px; display:block; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transform:matrix(1, 0, 0, 1, 0, 0); transition:transform}
+                <div .bg-white.py-8.px-8> [1705,4282,310,233]
+                  {backgroundColor:rgb(255, 255, 255); padding:24px; width:310px; height:233.203px; display:block; borderRadius:0px 90px 0px 0px; border:1px solid rgb(215, 231, 255); opacity:1; transition:all}
+                  <a .card-link> [1730,4307,260,164] @href=https://www.trustpilot.com/reviews/6a868e5b9bcb58d
+                    {color:rgb(25, 67, 220); display:inline; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+              <div .swiper-slide.px-0> [2030,4282,310,233]
+                {margin:0px 15px 0px 0px; width:310px; height:233.203px; display:block; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transform:matrix(1, 0, 0, 1, 0, 0); transition:transform}
+                <div .bg-white.py-8.px-8> [2030,4282,310,233]
+                  {backgroundColor:rgb(255, 255, 255); padding:24px; width:310px; height:233.203px; display:block; borderRadius:0px 90px 0px 0px; border:1px solid rgb(215, 231, 255); opacity:1; transition:all}
+                  <a .card-link> [2055,4307,260,183] @href=https://www.trustpilot.com/reviews/6a8493fda7f8cd9
+                    {color:rgb(25, 67, 220); display:inline; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+            <div .swiper-button-prev.swiper-button-disabled> [405,4536,12,12]
+              {margin:-22px 0px 0px; width:12px; height:12px; display:flex; justifyContent:center; alignItems:center; border:0px none rgb(2, 5, 83); position:absolute; top:276.203px; opacity:0.35; transition:all}
+              <svg .[object.SVGAnimatedString]> [405,4536,12,12] SVG
+                {width:12px; height:12px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transform:matrix(-1, 0, 0, -1, 0, 0); transition:all}
+            <div .swiper-button-next> [1353,4536,12,12]
+              {margin:-22px 0px 0px; width:12px; height:12px; display:flex; justifyContent:center; alignItems:center; border:0px none rgb(2, 5, 83); position:absolute; top:276.203px; left:948px; opacity:1; transition:all}
+              <svg .[object.SVGAnimatedString]> [1353,4536,12,12] SVG
+                {width:12px; height:12px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <div .swiper-scrollbar.swiper-scrollbar-horizontal> [445,4535,880,10]
+              {backgroundColor:rgb(255, 255, 255); width:880px; height:10px; display:block; borderRadius:5px; border:0px none rgb(2, 5, 83); position:absolute; top:253.203px; left:40px; opacity:1; transition:all}
+              <div .swiper-scrollbar-drag> [445,4535,437,10]
+                {backgroundColor:rgb(25, 67, 220); width:436.578px; height:10px; display:block; borderRadius:5px; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transform:matrix(1, 0, 0, 1, 0, 0); transition:all}
+            <span .swiper-notification> [404,4554,1,1]
+              {margin:-1px; width:1px; height:1px; display:block; border:0px none rgb(2, 5, 83); position:absolute; top:273.203px; opacity:1; transition:all}
+  <section .mb-14.mb-lg-15.AccordionFaqs_accordion__Wwtuk> [0,4675,1440,1233]
+    {margin:0px 0px 120px; width:1440px; height:1233px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+    <div .jsx-3814082393.position-relative> [0,4675,1440,0]
+      {width:1440px; display:block; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+      <span .jsx-3814082393.visually-hidden.position-absolute> [-1,4554,1,1] @id=faqs
+        {margin:-1px; width:1px; height:1px; display:block; border:0px none rgb(2, 5, 83); position:absolute; top:-120px; opacity:1; transition:all}
+    <div .container> [60,4675,1320,1233]
+      {padding:0px 15px; margin:0px 60px; width:1320px; height:1233px; maxWidth:1320px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+      <div .row> [60,4675,1320,1233]
+        {margin:0px -15px; width:1320px; height:1233px; display:flex; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-12> [60,4675,1320,1233]
+          {padding:0px 15px; width:1320px; height:1233px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div> [75,4675,1290,60]
+            {width:1290px; height:60px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <h2 .font-size-xl-60.mb-10.mb-lg-12> [75,4675,1290,60] "Line of credit FAQs."
+              {fontSize:60px; fontWeight:600; fontFamily:gellix; lineHeight:60px; margin:0px 0px 56px; width:1290px; height:60px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div> [75,4791,1290,1117]
+            {width:1290px; height:1117px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <div .accordion> [75,4791,1290,1117]
+              {width:1290px; height:1117px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+              <div .accordion-item> [75,4791,1290,94]
+                {color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:1290px; height:94px; display:block; opacity:1; transition:all}
+                <h3 .accordion-header> [75,4792,1290,92]
+                  {fontSize:24px; fontWeight:600; fontFamily:gellix; color:rgb(2, 5, 83); width:1290px; height:92px; display:flex; justifyContent:space-between; alignItems:center; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                  <button .accordion-button.collapsed> [75,4792,1290,92]
+                    {fontFamily:gellix; lineHeight:32px; backgroundColor:rgb(255, 255, 255); padding:30px 0px; width:1290px; height:92px; display:block; alignItems:center; borderRadius:2.75px 2.75px 0px 0px; border:0px none rgb(2, 5, 83); textAlign:left; position:relative; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+              <div .border-top-0.accordion-item> [75,4885,1290,93]
+                {color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:1290px; height:93px; display:block; opacity:1; transition:all}
+                <h3 .accordion-header> [75,4885,1290,92]
+                  {fontSize:24px; fontWeight:600; fontFamily:gellix; color:rgb(2, 5, 83); width:1290px; height:92px; display:flex; justifyContent:space-between; alignItems:center; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                  <button .accordion-button.collapsed> [75,4885,1290,92]
+                    {fontFamily:gellix; lineHeight:32px; backgroundColor:rgb(255, 255, 255); padding:30px 0px; width:1290px; height:92px; display:block; alignItems:center; border:0px none rgb(2, 5, 83); textAlign:left; position:relative; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+              <div .border-top-0.accordion-item> [75,4978,1290,93]
+                {color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:1290px; height:93px; display:block; opacity:1; transition:all}
+                <h3 .accordion-header> [75,4978,1290,92]
+                  {fontSize:24px; fontWeight:600; fontFamily:gellix; color:rgb(2, 5, 83); width:1290px; height:92px; display:flex; justifyContent:space-between; alignItems:center; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                  <button .accordion-button.collapsed> [75,4978,1290,92]
+                    {fontFamily:gellix; lineHeight:32px; backgroundColor:rgb(255, 255, 255); padding:30px 0px; width:1290px; height:92px; display:block; alignItems:center; border:0px none rgb(2, 5, 83); textAlign:left; position:relative; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+              <div .border-top-0.accordion-item> [75,5071,1290,93]
+                {color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:1290px; height:93px; display:block; opacity:1; transition:all}
+                <h3 .accordion-header> [75,5071,1290,92]
+                  {fontSize:24px; fontWeight:600; fontFamily:gellix; color:rgb(2, 5, 83); width:1290px; height:92px; display:flex; justifyContent:space-between; alignItems:center; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                  <button .accordion-button.collapsed> [75,5071,1290,92]
+                    {fontFamily:gellix; lineHeight:32px; backgroundColor:rgb(255, 255, 255); padding:30px 0px; width:1290px; height:92px; display:block; alignItems:center; border:0px none rgb(2, 5, 83); textAlign:left; position:relative; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+              <div .border-top-0.accordion-item> [75,5164,1290,93]
+                {color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:1290px; height:93px; display:block; opacity:1; transition:all}
+                <h3 .accordion-header> [75,5164,1290,92]
+                  {fontSize:24px; fontWeight:600; fontFamily:gellix; color:rgb(2, 5, 83); width:1290px; height:92px; display:flex; justifyContent:space-between; alignItems:center; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                  <button .accordion-button.collapsed> [75,5164,1290,92]
+                    {fontFamily:gellix; lineHeight:32px; backgroundColor:rgb(255, 255, 255); padding:30px 0px; width:1290px; height:92px; display:block; alignItems:center; border:0px none rgb(2, 5, 83); textAlign:left; position:relative; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+              <div .border-top-0.accordion-item> [75,5257,1290,93]
+                {color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:1290px; height:93px; display:block; opacity:1; transition:all}
+                <h3 .accordion-header> [75,5257,1290,92]
+                  {fontSize:24px; fontWeight:600; fontFamily:gellix; color:rgb(2, 5, 83); width:1290px; height:92px; display:flex; justifyContent:space-between; alignItems:center; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                  <button .accordion-button.collapsed> [75,5257,1290,92]
+                    {fontFamily:gellix; lineHeight:32px; backgroundColor:rgb(255, 255, 255); padding:30px 0px; width:1290px; height:92px; display:block; alignItems:center; border:0px none rgb(2, 5, 83); textAlign:left; position:relative; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+              <div .border-top-0.accordion-item> [75,5350,1290,93]
+                {color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:1290px; height:93px; display:block; opacity:1; transition:all}
+                <h3 .accordion-header> [75,5350,1290,92]
+                  {fontSize:24px; fontWeight:600; fontFamily:gellix; color:rgb(2, 5, 83); width:1290px; height:92px; display:flex; justifyContent:space-between; alignItems:center; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                  <button .accordion-button.collapsed> [75,5350,1290,92]
+                    {fontFamily:gellix; lineHeight:32px; backgroundColor:rgb(255, 255, 255); padding:30px 0px; width:1290px; height:92px; display:block; alignItems:center; border:0px none rgb(2, 5, 83); textAlign:left; position:relative; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+              <div .border-top-0.accordion-item> [75,5443,1290,93]
+                {color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:1290px; height:93px; display:block; opacity:1; transition:all}
+                <h3 .accordion-header> [75,5443,1290,92]
+                  {fontSize:24px; fontWeight:600; fontFamily:gellix; color:rgb(2, 5, 83); width:1290px; height:92px; display:flex; justifyContent:space-between; alignItems:center; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                  <button .accordion-button.collapsed> [75,5443,1290,92]
+                    {fontFamily:gellix; lineHeight:32px; backgroundColor:rgb(255, 255, 255); padding:30px 0px; width:1290px; height:92px; display:block; alignItems:center; border:0px none rgb(2, 5, 83); textAlign:left; position:relative; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+              <div .border-top-0.accordion-item> [75,5536,1290,93]
+                {color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:1290px; height:93px; display:block; opacity:1; transition:all}
+                <h3 .accordion-header> [75,5536,1290,92]
+                  {fontSize:24px; fontWeight:600; fontFamily:gellix; color:rgb(2, 5, 83); width:1290px; height:92px; display:flex; justifyContent:space-between; alignItems:center; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                  <button .accordion-button.collapsed> [75,5536,1290,92]
+                    {fontFamily:gellix; lineHeight:32px; backgroundColor:rgb(255, 255, 255); padding:30px 0px; width:1290px; height:92px; display:block; alignItems:center; border:0px none rgb(2, 5, 83); textAlign:left; position:relative; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+              <div .border-top-0.accordion-item> [75,5629,1290,93]
+                {color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:1290px; height:93px; display:block; opacity:1; transition:all}
+                <h3 .accordion-header> [75,5629,1290,92]
+                  {fontSize:24px; fontWeight:600; fontFamily:gellix; color:rgb(2, 5, 83); width:1290px; height:92px; display:flex; justifyContent:space-between; alignItems:center; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                  <button .accordion-button.collapsed> [75,5629,1290,92]
+                    {fontFamily:gellix; lineHeight:32px; backgroundColor:rgb(255, 255, 255); padding:30px 0px; width:1290px; height:92px; display:block; alignItems:center; border:0px none rgb(2, 5, 83); textAlign:left; position:relative; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+              <div .border-top-0.accordion-item> [75,5722,1290,93]
+                {color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:1290px; height:93px; display:block; opacity:1; transition:all}
+                <h3 .accordion-header> [75,5722,1290,92]
+                  {fontSize:24px; fontWeight:600; fontFamily:gellix; color:rgb(2, 5, 83); width:1290px; height:92px; display:flex; justifyContent:space-between; alignItems:center; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                  <button .accordion-button.collapsed> [75,5722,1290,92]
+                    {fontFamily:gellix; lineHeight:32px; backgroundColor:rgb(255, 255, 255); padding:30px 0px; width:1290px; height:92px; display:block; alignItems:center; border:0px none rgb(2, 5, 83); textAlign:left; position:relative; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+              <div .border-top-0.accordion-item> [75,5815,1290,93]
+                {color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:1290px; height:93px; display:block; opacity:1; transition:all}
+                <h3 .accordion-header> [75,5815,1290,92]
+                  {fontSize:24px; fontWeight:600; fontFamily:gellix; color:rgb(2, 5, 83); width:1290px; height:92px; display:flex; justifyContent:space-between; alignItems:center; border:0px none rgb(2, 5, 83); position:relative; opacity:1; transition:all}
+                  <button .accordion-button.collapsed> [75,5815,1290,92]
+                    {fontFamily:gellix; lineHeight:32px; backgroundColor:rgb(255, 255, 255); padding:30px 0px; width:1290px; height:92px; display:block; alignItems:center; borderRadius:0px 0px 2.75px 2.75px; border:0px none rgb(2, 5, 83); textAlign:left; position:relative; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+  <section .jsx-189743592.my-13.my-xl-15> [0,6028,1440,411]
+    {margin:120px 0px; width:1440px; height:411px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+    <div .container> [60,6028,1320,411]
+      {padding:0px 15px; margin:0px 60px; width:1320px; height:411px; maxWidth:1320px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+      <div .justify-between.row> [60,6028,1320,411]
+        {margin:0px -15px; width:1320px; height:411px; display:flex; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-12> [60,6028,1320,0]
+          {padding:0px 15px; width:1320px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-lg-6.mb-8.mb-lg-0> [60,6028,660,411]
+          {padding:0px 15px; width:660px; height:411px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div .jsx-189743592.card.h-100> [75,6028,630,411]
+            {backgroundColor:rgb(215, 231, 255); padding:40px; width:630px; height:411px; display:block; borderRadius:0px 0px 200px; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <img .jsx-189743592.img-fluid.icon> [115,6068,55,55] @src=/images/icons/transparent-pricing.svg IMG 150x150
+              {width:55px; height:55px; maxWidth:100%; display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:transform 0.2s ease-in-out; aspectRatio:auto 55 / 55}
+            <h2 .jsx-189743592.font-size-30.font-size-xl-40> [115,6147,550,80] "Need a traditional business loan?"
+              {fontSize:40px; fontWeight:600; fontFamily:gellix; lineHeight:40px; margin:24px 0px 16px; width:550px; height:80px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <p .jsx-189743592.font-size-15.font-size-xl-24> [115,6243,550,72] "Apply online in minutes for a term loan up to $500,000 from our lending partners."
+              {fontSize:24px; lineHeight:36px; width:550px; height:72px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <a .btn.btn-blue.mt-8> [115,6355,143,44] "Learn more" @href=https://www.bluevine.com/business-loans/term-loan
+              {fontWeight:600; fontFamily:gellix; lineHeight:20px; color:rgb(255, 255, 255); backgroundColor:rgb(25, 67, 220); padding:10px 28px; margin:40px 0px 0px; width:143.203px; height:44px; display:inline-block; borderRadius:5px; border:2px solid rgb(25, 67, 220); textAlign:center; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+        <div .col-lg-6.col-12> [720,6028,660,411]
+          {padding:0px 15px; width:660px; height:411px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <div .jsx-189743592.card.h-100> [735,6028,630,411]
+            {backgroundColor:rgb(184, 182, 255); padding:40px; width:630px; height:411px; display:block; borderRadius:0px 200px 0px 0px; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <img .jsx-189743592.img-fluid.icon> [775,6068,55,55] @src=/images/icons/small-business-fill.svg IMG 55x55
+              {width:55px; height:55px; maxWidth:100%; display:inline; border:0px none rgb(2, 5, 83); opacity:1; transition:transform 0.2s ease-in-out; aspectRatio:auto 55 / 55}
+            <h2 .jsx-189743592.font-size-30.font-size-xl-40> [775,6147,550,80] "Looking for SBA funding?"
+              {fontSize:40px; fontWeight:600; fontFamily:gellix; lineHeight:40px; margin:24px 0px 16px; width:550px; height:80px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <p .jsx-189743592.font-size-15.font-size-xl-24> [775,6243,550,72] "We’ve partnered with Fundera by NerdWallet to help you access SBA 7(a) loans up to $350,000."
+              {fontSize:24px; lineHeight:36px; width:550px; height:72px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+            <a .btn.btn-blue.mt-8> [775,6355,161,44] "Contact sales" @href=https://www.bluevine.com/business-loans/sba-loan
+              {fontWeight:600; fontFamily:gellix; lineHeight:20px; color:rgb(255, 255, 255); backgroundColor:rgb(25, 67, 220); padding:10px 28px; margin:40px 0px 0px; width:160.953px; height:44px; display:inline-block; borderRadius:5px; border:2px solid rgb(25, 67, 220); textAlign:center; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+  <section .jsx-8522eb3d0a1320e4.py-10.py-lg-15> [0,6559,1440,991]
+    {backgroundColor:rgb(2, 5, 83); padding:120px 0px; width:1440px; height:990.562px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+    <div .container> [60,6679,1320,736]
+      {padding:0px 15px; margin:0px 60px; width:1320px; height:735.562px; maxWidth:1320px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+      <div .row> [60,6679,1320,132]
+        {margin:0px -15px; width:1320px; height:132px; display:flex; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-md-12.col-12> [60,6679,1320,132]
+          {padding:0px 15px; width:1320px; height:132px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <h2 .jsx-8522eb3d0a1320e4.font-size-36.font-size-xl-72> [75,6679,1290,72] "Explore helpful guides."
+            {fontSize:72px; fontWeight:600; fontFamily:gellix; lineHeight:72px; color:rgb(255, 255, 255); margin:0px 0px 24px; width:1290px; height:72px; display:block; border:0px none rgb(255, 255, 255); opacity:1; transition:all}
+          <p .jsx-8522eb3d0a1320e4.col-12.text-start> [75,6775,1290,36] "Learn how to make the most of your Bluevine account with these in-depth product guides and resources"
+            {fontSize:24px; lineHeight:36px; color:rgb(255, 255, 255); width:1290px; height:36px; display:block; border:0px none rgb(255, 255, 255); textAlign:left; opacity:1; transition:all}
+      <div .jsx-8522eb3d0a1320e4.mt-10.mt-md-13> [60,6875,1320,540]
+        {margin:64px -15px 15px; width:1320px; height:539.562px; display:flex; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .jsx-8522eb3d0a1320e4.col-lg-4.px-4> [60,6875,440,540]
+          {padding:0px 15px; width:440px; height:539.562px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <a .d-block.h-100.group> [75,6875,410,540] @href=https://www.bluevine.com/help-center/getting-start
+            {color:rgb(25, 67, 220); width:410px; height:539.562px; display:block; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+            <div .card.h-100.position-relative> [75,6875,410,540]
+              {backgroundColor:rgb(255, 255, 255); width:410px; height:539.562px; display:block; border:0px none rgb(25, 67, 220); position:relative; opacity:1; transition:all}
+              <div .card-header.overflow-hidden.d-flex> [75,6875,410,195]
+                {backgroundColor:rgb(184, 182, 255); width:410px; height:195px; display:flex; justifyContent:center; alignItems:center; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+                <img .img-fluid> [223,6926,115,93] @alt=how to apply @src=/images/guides/how-to-apply.svg IMG 176x142
+                  {width:115px; height:92.7812px; maxWidth:100%; display:block; border:0px none rgb(25, 67, 220); opacity:1; transition:all; aspectRatio:auto 115 / 115}
+              <div .card-body.px-8.px-lg-8> [75,7070,410,315]
+                {padding:24px 24px 64px; width:410px; height:314.562px; display:block; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+                <p .font-size-14.ff-gellix.fw-semibold> [99,7094,362,21] "Business Loans"
+                  {fontSize:14px; fontWeight:600; fontFamily:gellix; lineHeight:21px; margin:0px 0px 24px; width:362px; height:21px; display:block; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+                <h3 .font-size-28.font-size-md-32.lh-xs> [99,7139,362,106] "Everything you need to apply for a Bluevine Line of Credit."
+                  {fontSize:32px; fontWeight:600; fontFamily:gellix; lineHeight:35.2px; color:rgb(2, 5, 83); margin:0px 0px 16px; width:362px; height:105.562px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <p .font-size-16.font-size-lg-20.d-none> [99,7261,362,60] "We’ve created this guide that covers everything you need to apply."
+                  {fontSize:20px; lineHeight:30px; color:rgb(2, 5, 83); width:362px; height:60px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <span .font-size-16.text-blue.ff-gellix> [99,7367,79,24] "Read more"
+                  {fontWeight:600; fontFamily:gellix; width:78.5625px; height:24px; display:block; border:0px none rgb(25, 67, 220); position:absolute; top:491.562px; left:24px; opacity:1; transition:all}
+        <div .jsx-8522eb3d0a1320e4.col-lg-4.px-4> [500,6875,440,540]
+          {padding:0px 15px; width:440px; height:539.562px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <a .d-block.h-100.group> [515,6875,410,540] @href=https://www.bluevine.com/help-center/getting-start
+            {color:rgb(25, 67, 220); width:410px; height:539.562px; display:block; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+            <div .card.h-100.position-relative> [515,6875,410,540]
+              {backgroundColor:rgb(255, 255, 255); width:410px; height:539.562px; display:block; border:0px none rgb(25, 67, 220); position:relative; opacity:1; transition:all}
+              <div .card-header.overflow-hidden.d-flex> [515,6875,410,195]
+                {backgroundColor:rgb(184, 182, 255); width:410px; height:195px; display:flex; justifyContent:center; alignItems:center; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+                <img .img-fluid> [663,6939,115,67] @alt=how to use line of credit @src=/images/guides/how-to-use-line-of-credit.svg IMG 228x132
+                  {width:115px; height:66.5781px; maxWidth:100%; display:block; border:0px none rgb(25, 67, 220); opacity:1; transition:all; aspectRatio:auto 115 / 115}
+              <div .card-body.px-8.px-lg-8> [515,7070,410,309]
+                {padding:24px 24px 64px; width:410px; height:309.375px; display:block; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+                <p .font-size-14.ff-gellix.fw-semibold> [539,7094,362,21] "Business Loans"
+                  {fontSize:14px; fontWeight:600; fontFamily:gellix; lineHeight:21px; margin:0px 0px 24px; width:362px; height:21px; display:block; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+                <h3 .font-size-28.font-size-md-32.lh-xs> [539,7139,362,70] "Make the most of your Bluevine line of credit."
+                  {fontSize:32px; fontWeight:600; fontFamily:gellix; lineHeight:35.2px; color:rgb(2, 5, 83); margin:0px 0px 16px; width:362px; height:70.375px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <p .font-size-16.font-size-lg-20.d-none> [539,7225,362,90] "Learn about your Bluevine Line of Credit benefits and how to use a line of credit to grow in your in"
+                  {fontSize:20px; lineHeight:30px; color:rgb(2, 5, 83); width:362px; height:90px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <span .font-size-16.text-blue.ff-gellix> [539,7367,79,24] "Read more"
+                  {fontWeight:600; fontFamily:gellix; width:78.5625px; height:24px; display:block; border:0px none rgb(25, 67, 220); position:absolute; top:491.562px; left:24px; opacity:1; transition:all}
+        <div .jsx-8522eb3d0a1320e4.col-lg-4.px-4> [940,6875,440,540]
+          {padding:0px 15px; width:440px; height:539.562px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <a .d-block.h-100.group> [955,6875,410,540] @href=https://www.bluevine.com/help-center/line-of-credi
+            {color:rgb(25, 67, 220); width:410px; height:539.562px; display:block; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+            <div .card.h-100.position-relative> [955,6875,410,540]
+              {backgroundColor:rgb(255, 255, 255); width:410px; height:539.562px; display:block; border:0px none rgb(25, 67, 220); position:relative; opacity:1; transition:all}
+              <div .card-header.overflow-hidden.d-flex> [955,6875,410,195]
+                {backgroundColor:rgb(184, 182, 255); width:410px; height:195px; display:flex; justifyContent:center; alignItems:center; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+                <img .img-fluid> [1103,6921,115,104] @alt=connecting financial apps @src=/images/guides/connecting-financial-apps.svg IMG 180x162
+                  {width:115px; height:103.5px; maxWidth:100%; display:block; border:0px none rgb(25, 67, 220); opacity:1; transition:all; aspectRatio:auto 115 / 115}
+              <div .card-body.px-8.px-lg-8> [955,7070,410,345]
+                {padding:24px 24px 64px; width:410px; height:344.562px; display:block; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+                <p .font-size-14.ff-gellix.fw-semibold> [979,7094,362,21] "Business Loans"
+                  {fontSize:14px; fontWeight:600; fontFamily:gellix; lineHeight:21px; margin:0px 0px 24px; width:362px; height:21px; display:block; border:0px none rgb(25, 67, 220); opacity:1; transition:all}
+                <h3 .font-size-28.font-size-md-32.lh-xs> [979,7139,362,106] "How to connect an external bank account to Bluevine."
+                  {fontSize:32px; fontWeight:600; fontFamily:gellix; lineHeight:35.2px; color:rgb(2, 5, 83); margin:0px 0px 16px; width:362px; height:105.562px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <p .font-size-16.font-size-lg-20.d-none> [979,7261,362,90] "Connecting your external account can help you get the most out of your Bluevine Line of Credit..."
+                  {fontSize:20px; lineHeight:30px; color:rgb(2, 5, 83); width:362px; height:90px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+                <span .font-size-16.text-blue.ff-gellix> [979,7367,79,24] "Read more"
+                  {fontWeight:600; fontFamily:gellix; width:78.5625px; height:24px; display:block; border:0px none rgb(25, 67, 220); position:absolute; top:491.562px; left:24px; opacity:1; transition:all}
+  <section .py-11.py-xl-15.bg-blue> [0,7550,1440,406]
+    {backgroundColor:rgb(25, 67, 220); padding:120px 0px; width:1440px; height:406px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+    <div .container> [60,7670,1320,166]
+      {padding:0px 15px; margin:0px 60px; width:1320px; height:166px; maxWidth:1320px; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+      <div .d-flex.align-items-md-center.row> [60,7670,1320,166]
+        {margin:0px -15px; width:1320px; height:166px; display:flex; alignItems:center; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+        <div .col-md-8.col-12> [60,7693,880,120]
+          {padding:0px 15px; width:880px; height:120px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <h2 .font-size-34.font-size-xl-60.text-white> [75,7693,850,120] "Ready to apply for a line of credit?"
+            {fontSize:60px; fontWeight:600; fontFamily:gellix; lineHeight:60px; color:rgb(255, 255, 255); width:850px; height:120px; display:block; border:0px none rgb(255, 255, 255); opacity:0; transition:all}
+            <br .d-none.d-lg-block> [624,7689,0,67]
+              {display:block; border:0px none rgb(255, 255, 255); opacity:1; transition:all}
+        <div .col-md-4.col-12> [940,7670,440,166]
+          {padding:0px 15px; width:440px; height:166px; maxWidth:100%; display:block; border:0px none rgb(2, 5, 83); opacity:1; transition:all}
+          <a .btn.btn-blue.btn> [955,7670,290,60] "Start application" @href=https://app.bluevine.com/signup/?signup_parent_url
+            {fontSize:20px; fontWeight:600; fontFamily:gellix; color:rgb(25, 67, 220); backgroundColor:rgb(255, 255, 255); padding:16px 66px; width:289.938px; height:60px; display:inline-block; borderRadius:5px; border:2px solid rgb(255, 255, 255); textAlign:center; opacity:1; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s }
+          <p .text-white.mt-9.mt-lg-7> [955,7746,410,90] "Submit your application in just a few minutes with no impact to your credit score."
+            {fontSize:20px; lineHeight:30px; color:rgb(255, 255, 255); margin:16px 0px 0px; width:410px; height:90px; display:block; border:0px none rgb(255, 255, 255); opacity:1; transition:all}
+            <sup .d-inline> [1011,7808,6,14] "3"
+              {fontSize:11px; display:inline; border:0px none rgb(255, 255, 255); position:relative; top:-8.25px; opacity:1; transition:all}

@@ -186,10 +186,10 @@ export const PRODUCT_UPDATES: ProductUpdate[] = [
   {
     date: "May 14 2026",
     tag: "New",
-    title: "Broker and ISO partner portal",
+    title: "Shareable application link",
     description:
-      "Partners can submit applications for their clients, track offers and commissions, and share a co-branded application link. See /for-brokers for details.",
-    href: "/for-brokers",
+      "Owners can now send their in-progress application to a partner, bookkeeper or co-owner to finish, and every offer lands in one place.",
+    href: "/apply",
   },
   {
     date: "Apr. 22 2026",

@@ -1,29 +1,24 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { INDUSTRY_SLUGS, getIndustry } from "@/components/sites/corgi-insure-a0f7893c/industries/data";
-import { IndustryPage } from "@/components/sites/corgi-insure-a0f7893c/industries/IndustryPage";
+import { DetailPage } from "@/components/sites/corgi-insure-a0f7893c/detail/DetailPage";
+import { getIndustryPage, INDUSTRY_SLUGS } from "@/components/sites/corgi-insure-a0f7893c/detail/industries";
 
-interface IndustryRouteProps {
-  params: Promise<{ industry: string }>;
-}
-
-/** Only the eleven data-driven slugs are built; `/industry/ai` is its own static route and wins over this segment. */
 export const dynamicParams = false;
 
 export function generateStaticParams() {
   return INDUSTRY_SLUGS.map((industry) => ({ industry }));
 }
 
-export async function generateMetadata({ params }: IndustryRouteProps): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ industry: string }> }): Promise<Metadata> {
   const { industry } = await params;
-  const definition = getIndustry(industry);
-  if (!definition) return {};
-  return { title: definition.meta.title, description: definition.meta.description };
+  const page = getIndustryPage(industry);
+  return page ? { title: page.meta.title, description: page.meta.description } : {};
 }
 
-export default async function IndustryRoute({ params }: IndustryRouteProps) {
+/** Industry pages (/industry/construction, /industry/ai, …) on the shared detail template. */
+export default async function IndustryPage({ params }: { params: Promise<{ industry: string }> }) {
   const { industry } = await params;
-  const definition = getIndustry(industry);
-  if (!definition) notFound();
-  return <IndustryPage industry={definition} />;
+  const page = getIndustryPage(industry);
+  if (!page) notFound();
+  return <DetailPage page={page} />;
 }

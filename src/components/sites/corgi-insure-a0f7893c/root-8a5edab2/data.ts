@@ -73,9 +73,9 @@ export const NAV_MENUS: NavMenu[] = [
         span: 1,
         items: [
           { label: "Term loans", icon: "payments", href: "/term-loans" },
-          { label: "Line of credit", icon: "credit_score", href: "/loan-types#line-of-credit" },
-          { label: "SBA loans", icon: "account_balance", href: "/loan-types#sba-loans" },
-          { label: "Equipment financing", icon: "precision_manufacturing", href: "/loan-types#equipment-financing" },
+          { label: "Line of credit", icon: "credit_score", href: "/line-of-credit" },
+          { label: "SBA loans", icon: "account_balance", href: "/sba-loans" },
+          { label: "Equipment financing", icon: "precision_manufacturing", href: "/equipment-financing" },
         ],
         viewAll: { label: "View all", href: LINKS.loanTypes },
       },
@@ -104,24 +104,6 @@ export const NAV_MENUS: NavMenu[] = [
     highlights: HIGHLIGHTS,
   },
   {
-    id: "partners",
-    label: "For partners",
-    columnWidth: { base: 240, xl2: 240, w1680: 240 },
-    columns: [
-      {
-        title: "Partner tools",
-        span: 1,
-        items: [
-          { label: "Digital application", icon: "phone_iphone", href: "/embedded/digital-application" },
-          { label: "Partner portal", icon: "tune", href: "/embedded/marketplace" },
-          { label: "Lender matching", icon: "auto_awesome", href: "/embedded/matching" },
-          { label: "Prequalify customers", icon: "verified", href: "/embedded/prequalify" },
-        ],
-      },
-    ],
-    highlights: HIGHLIGHTS,
-  },
-  {
     id: "products",
     label: "Products",
     href: LINKS.loanTypes,
@@ -132,10 +114,10 @@ export const NAV_MENUS: NavMenu[] = [
         span: 1,
         items: [
           { label: "Term loan", icon: "payments", href: "/term-loans" },
-          { label: "Business line of credit", icon: "credit_score", href: "/loan-types#line-of-credit" },
-          { label: "Invoice financing", icon: "receipt_long", href: "/loan-types#invoice-financing" },
-          { label: "Merchant cash advance", icon: "point_of_sale", href: "/loan-types#merchant-cash-advance" },
-          { label: "Business credit card", icon: "credit_card", href: "/loan-types#business-credit-card" },
+          { label: "Business line of credit", icon: "credit_score", href: "/line-of-credit" },
+          { label: "Invoice financing", icon: "receipt_long", href: "/invoice-financing" },
+          { label: "Merchant cash advance", icon: "point_of_sale", href: "/merchant-cash-advance" },
+          { label: "Business credit card", icon: "credit_card", href: "/business-credit-card" },
           { label: "Working capital loan", icon: "savings", href: "/loan-types#working-capital" },
         ],
       },
@@ -143,9 +125,9 @@ export const NAV_MENUS: NavMenu[] = [
         title: "Growth & Assets",
         span: 1,
         items: [
-          { label: "SBA 7(a) loans", icon: "account_balance", href: "/loan-types#sba-loans" },
-          { label: "Equipment financing", icon: "precision_manufacturing", href: "/loan-types#equipment-financing" },
-          { label: "Commercial real estate", icon: "apartment", href: "/loan-types#commercial-real-estate" },
+          { label: "SBA 7(a) loans", icon: "account_balance", href: "/sba-loans" },
+          { label: "Equipment financing", icon: "precision_manufacturing", href: "/equipment-financing" },
+          { label: "Commercial real estate", icon: "apartment", href: "/commercial-real-estate" },
         ],
       },
       {
@@ -184,24 +166,6 @@ export const NAV_MENUS: NavMenu[] = [
           { label: "Security", icon: "lock", href: "/security" },
           { label: "Find a location", icon: "location_on", href: "/locations" },
           { label: "Reviews", icon: "star", href: "/reviews" },
-        ],
-      },
-    ],
-    highlights: HIGHLIGHTS,
-  },
-  {
-    id: "lenders",
-    label: "For lenders",
-    href: "/for-lenders",
-    columnWidth: { base: 240, xl2: 240, w1680: 240 },
-    columns: [
-      {
-        title: "Programs",
-        span: 1,
-        items: [
-          { label: "Join our lender network", icon: "handshake", href: "/for-lenders" },
-          { label: "For brokers", icon: "business_center", href: "/for-brokers" },
-          { label: "Referral rewards", icon: "savings", badge: "COMING SOON" },
         ],
       },
     ],
@@ -559,7 +523,7 @@ export const POLICIES: Policy[] = [
   {
     title: "Business Line of Credit",
     description: "A revolving limit you can draw on whenever cash gets tight, paying interest only on what you use.",
-    href: "/loan-types#line-of-credit",
+    href: "/line-of-credit",
     image: `${ASSETS}/images/tech-eo.webp`,
     imageWidth: 384,
     imageHeight: 173,
@@ -567,7 +531,7 @@ export const POLICIES: Policy[] = [
   {
     title: "SBA 7(a) Loan",
     description: "Government-backed financing with long terms and competitive rates for established businesses that can plan ahead.",
-    href: "/loan-types#sba-loans",
+    href: "/sba-loans",
     image: `${ASSETS}/images/cyber.webp`,
     imageWidth: 384,
     imageHeight: 190,
@@ -575,7 +539,7 @@ export const POLICIES: Policy[] = [
   {
     title: "Equipment Financing",
     description: "Buy or lease vehicles, machinery, and technology with financing secured by the equipment itself.",
-    href: "/loan-types#equipment-financing",
+    href: "/equipment-financing",
     image: `${ASSETS}/images/hnoa.webp`,
     imageWidth: 348,
     imageHeight: 240,
@@ -583,7 +547,7 @@ export const POLICIES: Policy[] = [
   {
     title: "Invoice Financing",
     description: "Advance cash against unpaid invoices so slow-paying customers don’t stall your growth.",
-    href: "/loan-types#invoice-financing",
+    href: "/invoice-financing",
     image: `${ASSETS}/images/media.webp`,
     imageWidth: 382,
     imageHeight: 240,
@@ -591,7 +555,7 @@ export const POLICIES: Policy[] = [
   {
     title: "Merchant Cash Advance",
     description: "An advance repaid as a percentage of daily card sales, with approvals based on revenue rather than collateral.",
-    href: "/loan-types#merchant-cash-advance",
+    href: "/merchant-cash-advance",
     image: `${ASSETS}/images/cgl.webp`,
     imageWidth: 384,
     imageHeight: 158,
@@ -599,7 +563,7 @@ export const POLICIES: Policy[] = [
   {
     title: "Commercial Real Estate Loan",
     description: "Long-term financing to buy, build, or refinance the property your business operates from.",
-    href: "/loan-types#commercial-real-estate",
+    href: "/commercial-real-estate",
     image: `${ASSETS}/images/epl.webp`,
     imageWidth: 324,
     imageHeight: 240,
@@ -607,7 +571,7 @@ export const POLICIES: Policy[] = [
   {
     title: "Business Credit Card",
     description: "Everyday spending power that builds your business credit profile and keeps expenses separate from personal accounts.",
-    href: "/loan-types#business-credit-card",
+    href: "/business-credit-card",
     image: `${ASSETS}/images/tech-eo.webp`,
     imageWidth: 384,
     imageHeight: 173,
@@ -648,7 +612,7 @@ export const FAQ: FaqItem[] = [
   {
     question: "Which financing do I actually need?",
     answerHtml:
-      'It depends on your stage. Newer businesses usually start with a <a class="underline" href="/loan-types#line-of-credit">line of credit</a>, a business credit card, or <a class="underline" href="/loan-types#equipment-financing">equipment financing</a>. Growing companies add term loans and invoice financing. Established businesses reach for <a class="underline" href="/loan-types#sba-loans">SBA loans</a> and real estate financing. You can also build a <a class="underline" href="/loan-types">custom package</a> if you already know what you need.',
+      'It depends on your stage. Newer businesses usually start with a <a class="underline" href="/line-of-credit">line of credit</a>, a business credit card, or <a class="underline" href="/equipment-financing">equipment financing</a>. Growing companies add term loans and invoice financing. Established businesses reach for <a class="underline" href="/sba-loans">SBA loans</a> and real estate financing. You can also build a <a class="underline" href="/loan-types">custom package</a> if you already know what you need.',
   },
   {
     question: "Does applying affect my credit score?",
@@ -733,9 +697,9 @@ export const FOOTER_COLUMNS: FooterColumn[] = [
     links: [
       { label: "Apply now", href: LINKS.apply },
       { label: "Term loans", href: "/term-loans" },
-      { label: "Lines of credit", href: "/loan-types#line-of-credit" },
-      { label: "SBA loans", href: "/loan-types#sba-loans" },
-      { label: "Equipment financing", href: "/loan-types#equipment-financing" },
+      { label: "Lines of credit", href: "/line-of-credit" },
+      { label: "SBA loans", href: "/sba-loans" },
+      { label: "Equipment financing", href: "/equipment-financing" },
     ],
   },
 ];

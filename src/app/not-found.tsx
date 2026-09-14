@@ -11,7 +11,7 @@ const SHORTCUTS = [
   { label: "Term loans", href: "/term-loans" },
   { label: "Startup loans", href: "/startup-loans" },
   { label: "Funding for AI companies", href: "/industry/ai" },
-  { label: "For brokers", href: "/for-brokers" },
+  { label: "Line of credit", href: "/line-of-credit" },
   { label: "Newsroom", href: "/newsroom/series-b" },
 ];
 

@@ -1,0 +1,1514 @@
+<header .Header_header__MwWvM.header> [0,0,768,88] @id=header
+  { fontSize:14.28px; fontWeight:400; fontFamily:__gellix_2627c8; lineHeight:16.8px; color:rgb(2, 5, 83); width:768px; height:88.1875px; display:block; position:absolute; bottom:935.812px; zIndex:1000; transition:transform 0.2s }
+  <div .h-100.container> [0,0,768,88]
+    { padding:0px 25.2px; width:768px; height:88.1875px; maxWidth:100%; display:block; transition:all }
+    <div .align-items-center.h-100.row> [13,0,743,88]
+      { margin:0px -12.6px; width:742.812px; height:88.1875px; display:flex; flexWrap:wrap; alignItems:center; transition:all }
+      <div .h-100.header-nav.col> [13,0,743,88]
+        { padding:0px 12.6px; width:742.812px; height:88.1875px; maxWidth:100%; display:block; transition:all }
+        <nav .Header_navbar__sgcPx.py-0.navbar.navbar-expand-xl.navbar-true> [25,0,718,88]
+          { width:717.625px; height:88.1875px; display:flex; flexWrap:wrap; justifyContent:space-between; alignItems:center; position:relative; transition:all }
+          <a .Header_navbarLogo__i_zLt.logo.text-blue> [25,31,138,26] @href=https://www.bluevine.com/
+            { color:rgb(25, 67, 220); margin:0px 25.2px 0px 0px; width:137.906px; height:25.9844px; display:block; transition:all }
+            <span .d-block.max-width-140.max-width-xl-145.ms-n1> [23,31,140,26]
+              { margin:0px 0px 0px -2.1px; width:140px; height:25.9844px; maxWidth:140px; display:block; transition:all }
+              <svg .[object.SVGAnimatedString]> [23,31,140,26] SVG
+                { width:140px; height:25.9844px; display:inline; transition:all; overflow:hidden }
+            <span .d-none.max-width-28> [0,0,0,0]
+              { maxWidth:28px; transition:all }
+              <svg .[object.SVGAnimatedString]> [0,0,0,0] SVG
+                { width:100%; display:inline; transition:all; overflow:hidden }
+          <button .bg-transparent.border-0.h-100.px-7.py-0.me-n7> [704,0,52,88] @type=button
+            { color:rgb(0, 0, 0); textAlign:center; padding:0px 13.44px; margin:0px -13.44px 0px 0px; width:51.875px; height:88.1875px; display:block; transition:all }
+            <span .NavBarToggleIcon_icon__6VsBM.navbar-toggler-icon.closed> [718,32,25,25]
+              { width:25px; height:25px; display:block; transition:all }
+              <span> [730,32,0,0]
+                { display:inline; transition:all }
+              <span .icon-bar> [718,32,25,2]
+                { backgroundColor:rgb(25, 67, 220); width:25px; height:2px; display:block; transition:0.15s }
+              <span .icon-bar> [718,39,25,2]
+                { backgroundColor:rgb(25, 67, 220); margin:5px 0px 0px; width:25px; height:2px; display:block; transition:0.15s }
+              <span .icon-bar> [718,46,25,2]
+                { backgroundColor:rgb(25, 67, 220); margin:5px 0px 0px; width:25px; height:2px; display:block; transition:0.15s }
+          <div .Header_navbarContent__KrDn4.navbar-collapse.collapse> [0,0,0,0] @id=navbar-content
+            { alignItems:center; opacity:0 }
+            <ul .h-100.ms-auto.mb-0.pe-5.pe-xl-0.navbar-nav> [0,0,0,0]
+              { padding:0px 25.2px 0px 0px; margin:0px 0px 0px auto; height:100%; display:flex; flexDirection:column; transition:all }
+              <li .MenuItem_navItem__pBg1P.nav-item> [0,0,0,0]
+                { display:list-item; transition:all }
+                <div .h-100.d-xl-flex.align-items-center.dropdown> [0,0,0,0]
+                  { height:100%; display:block; alignItems:center; position:relative; transition:all }
+                  <button .MenuItem_navLink__8gdmm.text-blue> [0,0,0,0] "Business Checking" @id=r5qlk6-trigger-business-checking @aria-expanded=false
+                    { fontSize:13.44px; fontWeight:600; lineHeight:20.16px; color:rgb(25, 67, 220); textAlign:left; backgroundColor:rgb(255, 255, 255); padding:15.12px 0px; width:100%; display:block; position:sticky; zIndex:1; transition:all }
+                    <img .IconCarret_arrow__10I_X.arrow.d-inline-block.d-xl-none.position-absolute> [0,0,0,0] @alt=caret icon @src=/images/icons/icon_caret.svg IMG https://www.bluevine.com/images/icons/icon_caret.svg 150x150
+                      { width:16px; height:16px; display:block; position:absolute; right:6.72px; transition:transform 0.2s; overflow:clip; aspectRatio:auto 16 / 16 }
+                  <div .MenuItem_dropdownMenu__rI43V.Menu_menuItemChecking__M3KFq.py-xl-0.dropdown-menu> [0,0,0,0] @id=r5qlk6-content-business-checking
+                    { fontSize:14.0196px; lineHeight:16.4936px; color:rgb(33, 37, 41); textAlign:left; backgroundColor:rgb(255, 255, 255); padding:4.2px 0px; zIndex:1000; transition:all }
+                    <div .px-4.container-fluid> [0,0,0,0]
+                      { padding:0px 12.6px; margin:0px auto; width:100%; display:block; transition:all }
+                      <div .justify-content-xl-between.row> [0,0,0,0]
+                        { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                        <div .pt-0.pb-7.py-xl-9.px-4.ps-xl-10.pe-xl-0> [0,0,0,0]
+                          { padding:0px 12.6px 13.44px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .row> [0,0,0,0]
+                            { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .mb-2.ps-0.ps-xl-4.col-12> [0,0,0,0]
+                              { padding:0px 12.6px 0px 0px; margin:0px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-2.ps-0.ps-xl-4.col-12> [0,0,0,0]
+                              { padding:0px 12.6px 0px 0px; margin:13.44px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                        <div .pt-0.pb-9.py-xl-9.px-4.pe-xl-0.col-xl-6> [0,0,0,0]
+                          { padding:0px 12.6px 26.88px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .row> [0,0,0,0]
+                            { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .mb-2.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:0px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-0.order-lg-0.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-3.order-lg-1.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-1.order-lg-2.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-4.order-lg-3.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-2.order-lg-4.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-5.order-lg-5.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-6.order-lg-6.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-7.order-lg-7.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div> [0,0,0,0]
+                            { display:block; transition:all }
+                            <div .px-0.container> [0,0,0,0]
+                              { margin:0px auto; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .row> [0,0,0,0]
+                            { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .mt-8.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:20.16px 0px 0px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-8.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:20.16px 0px 0px; width:100%; maxWidth:100%; display:block; transition:all }
+                        <div .bg-gray-scale.mb-6.mb-xl-0.max-width-xl-200.col-xl-3.col-12> [0,0,0,0]
+                          { backgroundColor:rgb(240, 244, 250); padding:0px 12.6px; margin:0px 0px 6.72px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .px-7.py-8.py-xl-10.px-xl-6.row> [0,0,0,0]
+                            { padding:20.16px 13.44px; margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .px-xl-7.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.px-xl-7.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 0px; width:100%; maxWidth:100%; display:block; transition:all }
+              <li .MenuItem_navItem__pBg1P.nav-item> [0,0,0,0]
+                { display:list-item; transition:all }
+                <div .h-100.d-xl-flex.align-items-center.dropdown> [0,0,0,0]
+                  { height:100%; display:block; alignItems:center; position:relative; transition:all }
+                  <button .MenuItem_navLink__8gdmm.text-blue> [0,0,0,0] "Business Loans" @id=r9qlk6-trigger-business-loans @aria-expanded=false
+                    { fontSize:13.44px; fontWeight:600; lineHeight:20.16px; color:rgb(25, 67, 220); textAlign:left; backgroundColor:rgb(255, 255, 255); padding:15.12px 0px; width:100%; display:block; position:sticky; zIndex:1; transition:all }
+                    <img .IconCarret_arrow__10I_X.arrow.d-inline-block.d-xl-none.position-absolute> [0,0,0,0] @alt=caret icon @src=/images/icons/icon_caret.svg IMG https://www.bluevine.com/images/icons/icon_caret.svg 150x150
+                      { width:16px; height:16px; display:block; position:absolute; right:6.72px; transition:transform 0.2s; overflow:clip; aspectRatio:auto 16 / 16 }
+                  <div .MenuItem_dropdownMenu__rI43V.Menu_menuItemLoans__VA8QR.py-xl-0.dropdown-menu> [0,0,0,0] @id=r9qlk6-content-business-loans
+                    { fontSize:14.0196px; lineHeight:16.4936px; color:rgb(33, 37, 41); textAlign:left; backgroundColor:rgb(255, 255, 255); padding:4.2px 0px; zIndex:1000; transition:all }
+                    <div .px-4.container-fluid> [0,0,0,0]
+                      { padding:0px 12.6px; margin:0px auto; width:100%; display:block; transition:all }
+                      <div .justify-content-xl-between.row> [0,0,0,0]
+                        { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                        <div .pt-0.pb-7.py-xl-9.px-4.ps-xl-10.pe-xl-0> [0,0,0,0]
+                          { padding:0px 12.6px 13.44px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .row> [0,0,0,0]
+                            { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .mb-2.ps-0.ps-xl-4.col-12> [0,0,0,0]
+                              { padding:0px 12.6px 0px 0px; margin:0px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-2.ps-0.ps-xl-4.col-12> [0,0,0,0]
+                              { padding:0px 12.6px 0px 0px; margin:13.44px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                        <div .pt-0.pb-9.py-xl-9.px-4.pe-xl-7.col-xl-4> [0,0,0,0]
+                          { padding:0px 12.6px 26.88px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .row> [0,0,0,0]
+                            { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .mb-2.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:0px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-0.order-lg-0.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-1.order-lg-1.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-2.order-lg-2.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                        <div .bg-gray-scale.mb-6.mb-xl-0.max-width-xl-200.col-xl-3.col-12> [0,0,0,0]
+                          { backgroundColor:rgb(240, 244, 250); padding:0px 12.6px; margin:0px 0px 6.72px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .px-7.py-8.py-xl-10.px-xl-6.row> [0,0,0,0]
+                            { padding:20.16px 13.44px; margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .d-flex.px-xl-7.col-xl-12.col-4> [0,0,0,0]
+                              { padding:0px 12.6px; width:33.3333%; maxWidth:100%; display:flex; transition:all }
+                            <div .mt-7.mt-xl-9.px-xl-7.col-xl-12.col-8> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 0px; width:66.6667%; maxWidth:100%; display:block; transition:all }
+              <li .MenuItem_navItem__pBg1P.nav-item> [0,0,0,0]
+                { display:list-item; transition:all }
+                <div .h-100.d-xl-flex.align-items-center.dropdown> [0,0,0,0]
+                  { height:100%; display:block; alignItems:center; position:relative; transition:all }
+                  <button .MenuItem_navLink__8gdmm.text-blue> [0,0,0,0] "Accept Payments" @id=rdqlk6-trigger-accept-payments @aria-expanded=false
+                    { fontSize:13.44px; fontWeight:600; lineHeight:20.16px; color:rgb(25, 67, 220); textAlign:left; backgroundColor:rgb(255, 255, 255); padding:15.12px 0px; width:100%; display:block; position:sticky; zIndex:1; transition:all }
+                    <img .IconCarret_arrow__10I_X.arrow.d-inline-block.d-xl-none.position-absolute> [0,0,0,0] @alt=caret icon @src=/images/icons/icon_caret.svg IMG https://www.bluevine.com/images/icons/icon_caret.svg 150x150
+                      { width:16px; height:16px; display:block; position:absolute; right:6.72px; transition:transform 0.2s; overflow:clip; aspectRatio:auto 16 / 16 }
+                  <div .MenuItem_dropdownMenu__rI43V.Menu_menuItemPayments__3hH2j.py-xl-0.dropdown-menu> [0,0,0,0] @id=rdqlk6-content-accept-payments
+                    { fontSize:14.0196px; lineHeight:16.4936px; color:rgb(33, 37, 41); textAlign:left; backgroundColor:rgb(255, 255, 255); padding:4.2px 0px; zIndex:1000; transition:all }
+                    <div .px-4.container-fluid> [0,0,0,0]
+                      { padding:0px 12.6px; margin:0px auto; width:100%; display:block; transition:all }
+                      <div .justify-content-xl-between.row> [0,0,0,0]
+                        { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                        <div .pt-0.pb-7.py-xl-9.px-4.ps-xl-10.pe-xl-0> [0,0,0,0]
+                          { padding:0px 12.6px 13.44px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .row> [0,0,0,0]
+                            { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .mb-2.ps-0.ps-xl-4.col-12> [0,0,0,0]
+                              { padding:0px 12.6px 0px 0px; margin:0px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-2.ps-0.ps-xl-4.col-12> [0,0,0,0]
+                              { padding:0px 12.6px 0px 0px; margin:13.44px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                        <div .pt-0.pb-9.py-xl-9.px-4.pe-xl-7.col-xl-6> [0,0,0,0]
+                          { padding:0px 12.6px 26.88px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .row> [0,0,0,0]
+                            { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .mb-2.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:0px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-0.order-lg-0.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-3.order-lg-1.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-1.order-lg-2.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-4.order-lg-3.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-2.order-lg-4.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-5.order-lg-5.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                        <div .bg-gray-scale.mb-6.mb-xl-0.max-width-xl-200.col-xl-3.col-12> [0,0,0,0]
+                          { backgroundColor:rgb(240, 244, 250); padding:0px 12.6px; margin:0px 0px 6.72px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .px-7.py-8.py-xl-10.px-xl-6.row> [0,0,0,0]
+                            { padding:20.16px 13.44px; margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .d-flex.px-0.px-xl-7.col-xl-12.col-4> [0,0,0,0]
+                              { width:33.3333%; maxWidth:100%; display:flex; transition:all }
+                            <div .mt-0.mt-xl-9.px-xl-7.col-xl-12.col-8> [0,0,0,0]
+                              { padding:0px 12.6px; width:66.6667%; maxWidth:100%; display:block; transition:all }
+              <li .MenuItem_navItem__pBg1P.nav-item> [0,0,0,0]
+                { display:list-item; transition:all }
+                <div .h-100.d-xl-flex.align-items-center.dropdown> [0,0,0,0]
+                  { height:100%; display:block; alignItems:center; position:relative; transition:all }
+                  <button .MenuItem_navLink__8gdmm.text-blue> [0,0,0,0] "Solutions" @id=rhqlk6-trigger-solutions @aria-expanded=false
+                    { fontSize:13.44px; fontWeight:600; lineHeight:20.16px; color:rgb(25, 67, 220); textAlign:left; backgroundColor:rgb(255, 255, 255); padding:15.12px 0px; width:100%; display:block; position:sticky; zIndex:1; transition:all }
+                    <img .IconCarret_arrow__10I_X.arrow.d-inline-block.d-xl-none.position-absolute> [0,0,0,0] @alt=caret icon @src=/images/icons/icon_caret.svg IMG https://www.bluevine.com/images/icons/icon_caret.svg 150x150
+                      { width:16px; height:16px; display:block; position:absolute; right:6.72px; transition:transform 0.2s; overflow:clip; aspectRatio:auto 16 / 16 }
+                  <div .MenuItem_dropdownMenu__rI43V.Menu_menuItemSolutions__1RRr1.py-xl-0.start-50.dropdown-menu> [0,0,0,0] @id=rhqlk6-content-solutions
+                    { fontSize:14.0196px; lineHeight:16.4936px; color:rgb(33, 37, 41); textAlign:left; backgroundColor:rgb(255, 255, 255); padding:4.2px 0px; left:50%; zIndex:1000; transition:all }
+                    <div .px-4.container-fluid> [0,0,0,0]
+                      { padding:0px 12.6px; margin:0px auto; width:100%; display:block; transition:all }
+                      <div .justify-content-xl-between.row> [0,0,0,0]
+                        { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                        <div .pt-0.pb-7.py-xl-9.px-4.px-xl-10.col-xl-9> [0,0,0,0]
+                          { padding:0px 12.6px 13.44px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .row> [0,0,0,0]
+                            { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .mb-2.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:0px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mb-2.d-none.d-md-block.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:0px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-0.order-lg-0.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-1.order-lg-2.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .Menu_startUp__UPEz_.mt-7.mb-1.order-2.order-lg-4.col-md-6> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:50%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-2.order-3.d-md-none.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 4.2px; width:100%; maxWidth:100%; transition:all }
+                            <div .mt-7.order-3.order-lg-1.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 0px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .Menu_accountantDirectory__LhKsX.mt-7.mt-md-6.mb-1.order-3.order-lg-3> [0,0,0,0]
+                              { padding:0px 12.6px; margin:6.72px 0px 2.1px; width:50%; maxWidth:100%; display:block; transition:all }
+                        <div .bg-gray-scale.mb-6.mb-xl-0.max-width-xl-200.col-xl-3.col-12> [0,0,0,0]
+                          { backgroundColor:rgb(240, 244, 250); padding:0px 12.6px; margin:0px 0px 6.72px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .px-7.py-8.py-xl-11.row> [0,0,0,0]
+                            { padding:20.16px 13.44px; margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .d-flex.col-xl-12.col-4> [0,0,0,0]
+                              { padding:0px 12.6px; width:33.3333%; maxWidth:100%; display:flex; transition:all }
+                            <div .mt-7.col-xl-12.col-8> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 0px; width:66.6667%; maxWidth:100%; display:block; transition:all }
+              <li .MenuItem_navItem__pBg1P.nav-item> [0,0,0,0]
+                { display:list-item; transition:all }
+                <div .h-100.d-xl-flex.align-items-center.dropdown> [0,0,0,0]
+                  { height:100%; display:block; alignItems:center; position:relative; transition:all }
+                  <button .MenuItem_navLink__8gdmm.text-blue> [0,0,0,0] "Resources" @id=rlqlk6-trigger-resources @aria-expanded=false
+                    { fontSize:13.44px; fontWeight:600; lineHeight:20.16px; color:rgb(25, 67, 220); textAlign:left; backgroundColor:rgb(255, 255, 255); padding:15.12px 0px; width:100%; display:block; position:sticky; zIndex:1; transition:all }
+                    <img .IconCarret_arrow__10I_X.arrow.d-inline-block.d-xl-none.position-absolute> [0,0,0,0] @alt=caret icon @src=/images/icons/icon_caret.svg IMG https://www.bluevine.com/images/icons/icon_caret.svg 150x150
+                      { width:16px; height:16px; display:block; position:absolute; right:6.72px; transition:transform 0.2s; overflow:clip; aspectRatio:auto 16 / 16 }
+                  <div .MenuItem_dropdownMenu__rI43V.Menu_menuItemResources__0ouuh.py-xl-0.start-50.dropdown-menu> [0,0,0,0] @id=rlqlk6-content-resources
+                    { fontSize:14.0196px; lineHeight:16.4936px; color:rgb(33, 37, 41); textAlign:left; backgroundColor:rgb(255, 255, 255); padding:4.2px 0px; left:50%; zIndex:1000; transition:all }
+                    <div .px-4.container-fluid> [0,0,0,0]
+                      { padding:0px 12.6px; margin:0px auto; width:100%; display:block; transition:all }
+                      <div .justify-content-xl-between.row> [0,0,0,0]
+                        { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                        <div .pt-0.pb-7.py-xl-9.px-4.ps-xl-10.pe-xl-0> [0,0,0,0]
+                          { padding:0px 12.6px 13.44px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .row> [0,0,0,0]
+                            { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .mb-2.ps-0.ps-xl-4.col-12> [0,0,0,0]
+                              { padding:0px 12.6px 0px 0px; margin:0px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-2.ps-0.ps-xl-4.col-12> [0,0,0,0]
+                              { padding:0px 12.6px 0px 0px; margin:13.44px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                        <div .pt-0.pb-9.py-xl-9.px-4.col-xl-6.col-12> [0,0,0,0]
+                          { padding:0px 12.6px 26.88px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .row> [0,0,0,0]
+                            { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .mb-2.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:0px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-0.order-lg-0.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-3.order-lg-1.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-1.order-lg-2.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-4.order-lg-3.col-lg-6.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                        <div .bg-gray-scale.mb-6.mb-xl-0.max-width-xl-200.col-xl-3.col-12> [0,0,0,0]
+                          { backgroundColor:rgb(240, 244, 250); padding:0px 12.6px; margin:0px 0px 6.72px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .px-7.py-8.py-xl-11.row> [0,0,0,0]
+                            { padding:20.16px 13.44px; margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .d-flex.col-xl-12.col-4> [0,0,0,0]
+                              { padding:0px 12.6px; width:33.3333%; maxWidth:100%; display:flex; transition:all }
+                            <div .mt-7.col-xl-12.col-8> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 0px; width:66.6667%; maxWidth:100%; display:block; transition:all }
+              <li .MenuItem_navItem__pBg1P.nav-item> [0,0,0,0]
+                { display:list-item; transition:all }
+                <div .h-100.d-xl-flex.align-items-center.dropdown> [0,0,0,0]
+                  { height:100%; display:block; alignItems:center; position:relative; transition:all }
+                  <button .MenuItem_navLink__8gdmm.text-blue> [0,0,0,0] "Company" @id=rpqlk6-trigger-company @aria-expanded=false
+                    { fontSize:13.44px; fontWeight:600; lineHeight:20.16px; color:rgb(25, 67, 220); textAlign:left; backgroundColor:rgb(255, 255, 255); padding:15.12px 0px; width:100%; display:block; position:sticky; zIndex:1; transition:all }
+                    <img .IconCarret_arrow__10I_X.arrow.d-inline-block.d-xl-none.position-absolute> [0,0,0,0] @alt=caret icon @src=/images/icons/icon_caret.svg IMG https://www.bluevine.com/images/icons/icon_caret.svg 150x150
+                      { width:16px; height:16px; display:block; position:absolute; right:6.72px; transition:transform 0.2s; overflow:clip; aspectRatio:auto 16 / 16 }
+                  <div .MenuItem_dropdownMenu__rI43V.Menu_menuItemCompany__IGizP.py-xl-0.start-50.dropdown-menu> [0,0,0,0] @id=rpqlk6-content-company
+                    { fontSize:14.0196px; lineHeight:16.4936px; color:rgb(33, 37, 41); textAlign:left; backgroundColor:rgb(255, 255, 255); padding:4.2px 0px; left:50%; zIndex:1000; transition:all }
+                    <div .px-4.container-fluid> [0,0,0,0]
+                      { padding:0px 12.6px; margin:0px auto; width:100%; display:block; transition:all }
+                      <div .justify-content-xl-between.row> [0,0,0,0]
+                        { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                        <div .pt-0.pb-7.py-xl-9.px-4.ps-xl-10.pe-xl-0> [0,0,0,0]
+                          { padding:0px 12.6px 13.44px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .row> [0,0,0,0]
+                            { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .mb-2.ps-0.ps-xl-4.col-12> [0,0,0,0]
+                              { padding:0px 12.6px 0px 0px; margin:0px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-2.ps-0.ps-xl-4.col-12> [0,0,0,0]
+                              { padding:0px 12.6px 0px 0px; margin:13.44px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                        <div .pt-0.pb-9.py-xl-9.px-4.col-xl-6.col-12> [0,0,0,0]
+                          { padding:0px 12.6px 26.88px; width:100%; maxWidth:100%; display:block; transition:all }
+                          <div .row> [0,0,0,0]
+                            { margin:0px -12.6px; display:flex; flexWrap:wrap; transition:all }
+                            <div .mb-2.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:0px 0px 4.2px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-0.order-lg-0.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-1.order-lg-1.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+                            <div .mt-7.mb-1.order-2.order-lg-2.col-12> [0,0,0,0]
+                              { padding:0px 12.6px; margin:13.44px 0px 2.1px; width:100%; maxWidth:100%; display:block; transition:all }
+            <ul .list-unstyled.d-flex.align-items-center.justify-content-around.mb-0.me-5> [0,0,0,0]
+              { padding:20.16px 0px 0px; margin:0px 25.2px 0px auto; display:flex; justifyContent:space-around; alignItems:center; borderTop:1px solid rgb(215, 231, 255); transition:all }
+              <li .text-center> [0,0,0,0]
+                { textAlign:center; display:list-item; transition:all }
+                <a .btn-link.fw-semibold.sign-in.text-nowrap> [0,0,0,0] "Sign in" @href=https://app.bluevine.com/login?signup_parent_url=https%3A%2F
+                  { fontWeight:600; color:rgb(25, 67, 220); display:inline; transition:all }
+              <li .ms-xl-10> [0,0,0,0]
+                { display:list-item; transition:all }
+                <a .btn.btn-blue> [0,0,0,0] "Start application" @href=https://app.bluevine.com/signup/?signup_parent_url=https%3A%
+                  { fontSize:13.44px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(255, 255, 255); textAlign:center; backgroundColor:rgb(25, 67, 220); padding:8.4px 23.52px; display:inline-block; borderRadius:5px; border:2px solid rgb(25, 67, 220); borderTop:2px solid rgb(25, 67, 220); borderBottom:2px solid rgb(25, 67, 220); transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+<main> [0,0,768,6201] @id=content
+  { fontSize:13.44px; fontWeight:400; fontFamily:__domaine_9008f1; lineHeight:20.16px; color:rgb(2, 5, 83); width:768px; height:6200.89px; display:block; transition:all }
+  <section .position-relative.pt-12.pt-lg-15.pb-10.pb-xl-14.overflow-x-clip> [0,0,768,481]
+    { backgroundColor:rgb(215, 231, 255); padding:47.04px 0px 33.6px; width:768px; height:480.531px; display:block; position:relative; transition:all; overflow:clip visible }
+    <div .container> [0,47,768,400]
+      { padding:0px 25.2px; width:768px; height:399.906px; maxWidth:100%; display:block; transition:all }
+      <div .row> [13,47,743,400]
+        { margin:0px -12.6px; width:742.812px; height:399.906px; display:flex; flexWrap:wrap; transition:all }
+        <div .col-12.col-md-6.pt-7.pt-md-10.pe-xl-0.order-last> [13,47,371,400]
+          { padding:33.6px 12.6px 0px; width:371.406px; height:399.906px; maxWidth:100%; display:block; transition:all }
+          <h1 .font-size-42.font-size-xl-70.font-size-xxl-80.mb-8.mb-xl-10> [25,81,346,67] "Grow with a business line of credit."
+            { fontSize:35.28px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:33.6px; margin:0px 0px 20.16px; width:346.219px; height:67.1875px; display:block; transition:all }
+            <br .d-none.d-xl-block> [0,0,0,0]
+              { transition:all }
+          <p .font-size-20.font-size-xl-24.mb-9.mb-xl-10> [25,168,346,76] "Get instant funding with interest rates as low as 7.8% for top qualifying customers. Apply with no impact to your credit"
+            { fontSize:16.8px; lineHeight:25.2px; margin:0px 0px 26.88px; width:346.219px; height:75.5625px; display:block; transition:all }
+            <sup .d-inline> [179,169,3,13] "1" @role=link
+              { fontSize:9.24px; display:inline; position:relative; top:-6.93px; bottom:6.93px; transition:all }
+            <br .d-none.d-xl-block> [0,0,0,0]
+              { transition:all }
+            <sup .d-inline> [342,194,5,13] "2" @role=link
+              { fontSize:9.24px; display:inline; position:relative; top:-6.93px; bottom:6.93px; transition:all }
+            <br .d-none.d-xl-block> [0,0,0,0]
+              { transition:all }
+            <sup .d-inline> [351,219,5,13] "3" @role=link
+              { fontSize:9.24px; display:inline; position:relative; top:-6.93px; bottom:6.93px; transition:all }
+          <div .d-xl-flex.align-items-center.gap-0.mb-0> [25,270,346,131]
+            { width:346.219px; height:131.188px; display:block; alignItems:center; transition:all }
+            <a .btn.btn-blue.btn-lg> [25,270,244,51] "Start application" @href=https://app.bluevine.com/signup/?signup_parent_url=https%3A%
+              { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(255, 255, 255); textAlign:center; backgroundColor:rgb(25, 67, 220); padding:13.44px 55.44px; width:244.109px; height:51.0312px; display:inline-block; borderRadius:5px; border:2px solid rgb(25, 67, 220); borderTop:2px solid rgb(25, 67, 220); borderBottom:2px solid rgb(25, 67, 220); transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+            <section .d-flex.align-items-center.mt-8.mt-xl-0.min-height-60> [25,342,346,60]
+              { margin:20.16px 0px 0px; width:346.219px; height:60px; minHeight:60px; display:flex; alignItems:center; transition:all }
+              <figure .ms-xl-8.mb-0> [25,352,68,40]
+                { width:68px; height:40px; display:block; transition:all }
+                <img> [25,352,68,40] @alt=BBB A+ rating badge @src=/_next/image?url=%2Fimages%2Fcommon%2Fbadge_bbb.png&w=256&q= IMG https://www.bluevine.com/_next/image?url=%2Fimages%2Fcommon%2Fbadge_bbb.png&w=96&q=75&dpl= 96x56
+                  { width:68px; height:40px; display:inline; transition:all; overflow:clip; aspectRatio:auto 68 / 40 }
+                <figcaption .visually-hidden> [24,391,1,1] "Better Business Bureau A+ rating"
+                  { fontSize:11.76px; lineHeight:17.64px; textAlign:left; margin:-1px; width:1px; height:1px; display:block; position:absolute; top:391.594px; left:25.1875px; right:743.812px; bottom:89.9375px; transition:all; overflow:hidden }
+              <figure .ms-8.d-flex.flex-column.align-items-start.position-relative.mb-0> [113,346,109,52]
+                { margin:0px 0px 0px 20.16px; width:109.438px; height:51.6719px; display:flex; flexDirection:column; alignItems:flex-start; position:relative; transition:all }
+                <img .img-fluid> [113,346,65,16] @alt=Trustpilot logo @src=/images/trustpilot/trustpilot-logo-navy.svg IMG https://www.bluevine.com/images/trustpilot/trustpilot-logo-navy.svg 99x25
+                  { width:65px; height:16.4062px; maxWidth:100%; display:block; transition:all; overflow:clip; aspectRatio:auto 65 / 16 }
+                <div .d-flex.align-items-center.position-relative> [113,362,108,20]
+                  { width:108.312px; height:20.1562px; display:flex; alignItems:center; position:relative; transition:all }
+                  <img .img-fluid> [113,365,86,14] @alt=Trustpilot 4.7 star rating @src=/images/trustpilot/trustpilot-score-4.5-navy-alt.svg IMG https://www.bluevine.com/images/trustpilot/trustpilot-score-4.5-navy-alt.svg 251x41
+                    { width:86px; height:14.0469px; maxWidth:100%; display:block; transition:all; overflow:clip; aspectRatio:auto 86 / 16 }
+                  <span .fw-semibold.ms-2.ff-gellix.font-size-16.text-navy> [204,362,18,20] "4.7"
+                    { fontWeight:600; fontFamily:__gellix_2627c8; margin:0px 0px 0px 4.2px; width:18.125px; height:20.1562px; display:block; transition:all }
+                    <span .visually-hidden> [203,361,1,1] "Rated"
+                      { margin:-1px; width:1px; height:1px; display:block; position:absolute; left:90.1875px; right:19.125px; bottom:21.1562px; transition:all; overflow:hidden }
+                    <span .visually-hidden> [221,361,1,1] "out of 5 stars"
+                      { margin:-1px; width:1px; height:1px; display:block; position:absolute; left:108.312px; right:1px; bottom:21.1562px; transition:all; overflow:hidden }
+                <figcaption .ff-gellix.font-size-12.text-navy> [113,382,109,15]
+                  { fontSize:10.08px; fontFamily:__gellix_2627c8; lineHeight:15.12px; textAlign:left; width:109.438px; height:15.1094px; display:block; transition:all }
+                  <span .fw-semibold> [113,384,41,11] "Excellent"
+                    { fontWeight:600; display:inline; transition:all }
+                  <span .mx-1> [156,384,2,11] "|"
+                    { margin:0px 2.1px; display:inline; transition:all }
+                  <a .text-decoration-underline.fw-normal.text-navy> [160,384,62,11] "11,488 reviews" @href=https://www.trustpilot.com/review/bluevine.com
+                    { display:inline; transition:all }
+          <div .mt-8.row> [13,422,371,25]
+            { margin:20.16px -12.6px 0px; width:371.406px; height:25.1875px; display:flex; flexWrap:wrap; transition:all }
+            <div .d-flex.flex-row.align-items-center.col-12> [13,422,371,25]
+              { padding:0px 12.6px; width:371.406px; height:25.1875px; maxWidth:100%; display:flex; alignItems:center; transition:all }
+              <p .ff-gellix.font-size-12.lh-sm.mb-0> [25,422,346,25] "Bluevine is a financial technology company, not a bank. The Bluevine Line of Credit is issued by Celtic Bank."
+                { fontSize:10.08px; fontFamily:__gellix_2627c8; lineHeight:12.6px; width:346.219px; height:25.1875px; display:block; transition:all }
+                <br .d-none.d-xl-block> [0,0,0,0]
+                  { transition:all }
+        <div .col-10.col-md-6.ps-md-5.d-flex.align-items-end.justify-content-xl-end> [384,60,371,386]
+          { padding:0px 12.6px 0px 25.2px; margin:13.44px 0px 0px; width:371.406px; height:386.469px; maxWidth:100%; display:flex; alignItems:flex-end; transition:all }
+          <div .overflow-hidden.lh-0.w-100.img-fluid.d-block.ms-auto> [409,113,334,334]
+            { backgroundColor:rgb(184, 182, 255); width:333.625px; height:333.625px; maxWidth:100%; display:block; borderRadius:45% 0px 0px; transition:all; overflow:hidden }
+            <img .img-fluid> [409,113,334,334] @alt=banking tools hero graphic @src=/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero.22fa85f9.p IMG https://www.bluevine.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero.22fa85f9.png&w=3 359x359
+              { width:333.625px; height:333.625px; maxWidth:100%; display:inline; transition:all; overflow:clip; aspectRatio:auto 1200 / 1200 }
+  <section .bg-gray-light.mb-lg-15> [0,481,768,126]
+    { backgroundColor:rgb(245, 246, 250); width:768px; height:125.969px; display:block; transition:all }
+    <div .container> [0,481,768,126]
+      { padding:0px 25.2px; width:768px; height:125.969px; maxWidth:100%; display:block; transition:all }
+      <div .d-flex.align-items-center.bg-box.mx-0.row> [25,481,718,126]
+        { backgroundColor:rgb(245, 246, 250); width:717.625px; height:125.969px; display:flex; flexWrap:wrap; alignItems:center; transition:all }
+        <div .col-12.col-md-3.col-xl-4.py-8.py-lg-12.col> [25,481,179,126]
+          { padding:20.16px 12.6px; width:179.406px; height:125.969px; maxWidth:100%; display:block; transition:all }
+          <h2 .font-size-42.font-size-xl-72.mb-0> [38,501,154,35] "$17B+"
+            { fontSize:35.28px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:35.28px; width:154.219px; height:35.2812px; display:block; transition:all }
+          <p .font-size-md-20.font-size-xl-24.mb-0.ff-gellix> [38,536,154,50] "working capital delivered"
+            { fontSize:16.8px; fontFamily:__gellix_2627c8; lineHeight:25.2px; width:154.219px; height:50.375px; display:block; transition:all }
+            <sup .d-inline> [107,564,5,10] "4" @role=link
+              { fontSize:9.24px; display:inline; position:relative; top:-6.93px; bottom:6.93px; transition:all }
+        <div .col-12.col-md-6.col-xl-8.pb-8.py-md-7.col> [205,492,359,102]
+          { padding:13.44px 12.6px; width:358.812px; height:102.438px; maxWidth:100%; display:block; transition:all }
+          <p .font-size-md-20.font-size-xl-24.ff-gellix.mb-0> [217,506,334,76] "Join the 1M+ U.S. businesses we’ve helped with funding and banking solutions tailored to their needs."
+            { fontSize:16.8px; fontFamily:__gellix_2627c8; lineHeight:25.2px; width:333.625px; height:75.5625px; display:block; transition:all }
+            <br .d-none.d-xl-block> [0,0,0,0]
+              { transition:all }
+  <section .jsx-2424294056.mt-12.mt-lg-15> [0,654,768,946]
+    { margin:47.04px 0px 0px; width:768px; height:945.641px; display:block; transition:all }
+    <div .container> [0,654,768,946]
+      { padding:0px 25.2px; width:768px; height:945.641px; maxWidth:100%; display:block; transition:all }
+      <div .justify-between.row> [13,654,743,946]
+        { margin:0px -12.6px; width:742.812px; height:945.641px; display:flex; flexWrap:wrap; transition:all }
+        <div .col-12> [13,654,743,155]
+          { padding:0px 12.6px; width:742.812px; height:154.516px; maxWidth:100%; display:block; transition:all }
+          <h2 .jsx-2424294056.font-size-36.font-size-xl-72.text-center.mb-8> [25,654,718,30] "Quick, easy access to a business line of credit."
+            { fontSize:30.24px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:30.24px; textAlign:center; margin:0px 0px 20.16px; width:717.625px; height:30.2344px; display:block; transition:all }
+            <br .d-none.d-lg-block> [0,0,0,0]
+              { transition:all }
+          <p .jsx-2424294056.font-size-20.font-size-xl-24.text-center.mb-13> [25,704,718,50] "Access the flexible financing you need to run and grow your business smoothly, with competitive interest rates and autom"
+            { fontSize:16.8px; lineHeight:25.2px; textAlign:center; margin:0px 0px 53.76px; width:717.625px; height:50.375px; display:block; transition:all }
+            <br .d-none.d-lg-block> [0,0,0,0]
+              { transition:all }
+        <div .col-lg-4.mb-8.mb-lg-0.col-12> [13,808,743,249]
+          { padding:0px 12.6px; margin:0px 0px 20.16px; width:742.812px; height:248.797px; maxWidth:100%; display:block; transition:all }
+          <div .jsx-2424294056.card.h-100.bg-blue-light.py-10.px-7> [25,808,718,249]
+            { textAlign:center; backgroundColor:rgb(215, 231, 255); padding:33.6px 13.44px 40.32px; width:717.625px; height:248.797px; display:block; transition:all }
+            <img .jsx-2424294056.img-fluid.icon> [342,842,84,102] @alt=blue logo showing graphs @src=/images/landing-page/business-loans-01-funds.png IMG https://www.bluevine.com/images/landing-page/business-loans-01-funds.png 396x480
+              { width:84px; height:101.812px; maxWidth:84px; display:inline; transition:transform 0.2s ease-in-out; overflow:clip; aspectRatio:auto 197 / 240 }
+            <h3 .jsx-2424294056.font-size-28.font-size-xl-32.mt-7.mb-2.mt-lg-8> [39,957,691,24] "Instant access to funds"
+              { fontSize:23.52px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:23.52px; margin:13.44px 0px 4.2px; width:690.75px; height:23.5156px; display:block; transition:all }
+              <br .d-none.d-lg-block> [0,0,0,0]
+                { transition:all }
+            <p .jsx-2424294056.font-size-18.font-size-xl-20.text-navy.mt-7.mb-0> [39,994,691,23] "Get instant access to approved draws with a Bluevine Business Checking account."
+              { fontSize:15.12px; lineHeight:22.68px; margin:13.44px 0px 0px; width:690.75px; height:22.6875px; display:block; transition:all }
+        <div .col-lg-4.mb-8.mb-lg-0.col-12> [13,1077,743,239]
+          { padding:0px 12.6px; margin:0px 0px 20.16px; width:742.812px; height:239.234px; maxWidth:100%; display:block; transition:all }
+          <div .jsx-2424294056.card.h-100.bg-blue-light.py-10.px-7> [25,1077,718,239]
+            { textAlign:center; backgroundColor:rgb(215, 231, 255); padding:33.6px 13.44px 40.32px; width:717.625px; height:239.234px; display:block; transition:all }
+            <img .jsx-2424294056.img-fluid.icon> [342,1111,84,92] @alt=blue logo showing graphs @src=/images/landing-page/business-loans-01-credit.png IMG https://www.bluevine.com/images/landing-page/business-loans-01-credit.png 437x480
+              { width:84px; height:92.25px; maxWidth:84px; display:inline; transition:transform 0.2s ease-in-out; overflow:clip; aspectRatio:auto 218 / 240 }
+            <h3 .jsx-2424294056.font-size-28.font-size-xl-32.mt-7.mb-2.mt-lg-8> [39,1216,691,24] "Credit lines up to $250K"
+              { fontSize:23.52px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:23.52px; margin:13.44px 0px 4.2px; width:690.75px; height:23.5156px; display:block; transition:all }
+              <br .d-none.d-lg-block> [0,0,0,0]
+                { transition:all }
+            <p .jsx-2424294056.font-size-18.font-size-xl-20.text-navy.mt-7.mb-0> [39,1253,691,23] "Apply for credit lines up to $250,000 and only pay for what you use, with no maintenance fees."
+              { fontSize:15.12px; lineHeight:22.68px; margin:13.44px 0px 0px; width:690.75px; height:22.6875px; display:block; transition:all }
+              <sup .d-inline> [710,1255,5,11] "2" @role=link
+                { fontSize:8.316px; display:inline; position:relative; top:-6.237px; bottom:6.237px; transition:all }
+        <div .col-lg-4.col-12> [13,1336,743,263]
+          { padding:0px 12.6px; width:742.812px; height:262.781px; maxWidth:100%; display:block; transition:all }
+          <div .jsx-2424294056.card.h-100.bg-blue-light.py-10.px-7> [25,1336,718,263]
+            { textAlign:center; backgroundColor:rgb(215, 231, 255); padding:33.6px 13.44px 40.32px; width:717.625px; height:262.781px; display:block; transition:all }
+            <img .jsx-2424294056.img-fluid.icon> [342,1370,84,93] @alt=blue logo showing graphs @src=/images/landing-page/business-loans-01-capital.png IMG https://www.bluevine.com/images/landing-page/business-loans-01-capital.png 433x480
+              { width:84px; height:93.1094px; maxWidth:84px; display:inline; transition:transform 0.2s ease-in-out; overflow:clip; aspectRatio:auto 216 / 240 }
+            <h3 .jsx-2424294056.font-size-28.font-size-xl-32.mt-7.mb-2.mt-lg-8> [39,1477,691,24] "Access to ongoing capital"
+              { fontSize:23.52px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:23.52px; margin:13.44px 0px 4.2px; width:690.75px; height:23.5156px; display:block; transition:all }
+              <br .d-none.d-lg-block> [0,0,0,0]
+                { transition:all }
+            <p .jsx-2424294056.font-size-18.font-size-xl-20.text-navy.mt-7.mb-0> [39,1513,691,45] "Draw funds when you need to cover big expenses, improve cash flow, and take advantage of growth opportunities — and only"
+              { fontSize:15.12px; lineHeight:22.68px; margin:13.44px 0px 0px; width:690.75px; height:45.375px; display:block; transition:all }
+              <sup .d-inline> [317,1538,3,11] "1" @role=link
+                { fontSize:8.316px; display:inline; position:relative; top:-6.237px; bottom:6.237px; transition:all }
+  <section .jsx-1bfe741c99726b41.my-14.my-xl-15> [0,1666,768,344]
+    { margin:67.2px 0px; width:768px; height:344.359px; display:block; transition:all }
+    <div .container> [0,1666,768,344]
+      { padding:0px 25.2px; width:768px; height:344.359px; maxWidth:100%; display:block; transition:all }
+      <div .py-9.rounded-bottom-end-9.mx-0.align-items-center.justify-content-center.border> [25,1666,718,344]
+        { padding:26.88px 0px; width:717.625px; height:344.359px; display:flex; flexWrap:wrap; justifyContent:center; alignItems:center; borderRadius:0px 0px 75.6px; border:5px solid rgb(184, 182, 255); borderTop:5px solid rgb(184, 182, 255); borderBottom:5px solid rgb(184, 182, 255); transition:all }
+        <div .col-12.col-lg-2.px-0.text-center.d-none.d-lg-block> [30,1698,708,116]
+          { textAlign:center; width:707.625px; height:116px; maxWidth:100%; display:block; transition:all }
+          <img> [310,1698,148,116] @alt=Bluevine growth @src=/images/common/bluevine-growth.svg IMG https://www.bluevine.com/images/common/bluevine-growth.svg 149x116
+            { width:148px; height:116px; display:inline; transition:all; overflow:clip; aspectRatio:auto 148 / 116 }
+        <div .col-12.col-md-7.col-lg-8.pt-7.px-5.ps-md-10> [89,1814,413,165]
+          { padding:13.44px 25.2px 0px 33.6px; width:412.781px; height:164.609px; maxWidth:100%; display:block; transition:all }
+          <div .align-items-center.row> [110,1828,379,17]
+            { margin:0px -12.6px; width:379.188px; height:16.7969px; display:flex; flexWrap:wrap; alignItems:center; transition:all }
+            <div .col.col-md-12.col> [110,1828,379,17]
+              { padding:0px 12.6px; width:379.188px; height:16.7969px; maxWidth:100%; display:block; transition:all }
+              <h2 .jsx-1bfe741c99726b41.font-size-20.font-size-xl-36> [123,1828,354,17] "Use your line to build business credit." @id=heading-use-your-line-to-build-business-credit-0
+                { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; width:354px; height:16.7969px; display:block; transition:all }
+            <div .ps-0.d-md-none.col-3> [0,0,0,0]
+              { padding:0px 12.6px 0px 0px; width:25%; maxWidth:100%; transition:all }
+              <img> [0,0,0,0] @alt=Bluevine growth @src=/images/common/bluevine-growth.svg IMG https://www.bluevine.com/images/common/bluevine-growth.svg 149x116
+                { width:148px; height:116px; display:inline; transition:all; overflow:clip; aspectRatio:auto 148 / 116 }
+          <p .jsx-1bfe741c99726b41.font-size-16.font-size-xl-20.mt-8> [123,1865,354,101] "We report your repayment history to Experian, so you can improve your business credit score for future financing opportu"
+            { margin:20.16px 0px 13.44px; width:354px; height:100.781px; display:block; transition:all }
+            <b> [123,1866,346,38] "A Bluevine Line of Credit may help set your business up for growth."
+              { fontWeight:700; display:inline; transition:all }
+        <div .col-12.col-md-3.col-lg-2.pt-7.px-5.px-md-0> [502,1871,177,51]
+          { textAlign:center; padding:13.44px 0px 0px; width:176.906px; height:51.0156px; maxWidth:100%; display:block; transition:all }
+          <a .btn.btn-blue.btn.btn-blue.bg-white.text-blue> [530,1884,121,38] "Learn more" @href=https://www.bluevine.com/blog/building-business-credit @id=link-use-your-line-to-build-business-credit-0
+            { fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; color:rgb(25, 67, 220); backgroundColor:rgb(255, 255, 255); padding:8.4px 23.52px; width:120.922px; height:37.5781px; display:inline-block; borderRadius:5px; border:2px solid rgb(25, 67, 220); borderTop:2px solid rgb(25, 67, 220); borderBottom:2px solid rgb(25, 67, 220); transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+            <span .jsx-1bfe741c99726b41.screen-reader-text> [624,1894,1,1] "About Bluevine Premier"
+              { margin:-1px; width:1px; height:1px; display:block; position:absolute; top:1894.86px; left:625.328px; right:143.672px; bottom:-869.859px; transition:all; overflow:hidden }
+  <section .mb-0.mt-10.mt-lg-11.mb-lg-13> [0,2078,768,440]
+    { margin:33.6px 0px 0px; width:768px; height:440.031px; display:block; transition:all }
+    <div .container> [0,2078,768,440]
+      { padding:0px 25.2px; width:768px; height:440.031px; maxWidth:100%; display:block; transition:all }
+      <div .row> [13,2078,743,57]
+        { margin:0px -12.6px; width:742.812px; height:57.1094px; display:flex; flexWrap:wrap; transition:all }
+        <div .col-12> [13,2078,743,57]
+          { padding:0px 12.6px; width:742.812px; height:57.1094px; maxWidth:100%; display:block; transition:all }
+          <h2 .font-size-36.font-size-xl-72.mb-9.mb-xl-14> [25,2078,718,30] "Get started with business financing." @id=heading-get-started-with-business-financing-0
+            { fontSize:30.24px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:30.24px; margin:0px 0px 26.88px; width:717.625px; height:30.2344px; display:block; transition:all }
+      <div .align-items-center.row> [13,2135,743,383]
+        { margin:0px -12.6px; width:742.812px; height:382.922px; display:flex; flexWrap:wrap; alignItems:center; transition:all }
+        <div .col-12.col-md-7.col-lg-6.offset-lg-1> [322,2135,433,383]
+          { padding:0px 12.6px; width:433.297px; height:382.922px; maxWidth:100%; display:block; transition:all }
+          <div .row.py-7.mx-0.pe-lg-4.col-12> [335,2135,408,127]
+            { padding:13.44px 0px; width:408.109px; height:127.219px; display:flex; flexWrap:wrap; transition:all }
+            <img .col-auto.px-0.max-width-55> [335,2148,55,55] @alt=number duo icon @src=/images/icons/number-1-duo.svg IMG https://www.bluevine.com/images/icons/number-1-duo.svg 55x55
+              { width:55px; height:55px; maxWidth:55px; display:block; transition:all; overflow:clip; aspectRatio:auto 55 / 55 }
+            <div .border-bottom.col.border-bottom-0.ps-lg-5.pe-0.pe-lg-4> [390,2148,353,100]
+              { padding:0px 0px 0px 12.6px; width:353.109px; height:100.344px; maxWidth:100%; display:block; transition:all }
+              <h3 .font-size-20.font-size-lg-32.d-flex.align-items-start.justify-content-between.mb-7> [402,2148,341,17]
+                { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; margin:0px 0px 13.44px; width:340.516px; height:16.7969px; display:flex; justifyContent:space-between; alignItems:flex-start; transition:all }
+                <span .pe-4.pe-lg-0> [402,2148,193,17] "Apply online in minutes."
+                  { padding:0px 12.6px 0px 0px; width:193.266px; height:16.7969px; display:block; transition:all }
+              <p .font-size-15.font-size-xl-20.text-navy.mb-lg-8> [402,2179,341,57] "Provide basic info about your business, and get a decision in as fast as five minutes. Plus, applying won’t impact your "
+                { fontSize:12.6px; lineHeight:18.9px; margin:0px 0px 13.44px; width:340.516px; height:56.6719px; display:block; transition:all }
+                <sup .d-inline> [476,2217,4,9] "3" @role=link
+                  { fontSize:6.93px; display:inline; position:relative; top:-5.1975px; bottom:5.1975px; transition:all }
+          <div .row.py-7.mx-0.pe-lg-4.col-12> [335,2262,408,127]
+            { padding:13.44px 0px; width:408.109px; height:127.219px; display:flex; flexWrap:wrap; transition:all }
+            <img .col-auto.px-0.max-width-55> [335,2276,55,55] @alt=number duo icon @src=/images/icons/number-2-duo.svg IMG https://www.bluevine.com/images/icons/number-2-duo.svg 56x55
+              { width:55px; height:55px; maxWidth:55px; display:block; transition:all; overflow:clip; aspectRatio:auto 55 / 55 }
+            <div .border-bottom.col.border-bottom-0.ps-lg-5.pe-0.pe-lg-4> [390,2276,353,100]
+              { padding:0px 0px 0px 12.6px; width:353.109px; height:100.344px; maxWidth:100%; display:block; transition:all }
+              <h3 .font-size-20.font-size-lg-32.d-flex.align-items-start.justify-content-between.mb-7> [402,2276,341,17]
+                { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; margin:0px 0px 13.44px; width:340.516px; height:16.7969px; display:flex; justifyContent:space-between; alignItems:flex-start; transition:all }
+                <span .pe-4.pe-lg-0> [402,2276,184,17] "Access funds in a click"
+                  { padding:0px 12.6px 0px 0px; width:183.922px; height:16.7969px; display:block; transition:all }
+              <p .font-size-15.font-size-xl-20.text-navy.mb-lg-8> [402,2306,341,57] "Request funds in a click, and see approved draws in your account in as fast as 24 hours—or instantly with a Bluevine Bus"
+                { fontSize:12.6px; lineHeight:18.9px; margin:0px 0px 13.44px; width:340.516px; height:56.6719px; display:block; transition:all }
+                <sup .d-inline> [619,2345,4,9] "3" @role=link
+                  { fontSize:6.93px; display:inline; position:relative; top:-5.1975px; bottom:5.1975px; transition:all }
+          <div .mb-8.row.py-7.mx-0.pe-lg-4.col-12> [335,2389,408,108]
+            { padding:13.44px 0px; margin:0px 0px 20.16px; width:408.109px; height:108.328px; display:flex; flexWrap:wrap; transition:all }
+            <img .col-auto.px-0.max-width-55> [335,2403,55,55] @alt=number duo icon @src=/images/icons/number-3-duo.svg IMG https://www.bluevine.com/images/icons/number-3-duo.svg 56x55
+              { width:55px; height:55px; maxWidth:55px; display:block; transition:all; overflow:clip; aspectRatio:auto 55 / 55 }
+            <div .border-0.col.border-bottom-0.ps-lg-5.pe-0.pe-lg-4> [390,2403,353,81]
+              { padding:0px 0px 0px 12.6px; width:353.109px; height:81.4531px; maxWidth:100%; display:block; transition:all }
+              <h3 .font-size-20.font-size-lg-32.d-flex.align-items-start.justify-content-between.mb-7> [402,2403,341,17]
+                { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; margin:0px 0px 13.44px; width:340.516px; height:16.7969px; display:flex; justifyContent:space-between; alignItems:flex-start; transition:all }
+                <span .pe-4.pe-lg-0> [402,2403,234,17] "Make automatic repayments"
+                  { padding:0px 12.6px 0px 0px; width:234.125px; height:16.7969px; display:block; transition:all }
+              <p .font-size-15.font-size-xl-20.text-navy.mb-lg-8> [402,2433,341,38] "Repay automatically on a fixed schedule, and your credit line will replenish as you make repayments."
+                { fontSize:12.6px; lineHeight:18.9px; margin:0px 0px 13.44px; width:340.516px; height:37.7812px; display:block; transition:all }
+        <div .col-12.col-md-5.d-flex.align-items-start.mb-9.mb-md-0> [13,2139,310,374]
+          { padding:0px 12.6px; width:309.5px; height:374.141px; maxWidth:100%; display:flex; alignItems:flex-start; transition:all }
+          <div .overflow-hidden.lh-0.position-relative.w-100> [25,2139,284,374]
+            { width:284.312px; height:374.141px; display:block; position:relative; transition:all; overflow:hidden }
+            <div> [25,2139,284,374]
+              { width:284.312px; height:374.141px; display:block; transition:all }
+              <svg .[object.SVGAnimatedString]> [25,2139,284,374] SVG
+                { width:284.312px; height:374.141px; display:inline; transition:all; overflow:hidden }
+  <section .my-13.my-lg-16> [0,2572,768,311]
+    { margin:53.76px 0px; width:768px; height:311.188px; display:block; transition:all }
+    <div .container> [0,2572,768,311]
+      { padding:0px 25.2px; width:768px; height:311.188px; maxWidth:100%; display:block; transition:all }
+      <div .align-items-center.row> [13,2572,743,311]
+        { margin:0px -12.6px; width:742.812px; height:311.188px; display:flex; flexWrap:wrap; alignItems:center; transition:all }
+        <div .col-12.col-md-6> [322,2609,371,237]
+          { padding:0px 12.6px; width:371.406px; height:236.906px; maxWidth:100%; display:block; transition:all }
+          <h2 .font-size-36.font-size-xl-60.mb-7.mb-xl-10> [335,2609,346,60] "Expert support when you need it." @id=heading-expert-support-when-you-need-it-0
+            { fontSize:30.24px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:30.24px; margin:0px 0px 13.44px; width:346.219px; height:60.4688px; display:block; transition:all }
+            <br .d-none.d-lg-block> [0,0,0,0]
+              { transition:all }
+          <p .font-size-18.font-size-xl-20.mb-9.mb-xl-10> [335,2683,346,136] "The personalized support your small business needs is just a message or phone call away, with real people ready to help."
+            { fontSize:15.12px; lineHeight:22.68px; margin:0px 0px 26.88px; width:346.219px; height:136.125px; display:block; transition:all }
+            <br> [511,2729,0,20]
+              { display:inline; transition:all }
+            <br> [335,2752,0,20]
+              { display:inline; transition:all }
+            <a .text-blue.fw-semibold.hover:underline> [414,2797,91,20] "Help Center" @href=https://support.bluevine.com/s/
+              { fontWeight:600; color:rgb(25, 67, 220); display:inline; transition:all }
+        <div .col-12.col-md-5.offset-lg-1.d-flex.align-items-start.mb-9> [13,2572,310,284]
+          { padding:0px 12.6px; margin:0px 0px 26.88px; width:309.5px; height:284.312px; maxWidth:100%; display:flex; alignItems:flex-start; transition:all }
+          <div .overflow-hidden.lh-0.w-100.max-width-lg-500.ms-auto.rounded-top-end-90> [25,2572,284,284]
+            { width:284.312px; height:284.312px; display:block; borderRadius:90% 90% 0px 0px; transition:all; overflow:hidden }
+            <img .img-fluid> [25,2572,284,284] @alt=expert support illustration @src=/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexpert-support. IMG https://www.bluevine.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexpert-support.bad024 384x384
+              { width:284.312px; height:284.312px; maxWidth:100%; display:inline; transition:all; overflow:clip; aspectRatio:auto 1000 / 1000 }
+  <section .jsx-753eb856716d6c3f.my-12.mt-lg-14.mb-lg-15.overflow-x-clip> [0,2937,768,370]
+    { margin:47.04px 0px; width:768px; height:369.547px; display:block; transition:all; overflow:clip visible }
+    <div .container> [0,2937,768,370]
+      { padding:0px 25.2px; width:768px; height:369.547px; maxWidth:100%; display:block; transition:all }
+      <div .row> [13,2937,743,55]
+        { margin:0px -12.6px; width:742.812px; height:55.4375px; display:flex; flexWrap:wrap; transition:all }
+        <div .col-12> [13,2937,743,55]
+          { padding:0px 12.6px; width:742.812px; height:55.4375px; maxWidth:100%; display:block; transition:all }
+          <h2 .jsx-753eb856716d6c3f.font-size-42.font-size-xl-72.mb-8.mb-lg-10> [25,2937,718,35] "Read the latest from Trustpilot."
+            { fontSize:35.28px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:35.28px; margin:0px 0px 20.16px; width:717.625px; height:35.2812px; display:block; transition:all }
+      <div .jsx-753eb856716d6c3f.row> [13,2992,743,314]
+        { margin:0px -12.6px; width:742.812px; height:314.109px; display:flex; flexWrap:wrap; transition:all }
+        <div .col-md-3.col-12> [13,2992,186,314]
+          { padding:0px 12.6px; width:185.703px; height:314.109px; maxWidth:100%; display:block; transition:all }
+          <div .bg-blue-light.border-blue-light.rounded-bottom-end-9.border.text-center.d-flex> [25,2992,161,281]
+            { textAlign:center; backgroundColor:rgb(215, 231, 255); width:160.516px; height:280.5px; display:flex; justifyContent:center; alignItems:center; borderRadius:0px 0px 75.6px; border:1px solid rgb(215, 231, 255); borderTop:1px solid rgb(215, 231, 255); borderBottom:1px solid rgb(215, 231, 255); transition:all }
+            <div .text-start.card-body> [26,3070,159,124]
+              { textAlign:left; width:158.516px; height:124.375px; display:block; transition:all }
+              <div .card-header> [26,3070,159,56]
+                { width:158.516px; height:56.125px; display:block; transition:all }
+                <div .font-size-20.mb-7.text-navy.card-title.h5> [26,3070,159,17] "Excellent"
+                  { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; margin:0px 0px 13.44px; width:158.516px; height:16.7969px; display:block; transition:all }
+                <div .d-flex.align-items-center.gap-2> [26,3100,159,26]
+                  { width:158.516px; height:25.8906px; display:flex; alignItems:center; gap:4.2px; transition:all }
+                  <img .img-fluid> [26,3100,159,26] @alt=Trustpilot rating stars @src=/images/trustpilot/trustpilot-score-4.5-periwinkle.svg IMG https://www.bluevine.com/images/trustpilot/trustpilot-score-4.5-periwinkle.svg 251x41
+                    { width:158.516px; height:25.8906px; maxWidth:100%; display:block; transition:all; overflow:clip; aspectRatio:auto 180 / 30 }
+                  <span .ff-gellix.fw-semibold.text-navy.font-size-20> [189,3101,23,25] "4.7"
+                    { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:25.2px; width:22.6406px; height:25.1875px; display:block; transition:all }
+              <p .font-size-13.ff-gellix.my-7.text-navy.card-text> [26,3140,159,16] "Based on"
+                { fontSize:10.92px; fontFamily:__gellix_2627c8; lineHeight:16.38px; margin:13.44px 0px; width:158.516px; height:16.375px; display:block; transition:all }
+                <a .fw-semibold.text-navy> [75,3142,68,12] "11,488 reviews" @href=https://www.trustpilot.com/review/bluevine.com
+                  { fontWeight:600; display:inline; transition:all }
+              <div .card-subtitle.h6> [26,3170,159,25]
+                { fontSize:8.4px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:10.08px; width:158.516px; height:25px; display:block; transition:all }
+                <img .img-fluid> [26,3170,99,25] @alt=Trustpilot logo @src=/images/trustpilot/trustpilot-logo-navy.svg IMG https://www.bluevine.com/images/trustpilot/trustpilot-logo-navy.svg 99x25
+                  { width:99px; height:25px; maxWidth:100%; display:inline; transition:all; overflow:clip; aspectRatio:auto 99 / 25 }
+        <div .col-md-9.col-12> [198,2992,557,314]
+          { padding:0px 12.6px; width:557.109px; height:314.109px; maxWidth:100%; display:block; transition:all }
+          <div .swiper.swiper-initialized.swiper-horizontal.align-right.swiper-backface-hidden> [211,2992,532,314]
+            { width:531.922px; height:314.109px; display:block; position:relative; zIndex:1; transition:all; overflow:hidden }
+            <div .swiper-wrapper> [211,2992,532,281] @id=swiper-wrapper-13db2b16fd4a18b8
+              { margin:0px 0px 33.6px; width:531.922px; height:280.516px; display:flex; position:relative; zIndex:1; transition:transform }
+              <div .swiper-slide.swiper-slide-active.px-0> [211,2992,167,281] @role=group
+                { margin:0px 15px 0px 0px; width:167.328px; height:280.516px; display:block; position:relative; transition:transform }
+                <div .bg-white.py-8.px-8.rounded-top-end-9.border.border-blue-light> [211,2992,167,281]
+                  { backgroundColor:rgb(255, 255, 255); padding:20.16px; width:167.328px; height:280.516px; display:block; borderRadius:0px 75.6px 0px 0px; border:1px solid rgb(215, 231, 255); borderTop:1px solid rgb(215, 231, 255); borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                  <a .card-link> [232,3013,125,222] @href=https://www.trustpilot.com/reviews/6a8e18a0a06ed01d2bb22e7b
+                    { color:rgb(25, 67, 220); display:inline; transition:all }
+                    <div .card-body> [232,3013,125,222]
+                      { width:125.016px; height:221.828px; display:block; transition:all }
+                      <div .card-header> [232,3013,125,102]
+                        { width:125.016px; height:102.359px; display:block; transition:all }
+                        <img .jsx-779c848016f76c94> [232,3015,106,20] @alt=trustpilot stars @src=/images/trustpilot/trustpilot-stars.svg IMG https://www.bluevine.com/images/trustpilot/trustpilot-stars.svg 107x21
+                          { width:106px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 106 / 20 }
+                        <div .font-size-20.mt-7.text-navy.card-title.h5> [232,3048,125,67] "Bluevine – the rock star among garage bands!"
+                          { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; color:rgb(2, 5, 83); margin:13.44px 0px 0px; width:125.016px; height:67.1875px; minHeight:40px; display:block; transition:all }
+                      <p .font-size-13.ff-gellix.text-navy.my-6.card-text> [232,3122,125,82] "Bluevine is simply hands down one of the best business decisions I've made. Their services are unmatched. ..."
+                        { fontSize:10.92px; fontFamily:__gellix_2627c8; lineHeight:16.38px; color:rgb(2, 5, 83); margin:6.72px 0px; width:125.016px; height:81.875px; display:block; transition:all }
+                      <div .font-size-13.ff-gellix.fw-semibold.text-navy.card-subtitle.h6> [232,3213,125,22] "DB"
+                        { fontSize:10.92px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:13.104px; color:rgb(2, 5, 83); width:125.016px; height:22.4844px; display:block; transition:all }
+                        <hr .jsx-779c848016f76c94.max-width-80> [232,3213,80,1]
+                          { color:rgb(225, 231, 240); margin:8.4px 0px; width:80px; height:1px; maxWidth:80px; display:block; borderTop:1px solid rgb(225, 231, 240); transition:all; overflow:hidden }
+              <div .swiper-slide.swiper-slide-next.px-0> [393,2992,167,281] @role=group
+                { margin:0px 15px 0px 0px; width:167.328px; height:280.516px; display:block; position:relative; transition:transform }
+                <div .bg-white.py-8.px-8.rounded-top-end-9.border.border-blue-light> [393,2992,167,281]
+                  { backgroundColor:rgb(255, 255, 255); padding:20.16px; width:167.328px; height:280.516px; display:block; borderRadius:0px 75.6px 0px 0px; border:1px solid rgb(215, 231, 255); borderTop:1px solid rgb(215, 231, 255); borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                  <a .card-link> [414,3013,125,211] @href=https://www.trustpilot.com/reviews/6a8da3a3a045060b3bf5765c
+                    { color:rgb(25, 67, 220); display:inline; transition:all }
+                    <div .card-body> [414,3013,125,211]
+                      { width:125.016px; height:211.016px; display:block; transition:all }
+                      <div .card-header> [414,3013,125,75]
+                        { width:125.016px; height:75.1719px; display:block; transition:all }
+                        <img .jsx-779c848016f76c94> [414,3015,106,20] @alt=trustpilot stars @src=/images/trustpilot/trustpilot-stars.svg IMG https://www.bluevine.com/images/trustpilot/trustpilot-stars.svg 107x21
+                          { width:106px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 106 / 20 }
+                        <div .font-size-20.mt-7.text-navy.card-title.h5> [414,3048,125,40] "Business owner"
+                          { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; color:rgb(2, 5, 83); margin:13.44px 0px 0px; width:125.016px; height:40px; minHeight:40px; display:block; transition:all }
+                      <p .font-size-13.ff-gellix.text-navy.my-6.card-text> [414,3095,125,98] "Very efficient and smooth process. It was great having an advisor walk me through the different options. I felt like eve"
+                        { fontSize:10.92px; fontFamily:__gellix_2627c8; lineHeight:16.38px; color:rgb(2, 5, 83); margin:6.72px 0px; width:125.016px; height:98.25px; display:block; transition:all }
+                      <div .font-size-13.ff-gellix.fw-semibold.text-navy.card-subtitle.h6> [414,3202,125,22] "Austin"
+                        { fontSize:10.92px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:13.104px; color:rgb(2, 5, 83); width:125.016px; height:22.4844px; display:block; transition:all }
+                        <hr .jsx-779c848016f76c94.max-width-80> [414,3202,80,1]
+                          { color:rgb(225, 231, 240); margin:8.4px 0px; width:80px; height:1px; maxWidth:80px; display:block; borderTop:1px solid rgb(225, 231, 240); transition:all; overflow:hidden }
+              <div .swiper-slide.px-0> [576,2992,167,281] @role=group
+                { margin:0px 15px 0px 0px; width:167.328px; height:280.516px; display:block; position:relative; transition:transform }
+                <div .bg-white.py-8.px-8.rounded-top-end-9.border.border-blue-light> [576,2992,167,281]
+                  { backgroundColor:rgb(255, 255, 255); padding:20.16px; width:167.328px; height:280.516px; display:block; borderRadius:0px 75.6px 0px 0px; border:1px solid rgb(215, 231, 255); borderTop:1px solid rgb(215, 231, 255); borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                  <a .card-link> [597,3013,125,205] @href=https://www.trustpilot.com/reviews/6a8cc0de67f89cda9ef7980a
+                    { color:rgb(25, 67, 220); display:inline; transition:all }
+                    <div .card-body> [597,3013,125,205]
+                      { width:125.016px; height:205.031px; display:block; transition:all }
+                      <div .card-header> [597,3013,125,86]
+                        { width:125.016px; height:85.5625px; display:block; transition:all }
+                        <img .jsx-779c848016f76c94> [597,3015,106,20] @alt=trustpilot stars @src=/images/trustpilot/trustpilot-stars.svg IMG https://www.bluevine.com/images/trustpilot/trustpilot-stars.svg 107x21
+                          { width:106px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 106 / 20 }
+                        <div .font-size-20.mt-7.text-navy.card-title.h5> [597,3048,125,50] "I had a great experience working with…"
+                          { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; color:rgb(2, 5, 83); margin:13.44px 0px 0px; width:125.016px; height:50.3906px; minHeight:40px; display:block; transition:all }
+                      <p .font-size-13.ff-gellix.text-navy.my-6.card-text> [597,3106,125,82] "I had a great experience working with Chris while securing a business line of credit. He was diligent, patient, and cons"
+                        { fontSize:10.92px; fontFamily:__gellix_2627c8; lineHeight:16.38px; color:rgb(2, 5, 83); margin:6.72px 0px; width:125.016px; height:81.875px; display:block; transition:all }
+                      <div .font-size-13.ff-gellix.fw-semibold.text-navy.card-subtitle.h6> [597,3196,125,22] "Jane"
+                        { fontSize:10.92px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:13.104px; color:rgb(2, 5, 83); width:125.016px; height:22.4844px; display:block; transition:all }
+                        <hr .jsx-779c848016f76c94.max-width-80> [597,3196,80,1]
+                          { color:rgb(225, 231, 240); margin:8.4px 0px; width:80px; height:1px; maxWidth:80px; display:block; borderTop:1px solid rgb(225, 231, 240); transition:all; overflow:hidden }
+              <div .swiper-slide.px-0> [758,2992,167,281] @role=group
+                { margin:0px 15px 0px 0px; width:167.328px; height:280.516px; display:block; position:relative; transition:transform }
+                <div .bg-white.py-8.px-8.rounded-top-end-9.border.border-blue-light> [758,2992,167,281]
+                  { backgroundColor:rgb(255, 255, 255); padding:20.16px; width:167.328px; height:280.516px; display:block; borderRadius:0px 75.6px 0px 0px; border:1px solid rgb(215, 231, 255); borderTop:1px solid rgb(215, 231, 255); borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                  <a .card-link> [779,3013,125,189] @href=https://www.trustpilot.com/reviews/6a8c7c944c4a14145b61e452
+                    { color:rgb(25, 67, 220); display:inline; transition:all }
+                    <div .card-body> [779,3013,125,189]
+                      { width:125.016px; height:188.656px; display:block; transition:all }
+                      <div .card-header> [779,3013,125,86]
+                        { width:125.016px; height:85.5625px; display:block; transition:all }
+                        <img .jsx-779c848016f76c94> [779,3015,106,20] @alt=trustpilot stars @src=/images/trustpilot/trustpilot-stars.svg IMG https://www.bluevine.com/images/trustpilot/trustpilot-stars.svg 107x21
+                          { width:106px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 106 / 20 }
+                        <div .font-size-20.mt-7.text-navy.card-title.h5> [779,3048,125,50] "Smooth onboarding experience"
+                          { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; color:rgb(2, 5, 83); margin:13.44px 0px 0px; width:125.016px; height:50.3906px; minHeight:40px; display:block; transition:all }
+                      <p .font-size-13.ff-gellix.text-navy.my-6.card-text> [779,3106,125,66] "Smooth onboarding experience, looking forward to a lasting relationship ..."
+                        { fontSize:10.92px; fontFamily:__gellix_2627c8; lineHeight:16.38px; color:rgb(2, 5, 83); margin:6.72px 0px; width:125.016px; height:65.5px; display:block; transition:all }
+                      <div .font-size-13.ff-gellix.fw-semibold.text-navy.card-subtitle.h6> [779,3179,125,22] "Maurice J."
+                        { fontSize:10.92px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:13.104px; color:rgb(2, 5, 83); width:125.016px; height:22.4844px; display:block; transition:all }
+                        <hr .jsx-779c848016f76c94.max-width-80> [779,3179,80,1]
+                          { color:rgb(225, 231, 240); margin:8.4px 0px; width:80px; height:1px; maxWidth:80px; display:block; borderTop:1px solid rgb(225, 231, 240); transition:all; overflow:hidden }
+              <div .swiper-slide.px-0> [940,2992,167,281] @role=group
+                { margin:0px 15px 0px 0px; width:167.328px; height:280.516px; display:block; position:relative; transition:transform }
+                <div .bg-white.py-8.px-8.rounded-top-end-9.border.border-blue-light> [940,2992,167,281]
+                  { backgroundColor:rgb(255, 255, 255); padding:20.16px; width:167.328px; height:280.516px; display:block; borderRadius:0px 75.6px 0px 0px; border:1px solid rgb(215, 231, 255); borderTop:1px solid rgb(215, 231, 255); borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                  <a .card-link> [961,3013,125,178] @href=https://www.trustpilot.com/reviews/6a868e5b9bcb58d1d288ed29
+                    { color:rgb(25, 67, 220); display:inline; transition:all }
+                    <div .card-body> [961,3013,125,178]
+                      { width:125.016px; height:178.266px; display:block; transition:all }
+                      <div .card-header> [961,3013,125,75]
+                        { width:125.016px; height:75.1719px; display:block; transition:all }
+                        <img .jsx-779c848016f76c94> [961,3015,106,20] @alt=trustpilot stars @src=/images/trustpilot/trustpilot-stars.svg IMG https://www.bluevine.com/images/trustpilot/trustpilot-stars.svg 107x21
+                          { width:106px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 106 / 20 }
+                        <div .font-size-20.mt-7.text-navy.card-title.h5> [961,3048,125,40] "helpful conversation"
+                          { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; color:rgb(2, 5, 83); margin:13.44px 0px 0px; width:125.016px; height:40px; minHeight:40px; display:block; transition:all }
+                      <p .font-size-13.ff-gellix.text-navy.my-6.card-text> [961,3095,125,66] "helpful info on how to get the most from the account, given my business' stage. ..."
+                        { fontSize:10.92px; fontFamily:__gellix_2627c8; lineHeight:16.38px; color:rgb(2, 5, 83); margin:6.72px 0px; width:125.016px; height:65.5px; display:block; transition:all }
+                      <div .font-size-13.ff-gellix.fw-semibold.text-navy.card-subtitle.h6> [961,3169,125,22] "DG"
+                        { fontSize:10.92px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:13.104px; color:rgb(2, 5, 83); width:125.016px; height:22.4844px; display:block; transition:all }
+                        <hr .jsx-779c848016f76c94.max-width-80> [961,3169,80,1]
+                          { color:rgb(225, 231, 240); margin:8.4px 0px; width:80px; height:1px; maxWidth:80px; display:block; borderTop:1px solid rgb(225, 231, 240); transition:all; overflow:hidden }
+              <div .swiper-slide.px-0> [1123,2992,167,281] @role=group
+                { margin:0px 15px 0px 0px; width:167.328px; height:280.516px; display:block; position:relative; transition:transform }
+                <div .bg-white.py-8.px-8.rounded-top-end-9.border.border-blue-light> [1123,2992,167,281]
+                  { backgroundColor:rgb(255, 255, 255); padding:20.16px; width:167.328px; height:280.516px; display:block; borderRadius:0px 75.6px 0px 0px; border:1px solid rgb(215, 231, 255); borderTop:1px solid rgb(215, 231, 255); borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                  <a .card-link> [1144,3013,125,238] @href=https://www.trustpilot.com/reviews/6a8493fda7f8cd9d75d7be99
+                    { color:rgb(25, 67, 220); display:inline; transition:all }
+                    <div .card-body> [1144,3013,125,238]
+                      { width:125.016px; height:238.203px; display:block; transition:all }
+                      <div .card-header> [1144,3013,125,102]
+                        { width:125.016px; height:102.359px; display:block; transition:all }
+                        <img .jsx-779c848016f76c94> [1144,3015,106,20] @alt=trustpilot stars @src=/images/trustpilot/trustpilot-stars.svg IMG https://www.bluevine.com/images/trustpilot/trustpilot-stars.svg 107x21
+                          { width:106px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 106 / 20 }
+                        <div .font-size-20.mt-7.text-navy.card-title.h5> [1144,3048,125,67] "Great Business Checking Features and Value"
+                          { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; color:rgb(2, 5, 83); margin:13.44px 0px 0px; width:125.016px; height:67.1875px; minHeight:40px; display:block; transition:all }
+                      <p .font-size-13.ff-gellix.text-navy.my-6.card-text> [1144,3122,125,98] "I’ve been very happy with Bluevine for my business banking. One of the biggest benefits is earning interest on my busine"
+                        { fontSize:10.92px; fontFamily:__gellix_2627c8; lineHeight:16.38px; color:rgb(2, 5, 83); margin:6.72px 0px; width:125.016px; height:98.25px; display:block; transition:all }
+                      <div .font-size-13.ff-gellix.fw-semibold.text-navy.card-subtitle.h6> [1144,3229,125,22] "Patrick"
+                        { fontSize:10.92px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:13.104px; color:rgb(2, 5, 83); width:125.016px; height:22.4844px; display:block; transition:all }
+                        <hr .jsx-779c848016f76c94.max-width-80> [1144,3229,80,1]
+                          { color:rgb(225, 231, 240); margin:8.4px 0px; width:80px; height:1px; maxWidth:80px; display:block; borderTop:1px solid rgb(225, 231, 240); transition:all; overflow:hidden }
+            <div .swiper-button-prev.swiper-button-disabled> [211,3288,12,12] @role=button
+              { margin:-22px 0px 0px; width:12px; height:12px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:318.234px; right:519.922px; bottom:5.88px; zIndex:11; opacity:0.35; transition:all }
+              <svg .[object.SVGAnimatedString]> [211,3288,12,12] SVG
+                { width:12px; height:12px; display:block; transform:matrix(-1, 0, 0, -1, 0, 0); transition:all; overflow:hidden; objectFit:contain }
+            <div .swiper-button-next> [731,3288,12,12] @role=button
+              { margin:-22px 0px 0px; width:12px; height:12px; display:flex; justifyContent:center; alignItems:center; position:absolute; top:318.234px; left:519.922px; bottom:5.88px; zIndex:11; transition:all }
+              <svg .[object.SVGAnimatedString]> [731,3288,12,12] SVG
+                { width:12px; height:12px; display:block; transition:all; overflow:hidden; objectFit:contain }
+            <div .swiper-scrollbar.swiper-scrollbar-horizontal> [244,3288,465,10]
+              { backgroundColor:rgb(255, 255, 255); width:464.719px; height:10px; display:block; borderRadius:5px; position:absolute; top:295.719px; left:33.6px; right:33.6094px; bottom:8.4px; zIndex:50; transition:all }
+              <div .swiper-scrollbar-drag> [244,3288,229,10]
+                { backgroundColor:rgb(25, 67, 220); width:229.266px; height:10px; display:block; borderRadius:5px; position:relative; transition:all }
+            <span .swiper-notification> [210,3305,1,1]
+              { margin:-1px; width:1px; height:1px; display:block; position:absolute; top:314.109px; right:532.922px; bottom:1px; transition:all; overflow:hidden }
+  <section .mb-14.mb-lg-15.AccordionFaqs_accordion__Wwtuk> [0,3353,768,718]
+    { margin:0px 0px 67.2px; width:768px; height:718.281px; display:block; transition:all }
+    <div .jsx-3814082393.position-relative> [0,3353,768,0]
+      { width:768px; display:block; position:relative; transition:all }
+      <span .jsx-3814082393.visually-hidden.position-absolute> [-1,3251,1,1] @id=faqs
+        { margin:-1px; width:1px; height:1px; display:block; position:absolute; top:-100.8px; right:769px; bottom:101.797px; transition:all; overflow:hidden }
+    <div .container> [0,3353,768,718]
+      { padding:0px 25.2px; width:768px; height:718.281px; maxWidth:100%; display:block; transition:all }
+      <div .row> [13,3353,743,718]
+        { margin:0px -12.6px; width:742.812px; height:718.281px; display:flex; flexWrap:wrap; transition:all }
+        <div .col-12> [13,3353,743,718]
+          { padding:0px 12.6px; width:742.812px; height:718.281px; maxWidth:100%; display:block; transition:all }
+          <div> [25,3353,718,29]
+            { width:717.625px; height:28.5625px; display:block; transition:all }
+            <h2 .font-size-xl-60.mb-10.mb-lg-12> [25,3353,718,29] "Line of credit FAQs."
+              { fontSize:28.56px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:28.56px; margin:0px 0px 33.6px; width:717.625px; height:28.5625px; display:block; transition:all }
+          <div> [25,3415,718,656]
+            { width:717.625px; height:656.125px; display:block; transition:all }
+            <div .accordion> [25,3415,718,656]
+              { width:717.625px; height:656.125px; display:block; transition:all }
+              <div .accordion-item> [25,3415,718,56]
+                { color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:717.625px; height:55.5938px; display:block; borderTop:1px solid rgb(215, 231, 255); borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                <h3 .accordion-header> [25,3416,718,54]
+                  { fontSize:20.16px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(2, 5, 83); width:717.625px; height:53.5938px; display:flex; justifyContent:space-between; alignItems:center; position:relative; transition:all }
+                  <button .accordion-button.collapsed> [25,3416,718,54] @aria-expanded=false @type=button
+                    { fontSize:13.44px; fontFamily:__gellix_2627c8; lineHeight:16.8px; textAlign:left; backgroundColor:rgb(255, 255, 255); padding:16.8px 0px; width:717.625px; height:53.5938px; display:block; alignItems:center; borderRadius:2.15px 2.15px 0px 0px; position:relative; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+                    <span .d-flex.justify-content-between.align-items-center> [25,3433,718,20]
+                      { width:717.625px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:all }
+                      <span .text.pe-10> [25,3435,233,17] "What is a business line of credit?" @id=faq-what-is-a-business-line-of-credit
+                        { padding:0px 33.6px 0px 0px; width:233.203px; height:16.7969px; display:block; transition:all }
+                      <span .icon.d-inline-block.lh-0> [723,3433,20,20]
+                        { width:20px; height:20px; display:block; transition:transform 0.2s ease-in-out }
+                        <img> [723,3433,20,20] @alt=plus symbol blue @src=/images/icons/plus-blue.svg IMG https://www.bluevine.com/images/icons/plus-blue.svg 20x20
+                          { width:20px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 20 / 20 }
+                <div .accordion-collapse.collapse> [0,0,0,0]
+                  { transition:all }
+                  <div .accordion-body> [0,0,0,0] @role=region
+                    { color:rgb(2, 5, 83); padding:25.2px 0px; display:block; transition:all }
+                    <p> [0,0,0,0] "A business line of credit is a type of business loan that gives you access to funding when you want it, up to your credi"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+                      <sup .d-inline> [0,0,0,0] "1" @role=link
+                        { fontSize:7.392px; display:inline; position:relative; top:-5.544px; transition:all }
+              <div .border-top-0.accordion-item> [25,3471,718,55]
+                { color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:717.625px; height:54.5938px; display:block; borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                <h3 .accordion-header> [25,3471,718,54]
+                  { fontSize:20.16px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(2, 5, 83); width:717.625px; height:53.5938px; display:flex; justifyContent:space-between; alignItems:center; position:relative; transition:all }
+                  <button .accordion-button.collapsed> [25,3471,718,54] @aria-expanded=false @type=button
+                    { fontSize:13.44px; fontFamily:__gellix_2627c8; lineHeight:16.8px; textAlign:left; backgroundColor:rgb(255, 255, 255); padding:16.8px 0px; width:717.625px; height:53.5938px; display:block; alignItems:center; position:relative; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+                    <span .d-flex.justify-content-between.align-items-center> [25,3488,718,20]
+                      { width:717.625px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:all }
+                      <span .text.pe-10> [25,3489,390,17] "How is a line of credit different from a small business loan?" @id=faq-how-is-a-line-of-credit-different-from-a-small-business-
+                        { padding:0px 33.6px 0px 0px; width:389.531px; height:16.7969px; display:block; transition:all }
+                      <span .icon.d-inline-block.lh-0> [723,3488,20,20]
+                        { width:20px; height:20px; display:block; transition:transform 0.2s ease-in-out }
+                        <img> [723,3488,20,20] @alt=plus symbol blue @src=/images/icons/plus-blue.svg IMG https://www.bluevine.com/images/icons/plus-blue.svg 20x20
+                          { width:20px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 20 / 20 }
+                <div .accordion-collapse.collapse> [0,0,0,0]
+                  { transition:all }
+                  <div .accordion-body> [0,0,0,0] @role=region
+                    { color:rgb(2, 5, 83); padding:25.2px 0px; display:block; transition:all }
+                    <p> [0,0,0,0] "A line of credit for business offers flexibility by allowing businesses to draw funds as needed, while a small business "
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+              <div .border-top-0.accordion-item> [25,3526,718,55]
+                { color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:717.625px; height:54.5938px; display:block; borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                <h3 .accordion-header> [25,3526,718,54]
+                  { fontSize:20.16px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(2, 5, 83); width:717.625px; height:53.5938px; display:flex; justifyContent:space-between; alignItems:center; position:relative; transition:all }
+                  <button .accordion-button.collapsed> [25,3526,718,54] @aria-expanded=false @type=button
+                    { fontSize:13.44px; fontFamily:__gellix_2627c8; lineHeight:16.8px; textAlign:left; backgroundColor:rgb(255, 255, 255); padding:16.8px 0px; width:717.625px; height:53.5938px; display:block; alignItems:center; position:relative; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+                    <span .d-flex.justify-content-between.align-items-center> [25,3542,718,20]
+                      { width:717.625px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:all }
+                      <span .text.pe-10> [25,3544,285,17] "How does a Bluevine Line of Credit work?" @id=faq-how-does-a-bluevine-line-of-credit-work
+                        { padding:0px 33.6px 0px 0px; width:284.703px; height:16.7969px; display:block; transition:all }
+                      <span .icon.d-inline-block.lh-0> [723,3542,20,20]
+                        { width:20px; height:20px; display:block; transition:transform 0.2s ease-in-out }
+                        <img> [723,3542,20,20] @alt=plus symbol blue @src=/images/icons/plus-blue.svg IMG https://www.bluevine.com/images/icons/plus-blue.svg 20x20
+                          { width:20px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 20 / 20 }
+                <div .accordion-collapse.collapse> [0,0,0,0]
+                  { transition:all }
+                  <div .accordion-body> [0,0,0,0] @role=region
+                    { color:rgb(2, 5, 83); padding:25.2px 0px; display:block; transition:all }
+                    <p> [0,0,0,0] "Once approved for a credit line, you can request funds directly from your Bluevine dashboard. We’ll deposit funds in you"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+                      <a> [0,0,0,0] "repayment plan" @href=https://support.bluevine.com/s/article/What-are-the-Bluevine
+                        { fontWeight:600; color:rgb(25, 67, 220); display:inline; transition:all }
+              <div .border-top-0.accordion-item> [25,3580,718,55]
+                { color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:717.625px; height:54.5938px; display:block; borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                <h3 .accordion-header> [25,3580,718,54]
+                  { fontSize:20.16px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(2, 5, 83); width:717.625px; height:53.5938px; display:flex; justifyContent:space-between; alignItems:center; position:relative; transition:all }
+                  <button .accordion-button.collapsed> [25,3580,718,54] @aria-expanded=false @type=button
+                    { fontSize:13.44px; fontFamily:__gellix_2627c8; lineHeight:16.8px; textAlign:left; backgroundColor:rgb(255, 255, 255); padding:16.8px 0px; width:717.625px; height:53.5938px; display:block; alignItems:center; position:relative; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+                    <span .d-flex.justify-content-between.align-items-center> [25,3597,718,20]
+                      { width:717.625px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:all }
+                      <span .text.pe-10> [25,3599,319,17] "How can I get a line of credit through Bluevine?" @id=faq-how-can-i-get-a-line-of-credit-through-bluevine
+                        { padding:0px 33.6px 0px 0px; width:319.312px; height:16.7969px; display:block; transition:all }
+                      <span .icon.d-inline-block.lh-0> [723,3597,20,20]
+                        { width:20px; height:20px; display:block; transition:transform 0.2s ease-in-out }
+                        <img> [723,3597,20,20] @alt=plus symbol blue @src=/images/icons/plus-blue.svg IMG https://www.bluevine.com/images/icons/plus-blue.svg 20x20
+                          { width:20px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 20 / 20 }
+                <div .accordion-collapse.collapse> [0,0,0,0]
+                  { transition:all }
+                  <div .accordion-body> [0,0,0,0] @role=region
+                    { color:rgb(2, 5, 83); padding:25.2px 0px; display:block; transition:all }
+                    <p> [0,0,0,0] "You can . We’ll ask you for some basic information about you and your business. Once your application is submitted, you "
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+                      <a> [0,0,0,0] "apply for a Bluevine Line of Credit on our website" @href=https://app.bluevine.com/signup/?signup_parent_url=https%3A%
+                        { fontWeight:600; color:rgb(25, 67, 220); display:inline; transition:all }
+                    <p> [0,0,0,0] "Just make sure you meet these minimum qualifications:"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+                    <ul> [0,0,0,0]
+                      { padding:0px 0px 0px 12.6px; margin:0px 0px 8.4px 26.88px; display:block; transition:all }
+                      <li> [0,0,0,0] "$10,000 in monthly revenue"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "625+ personal FICO credit score"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "In business for 12+ months"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "Corporation or LLC"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "No bankruptcies on file"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "In good standing with your Secretary of State"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "Business is operating or incorporated in an eligible U.S. state"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "Ineligible states include: Nevada, North Dakota, South Dakota, U.S. territories"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "An active or statements from the last 3 months (a connected account makes it faster and easier to confirm your informati"
+                        { display:list-item; transition:all }
+                        <a> [0,0,0,0] "bank connection" @href=https://support.bluevine.com/s/article/What-is-a-bank-connec
+                          { fontWeight:600; color:rgb(25, 67, 220); display:inline; transition:all }
+                    <p> [0,0,0,0] "It’s even easier to apply for a line of credit if you already have a ."
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+                      <a> [0,0,0,0] "Bluevine Business Checking account" @href=https://www.bluevine.com/business-checking
+                        { fontWeight:600; color:rgb(25, 67, 220); display:inline; transition:all }
+              <div .border-top-0.accordion-item> [25,3635,718,55]
+                { color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:717.625px; height:54.5938px; display:block; borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                <h3 .accordion-header> [25,3635,718,54]
+                  { fontSize:20.16px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(2, 5, 83); width:717.625px; height:53.5938px; display:flex; justifyContent:space-between; alignItems:center; position:relative; transition:all }
+                  <button .accordion-button.collapsed> [25,3635,718,54] @aria-expanded=false @type=button
+                    { fontSize:13.44px; fontFamily:__gellix_2627c8; lineHeight:16.8px; textAlign:left; backgroundColor:rgb(255, 255, 255); padding:16.8px 0px; width:717.625px; height:53.5938px; display:block; alignItems:center; position:relative; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+                    <span .d-flex.justify-content-between.align-items-center> [25,3652,718,20]
+                      { width:717.625px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:all }
+                      <span .text.pe-10> [25,3653,324,17] "What businesses are eligible for a line of credit?" @id=faq-what-businesses-are-eligible-for-a-line-of-credit
+                        { padding:0px 33.6px 0px 0px; width:324.469px; height:16.7969px; display:block; transition:all }
+                      <span .icon.d-inline-block.lh-0> [723,3652,20,20]
+                        { width:20px; height:20px; display:block; transition:transform 0.2s ease-in-out }
+                        <img> [723,3652,20,20] @alt=plus symbol blue @src=/images/icons/plus-blue.svg IMG https://www.bluevine.com/images/icons/plus-blue.svg 20x20
+                          { width:20px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 20 / 20 }
+                <div .accordion-collapse.collapse> [0,0,0,0]
+                  { transition:all }
+                  <div .accordion-body> [0,0,0,0] @role=region
+                    { color:rgb(2, 5, 83); padding:25.2px 0px; display:block; transition:all }
+                    <p> [0,0,0,0] "You can apply for a Bluevine Line of Credit as long as your business meets the minimum qualifications and does not opera"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+                    <p> [0,0,0,0]
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+                      <strong> [0,0,0,0] "Ineligible industries"
+                        { fontWeight:700; display:inline; transition:all }
+                    <ul> [0,0,0,0]
+                      { padding:0px 0px 0px 12.6px; margin:0px 0px 8.4px 26.88px; display:block; transition:all }
+                      <li> [0,0,0,0] "Illegal gambling"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "Pornography and paraphernalia"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "Political campaigns"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "Firearms and paraphernalia"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "Illegal substances"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "Other controlled substances (including medicinal marijuana, marijuana, cannabis, and hemp) and paraphernalia"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "Financial Institutions and lenders (including insurance, penny auction companies, and cryptocurrency)"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "Donation-based non-profits"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "Auto dealerships"
+                        { display:list-item; transition:all }
+                    <br> [0,0,0,0]
+                      { display:inline; transition:all }
+                    <p> [0,0,0,0]
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+                      <strong> [0,0,0,0] "Ineligible states"
+                        { fontWeight:700; display:inline; transition:all }
+                    <ul> [0,0,0,0]
+                      { padding:0px 0px 0px 12.6px; margin:0px 0px 8.4px 26.88px; display:block; transition:all }
+                      <li> [0,0,0,0] "Nevada"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "North Dakota"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "South Dakota"
+                        { display:list-item; transition:all }
+                      <li> [0,0,0,0] "U.S. territories"
+                        { display:list-item; transition:all }
+              <div .border-top-0.accordion-item> [25,3689,718,55]
+                { color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:717.625px; height:54.5938px; display:block; borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                <h3 .accordion-header> [25,3689,718,54]
+                  { fontSize:20.16px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(2, 5, 83); width:717.625px; height:53.5938px; display:flex; justifyContent:space-between; alignItems:center; position:relative; transition:all }
+                  <button .accordion-button.collapsed> [25,3689,718,54] @aria-expanded=false @type=button
+                    { fontSize:13.44px; fontFamily:__gellix_2627c8; lineHeight:16.8px; textAlign:left; backgroundColor:rgb(255, 255, 255); padding:16.8px 0px; width:717.625px; height:53.5938px; display:block; alignItems:center; position:relative; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+                    <span .d-flex.justify-content-between.align-items-center> [25,3706,718,20]
+                      { width:717.625px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:all }
+                      <span .text.pe-10> [25,3708,439,17] "What documents are needed to apply for a business line of credit?" @id=faq-what-documents-are-needed-to-apply-for-a-business-line-o
+                        { padding:0px 33.6px 0px 0px; width:438.562px; height:16.7969px; display:block; transition:all }
+                      <span .icon.d-inline-block.lh-0> [723,3706,20,20]
+                        { width:20px; height:20px; display:block; transition:transform 0.2s ease-in-out }
+                        <img> [723,3706,20,20] @alt=plus symbol blue @src=/images/icons/plus-blue.svg IMG https://www.bluevine.com/images/icons/plus-blue.svg 20x20
+                          { width:20px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 20 / 20 }
+                <div .accordion-collapse.collapse> [0,0,0,0]
+                  { transition:all }
+                  <div .accordion-body> [0,0,0,0] @role=region
+                    { color:rgb(2, 5, 83); padding:25.2px 0px; display:block; transition:all }
+                    <p> [0,0,0,0] "Typical documents include business bank statements, proof of revenue, and identification. Bluevine’s streamlined applica"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+              <div .border-top-0.accordion-item> [25,3744,718,55]
+                { color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:717.625px; height:54.5938px; display:block; borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                <h3 .accordion-header> [25,3744,718,54]
+                  { fontSize:20.16px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(2, 5, 83); width:717.625px; height:53.5938px; display:flex; justifyContent:space-between; alignItems:center; position:relative; transition:all }
+                  <button .accordion-button.collapsed> [25,3744,718,54] @aria-expanded=false @type=button
+                    { fontSize:13.44px; fontFamily:__gellix_2627c8; lineHeight:16.8px; textAlign:left; backgroundColor:rgb(255, 255, 255); padding:16.8px 0px; width:717.625px; height:53.5938px; display:block; alignItems:center; position:relative; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+                    <span .d-flex.justify-content-between.align-items-center> [25,3761,718,20]
+                      { width:717.625px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:all }
+                      <span .text.pe-10> [25,3762,473,17] "Can I open a Bluevine Business Checking account with my line of credit?" @id=faq-can-i-open-a-bluevine-business-checking-account-with-my-
+                        { padding:0px 33.6px 0px 0px; width:473.359px; height:16.7969px; display:block; transition:all }
+                      <span .icon.d-inline-block.lh-0> [723,3761,20,20]
+                        { width:20px; height:20px; display:block; transition:transform 0.2s ease-in-out }
+                        <img> [723,3761,20,20] @alt=plus symbol blue @src=/images/icons/plus-blue.svg IMG https://www.bluevine.com/images/icons/plus-blue.svg 20x20
+                          { width:20px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 20 / 20 }
+                <div .accordion-collapse.collapse> [0,0,0,0]
+                  { transition:all }
+                  <div .accordion-body> [0,0,0,0] @role=region
+                    { color:rgb(2, 5, 83); padding:25.2px 0px; display:block; transition:all }
+                    <p> [0,0,0,0] "Yes! If approved, your Bluevine Line of Credit comes with a complimentary , which you'll be able to set up during onboar"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+                      <a> [0,0,0,0] "Bluevine Business Checking account" @href=https://www.bluevine.com/business-checking
+                        { fontWeight:600; color:rgb(25, 67, 220); display:inline; transition:all }
+                    <p> [0,0,0,0] "You can also choose to open a Bluevine Business Checking account before you apply for a line of credit, which is the onl"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+              <div .border-top-0.accordion-item> [25,3799,718,55]
+                { color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:717.625px; height:54.5938px; display:block; borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                <h3 .accordion-header> [25,3799,718,54]
+                  { fontSize:20.16px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(2, 5, 83); width:717.625px; height:53.5938px; display:flex; justifyContent:space-between; alignItems:center; position:relative; transition:all }
+                  <button .accordion-button.collapsed> [25,3799,718,54] @aria-expanded=false @type=button
+                    { fontSize:13.44px; fontFamily:__gellix_2627c8; lineHeight:16.8px; textAlign:left; backgroundColor:rgb(255, 255, 255); padding:16.8px 0px; width:717.625px; height:53.5938px; display:block; alignItems:center; position:relative; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+                    <span .d-flex.justify-content-between.align-items-center> [25,3815,718,20]
+                      { width:717.625px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:all }
+                      <span .text.pe-10> [25,3817,310,17] "How do I qualify for a Bluevine Line of Credit?" @id=faq-how-do-i-qualify-for-a-bluevine-line-of-credit
+                        { padding:0px 33.6px 0px 0px; width:310px; height:16.7969px; display:block; transition:all }
+                      <span .icon.d-inline-block.lh-0> [723,3815,20,20]
+                        { width:20px; height:20px; display:block; transition:transform 0.2s ease-in-out }
+                        <img> [723,3815,20,20] @alt=plus symbol blue @src=/images/icons/plus-blue.svg IMG https://www.bluevine.com/images/icons/plus-blue.svg 20x20
+                          { width:20px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 20 / 20 }
+                <div .accordion-collapse.collapse> [0,0,0,0]
+                  { transition:all }
+                  <div .accordion-body> [0,0,0,0] @role=region
+                    { color:rgb(2, 5, 83); padding:25.2px 0px; display:block; transition:all }
+                    <p> [0,0,0,0] "To qualify for a Bluevine Line of Credit, your eligible business must be a corporation or LLC in business 12+ months, wi"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+                      <a> [0,0,0,0] "Bluevine Business Checking account." @href=https://www.bluevine.com/business-checking
+                        { fontWeight:600; color:rgb(25, 67, 220); display:inline; transition:all }
+                    <p> [0,0,0,0] "We’ll verify your information when you apply and each month after to ensure you remain eligible. The fastest way to do t"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+                      <a> [0,0,0,0] "Learn more about bank connections." @href=https://www.bluevine.com/help-center/getting-started/how-to-
+                        { fontWeight:600; color:rgb(25, 67, 220); display:inline; transition:all }
+                    <p> [0,0,0,0] "If you are a sole proprietorship, you cannot qualify for a Bluevine Line of Credit. However, sole proprietorships with a"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+              <div .border-top-0.accordion-item> [25,3853,718,55]
+                { color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:717.625px; height:54.5938px; display:block; borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                <h3 .accordion-header> [25,3853,718,54]
+                  { fontSize:20.16px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(2, 5, 83); width:717.625px; height:53.5938px; display:flex; justifyContent:space-between; alignItems:center; position:relative; transition:all }
+                  <button .accordion-button.collapsed> [25,3853,718,54] @aria-expanded=false @type=button
+                    { fontSize:13.44px; fontFamily:__gellix_2627c8; lineHeight:16.8px; textAlign:left; backgroundColor:rgb(255, 255, 255); padding:16.8px 0px; width:717.625px; height:53.5938px; display:block; alignItems:center; position:relative; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+                    <span .d-flex.justify-content-between.align-items-center> [25,3870,718,20]
+                      { width:717.625px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:all }
+                      <span .text.pe-10> [25,3872,435,17] "Does applying for a Bluevine Line of Credit affect my credit score?" @id=faq-does-applying-for-a-bluevine-line-of-credit-affect-my-cr
+                        { padding:0px 33.6px 0px 0px; width:435.312px; height:16.7969px; display:block; transition:all }
+                      <span .icon.d-inline-block.lh-0> [723,3870,20,20]
+                        { width:20px; height:20px; display:block; transition:transform 0.2s ease-in-out }
+                        <img> [723,3870,20,20] @alt=plus symbol blue @src=/images/icons/plus-blue.svg IMG https://www.bluevine.com/images/icons/plus-blue.svg 20x20
+                          { width:20px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 20 / 20 }
+                <div .accordion-collapse.collapse> [0,0,0,0]
+                  { transition:all }
+                  <div .accordion-body> [0,0,0,0] @role=region
+                    { color:rgb(2, 5, 83); padding:25.2px 0px; display:block; transition:all }
+                    <p> [0,0,0,0] "While applying and reviewing an offer will not impact your personal credit score, accepting an offer may result in a har"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+              <div .border-top-0.accordion-item> [25,3908,718,55]
+                { color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:717.625px; height:54.5938px; display:block; borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                <h3 .accordion-header> [25,3908,718,54]
+                  { fontSize:20.16px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(2, 5, 83); width:717.625px; height:53.5938px; display:flex; justifyContent:space-between; alignItems:center; position:relative; transition:all }
+                  <button .accordion-button.collapsed> [25,3908,718,54] @aria-expanded=false @type=button
+                    { fontSize:13.44px; fontFamily:__gellix_2627c8; lineHeight:16.8px; textAlign:left; backgroundColor:rgb(255, 255, 255); padding:16.8px 0px; width:717.625px; height:53.5938px; display:block; alignItems:center; position:relative; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+                    <span .d-flex.justify-content-between.align-items-center> [25,3925,718,20]
+                      { width:717.625px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:all }
+                      <span .text.pe-10> [25,3926,401,17] "How quickly can I access funds with Bluevine’s line of credit?" @id=faq-how-quickly-can-i-access-funds-with-bluevine-s-line-of-c
+                        { padding:0px 33.6px 0px 0px; width:400.875px; height:16.7969px; display:block; transition:all }
+                      <span .icon.d-inline-block.lh-0> [723,3925,20,20]
+                        { width:20px; height:20px; display:block; transition:transform 0.2s ease-in-out }
+                        <img> [723,3925,20,20] @alt=plus symbol blue @src=/images/icons/plus-blue.svg IMG https://www.bluevine.com/images/icons/plus-blue.svg 20x20
+                          { width:20px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 20 / 20 }
+                <div .accordion-collapse.collapse> [0,0,0,0]
+                  { transition:all }
+                  <div .accordion-body> [0,0,0,0] @role=region
+                    { color:rgb(2, 5, 83); padding:25.2px 0px; display:block; transition:all }
+                    <p> [0,0,0,0] "Bluevine offers fast business funding, with approved businesses typically able to access funds within 24 hours of approv"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+                      <sup .d-inline> [0,0,0,0] "1" @role=link
+                        { fontSize:7.392px; display:inline; position:relative; top:-5.544px; transition:all }
+              <div .border-top-0.accordion-item> [25,3962,718,55]
+                { color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:717.625px; height:54.5938px; display:block; borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                <h3 .accordion-header> [25,3962,718,54]
+                  { fontSize:20.16px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(2, 5, 83); width:717.625px; height:53.5938px; display:flex; justifyContent:space-between; alignItems:center; position:relative; transition:all }
+                  <button .accordion-button.collapsed> [25,3962,718,54] @aria-expanded=false @type=button
+                    { fontSize:13.44px; fontFamily:__gellix_2627c8; lineHeight:16.8px; textAlign:left; backgroundColor:rgb(255, 255, 255); padding:16.8px 0px; width:717.625px; height:53.5938px; display:block; alignItems:center; position:relative; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+                    <span .d-flex.justify-content-between.align-items-center> [25,3979,718,20]
+                      { width:717.625px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:all }
+                      <span .text.pe-10> [25,3981,413,17] "How can I use my Bluevine Line of Credit to grow my business?" @id=faq-how-can-i-use-my-bluevine-line-of-credit-to-grow-my-busi
+                        { padding:0px 33.6px 0px 0px; width:412.875px; height:16.7969px; display:block; transition:all }
+                      <span .icon.d-inline-block.lh-0> [723,3979,20,20]
+                        { width:20px; height:20px; display:block; transition:transform 0.2s ease-in-out }
+                        <img> [723,3979,20,20] @alt=plus symbol blue @src=/images/icons/plus-blue.svg IMG https://www.bluevine.com/images/icons/plus-blue.svg 20x20
+                          { width:20px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 20 / 20 }
+                <div .accordion-collapse.collapse> [0,0,0,0]
+                  { transition:all }
+                  <div .accordion-body> [0,0,0,0] @role=region
+                    { color:rgb(2, 5, 83); padding:25.2px 0px; display:block; transition:all }
+                    <p> [0,0,0,0] "A business line of credit provides small businesses with the flexibility to manage cash flow, cover unexpected expenses,"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+              <div .border-top-0.accordion-item> [25,4017,718,55]
+                { color:rgb(33, 37, 41); backgroundColor:rgb(255, 255, 255); width:717.625px; height:54.5938px; display:block; borderBottom:1px solid rgb(215, 231, 255); transition:all }
+                <h3 .accordion-header> [25,4017,718,54]
+                  { fontSize:20.16px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(2, 5, 83); width:717.625px; height:53.5938px; display:flex; justifyContent:space-between; alignItems:center; position:relative; transition:all }
+                  <button .accordion-button.collapsed> [25,4017,718,54] @aria-expanded=false @type=button
+                    { fontSize:13.44px; fontFamily:__gellix_2627c8; lineHeight:16.8px; textAlign:left; backgroundColor:rgb(255, 255, 255); padding:16.8px 0px; width:717.625px; height:53.5938px; display:block; alignItems:center; borderRadius:0px 0px 2.15px 2.15px; position:relative; transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+                    <span .d-flex.justify-content-between.align-items-center> [25,4034,718,20]
+                      { width:717.625px; height:20px; display:flex; justifyContent:space-between; alignItems:center; transition:all }
+                      <span .text.pe-10> [25,4035,361,17] "Can I use a line of credit for seasonal business needs?" @id=faq-can-i-use-a-line-of-credit-for-seasonal-business-needs
+                        { padding:0px 33.6px 0px 0px; width:360.938px; height:16.7969px; display:block; transition:all }
+                      <span .icon.d-inline-block.lh-0> [723,4034,20,20]
+                        { width:20px; height:20px; display:block; transition:transform 0.2s ease-in-out }
+                        <img> [723,4034,20,20] @alt=plus symbol blue @src=/images/icons/plus-blue.svg IMG https://www.bluevine.com/images/icons/plus-blue.svg 20x20
+                          { width:20px; height:20px; display:inline; transition:all; overflow:clip; aspectRatio:auto 20 / 20 }
+                <div .accordion-collapse.collapse> [0,0,0,0]
+                  { borderRadius:0px 0px 3.15px 3.15px; transition:all }
+                  <div .accordion-body> [0,0,0,0] @role=region
+                    { color:rgb(2, 5, 83); padding:25.2px 0px; display:block; transition:all }
+                    <p> [0,0,0,0] "Absolutely. A revolving credit line is ideal for managing seasonal cash flow needs, allowing businesses to borrow when i"
+                      { margin:0px 0px 13.44px; display:block; transition:all }
+  <section .jsx-189743592.my-13.my-xl-15> [0,4139,768,549]
+    { margin:53.76px 0px; width:768px; height:548.812px; display:block; transition:all }
+    <div .container> [0,4139,768,549]
+      { padding:0px 25.2px; width:768px; height:548.812px; maxWidth:100%; display:block; transition:all }
+      <div .justify-between.row> [13,4139,743,549]
+        { margin:0px -12.6px; width:742.812px; height:548.812px; display:flex; flexWrap:wrap; transition:all }
+        <div .col-12> [13,4139,743,0]
+          { padding:0px 12.6px; width:742.812px; maxWidth:100%; display:block; transition:all }
+        <div .col-lg-6.mb-8.mb-lg-0.col-12> [13,4139,743,264]
+          { padding:0px 12.6px; margin:0px 0px 20.16px; width:742.812px; height:264.328px; maxWidth:100%; display:block; transition:all }
+          <div .jsx-189743592.card.h-100.bg-blue-light.py-10.px-7> [25,4139,718,264]
+            { backgroundColor:rgb(215, 231, 255); padding:33.6px 13.44px 40.32px; width:717.625px; height:264.328px; display:block; borderRadius:0px 0px 84px; transition:all }
+            <img .jsx-189743592.img-fluid.icon> [39,4172,55,55] @src=/images/icons/transparent-pricing.svg IMG https://www.bluevine.com/images/icons/transparent-pricing.svg 150x150
+              { width:55px; height:55px; maxWidth:84px; display:inline; transition:transform 0.2s ease-in-out; overflow:clip; aspectRatio:auto 55 / 55 }
+            <h2 .jsx-189743592.font-size-30.font-size-xl-40.mb-7.mt-8.min-height-lg-80> [39,4247,691,25] "Need a traditional business loan?"
+              { fontSize:25.2px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:25.2px; margin:20.16px 0px 13.44px; width:690.75px; height:25.2031px; display:block; transition:all }
+            <p .jsx-189743592.font-size-15.font-size-xl-24.mb-0> [39,4286,691,19] "Apply online in minutes for a term loan up to $500,000 from our lending partners."
+              { fontSize:12.6px; lineHeight:18.9px; width:690.75px; height:18.8906px; display:block; transition:all }
+            <a .btn.btn-blue.mt-8.mt-lg-10> [39,4325,121,38] "Learn more" @href=https://www.bluevine.com/business-loans/term-loan
+              { fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; color:rgb(255, 255, 255); textAlign:center; backgroundColor:rgb(25, 67, 220); padding:8.4px 23.52px; margin:20.16px 0px 0px; width:120.922px; height:37.5781px; display:inline-block; borderRadius:5px; border:2px solid rgb(25, 67, 220); borderTop:2px solid rgb(25, 67, 220); borderBottom:2px solid rgb(25, 67, 220); transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+        <div .col-lg-6.col-12> [13,4423,743,264]
+          { padding:0px 12.6px; width:742.812px; height:264.328px; maxWidth:100%; display:block; transition:all }
+          <div .jsx-189743592.card.h-100.bg-blue-light.py-10.px-7> [25,4423,718,264]
+            { backgroundColor:rgb(184, 182, 255); padding:33.6px 13.44px 40.32px; width:717.625px; height:264.328px; display:block; borderRadius:0px 84px 0px 0px; transition:all }
+            <img .jsx-189743592.img-fluid.icon> [39,4457,55,55] @src=/images/icons/small-business-fill.svg IMG https://www.bluevine.com/images/icons/small-business-fill.svg 55x55
+              { width:55px; height:55px; maxWidth:84px; display:inline; transition:transform 0.2s ease-in-out; overflow:clip; aspectRatio:auto 55 / 55 }
+            <h2 .jsx-189743592.font-size-30.font-size-xl-40.mb-7.mt-8.min-height-lg-80> [39,4532,691,25] "Looking for SBA funding?"
+              { fontSize:25.2px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:25.2px; margin:20.16px 0px 13.44px; width:690.75px; height:25.2031px; display:block; transition:all }
+            <p .jsx-189743592.font-size-15.font-size-xl-24.mb-0> [39,4571,691,19] "We’ve partnered with Fundera by NerdWallet to help you access SBA 7(a) loans up to $350,000."
+              { fontSize:12.6px; lineHeight:18.9px; width:690.75px; height:18.8906px; display:block; transition:all }
+            <a .btn.btn-blue.mt-8.mt-lg-10> [39,4610,136,38] "Contact sales" @href=https://www.bluevine.com/business-loans/sba-loan
+              { fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:16.8px; color:rgb(255, 255, 255); textAlign:center; backgroundColor:rgb(25, 67, 220); padding:8.4px 23.52px; margin:20.16px 0px 0px; width:135.844px; height:37.5781px; display:inline-block; borderRadius:5px; border:2px solid rgb(25, 67, 220); borderTop:2px solid rgb(25, 67, 220); borderBottom:2px solid rgb(25, 67, 220); transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+  <section .jsx-8522eb3d0a1320e4.py-10.py-lg-15.bg-navy> [0,4741,768,1233]
+    { backgroundColor:rgb(2, 5, 83); padding:33.6px 0px; width:768px; height:1233.06px; display:block; transition:all }
+    <div .container> [0,4775,768,1153]
+      { padding:0px 25.2px; width:768px; height:1153.28px; maxWidth:100%; display:block; transition:all }
+      <div .row> [13,4775,743,96]
+        { margin:0px -12.6px; width:742.812px; height:95.7656px; display:flex; flexWrap:wrap; transition:all }
+        <div .col-md-12.col-12> [13,4775,743,96]
+          { padding:0px 12.6px; width:742.812px; height:95.7656px; maxWidth:100%; display:block; transition:all }
+          <h2 .jsx-8522eb3d0a1320e4.font-size-36.font-size-xl-72.fw-semibold.text-white.mb-8> [25,4775,718,30] "Explore helpful guides."
+            { fontSize:30.24px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:30.24px; color:rgb(255, 255, 255); margin:0px 0px 20.16px; width:717.625px; height:30.2344px; display:block; transition:all }
+          <p .jsx-8522eb3d0a1320e4.col-12.text-start.font-size-18.font-size-xl-24.text-white> [25,4825,718,45] "Learn how to make the most of your Bluevine account with these in-depth product guides and resources."
+            { fontSize:15.12px; lineHeight:22.68px; color:rgb(255, 255, 255); textAlign:left; width:717.625px; height:45.375px; display:block; transition:all }
+      <div .jsx-8522eb3d0a1320e4.mt-10.mt-md-13.mb-4.row> [13,4924,743,1004]
+        { margin:53.76px -12.6px 12.6px; width:742.812px; height:1003.77px; display:flex; flexWrap:wrap; transition:all }
+        <div .jsx-8522eb3d0a1320e4.col-lg-4.px-4.col-12.px-0.mb-7> [13,4924,743,341]
+          { padding:0px 12.6px; margin:0px 0px 13.44px; width:742.812px; height:340.859px; maxWidth:100%; display:block; transition:all }
+          <a .d-block.h-100.group> [25,4924,718,341] @href=https://www.bluevine.com/help-center/getting-started/how-to-
+            { color:rgb(25, 67, 220); width:717.625px; height:340.859px; display:block; transition:all }
+            <div .card.h-100.position-relative.bg-white> [25,4924,718,341]
+              { backgroundColor:rgb(255, 255, 255); width:717.625px; height:340.859px; display:block; position:relative; transition:all }
+              <div .card-header.overflow-hidden.d-flex.align-items-center.justify-content-center.bg-periwinkle> [25,4924,718,165]
+                { backgroundColor:rgb(184, 182, 255); width:717.625px; height:165px; minHeight:165px; display:flex; justifyContent:center; alignItems:center; transition:all; overflow:hidden }
+                <img .img-fluid> [327,4960,115,93] @alt=how to apply @src=/images/guides/how-to-apply.svg IMG https://www.bluevine.com/images/guides/how-to-apply.svg 176x142
+                  { width:115px; height:92.7812px; maxWidth:100%; display:block; transition:all; overflow:clip; aspectRatio:auto 115 / 115 }
+              <div .card-body.px-8.px-lg-8.pb-13.pt-8.pt-lg-8> [25,5089,718,176]
+                { padding:20.16px 20.16px 53.76px; width:717.625px; height:175.859px; display:block; transition:all }
+                <p .font-size-14.ff-gellix.fw-semibold.text-blue.mb-4.mb-lg-8> [45,5110,677,18] "Business Loans"
+                  { fontSize:11.76px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:17.64px; margin:0px 0px 12.6px; width:677.312px; height:17.6406px; display:block; transition:all }
+                <h3 .font-size-28.font-size-md-32.lh-xs.mb-4.mb-lg-7> [45,5140,677,59] "Everything you need to apply for a Bluevine Line of Credit."
+                  { fontSize:26.88px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:29.568px; color:rgb(2, 5, 83); margin:0px 0px 12.6px; width:677.312px; height:59.125px; display:block; transition:all }
+                <p .font-size-16.font-size-lg-20.d-none.d-lg-block.text-navy.mb-0> [0,0,0,0] "We’ve created this guide that covers everything you need to apply."
+                  { color:rgb(2, 5, 83); transition:all }
+                <span .font-size-16.text-blue.ff-gellix.text-blue.fw-semibold.text-decoration-underline> [45,5225,66,20] "Read more"
+                  { fontWeight:600; fontFamily:__gellix_2627c8; width:66px; height:20.1562px; display:block; position:absolute; top:300.547px; left:20.1562px; right:631.469px; bottom:20.16px; transition:all }
+        <div .jsx-8522eb3d0a1320e4.col-lg-4.px-4.col-12.px-0.mb-7> [13,5279,743,311]
+          { padding:0px 12.6px; margin:0px 0px 13.44px; width:742.812px; height:311.297px; maxWidth:100%; display:block; transition:all }
+          <a .d-block.h-100.group> [25,5279,718,311] @href=https://www.bluevine.com/help-center/getting-started/how-to-
+            { color:rgb(25, 67, 220); width:717.625px; height:311.297px; display:block; transition:all }
+            <div .card.h-100.position-relative.bg-white> [25,5279,718,311]
+              { backgroundColor:rgb(255, 255, 255); width:717.625px; height:311.297px; display:block; position:relative; transition:all }
+              <div .card-header.overflow-hidden.d-flex.align-items-center.justify-content-center.bg-periwinkle> [25,5279,718,165]
+                { backgroundColor:rgb(184, 182, 255); width:717.625px; height:165px; minHeight:165px; display:flex; justifyContent:center; alignItems:center; transition:all; overflow:hidden }
+                <img .img-fluid> [327,5328,115,67] @alt=how to use line of credit @src=/images/guides/how-to-use-line-of-credit.svg IMG https://www.bluevine.com/images/guides/how-to-use-line-of-credit.svg 228x132
+                  { width:115px; height:66.5781px; maxWidth:100%; display:block; transition:all; overflow:clip; aspectRatio:auto 115 / 115 }
+              <div .card-body.px-8.px-lg-8.pb-13.pt-8.pt-lg-8> [25,5444,718,146]
+                { padding:20.16px 20.16px 53.76px; width:717.625px; height:146.297px; display:block; transition:all }
+                <p .font-size-14.ff-gellix.fw-semibold.text-blue.mb-4.mb-lg-8> [45,5464,677,18] "Business Loans"
+                  { fontSize:11.76px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:17.64px; margin:0px 0px 12.6px; width:677.312px; height:17.6406px; display:block; transition:all }
+                <h3 .font-size-28.font-size-md-32.lh-xs.mb-4.mb-lg-7> [45,5494,677,30] "Make the most of your Bluevine line of credit."
+                  { fontSize:26.88px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:29.568px; color:rgb(2, 5, 83); margin:0px 0px 12.6px; width:677.312px; height:29.5625px; display:block; transition:all }
+                <p .font-size-16.font-size-lg-20.d-none.d-lg-block.text-navy.mb-0> [0,0,0,0] "Learn about your Bluevine Line of Credit benefits and how to use a line of credit to grow in your industry."
+                  { color:rgb(2, 5, 83); transition:all }
+                <span .font-size-16.text-blue.ff-gellix.text-blue.fw-semibold.text-decoration-underline> [45,5550,66,20] "Read more"
+                  { fontWeight:600; fontFamily:__gellix_2627c8; width:66px; height:20.1562px; display:block; position:absolute; top:270.984px; left:20.1562px; right:631.469px; bottom:20.16px; transition:all }
+        <div .jsx-8522eb3d0a1320e4.col-lg-4.px-4.col-12.px-0.mb-7> [13,5603,743,311]
+          { padding:0px 12.6px; margin:0px 0px 13.44px; width:742.812px; height:311.297px; maxWidth:100%; display:block; transition:all }
+          <a .d-block.h-100.group> [25,5603,718,311] @href=https://www.bluevine.com/help-center/line-of-credit-term-loa
+            { color:rgb(25, 67, 220); width:717.625px; height:311.297px; display:block; transition:all }
+            <div .card.h-100.position-relative.bg-white> [25,5603,718,311]
+              { backgroundColor:rgb(255, 255, 255); width:717.625px; height:311.297px; display:block; position:relative; transition:all }
+              <div .card-header.overflow-hidden.d-flex.align-items-center.justify-content-center.bg-periwinkle> [25,5603,718,165]
+                { backgroundColor:rgb(184, 182, 255); width:717.625px; height:165px; minHeight:165px; display:flex; justifyContent:center; alignItems:center; transition:all; overflow:hidden }
+                <img .img-fluid> [327,5634,115,104] @alt=connecting financial apps @src=/images/guides/connecting-financial-apps.svg IMG https://www.bluevine.com/images/guides/connecting-financial-apps.svg 180x162
+                  { width:115px; height:103.5px; maxWidth:100%; display:block; transition:all; overflow:clip; aspectRatio:auto 115 / 115 }
+              <div .card-body.px-8.px-lg-8.pb-13.pt-8.pt-lg-8> [25,5768,718,146]
+                { padding:20.16px 20.16px 53.76px; width:717.625px; height:146.297px; display:block; transition:all }
+                <p .font-size-14.ff-gellix.fw-semibold.text-blue.mb-4.mb-lg-8> [45,5789,677,18] "Business Loans"
+                  { fontSize:11.76px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:17.64px; margin:0px 0px 12.6px; width:677.312px; height:17.6406px; display:block; transition:all }
+                <h3 .font-size-28.font-size-md-32.lh-xs.mb-4.mb-lg-7> [45,5819,677,30] "How to connect an external bank account to Bluevine."
+                  { fontSize:26.88px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:29.568px; color:rgb(2, 5, 83); margin:0px 0px 12.6px; width:677.312px; height:29.5625px; display:block; transition:all }
+                <p .font-size-16.font-size-lg-20.d-none.d-lg-block.text-navy.mb-0> [0,0,0,0] "Connecting your external account can help you get the most out of your Bluevine Line of Credit..."
+                  { color:rgb(2, 5, 83); transition:all }
+                <span .font-size-16.text-blue.ff-gellix.text-blue.fw-semibold.text-decoration-underline> [45,5874,66,20] "Read more"
+                  { fontWeight:600; fontFamily:__gellix_2627c8; width:66px; height:20.1562px; display:block; position:absolute; top:270.984px; left:20.1562px; right:631.469px; bottom:20.16px; transition:all }
+  <section .py-11.py-xl-15.bg-blue> [0,5974,768,227]
+    { backgroundColor:rgb(25, 67, 220); padding:40.32px 0px; width:768px; height:226.594px; display:block; transition:all }
+    <div .container> [0,6015,768,146]
+      { padding:0px 25.2px; width:768px; height:145.969px; maxWidth:100%; display:block; transition:all }
+      <div .d-flex.align-items-md-center.row> [13,6015,743,146]
+        { margin:0px -12.6px; width:742.812px; height:145.969px; display:flex; flexWrap:wrap; alignItems:center; transition:all }
+        <div .col-md-8.col-12> [13,6060,495,55]
+          { padding:0px 12.6px; width:495.203px; height:55.4375px; maxWidth:100%; display:block; transition:all }
+          <h2 .font-size-34.font-size-xl-60.text-white.mb-9.mb-lg-0.fadeInUp> [25,6060,470,29] "Ready to apply for a line of credit?"
+            { fontSize:28.56px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:28.56px; color:rgb(255, 255, 255); margin:0px 0px 26.88px; width:470.016px; height:28.5625px; display:block; opacity:0; transition:all }
+            <br .d-none.d-lg-block> [0,0,0,0]
+              { transition:all }
+        <div .col-md-4.col-12> [508,6015,248,146]
+          { padding:0px 12.6px; width:247.594px; height:145.969px; maxWidth:100%; display:block; transition:all }
+          <a .btn.btn-blue.btn.btn-white.btn-lg.text-blue> [520,6015,244,51] "Start application" @href=https://app.bluevine.com/signup/?signup_parent_url=https%3A%
+            { fontSize:16.8px; fontWeight:600; fontFamily:__gellix_2627c8; color:rgb(25, 67, 220); textAlign:center; backgroundColor:rgb(255, 255, 255); padding:13.44px 55.44px; width:244.109px; height:51.0312px; display:inline-block; borderRadius:5px; border:2px solid rgb(255, 255, 255); borderTop:2px solid rgb(255, 255, 255); borderBottom:2px solid rgb(255, 255, 255); transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+          <p .text-white.mt-9.mt-lg-7.mb-0.font-size-18.font-size-xl-20> [520,6093,222,68] "Submit your application in just a few minutes with no impact to your credit score."
+            { fontSize:15.12px; lineHeight:22.68px; color:rgb(255, 255, 255); margin:26.88px 0px 0px; width:222.406px; height:68.0625px; display:block; transition:all }
+            <sup .d-inline> [643,6140,5,11] "3" @role=link
+              { fontSize:8.316px; display:inline; position:relative; top:-6.237px; bottom:6.237px; transition:all }
+<footer .Footer_footer__OYoYH.footer.bg-navy.text-white> [0,6201,768,1380]
+  { fontSize:13.44px; fontWeight:400; fontFamily:__gellix_2627c8; lineHeight:20.16px; color:rgb(255, 255, 255); backgroundColor:rgb(2, 5, 83); width:768px; height:1380.23px; display:block; transition:all }
+  <div .mb-10.mb-lg-14.container> [0,6201,768,378]
+    { padding:0px 25.2px; margin:0px 0px 33.6px; width:768px; height:377.547px; maxWidth:100%; display:block; transition:all }
+    <div .row> [13,6201,743,70]
+      { margin:0px -12.6px; width:742.812px; height:69.875px; display:flex; flexWrap:wrap; transition:all }
+      <div .Footer_inlineMenu__Me_LB.col> [13,6201,743,70]
+        { padding:0px 12.6px; width:742.812px; height:69.875px; maxWidth:100%; display:block; transition:all }
+        <ul .list-unstyled.d-flex.flex-wrap.align-items-center.justify-content-between.justify-content-lg-start> [25,6201,718,70]
+          { padding:20.16px 0px; width:717.625px; height:69.875px; display:flex; flexWrap:wrap; justifyContent:space-between; alignItems:center; borderBottom:1px solid rgba(202, 209, 215, 0.25); transition:all }
+          <li .pe-lg-11> [25,6221,60,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:60.2812px; height:28.5625px; display:list-item; transition:all }
+            <a .font-size-14.font-size-xl-24> [25,6229,60,13] "Contact Us" @href=https://www.bluevine.com/contact-us
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li .pe-lg-11> [256,6221,49,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:48.8281px; height:28.5625px; display:list-item; transition:all }
+            <a .font-size-14.font-size-xl-24> [256,6229,49,13] "About Us" @href=https://www.bluevine.com/about
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li .pe-lg-11> [476,6221,43,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:42.5938px; height:28.5625px; display:list-item; transition:all }
+            <a .font-size-14.font-size-xl-24> [476,6229,43,13] "Careers" @href=https://www.bluevine.com/careers
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li .pe-5> [690,6221,53,29]
+            { lineHeight:15.12px; padding:6.72px 25.2px 6.72px 0px; width:53.2344px; height:28.5625px; display:list-item; transition:all }
+            <a .font-size-14.font-size-xl-24> [690,6229,28,13] "Press" @href=https://www.bluevine.com/newsroom
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+    <div .justify-content-between.row> [13,6271,743,308]
+      { margin:0px -12.6px; width:742.812px; height:307.672px; display:flex; flexWrap:wrap; justifyContent:space-between; transition:all }
+      <div .pt-8.pt-lg-11.pb-lg-7.col-md-2.col-6> [13,6271,124,308]
+        { padding:20.16px 12.6px 0px; width:123.797px; height:307.672px; maxWidth:100%; display:block; transition:all }
+        <b .font-size-20.font-size-xl-24.text-white> [25,6294,68,18] "Products" @role=heading
+          { fontSize:16.8px; fontWeight:700; lineHeight:25.2px; display:inline; transition:all }
+        <ul .list-unstyled> [25,6316,99,217]
+          { width:98.6094px; height:216.75px; display:block; transition:all }
+          <li> [25,6316,99,44]
+            { lineHeight:15.12px; padding:6.72px 0px; width:98.6094px; height:43.6875px; display:list-item; transition:all }
+            <a> [25,6324,51,28] "Business Checking" @href=https://www.bluevine.com/business-checking
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li> [25,6360,99,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:98.6094px; height:28.5625px; display:list-item; transition:all }
+            <a> [25,6368,72,13] "Line of Credit" @href=https://www.bluevine.com/business-loans/line-of-credit
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li> [25,6388,99,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:98.6094px; height:28.5625px; display:list-item; transition:all }
+            <a> [25,6396,62,13] "Term Loans" @href=https://www.bluevine.com/business-loans/term-loan
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li> [25,6417,99,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:98.6094px; height:28.5625px; display:list-item; transition:all }
+            <a> [25,6425,94,13] "Accept Payments" @href=https://www.bluevine.com/accept-payments
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li> [25,6445,99,44]
+            { lineHeight:15.12px; padding:6.72px 0px; width:98.6094px; height:43.6875px; display:list-item; transition:all }
+            <a> [25,6453,80,28] "Accountants & Bookkeepers" @href=https://www.bluevine.com/accountants-and-bookkeepers
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li> [25,6489,99,44]
+            { lineHeight:15.12px; padding:6.72px 0px; width:98.6094px; height:43.6875px; display:list-item; transition:all }
+            <a> [25,6497,90,28] "International Business Owners" @href=https://www.bluevine.com/us-business-banking-for-internation
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+      <div .pt-8.pt-lg-11.pb-lg-7.col-md-2.col-5> [157,6271,124,308]
+        { padding:20.16px 12.6px 0px; width:123.797px; height:307.672px; maxWidth:100%; display:block; transition:all }
+        <b .font-size-20.font-size-xl-24.text-white> [170,6294,78,18] "Resources" @role=heading
+          { fontSize:16.8px; fontWeight:700; lineHeight:25.2px; display:inline; transition:all }
+        <ul .list-unstyled> [170,6316,99,143]
+          { width:98.6094px; height:142.812px; display:block; transition:all }
+          <li> [170,6316,99,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:98.6094px; height:28.5625px; display:list-item; transition:all }
+            <a> [170,6324,64,13] "Help Center" @href=https://www.bluevine.com/help-center
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li> [170,6345,99,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:98.6094px; height:28.5625px; display:list-item; transition:all }
+            <a> [170,6352,27,13] "FAQs" @href=https://www.bluevine.com/faq
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li> [170,6373,99,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:98.6094px; height:28.5625px; display:list-item; transition:all }
+            <a> [170,6381,72,13] "Business Blog" @href=https://www.bluevine.com/blog
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li> [170,6402,99,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:98.6094px; height:28.5625px; display:list-item; transition:all }
+            <a> [170,6410,45,13] "Partners" @href=https://www.bluevine.com/partner
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li> [170,6430,99,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:98.6094px; height:28.5625px; display:list-item; transition:all }
+            <a> [170,6438,98,13] "Customer Reviews" @href=https://www.bluevine.com/reviews
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+      <div .pt-8.pt-lg-11.pb-lg-7.col-md-3.col-11> [301,6271,186,308]
+        { padding:20.16px 12.6px 0px; width:185.703px; height:307.672px; maxWidth:100%; display:block; transition:all }
+        <b .font-size-20.font-size-xl-24.text-white> [314,6294,42,18] "Legal" @role=heading
+          { fontSize:16.8px; fontWeight:700; lineHeight:25.2px; display:inline; transition:all }
+        <ul .list-unstyled> [314,6316,161,262]
+          { width:160.516px; height:262.328px; display:block; transition:all }
+          <li> [314,6316,161,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:160.516px; height:28.5625px; display:list-item; transition:all }
+            <a> [314,6324,69,13] "Terms of Use" @href=https://www.bluevine.com/terms-use
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li> [314,6345,161,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:160.516px; height:28.5625px; display:list-item; transition:all }
+            <a> [314,6352,121,13] "Bluevine Privacy Policy" @href=https://www.bluevine.com/privacy-policy
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li> [314,6373,161,44]
+            { lineHeight:15.12px; padding:6.72px 0px; width:160.516px; height:43.6875px; display:list-item; transition:all }
+            <a> [314,6381,108,28] "Coastal Community Bank Privacy Policy" @href=https://www.coastalbank.com/privacy-notice.html
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+              <br> [422,6381,0,13]
+                { display:inline; transition:all }
+          <li> [314,6417,161,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:160.516px; height:28.5625px; display:list-item; transition:all }
+            <a> [314,6425,67,13] "Accessibility" @href=https://www.bluevine.com/accessibility
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li> [314,6445,161,44]
+            { lineHeight:15.12px; padding:6.72px 0px; width:160.516px; height:43.6875px; display:list-item; transition:all }
+            <a> [314,6453,144,28] "Bluevine Payment Terms of Service" @href=https://www.bluevine.com/bill-payment-terms
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+              <br .d-none.d-lg-block> [0,0,0,0]
+                { transition:all }
+          <li> [314,6489,161,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:160.516px; height:28.5625px; display:list-item; transition:all }
+            <a> [314,6497,130,13] "European Privacy Notice" @href=https://www.bluevine.com/european-privacy-notice
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+          <li> [314,6518,161,32]
+            { lineHeight:15.12px; padding:6.72px 0px; width:160.516px; height:32.1406px; display:list-item; transition:all }
+            <button .btn.btn-link.p-0.text-start.font-size-14.font-size-xl-20> [314,6524,136,19] @id=ot-sdk-btn
+              { fontSize:11.76px; fontWeight:600; fontFamily:__gellix_2627c8; lineHeight:14.7px; textAlign:left; width:136.219px; height:18.7031px; display:inline-block; borderRadius:5px; border:2px solid rgba(0, 0, 0, 0); borderTop:2px solid rgba(0, 0, 0, 0); borderBottom:2px solid rgba(0, 0, 0, 0); transition:color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-sha }
+              <span .d-inline-flex.align-items-center.gap-2> [316,6526,132,15]
+                { width:132.219px; height:14.7031px; display:inline-flex; alignItems:center; gap:4.2px; transition:all }
+                <span> [316,6526,132,15] "Your Privacy Preferences"
+                  { width:132.219px; height:14.7031px; display:block; transition:all }
+          <li> [314,6550,161,29]
+            { lineHeight:15.12px; padding:6.72px 0px; width:160.516px; height:28.5625px; display:list-item; transition:all }
+            <a> [314,6558,109,13] "Advisory Agreement" @href=https://www.bluevine.com/advisory-agreement
+              { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+      <div .col-md-4.col-12> [508,6271,248,308]
+        { padding:0px 12.6px; width:247.594px; height:307.672px; maxWidth:100%; display:block; transition:all }
+        <div .row> [508,6271,248,85]
+          { margin:0px -12.6px; width:247.594px; height:85.1875px; display:flex; flexWrap:wrap; transition:all }
+          <div .mt-10.mb-8.mb-lg-6.col-12> [508,6304,248,31]
+            { padding:0px 12.6px; margin:33.6px 0px 20.16px; width:247.594px; height:31.4375px; maxWidth:100%; display:block; transition:all }
+            <ul .Footer_socialIcons__ATjeL.list-unstyled.d-flex.flex-wrap.align-items-center> [520,6304,222,31]
+              { width:222.406px; height:31.4375px; display:flex; flexWrap:wrap; alignItems:center; transition:all }
+              <li .icon-social.lh-1.me-10> [520,6304,18,31]
+                { lineHeight:13.44px; padding:6.72px 0px; margin:0px 33.6px 0px 0px; width:18px; height:31.4375px; display:list-item; transition:all }
+                <a> [520,6312,18,13] @href=https://www.facebook.com/bluevinecapital
+                  { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+                  <svg .[object.SVGAnimatedString]> [520,6311,18,18] SVG
+                    { width:18px; height:18px; display:inline; transition:all; overflow:hidden }
+              <li .icon-social.lh-1.me-10> [572,6304,18,31]
+                { lineHeight:13.44px; padding:6.72px 0px; margin:0px 33.6px 0px 0px; width:18px; height:31.4375px; display:list-item; transition:all }
+                <a> [572,6312,18,13] @href=https://www.twitter.com/Bluevine    
+                  { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+                  <svg .[object.SVGAnimatedString]> [572,6311,18,18] SVG
+                    { width:18px; height:18px; display:inline; transition:all; overflow:hidden }
+              <li .icon-social.lh-1.me-10> [624,6304,18,31]
+                { lineHeight:13.44px; padding:6.72px 0px; margin:0px 33.6px 0px 0px; width:18px; height:31.4375px; display:list-item; transition:all }
+                <a> [624,6312,18,13] @href=https://www.linkedin.com/company/bluevine/
+                  { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+                  <svg .[object.SVGAnimatedString]> [624,6311,18,18] SVG
+                    { width:18px; height:18px; display:inline; transition:all; overflow:hidden }
+              <li .icon-social.lh-1.me-10> [675,6304,18,31]
+                { lineHeight:13.44px; padding:6.72px 0px; margin:0px 33.6px 0px 0px; width:18px; height:31.4375px; display:list-item; transition:all }
+                <a> [675,6312,18,13] @href=https://www.instagram.com/bluevine/
+                  { fontSize:11.76px; fontWeight:600; lineHeight:14.112px; display:inline; transition:all }
+                  <svg .[object.SVGAnimatedString]> [675,6311,18,18] SVG
+                    { width:18px; height:18px; display:inline; transition:all; overflow:hidden }
+        <div .row> [508,6356,248,124]
+          { margin:0px -12.6px; width:247.594px; height:123.656px; display:flex; flexWrap:wrap; transition:all }
+          <div .col> [508,6356,248,124]
+            { padding:0px 12.6px; width:247.594px; height:123.656px; maxWidth:100%; display:block; transition:all }
+            <p .font-size-16.fw-semibold.text-white.mb-3> [520,6356,222,45] "Bluevine is a financial technology company, not a bank."
+              { fontWeight:600; lineHeight:15.12px; margin:0px 0px 8.4px; width:222.406px; height:45.375px; display:block; transition:all }
+              <br> [581,6371,0,15]
+                { display:inline; transition:all }
+            <p .font-size-16.fw-semibold.text-white.mb-3> [520,6410,222,62] "Deposits are FDIC insured up to $3,000,000 per depositor through Coastal Community Bank, Member FDIC and our ."
+              { fontWeight:600; lineHeight:15.12px; margin:0px 0px 8.4px; width:222.406px; height:61.5px; display:block; transition:all }
+              <a .text-decoration-underline.font-size-16.fw-semibold.text-white> [603,6455,93,15] "program banks" @href=https://support.bluevine.com/s/article/What-banks-does-Bluev
+                { lineHeight:16.128px; display:inline; transition:all }
+  <div .Footer_footNotes__Sj1e3> [0,6612,768,107]
+    { width:768px; height:106.844px; display:block; transition:all }
+    <div .container> [0,6612,768,107]
+      { padding:0px 25.2px; width:768px; height:106.844px; maxWidth:100%; display:block; transition:all }
+      <div .row> [13,6612,743,107]
+        { margin:0px -12.6px; width:742.812px; height:106.844px; display:flex; flexWrap:wrap; transition:all }
+        <div .col-12> [13,6612,743,107]
+          { padding:0px 12.6px; width:742.812px; height:106.844px; maxWidth:100%; display:block; transition:all }
+          <div .Footer_borderTop__t6mXD.border-top.pt-7.pb-8.pt-lg-9.pb-lg-10> [25,6612,718,107]
+            { padding:13.44px 0px 20.16px; width:717.625px; height:106.844px; display:block; borderTop:1px solid rgba(202, 209, 215, 0.25); transition:all }
+            <ul .ms-0.mb-0> [25,6626,718,72]
+              { padding:0px 0px 0px 12.6px; width:717.625px; height:72.25px; display:block; transition:all }
+              <li .position-relative.list-unstyled> [38,6626,705,29]
+                { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); padding:6.72px 0px; width:705.031px; height:28.5625px; display:list-item; position:relative; transition:opacity 1s ease-in-out }
+                <span .position-absolute.fw-semibold> [25,6633,5,15] "‡"
+                  { fontWeight:600; width:4.71875px; height:15.125px; display:block; position:absolute; top:6.71875px; left:-12.6px; right:712.906px; bottom:6.71875px; transition:all }
+                <span> [38,6635,583,11] "The national average and comparison are based on interest rates paid by U.S. depository institutions ."
+                  { display:inline; transition:all }
+                  <a> [501,6635,117,11] "as calculated by the FDIC" @href=https://www.fdic.gov/resources/bankers/national-rates/
+                    { fontWeight:700; display:inline; transition:all }
+              <li .position-relative.list-unstyled> [38,6655,705,44]
+                { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); padding:6.72px 0px; width:705.031px; height:43.6875px; display:list-item; position:relative; transition:opacity 1s ease-in-out }
+                <span .position-absolute.fw-semibold> [25,6662,6,15] "◊"
+                  { fontWeight:600; width:5.76562px; height:15.125px; display:block; position:absolute; top:6.71875px; left:-12.6px; right:711.859px; bottom:21.8438px; transition:all }
+                <span> [38,6664,666,26] "Applications are subject to credit approval. Rates and terms may vary based on your creditworthiness and are subject to "
+                  { display:inline; transition:all }
+  <div .Footer_footNotes__Sj1e3.container-narrow.px-lg-0.mx-auto> [0,6719,768,233]
+    { width:768px; height:232.844px; display:block; transition:all }
+    <div .container> [0,6719,768,233]
+      { padding:0px 25.2px; width:768px; height:232.844px; maxWidth:100%; display:block; transition:all }
+      <div .row> [13,6719,743,233]
+        { margin:0px -12.6px; width:742.812px; height:232.844px; display:flex; flexWrap:wrap; transition:all }
+        <div .col-12> [13,6719,743,233]
+          { padding:0px 12.6px; width:742.812px; height:232.844px; maxWidth:100%; display:block; transition:all }
+          <div .Footer_borderTop__t6mXD.border-top.pt-7.pb-10.pt-lg-9.pb-lg-12> [25,6719,718,233]
+            { padding:13.44px 0px 33.6px; width:717.625px; height:232.844px; display:block; borderTop:1px solid rgba(202, 209, 215, 0.25); transition:all }
+            <ol .ms-0.mb-0> [25,6733,718,185]
+              { padding:0px 0px 0px 12.6px; width:717.625px; height:184.812px; display:block; transition:all }
+              <li> [38,6733,705,69] @id=BVSUP-00127
+                { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); padding:8.4px 0px 0px; width:705.031px; height:68.8906px; display:list-item; transition:opacity 1s ease-in-out }
+                <span> [38,6744,699,56] "Draw requests are subject to review and approval. Bluevine Line of Credit customers can access approved draws instantly "
+                  { display:inline; transition:all }
+                <span .d-none> [0,0,0,0] "↵" @role=link
+                  { transition:all }
+              <li> [38,6802,705,54] @id=BVSUP-00142
+                { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); padding:8.4px 0px 0px; width:705.031px; height:53.7656px; display:list-item; transition:opacity 1s ease-in-out }
+                <span> [38,6813,690,41] "Applications are subject to credit approval. Rates, credit lines, and terms may vary based on your creditworthiness and "
+                  { display:inline; transition:all }
+                <span .d-none> [0,0,0,0] "↵" @role=link
+                  { transition:all }
+              <li> [38,6856,705,39] @id=BVSUP-00008
+                { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); padding:8.4px 0px 0px; width:705.031px; height:38.6406px; display:list-item; transition:opacity 1s ease-in-out }
+                <span> [38,6866,670,26] "While applying and reviewing an offer will not impact your personal credit score, accepting an offer may result in a har"
+                  { display:inline; transition:all }
+                <span .d-none> [0,0,0,0] "↵" @role=link
+                  { transition:all }
+              <li> [38,6895,705,24] @id=BVSUP-00052
+                { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); padding:8.4px 0px 0px; width:705.031px; height:23.5156px; display:list-item; transition:opacity 1s ease-in-out }
+                <span> [38,6905,321,11] "Customer and lending statistics include Paycheck Protection Program."
+                  { display:inline; transition:all }
+                <span .d-none> [0,0,0,0] "↵" @role=link
+                  { transition:all }
+  <div> [0,6952,768,629]
+    { width:768px; height:629.406px; display:block; transition:all }
+    <div .container> [0,6952,768,629]
+      { padding:0px 25.2px; width:768px; height:629.406px; maxWidth:100%; display:block; transition:all }
+      <div .row> [13,6952,743,629]
+        { margin:0px -12.6px; width:742.812px; height:629.406px; display:flex; flexWrap:wrap; transition:all }
+        <div .col-12> [13,6952,743,629]
+          { padding:0px 12.6px; width:742.812px; height:629.406px; maxWidth:100%; display:block; transition:all }
+          <div .Footer_borderTop__t6mXD.border-top.pt-10.pb-13> [25,6952,718,629]
+            { padding:33.6px 0px 53.76px; width:717.625px; height:629.406px; display:block; borderTop:1px solid rgba(202, 209, 215, 0.25); transition:all }
+            <p> [25,6986,718,91] "Bluevine is a financial technology company, not a bank. Banking Services provided by Coastal Community Bank, Member FDIC"
+              { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); margin:0px 0px 13.44px; width:717.625px; height:90.75px; display:block; transition:all }
+              <a> [25,7034,70,11] "program banks" @href=https://support.bluevine.com/s/article/What-banks-does-Bluev
+                { fontWeight:600; lineHeight:12.096px; display:inline; transition:all }
+            <p> [25,7091,718,30] "Bluevine Business Checking is available to qualified U.S.-registered businesses owned by those in select countries. Not "
+              { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); margin:0px 0px 13.44px; width:717.625px; height:30.25px; display:block; transition:all }
+              <a> [25,7093,695,26] "See supported countries and eligibility requirements." @href=https://www.bluevine.com/us-business-banking-for-internation
+                { fontWeight:600; lineHeight:12.096px; display:inline; transition:all }
+              <a> [433,7108,169,11] "See international features for details." @href=https://www.bluevine.com/us-business-banking-features-for-in
+                { fontWeight:600; lineHeight:12.096px; display:inline; transition:all }
+            <p> [25,7134,718,30] "Mastercard, Mastercard Easy Savings, Mastercard Airport Concierge, Priceless Surprises and the circles design are regist"
+              { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); margin:0px 0px 13.44px; width:717.625px; height:30.25px; display:block; transition:all }
+            <p> [25,7178,718,15] "Application is subject to approval. No monthly or maintenance fees. Card Replacement Fees and Wire Transfer Fees may app"
+              { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); margin:0px 0px 13.44px; width:717.625px; height:15.125px; display:block; transition:all }
+            <p> [25,7206,718,30] "Banking Services for payments made via ACH or wire from the Bluevine Business Checking Account are provided by Coastal C"
+              { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); margin:0px 0px 13.44px; width:717.625px; height:30.25px; display:block; transition:all }
+            <p> [25,7250,718,45] "The Bluevine Line of Credit is issued by Celtic Bank and is serviced by Bluevine. Applications are subject to credit app"
+              { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); margin:0px 0px 13.44px; width:717.625px; height:45.375px; display:block; transition:all }
+            <p> [25,7309,718,15] "Certain financing may be made or arranged pursuant to California Financing Law-License No. 6054789."
+              { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); margin:0px 0px 13.44px; width:717.625px; height:15.125px; display:block; transition:all }
+            <p> [25,7338,718,30] "Payment processing services are provided by Stripe, Inc., N.A. Bluevine Inc. Payment processing services are available t"
+              { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); margin:0px 0px 13.44px; width:717.625px; height:30.25px; display:block; transition:all }
+            <p> [25,7381,718,61] "Tap to Pay is only available on supported devices and may require upgrading to the latest version of the Bluevine app an"
+              { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); margin:0px 0px 13.44px; width:717.625px; height:60.5px; display:block; transition:all }
+              <a> [645,7429,23,11] "here." @href=https://developer.apple.com/tap-to-pay/regions/
+                { fontWeight:600; lineHeight:12.096px; display:inline; transition:all }
+            <p> [25,7455,718,30] "All other product names, logos, brands, trademarks, and registered trademarks are property of their respective owners. A"
+              { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); margin:0px 0px 13.44px; width:717.625px; height:30.25px; display:block; transition:all }
+            <p> [25,7499,718,15] "® 2026 Bluevine Inc. All Rights Reserved. “Bluevine” and the Bluevine logo are registered trademarks of Bluevine Inc."
+              { fontSize:10.08px; lineHeight:15.12px; color:rgba(255, 255, 255, 0.75); margin:0px 0px 13.44px; width:717.625px; height:15.125px; display:block; transition:all }

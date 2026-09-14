@@ -275,7 +275,6 @@ export const CONTACT_FAQ: FaqItem[] = [
   { question: "Can I talk to someone before I apply?", answerHtml: "Yes. <a class=\"underline\" href=\"/book-a-call\">Book a call</a> and a funding specialist will walk through your options, what lenders look for and whether now is the right time to borrow. No application needed." },
   { question: "I already have an application in. Who do I contact?", answerHtml: "Reply to any email from your specialist or call the number above and give your business name. Your specialist has your full file and every offer in front of them." },
   { question: "Do you charge for a call or a consultation?", answerHtml: "Never. FundLine is paid by the lender when a loan funds. Advice, comparisons and calls are free whether or not you borrow." },
-  { question: "I am a broker or a lender. Where do I go?", answerHtml: "Brokers and ISO partners start at <a class=\"underline\" href=\"/for-brokers\">For brokers</a>. Banks, credit unions and online lenders can read about joining the network at <a class=\"underline\" href=\"/for-lenders\">For lenders</a> or write to partners@fundlinecapital.com." },
 ];
 
 /* ------------------------------------------------------------------ */
