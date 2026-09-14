@@ -52,6 +52,8 @@ export interface LoanTypeDetail {
   speed: string;
   bestFor: string;
   rate: string;
+  /** 1-bit stipple product illustration drawn in the card's top-right corner. */
+  image: string;
   /** Dedicated product page, when one exists. */
   href?: string;
 }

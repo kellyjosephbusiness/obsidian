@@ -4,7 +4,7 @@ import type { HeroContent } from "@/types/sites/corgi-insure-a0f7893c/products";
 import { Rails } from "../directors-and-officers-f2860438/rails";
 
 export const EYEBROW_CLASS =
-  "rounded-full border border-[#e1e1e1] bg-white px-4 py-1.5 text-[12px] font-medium uppercase tracking-[0.08em] text-[#4a4a4a]";
+  "rounded-[4px] border border-[#e1e1e1] bg-white px-4 py-1.5 text-[12px] font-medium uppercase tracking-[0.08em] text-[#4a4a4a]";
 
 interface PageHeroProps {
   content: HeroContent;
@@ -21,7 +21,7 @@ export function PageHero({ content, dataTrack }: PageHeroProps) {
       <Rails width={1600} />
       <div className="relative mx-auto flex w-full max-w-[860px] flex-col items-center gap-6 text-center">
         {content.icon && (
-          <div className="flex size-[72px] items-center justify-center rounded-[20px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
+          <div className="flex size-[72px] items-center justify-center rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
             <MaterialIcon name={content.icon} size={36} className="text-[#1e3a8a]" />
           </div>
         )}

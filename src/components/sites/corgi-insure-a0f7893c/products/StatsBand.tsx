@@ -15,7 +15,7 @@ export function StatsBand({ heading, stats }: StatsBandProps) {
         <h2 className="px-4 font-mono font-medium text-white text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)] md:px-6">
           {heading}
         </h2>
-        <dl className="grid grid-cols-1 gap-px overflow-clip rounded-[24px] border border-[#585858] bg-[#585858] sm:grid-cols-2 lg:grid-cols-4">
+        <dl className="grid grid-cols-1 gap-px overflow-clip rounded-[8px] border border-[#585858] bg-[#585858] sm:grid-cols-2 lg:grid-cols-4">
           {stats.map((stat) => (
             <div key={stat.label} className="flex flex-col gap-3 bg-[#313131] p-6">
               <dd className="font-mono text-[40px] font-medium leading-none tracking-[-1.28px] text-white md:text-[48px] md:tracking-[-1.54px]">{stat.value}</dd>

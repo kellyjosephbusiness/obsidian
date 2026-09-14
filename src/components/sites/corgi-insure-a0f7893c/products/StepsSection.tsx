@@ -20,7 +20,7 @@ export function StepsSection({ id, heading, sub, items }: StepsSectionProps) {
         </div>
         <div className="relative">
           <Hairlines zIndex="z-0" />
-          <ol className="relative z-10 grid grid-cols-1 gap-px overflow-clip rounded-[24px] border border-[#e1e1e1] bg-[#e1e1e1] md:grid-cols-2 lg:grid-cols-4">
+          <ol className="relative z-10 grid grid-cols-1 gap-px overflow-clip rounded-[8px] border border-[#e1e1e1] bg-[#e1e1e1] md:grid-cols-2 lg:grid-cols-4">
             {items.map((step, i) => (
               <li key={step.title} className="flex flex-col gap-5 bg-white p-6">
                 <span className="font-mono text-[40px] font-medium leading-none tracking-[-1.28px] text-[#1e3a8a]">{String(i + 1).padStart(2, "0")}</span>

@@ -540,18 +540,66 @@ export const POLICIES: Policy[] = [
 ];
 
 export const SPECIALIZED_COVERAGES: SpecializedCoverage[] = [
-  { title: "Startup Loans", desc: "Funding options for businesses under two years old, sized to early revenue and the owner’s personal credit profile." },
-  { title: "SBA 504 Loans", desc: "Long-term, fixed-rate financing for major assets like buildings and heavy equipment, backed by the SBA." },
-  { title: "SBA Express", desc: "A faster SBA option with a streamlined review for smaller amounts when you need government-backed terms quickly." },
-  { title: "Working Capital Loans", desc: "Short-term financing to cover payroll, inventory, or seasonal dips without tying up your line of credit." },
-  { title: "Franchise Financing", desc: "Capital to open or expand a franchise location, often paired with lenders who already know the brand." },
-  { title: "Acquisition Loans", desc: "Financing to buy an existing business or a competitor, structured around the target’s cash flow." },
-  { title: "Bridge Loans", desc: "Short-term capital that carries you between a cash need today and longer-term financing tomorrow." },
-  { title: "Inventory Financing", desc: "Loans or credit lines secured by the products on your shelves, ideal for retailers and wholesalers." },
-  { title: "Microloans", desc: "Smaller loans, typically under $50K, for very early businesses, sole proprietors, and community-based lenders." },
-  { title: "Truck & Fleet Financing", desc: "Purchase or refinance rigs, trailers, and delivery vehicles with terms matched to how carriers get paid." },
-  { title: "Restaurant Financing", desc: "Capital for kitchens, build-outs, and seasonal cash flow from lenders who understand food-service margins." },
-  { title: "Healthcare Practice Loans", desc: "Financing for practices and clinics to buy equipment, add providers, or open a second location." },
+  {
+    title: "Startup Loans",
+    desc: "Funding options for businesses under two years old, sized to early revenue and the owner’s personal credit profile.",
+    image: `${ASSETS}/images/products/specialty/startup-loans.png`,
+  },
+  {
+    title: "SBA 504 Loans",
+    desc: "Long-term, fixed-rate financing for major assets like buildings and heavy equipment, backed by the SBA.",
+    image: `${ASSETS}/images/products/specialty/sba-504-loans.png`,
+  },
+  {
+    title: "SBA Express",
+    desc: "A faster SBA option with a streamlined review for smaller amounts when you need government-backed terms quickly.",
+    image: `${ASSETS}/images/products/specialty/sba-express.png`,
+  },
+  {
+    title: "Working Capital Loans",
+    desc: "Short-term financing to cover payroll, inventory, or seasonal dips without tying up your line of credit.",
+    image: `${ASSETS}/images/products/specialty/working-capital-loans.png`,
+  },
+  {
+    title: "Franchise Financing",
+    desc: "Capital to open or expand a franchise location, often paired with lenders who already know the brand.",
+    image: `${ASSETS}/images/products/specialty/franchise-financing.png`,
+  },
+  {
+    title: "Acquisition Loans",
+    desc: "Financing to buy an existing business or a competitor, structured around the target’s cash flow.",
+    image: `${ASSETS}/images/products/specialty/acquisition-loans.png`,
+  },
+  {
+    title: "Bridge Loans",
+    desc: "Short-term capital that carries you between a cash need today and longer-term financing tomorrow.",
+    image: `${ASSETS}/images/products/specialty/bridge-loans.png`,
+  },
+  {
+    title: "Inventory Financing",
+    desc: "Loans or credit lines secured by the products on your shelves, ideal for retailers and wholesalers.",
+    image: `${ASSETS}/images/products/specialty/inventory-financing.png`,
+  },
+  {
+    title: "Microloans",
+    desc: "Smaller loans, typically under $50K, for very early businesses, sole proprietors, and community-based lenders.",
+    image: `${ASSETS}/images/products/specialty/microloans.png`,
+  },
+  {
+    title: "Truck & Fleet Financing",
+    desc: "Purchase or refinance rigs, trailers, and delivery vehicles with terms matched to how carriers get paid.",
+    image: `${ASSETS}/images/products/specialty/truck-fleet-financing.png`,
+  },
+  {
+    title: "Restaurant Financing",
+    desc: "Capital for kitchens, build-outs, and seasonal cash flow from lenders who understand food-service margins.",
+    image: `${ASSETS}/images/products/specialty/restaurant-financing.png`,
+  },
+  {
+    title: "Healthcare Practice Loans",
+    desc: "Financing for practices and clinics to buy equipment, add providers, or open a second location.",
+    image: `${ASSETS}/images/products/specialty/healthcare-practice-loans.png`,
+  },
 ];
 
 export const FAQ_HEADER = {

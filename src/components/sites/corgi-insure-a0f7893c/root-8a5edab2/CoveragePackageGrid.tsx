@@ -58,9 +58,9 @@ function CoveragePackageCard({ pkg, pills }: CoveragePackageCardProps) {
   const artRight = DESKTOP_HEADER_INNER_WIDTH - art.wrapper.left - art.wrapper.width;
 
   return (
-    <div className="flex h-full flex-col overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
+    <div className="flex h-full flex-col overflow-clip rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
       {/* Header: title + art */}
-      <div className="-mx-px -mt-px relative flex h-[160px] flex-col justify-end gap-3 overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white p-5 shadow-[0_0_24px_0_rgba(25,25,25,0.35)]">
+      <div className="-mx-px -mt-px relative flex h-[160px] flex-col justify-end gap-3 overflow-clip rounded-[8px] border border-[#e1e1e1] bg-white p-5 shadow-[0_0_24px_0_rgba(25,25,25,0.35)]">
         <div
           aria-hidden
           className="pointer-events-none absolute flex items-center justify-center"
