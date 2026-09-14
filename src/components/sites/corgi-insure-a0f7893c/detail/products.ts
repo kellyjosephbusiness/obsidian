@@ -904,9 +904,9 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     breadcrumb: productCrumb("Merchant Cash Advance"),
     hero: {
       headingLine1: "Funding that follows",
-      headingLine2: "your card sales.",
+      headingLine2: "your monthly revenue.",
       accentLine2: true,
-      sub: "Get $5K to $500K against future card sales and repay a fixed percentage of each day's revenue, so slow days cost less.¹ Approvals lean on sales volume, not credit, and funds can land in 24 hours.² We show every offer's APR next to its factor rate.³",
+      sub: "Get $5K to $500K against your future revenue and repay a fixed percentage of each day's card sales, so slow days cost less.¹ Approvals lean on revenue, not credit, and funds can land in 24 hours.² We show every offer's APR next to its factor rate.³",
       cta: APPLY,
       fineprint: FINEPRINT,
       estimator: {
@@ -1009,7 +1009,7 @@ export const PRODUCT_PAGES: DetailPageContent[] = [
     faq: {
       heading: "Merchant cash advance questions, answered",
       items: [
-        { question: "What is a merchant cash advance?", answer: "A purchase of a portion of your future card sales at a discount. The funder gives you a lump sum today and collects a fixed percentage of your daily card receipts until an agreed total, the payback amount, is reached. It is technically not a loan, which is why the terms differ." },
+        { question: "What is a merchant cash advance?", answer: "A purchase of a portion of your future revenue at a discount. The funder gives you a lump sum today and collects a fixed percentage of your daily card receipts until an agreed total, the payback amount, is reached. It is technically not a loan, which is why the terms differ." },
         { question: "How much can I get?", answer: "Advances in our network run from $5,000 to $500,000. Funders typically offer 70% to 120% of your average monthly card sales. A restaurant processing $60K a month might see offers between $40K and $70K." },
         { question: "What is a factor rate?", answer: "The multiplier that sets your payback amount. A $40,000 advance at a 1.24 factor rate means you repay $49,600 regardless of how fast you pay. Because there is no interest clock, paying faster does not lower the cost, which is why the equivalent APR can be high." },
         { question: "What does an advance really cost?", answer: "Factor rates in our network range from about 1.15 to 1.45. Depending on how quickly your sales repay it, that works out to an equivalent APR anywhere from roughly 25% to over 80%. We calculate and show the APR on every offer so the comparison is honest." },

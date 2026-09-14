@@ -59,6 +59,10 @@
 }
 
 :root {
+  /* The site has no dark theme, so never let the UA paint form controls, scrollbars
+     or embedded documents with a dark scheme when the OS is in dark mode. */
+  color-scheme: light;
+
   --background: #f6f6f6;
   --foreground: #1d1d1d;
   --card: #2c2c2c;

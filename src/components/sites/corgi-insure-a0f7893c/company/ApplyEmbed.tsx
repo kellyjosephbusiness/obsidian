@@ -3,13 +3,11 @@ import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/Ma
 import { APPLY_INTRO, APPLY_TRUST, APPLY_TRUST_QUOTE } from "./data";
 import { LendTrackEmbed } from "./LendTrackEmbed";
 import { Eyebrow } from "./PageHero";
-import { Rails } from "./SectionFrame";
 
 /** /apply — intro column plus the live LendTrack funding application in a white card. */
 export function ApplyEmbed() {
   return (
     <section className="relative border-b border-[#e1e1e1] bg-[#f6f6f6] px-4 pt-[120px] pb-12 md:px-6 md:pt-[176px] md:pb-24 lg:px-16">
-      <Rails width={1200} />
       <div className="relative mx-auto grid w-full max-w-[1200px] grid-cols-1 gap-6 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] lg:gap-16">
         <div className="flex flex-col gap-4 lg:sticky lg:top-[116px] lg:gap-6 lg:self-start">
           <Eyebrow>{APPLY_INTRO.eyebrow}</Eyebrow>
