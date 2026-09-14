@@ -115,7 +115,7 @@ function ItemContent({ item }: { item: NavMenuItem }) {
       <MaterialIcon name={item.icon} size={16} className="shrink-0 text-[#4a4a4a]" />
       <span className="flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]">{item.label}</span>
       {item.badge && (
-        <span className="rounded-[4px] bg-[#dde4f6] px-2 py-1 text-[8px] font-medium text-[#1e3a8a]">
+        <span className="rounded-[4px] bg-[#dde4f6] px-2 py-1 text-[12px] font-medium text-[#1e3a8a]">
           {item.badge}
         </span>
       )}
