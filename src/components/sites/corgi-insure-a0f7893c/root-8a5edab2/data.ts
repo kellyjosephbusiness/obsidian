@@ -4,6 +4,7 @@ import type {
   FooterColumn,
   FooterLink,
   FooterStat,
+  GetQuotedProof,
   HeroTickerItem,
   NavMenu,
   OrbLogo,
@@ -218,21 +219,21 @@ export const QUOTE_STRIP = {
 } as const;
 
 export const JOURNEY = {
-  heading: "Funding Designed Around Your Business’s Journey",
+  heading: "Funding designed around your business’s journey",
   sub: "From your first invoice to your next expansion, we’ve built funding packages for every phase.",
   ctaLabel: "Apply now",
   hint: { before: "Click any", chip: "Product", chipHref: "#explore-coverages", after: "to see how it works" },
 } as const;
 
 export const POLICY_PILLS: PolicyPill[] = [
-  { label: "Term Loan", description: "A lump sum repaid over a fixed schedule. Best for one-time investments like a build-out, a big order, or an acquisition." },
-  { label: "Line of Credit", description: "A revolving limit you draw from as needed and pay interest only on what you use. Ideal for smoothing cash flow." },
-  { label: "SBA 7(a)", description: "Government-backed loans with longer terms and lower rates for established businesses that can wait a little longer." },
-  { label: "Equipment", description: "Financing secured by the equipment itself, so you can buy trucks, machines, or tech without draining cash." },
-  { label: "Invoice", description: "Turn unpaid invoices into working capital today instead of waiting 30 to 90 days for customers to pay." },
-  { label: "Startup", description: "Funding options for businesses under two years old, sized to early revenue and the owner’s credit profile." },
-  { label: "Credit Card", description: "A business card for everyday spend that builds business credit and keeps personal and company expenses separate." },
-  { label: "Real Estate", description: "Long-term loans to buy, build, or refinance the property your business operates from." },
+  { label: "Term Loan", href: "/term-loans", description: "A lump sum repaid over a fixed schedule. Best for one-time investments like a build-out, a big order, or an acquisition." },
+  { label: "Line of Credit", href: "/line-of-credit", description: "A revolving limit you draw from as needed and pay interest only on what you use. Ideal for smoothing cash flow." },
+  { label: "SBA 7(a)", href: "/sba-loans", description: "Government-backed loans with longer terms and lower rates for established businesses that can wait a little longer." },
+  { label: "Equipment", href: "/equipment-financing", description: "Financing secured by the equipment itself, so you can buy trucks, machines, or tech without draining cash." },
+  { label: "Invoice", href: "/invoice-financing", description: "Turn unpaid invoices into working capital today instead of waiting 30 to 90 days for customers to pay." },
+  { label: "Startup", href: "/startup-loans", description: "Funding options for businesses under two years old, sized to early revenue and the owner’s credit profile." },
+  { label: "Credit Card", href: "/business-credit-card", description: "A business card for everyday spend that builds business credit and keeps personal and company expenses separate." },
+  { label: "Real Estate", href: "/commercial-real-estate", description: "Long-term loans to buy, build, or refinance the property your business operates from." },
 ];
 
 export const COVERAGE_PACKAGES: CoveragePackage[] = [
@@ -296,14 +297,14 @@ export const COVERAGE_PACKAGES: CoveragePackage[] = [
     description: "Know exactly what you need?",
     pillsIntro: "Pick the products that fit your business best",
     policies: ["Term Loan", "Line of Credit", "SBA 7(a)", "Equipment", "Real Estate", "Invoice", "Credit Card", "Startup"],
-    morePoliciesHref: LINKS.allFinancing,
+    morePoliciesHref: LINKS.loanTypes,
     art: {
-      src: `${ASSETS}/images/journey-cards/custom-hands.png`,
-      width: 189,
-      height: 105,
-      wrapper: { top: -1, left: 187, width: 189, height: 105 },
-      transform: "rotate(180deg)",
-      objectFit: "cover",
+      src: `${ASSETS}/images/journey-cards/custom-print.png`,
+      width: 171,
+      height: 139,
+      wrapper: { top: -24, left: 172, width: 188, height: 161 },
+      transform: "rotate(6.4deg)",
+      objectFit: "contain",
     },
     ctaHref: `${LINKS.apply}?package=custom`,
     ctaIcon: "widgets",
@@ -312,7 +313,7 @@ export const COVERAGE_PACKAGES: CoveragePackage[] = [
 ];
 
 export const ADVANTAGE = {
-  heading: "Our Unique Advantage",
+  heading: "Our unique advantage",
   legacy: {
     chips: [
       { icon: "store", label: "Branch appointment" },
@@ -321,7 +322,7 @@ export const ADVANTAGE = {
       { icon: "edit_square", label: "Underwriting (30+ days)" },
     ],
     certificateTitle: "Loan Agreement",
-    title: "Traditional Bank Lending",
+    title: "Traditional bank lending",
     description:
       "The old way: branch appointments, paper applications, credit committees, and underwriting cycles that often run several weeks. One lender, one product, one answer, and a lot of waiting.",
   },
@@ -348,26 +349,19 @@ export const ORB_LOGOS: OrbLogo[] = [
   { icon: "design_services" },
 ];
 
+/** Proof bullets under the "Apply in 15 minutes" heading. */
+export const GET_QUOTED_PROOF: GetQuotedProof[] = [
+  { icon: "schedule", label: "About 15 minutes" },
+  { icon: "shield", label: "Soft inquiry only" },
+  { icon: "account_balance", label: "Offers from the lenders we work with" },
+  { icon: "support_agent", label: "A specialist calls you back" },
+];
+
 export const GET_QUOTED = {
-  headingA: "Get Funded Instantly",
-  headingJoin: " or ",
-  headingB: "Talk to a Funding Specialist",
-  selfServe: {
-    heading: "Self-Serve: Apply, compare offers in minutes, and fund in as little as 24 hours.",
-    body: "Complete the online application, review offers from our lender network, pick your terms, and receive funds in as little as one business day. No calls or back-and-forth required.",
-    bestForLabel: "Best for:",
-    bestFor: "Owners who know how much they need and want a fast, frictionless experience.",
-    cta: { label: "Start your application", href: LINKS.apply, icon: "arrow_forward" },
-  },
-  demo: {
-    heading: "Prefer a hand? Apply and a specialist takes it from there.",
-    bodyBefore:
-      "We’ll walk you through your options, help you compare rates and terms, and answer any questions so you can move forward with confidence. ",
-    bodyStrong: "Our funding specialists are available any day of the week, including weekends!",
-    bestForLabel: "Best for:",
-    bestFor: "Owners who want guidance, have a more complex situation, or prefer a hands-on approach.",
-    cta: { label: "Apply now", href: LINKS.apply, icon: "arrow_forward" },
-  },
+  heading: "Apply in 15 minutes. A specialist finishes it with you.",
+  body: "One short application covers every lender we work with. A FundLine funding specialist reviews it, fills in the gaps with you on a quick call, and brings back real offers so you can pick the terms that fit.",
+  proof: GET_QUOTED_PROOF,
+  cta: { label: "Apply now", href: LINKS.apply },
   form: {
     title: "Business financials",
     subtitle: "Please share a few numbers about your business.",
@@ -378,22 +372,12 @@ export const GET_QUOTED = {
     uploadLabel: "Upload recent bank statements if available",
     dropTitle: "Drop the files here",
     dropSub: "Max 3 files, up to 50MB each",
-    dragChip: "Bank Statement, Probably",
     fundingLabel: "Amount requested ($)",
     fundingPlaceholder: "Enter amount",
     dateLabel: "Business start date",
     datePlaceholder: "MM/DD/YYYY",
     back: "← Back",
     next: "Next →",
-    bubble: "An estimate is fine",
-    bubbleInvalid: "numbers please!",
-  },
-  images: {
-    corgiPhone: `${ASSETS}/images/mascot/bull-chef.png`,
-    cursorDocument: `${ASSETS}/images/get-covered/cursor/document.png`,
-    cursorFill: `${ASSETS}/images/get-covered/cursor/cursor-fill.svg`,
-    cursorBody: `${ASSETS}/images/get-covered/cursor/cursor-body.svg`,
-    greenPlus: `${ASSETS}/images/get-covered/cursor/green-plus.svg`,
   },
 } as const;
 
@@ -406,8 +390,8 @@ export interface Review {
 }
 
 export const REVIEWS_HEADER = {
-  headingLine1: "100s of Happy Owners",
-  headingLine2: "and Counting.",
+  headingLine1: "100s of happy owners",
+  headingLine2: "and counting.",
 } as const;
 
 /** Illustrative reviews (names and places are fictional). */
@@ -424,8 +408,8 @@ export const REVIEWS: Review[] = [
 
 export const TESTIMONIALS_HEADER = {
   headingBefore: "Built for ",
-  headingItalic: "Owners",
-  headingAfter: "Who Build",
+  headingItalic: "owners",
+  headingAfter: "who build",
   sub: "Why small businesses get funded with FundLine Capital.",
   cta: { label: "Read customer stories", href: LINKS.customers },
 } as const;
@@ -512,9 +496,8 @@ export const TESTIMONIALS: Testimonial[] = [
 ];
 
 export const POLICIES_HEADER = {
-  heading: "Explore Our Loan Products",
+  heading: "Explore our loan products",
   sub: "Don’t over-borrow for the future or under-fund the now. Mix and match products as you grow, from first hire to fifth location.",
-  badge: "Fast decision",
   learnMore: "Learn more",
   seeSpecialized: { label: "See all financing types", href: LINKS.allFinancing },
   turnaround: "1-14 days to fund",
@@ -526,65 +509,73 @@ export const POLICIES: Policy[] = [
     title: "Term Loan",
     description: "A lump sum with a fixed repayment schedule, sized from $5K to $5M for expansions, build-outs, and big purchases.",
     href: "/term-loans",
-    image: `${ASSETS}/images/fl.webp`,
+    image: `${ASSETS}/images/products/term-loan.png`,
     imageWidth: 384,
-    imageHeight: 158,
+    imageHeight: 240,
+    speed: "1 to 3 days",
   },
   {
     title: "Business Line of Credit",
     description: "A revolving limit you can draw on whenever cash gets tight, paying interest only on what you use.",
     href: "/line-of-credit",
-    image: `${ASSETS}/images/tech-eo.webp`,
+    image: `${ASSETS}/images/products/line-of-credit.png`,
     imageWidth: 384,
-    imageHeight: 173,
+    imageHeight: 240,
+    speed: "Same day",
   },
   {
     title: "SBA 7(a) Loan",
     description: "Government-backed financing with long terms and competitive rates for established businesses that can plan ahead.",
     href: "/sba-loans",
-    image: `${ASSETS}/images/cyber.webp`,
+    image: `${ASSETS}/images/products/sba-7a.png`,
     imageWidth: 384,
-    imageHeight: 190,
+    imageHeight: 240,
+    speed: "30 to 90 days",
   },
   {
     title: "Equipment Financing",
     description: "Buy or lease vehicles, machinery, and technology with financing secured by the equipment itself.",
     href: "/equipment-financing",
-    image: `${ASSETS}/images/hnoa.webp`,
-    imageWidth: 348,
+    image: `${ASSETS}/images/products/equipment-financing.png`,
+    imageWidth: 384,
     imageHeight: 240,
+    speed: "2 to 5 days",
   },
   {
     title: "Invoice Financing",
     description: "Advance cash against unpaid invoices so slow-paying customers don’t stall your growth.",
     href: "/invoice-financing",
-    image: `${ASSETS}/images/media.webp`,
-    imageWidth: 382,
+    image: `${ASSETS}/images/products/invoice-financing.png`,
+    imageWidth: 384,
     imageHeight: 240,
+    speed: "1 to 2 days",
   },
   {
     title: "Merchant Cash Advance",
     description: "An advance repaid as a percentage of daily card sales, with approvals based on revenue rather than collateral.",
     href: "/merchant-cash-advance",
-    image: `${ASSETS}/images/cgl.webp`,
+    image: `${ASSETS}/images/products/merchant-cash-advance.png`,
     imageWidth: 384,
-    imageHeight: 158,
+    imageHeight: 240,
+    speed: "Same day",
   },
   {
     title: "Commercial Real Estate Loan",
     description: "Long-term financing to buy, build, or refinance the property your business operates from.",
     href: "/commercial-real-estate",
-    image: `${ASSETS}/images/epl.webp`,
-    imageWidth: 324,
+    image: `${ASSETS}/images/products/commercial-real-estate.png`,
+    imageWidth: 384,
     imageHeight: 240,
+    speed: "30 to 60 days",
   },
   {
     title: "Business Credit Card",
     description: "Everyday spending power that builds your business credit profile and keeps expenses separate from personal accounts.",
     href: "/business-credit-card",
-    image: `${ASSETS}/images/tech-eo.webp`,
+    image: `${ASSETS}/images/products/business-credit-card.png`,
     imageWidth: 384,
-    imageHeight: 173,
+    imageHeight: 240,
+    speed: "7 to 10 days",
   },
 ];
 
@@ -604,7 +595,7 @@ export const SPECIALIZED_COVERAGES: SpecializedCoverage[] = [
 ];
 
 export const FAQ_HEADER = {
-  heading: "FAQ",
+  heading: "Questions, answered",
   footer: { text: "Can’t find an answer to your question?", link: { label: "Get in touch", href: LINKS.contact } },
 } as const;
 
@@ -647,7 +638,7 @@ export const FAQ: FaqItem[] = [
 ];
 
 export const FOOTER_CTA = {
-  headingLine1: "FundLine Capital Provides the Funding Built for Owners.",
+  headingLine1: "FundLine Capital provides the funding built for owners.",
   headingLine2: "Move fast. Grow things. Stay funded, under one roof.",
   corgis: [
     { alt: "FundLine bull in a suit", src: `${ASSETS}/images/mascot/bull-fly-right.png`, flip: false },
@@ -726,8 +717,10 @@ export const FOOTER_SOCIAL: FooterLink[] = [
   { label: "X", href: "https://x.com/" },
 ];
 
+/** Footer landscape: the hero's cloud sky and dithered NYC skyline, composed with CSS. */
 export const FOOTER_IMAGES = {
-  background: `${ASSETS}/footer-bg.webp`,
+  sky: `${ASSETS}/images/hero/cloud-sky-bg.webp`,
+  skyline: `${ASSETS}/images/hero/nyc-skyline-dither.png`,
 } as const;
 
 export const DISCLAIMER_PARAGRAPHS: string[] = [

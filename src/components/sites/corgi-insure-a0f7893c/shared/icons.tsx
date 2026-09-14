@@ -60,10 +60,10 @@ export function AuroraTunnelSvg(props: SVGProps<SVGSVGElement>) {
         </filter>
         <linearGradient id="aurora-gradient" x1="812" y1="184" x2="24" y2="184" gradientUnits="userSpaceOnUse" gradientTransform="translate(-9.990887055167311 0)">
           <stop stopColor="white" />
-          <stop offset="0.110577" stopColor="#B4C8F7" />
-          <stop offset="0.322115" stopColor="#BF73EB" />
-          <stop offset="0.649038" stopColor="#9FC4FF" />
-          <stop offset="1" stopColor="#8EA6F0" />
+          <stop offset="0.110577" stopColor="#dde4f6" />
+          <stop offset="0.322115" stopColor="#5b75c4" />
+          <stop offset="0.649038" stopColor="#1e3a8a" />
+          <stop offset="1" stopColor="#8ea6f0" />
         </linearGradient>
       </defs>
     </svg>

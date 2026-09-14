@@ -35,15 +35,15 @@ function ChipRow({ copy }: { copy: number }) {
         return (
           <div key={`${copy}-${chip.label}`} className="contents">
             <div
-              className="flex shrink-0 items-center gap-3 rounded-[24px] border-2 border-[#ff405d] bg-[#ffe9ec] p-4 shadow-[0_0_0_4px_#ff94a4] motion-safe:[animation:var(--pulse)]"
+              className="flex shrink-0 items-center gap-3 rounded-[24px] border-2 border-[#d9c2c2] bg-[#f8f2f2] p-4 shadow-[0_0_0_4px_#ecdcdc] motion-safe:[animation:var(--pulse)]"
               style={pulse}
             >
-              <MaterialIcon name={chip.icon} size={24} className="shrink-0 text-[#ff405d]" />
-              <span className="whitespace-nowrap font-mono font-normal text-[24px] text-[#ff405d] leading-none tracking-[-0.032em]">
+              <MaterialIcon name={chip.icon} size={24} className="shrink-0 text-[#8a4b4b]" />
+              <span className="whitespace-nowrap font-mono font-normal text-[24px] text-[#8a4b4b] leading-none tracking-[-0.032em]">
                 {chip.label}
               </span>
             </div>
-            <div className="h-0.5 w-6 shrink-0 bg-[#ff405d]" />
+            <div className="h-0.5 w-6 shrink-0 bg-[#d9c2c2]" />
           </div>
         );
       })}
@@ -52,9 +52,9 @@ function ChipRow({ copy }: { copy: number }) {
 }
 
 /**
- * Left-hand white card of "Our Unique Advantage": a scrolling marquee of
- * pink "legacy process" chips with pulsing rings above two stacked
- * certificate-of-insurance papers, plus the title/description block.
+ * Left-hand white card of "Our unique advantage": a scrolling marquee of
+ * muted grey-red "old way" chips with pulsing rings above two stacked
+ * loan-agreement papers, plus the title/description block.
  */
 export function LegacyCarriersCard() {
   const { certificateTitle, title, description } = ADVANTAGE.legacy;

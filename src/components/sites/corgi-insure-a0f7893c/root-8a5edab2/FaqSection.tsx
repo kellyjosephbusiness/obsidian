@@ -79,8 +79,8 @@ function FaqRow({ item, open, onToggle }: FaqRowProps) {
 }
 
 /**
- * "FAQ" section: single-open accordion inside a white card with a grey inner
- * panel and a "Can't find an answer?" footer row (site: FaqSection).
+ * "Questions, answered": single-open accordion inside a full-width white card with a grey
+ * inner panel and a "Can't find an answer?" footer row.
  */
 export interface FaqSectionProps {
   items?: FaqItem[];
@@ -93,21 +93,17 @@ export function FaqSection({ items = FAQ, heading = FAQ_HEADER.heading, footer =
   const last = items.length - 1;
 
   return (
-    <section className="relative border-[#e1e1e1] border-b bg-[#f6f6f6] px-4 py-16 md:px-6 md:py-20 lg:px-16">
-      {/* Vertical rails aligned to the 800px container edges */}
-      <div
-        aria-hidden
-        className="pointer-events-none absolute top-0 bottom-0 left-[max(16px,calc((100%-800px)/2))] w-px bg-[#e1e1e1] md:left-[max(24px,calc((100%-800px)/2))] lg:left-[max(64px,calc((100%-800px)/2))]"
-      />
-      <div
-        aria-hidden
-        className="pointer-events-none absolute top-0 right-[max(16px,calc((100%-800px)/2))] bottom-0 w-px bg-[#e1e1e1] md:right-[max(24px,calc((100%-800px)/2))] lg:right-[max(64px,calc((100%-800px)/2))]"
-      />
+    <section className="relative overflow-hidden border-[#e1e1e1] border-b bg-[#f6f6f6] px-4 py-16 md:px-6 md:py-20 lg:px-16">
+      <div className="relative mx-auto flex w-full max-w-[1200px] flex-col gap-4 md:gap-6">
+        {/* Vertical rails at the container edges (same column as the "Explore" section), extended through the section padding */}
+        <div aria-hidden className="pointer-events-none absolute -top-16 -bottom-16 left-0 z-[5] w-px bg-[#e1e1e1] md:-top-20 md:-bottom-20" />
+        <div aria-hidden className="pointer-events-none absolute -top-16 -bottom-16 right-0 z-[5] w-px bg-[#e1e1e1] md:-top-20 md:-bottom-20" />
 
-      <div className="relative mx-auto flex w-full max-w-[800px] flex-col items-center gap-6">
-        <h2 className="px-6 text-center font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]">
-          {heading}
-        </h2>
+        <div className="flex flex-col gap-6 px-4 md:px-6">
+          <h2 className="font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]">
+            {heading}
+          </h2>
+        </div>
 
         <div className="relative w-full">
           {/* Full-bleed horizontal hairlines at the card's top and bottom edges */}
@@ -121,7 +117,7 @@ export function FaqSection({ items = FAQ, heading = FAQ_HEADER.heading, footer =
           />
 
           <div className="relative w-full overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
-            <div className="-m-px relative flex flex-col justify-center gap-4 overflow-clip rounded-[24px] bg-[#f6f6f6] p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
+            <div className="-m-px relative flex flex-col justify-center gap-4 overflow-clip rounded-[24px] bg-[#f6f6f6] p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
               {items.map((item, i) => (
                 <Fragment key={item.question}>
                   <FaqRow

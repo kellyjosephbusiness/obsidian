@@ -286,8 +286,8 @@
   to { transform: translate(-25%); }
 }
 @keyframes pill-ring-pulse {
-  0%, to { box-shadow: 0 0 0 4px #ff94a4; }
-  50% { box-shadow: 0 0 0 8px #ff94a4; }
+  0%, to { box-shadow: 0 0 0 4px #ecdcdc; }
+  50% { box-shadow: 0 0 0 8px #ecdcdc; }
 }
 @keyframes chip-ripple {
   0% { box-shadow: 0 0 #1e3a8a80; }

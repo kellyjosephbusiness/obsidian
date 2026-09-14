@@ -8,19 +8,15 @@ import {
   FOOTER_IMAGES,
   FOOTER_LEGAL,
   FOOTER_SOCIAL,
-  FOOTER_STATS,
 } from "./data";
 import { FundLineBadge } from "@/components/sites/corgi-insure-a0f7893c/shared/FundLineLogo";
-
-/** Number of duplicated stat strips; `logo-scroll` translates the track by -25% (one copy). */
-const STAT_COPIES = 4;
 
 const isExternal = (href: string) => /^(https?:)?\/\//.test(href);
 
 /**
- * Site footer: dark CTA band (5 corgis, heading, two pressable buttons), CSS press marquee,
- * 5-column link grid with hairline dividers, legal/social row, landscape illustration and the
- * black disclaimer block. Server component — the only motion is the CSS `logo-scroll` keyframe.
+ * Site footer: dark CTA band (heading + "Apply now"), 5-column link grid with hairline dividers,
+ * legal/social row, the cloud-and-skyline landscape band and the black disclaimer block.
+ * Server component.
  */
 export interface FooterCta {
   headingLine1: string;
@@ -61,26 +57,7 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
         </div>
       </section>
 
-      {/* 2. Proof-point marquee (replaces press logos) */}
-      <div className="w-full overflow-hidden border-t border-b border-[#e1e1e1] py-8">
-        <div className="flex w-max items-center gap-20 motion-safe:animate-[logo-scroll_40s_linear_infinite]">
-          {Array.from({ length: STAT_COPIES }, (_, copy) => (
-            <div key={copy} className="flex shrink-0 items-end gap-20" aria-hidden={copy > 0 || undefined}>
-              {FOOTER_STATS.map((item) => (
-                <div key={item.value} className="flex flex-col items-center gap-2">
-                  <div className="flex items-baseline gap-2 whitespace-nowrap">
-                    <span className="font-mono text-[28px] font-medium leading-none tracking-[-0.02em] text-[#191919]">{item.value}</span>
-                    <span className="text-[15px] leading-none tracking-[-0.01em] text-[#606060]">{item.label}</span>
-                  </div>
-                  <span className="whitespace-nowrap font-mono text-[11px] text-[#7b7b7b] tracking-[-0.01em]">{item.caption}</span>
-                </div>
-              ))}
-            </div>
-          ))}
-        </div>
-      </div>
-
-      {/* 3. Link grid, legal row and background illustration */}
+      {/* 2. Link grid, legal row and landscape band */}
       <div className="relative w-full">
         <div
           aria-hidden
@@ -143,19 +120,34 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
           </div>
         </div>
 
-        <div className="relative z-10 w-full overflow-hidden">
+        {/* Landscape band: light sky gradient, the hero's clouds, and the dithered NYC skyline at reduced opacity */}
+        <div aria-hidden className="relative z-10 aspect-[1440/534] w-full overflow-hidden bg-gradient-to-b from-[#eef2fb] to-white">
           <Image
             alt=""
-            src={FOOTER_IMAGES.background}
-            width={1440}
-            height={534}
+            src={FOOTER_IMAGES.sky}
+            fill
             sizes="100vw"
-            className="h-auto w-full object-cover object-top"
+            className="object-cover object-bottom opacity-60 [mask-image:linear-gradient(to_top,black_30%,transparent_100%)]"
+          />
+          <Image
+            alt=""
+            src={FOOTER_IMAGES.skyline}
+            width={2400}
+            height={872}
+            sizes="100vw"
+            className="absolute bottom-0 left-1/2 h-auto w-[1400px] max-w-none -translate-x-1/2 opacity-[0.26] [mask-image:linear-gradient(to_bottom,transparent_0%,black_55%)] md:w-[1800px] lg:w-[2100px]"
+          />
+          <Image
+            alt=""
+            src={FOOTER_IMAGES.sky}
+            fill
+            sizes="100vw"
+            className="object-cover object-bottom opacity-70 [mask-image:linear-gradient(to_top,black_20%,transparent_70%)]"
           />
         </div>
       </div>
 
-      {/* 4. Disclaimer */}
+      {/* 3. Disclaimer */}
       <div className="w-full bg-black p-8 text-sm text-stone-200">
         {DISCLAIMER_PARAGRAPHS.map((paragraph, index) => (
           <p key={index} className={index > 0 ? "mt-4" : undefined}>
