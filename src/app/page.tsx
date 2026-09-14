@@ -1,6 +1,5 @@
 import { AdvantageSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/AdvantageSection";
 import { FaqSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/FaqSection";
-import { GetQuotedMobile } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/GetQuotedMobile";
 import { GetQuotedSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/GetQuotedSection";
 import { HeroSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/HeroSection";
 import { IntroSection } from "@/components/sites/corgi-insure-a0f7893c/root-8a5edab2/IntroSection";
@@ -34,7 +33,6 @@ export default function Home() {
             <JourneySection />
             <AdvantageSection />
             <GetQuotedSection />
-            <GetQuotedMobile />
             <TestimonialsSection />
             <PoliciesSection />
             <FaqSection />

@@ -63,6 +63,8 @@ export interface CompanyLogo {
 export interface PolicyPill {
   label: string;
   description: string;
+  /** Product route the pill links to. */
+  href: string;
 }
 
 export interface PackageArt {
@@ -110,6 +112,14 @@ export interface Policy {
   image: string;
   imageWidth: number;
   imageHeight: number;
+  /** Typical time from accepted offer to funds, shown as the card's speed label (e.g. "Same day"). */
+  speed: string;
+}
+
+/** One proof bullet in the "Apply in 15 minutes" section. */
+export interface GetQuotedProof {
+  icon: MaterialIconName;
+  label: string;
 }
 
 export interface SpecializedCoverage {

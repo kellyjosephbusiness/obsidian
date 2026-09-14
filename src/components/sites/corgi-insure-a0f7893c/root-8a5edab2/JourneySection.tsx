@@ -4,9 +4,8 @@ import type { CoveragePackage, PolicyPill } from "@/types/sites/corgi-insure-a0f
 import { COVERAGE_PACKAGES, JOURNEY, POLICY_PILLS } from "./data";
 
 /**
- * "Coverage Designed Around Your Startup’s Journey" — full-viewport section with
- * the four coverage-package cards (site: CoveragePackagesGrid) and the
- * "Click any [Policy] to see what it covers" hint row.
+ * "Funding designed around your business’s journey" — the four funding-package cards
+ * (CoveragePackageGrid) and the "Click any [Product] to see how it works" hint row.
  */
 export interface JourneySectionProps {
   heading?: string;
@@ -17,7 +16,7 @@ export interface JourneySectionProps {
 
 export function JourneySection({ heading = JOURNEY.heading, sub = JOURNEY.sub, packages = COVERAGE_PACKAGES, pills = POLICY_PILLS }: JourneySectionProps = {}) {
   return (
-    <section className="relative flex min-h-[max(720px,100vh)] items-center overflow-clip border-[#e1e1e1] border-b bg-[#f6f6f6] px-4 py-16 md:px-6 md:py-20 lg:px-16">
+    <section className="relative overflow-clip border-[#e1e1e1] border-b bg-[#f6f6f6] px-4 py-10 md:px-6 md:py-12 lg:px-16 lg:py-16">
       <div
         aria-hidden
         className="pointer-events-none absolute inset-y-0 left-[max(16px,calc((100vw-1600px)/2))] w-px bg-[#e1e1e1] md:left-[max(24px,calc((100vw-1600px)/2))] lg:left-[max(64px,calc((100vw-1600px)/2))]"
@@ -27,7 +26,7 @@ export function JourneySection({ heading = JOURNEY.heading, sub = JOURNEY.sub, p
         className="pointer-events-none absolute inset-y-0 right-[max(16px,calc((100vw-1600px)/2))] w-px bg-[#e1e1e1] md:right-[max(24px,calc((100vw-1600px)/2))] lg:right-[max(64px,calc((100vw-1600px)/2))]"
       />
 
-      <div className="-translate-y-[4vh] relative mx-auto flex w-full max-w-[1600px] flex-col gap-4 md:gap-6">
+      <div className="relative mx-auto flex w-full max-w-[1600px] flex-col gap-4 md:gap-6">
         <div className="flex flex-col gap-6 px-4 md:px-6">
           <h2 className="font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-none tracking-[-0.032em]">
             {heading}

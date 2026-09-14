@@ -3,23 +3,22 @@ import Link from "next/link";
 import type { Policy } from "@/types/sites/corgi-insure-a0f7893c/home";
 import { POLICIES_HEADER } from "./data";
 
-const BADGE_GRADIENT = "bg-[linear-gradient(to_right,#f66398_0%,#fb846c_60.894%,#fe9850_100%)]";
-
 /**
- * One "main policy" card: a 120px header with the policy artwork (object-contain fill) and the
- * gradient "Instant quote" badge, the title/description block, and a white "Learn more" pressable.
- * The pressable's base is `data-press-trigger="group"` so it drops while the whole link is :active
- * (see `.group:active .pressable-button[data-press-trigger="group"]` in globals.css).
+ * One loan-product card: a fixed 240px header with the product illustration (object-contain, so all
+ * eight cards align) and a navy-tint speed label ("Same day", "1 to 3 days"…), the title/description
+ * block, and a white "Learn more" pressable. The pressable's base is `data-press-trigger="group"` so
+ * it drops while the whole link is :active (see `.group:active .pressable-button[data-press-trigger="group"]`
+ * in globals.css).
  */
 export function PolicyCard({ policy }: { policy: Policy }) {
   const learnMoreLabel = `${POLICIES_HEADER.learnMore} about ${policy.title}`;
 
   return (
     <div className="flex flex-col overflow-hidden rounded-[24px] border border-[#e1e1e1] bg-white">
-      <div className="relative flex h-[120px] items-start border-b border-[#e1e1e1] bg-white p-3">
-        <Image alt={policy.title} className="pointer-events-none object-contain" fill sizes="384px" src={policy.image} />
-        <div className={`relative z-10 flex items-center justify-center rounded-[12px] px-3 py-1.5 ${BADGE_GRADIENT}`}>
-          <span className="text-[12px] leading-[1.2] tracking-[-0.18px] text-white">{POLICIES_HEADER.badge}</span>
+      <div className="relative flex h-[240px] items-start border-b border-[#e1e1e1] bg-white p-3">
+        <Image alt={policy.title} className="pointer-events-none object-contain p-6" fill sizes="384px" src={policy.image} />
+        <div className="relative z-10 flex items-center justify-center rounded-[12px] bg-[#dde4f6] px-3 py-1.5">
+          <span className="text-[12px] font-medium leading-[1.2] tracking-[-0.18px] text-[#1e3a8a]">{policy.speed}</span>
         </div>
       </div>
       <div className="flex flex-1 flex-col gap-3 border-b border-[#e1e1e1] p-5">
