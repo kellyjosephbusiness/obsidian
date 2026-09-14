@@ -7,12 +7,12 @@ export function FeatureCards({ features }: { features: DetailPageContent["featur
   return (
     <Frame inner="flex flex-col gap-10 md:gap-14">
       <div className="mx-auto flex max-w-[880px] flex-col items-center gap-5 text-center">
-        <h2 className={H2}>
+        <h2 className={`${H2} mx-auto`}>
           {features.headingLine1}
           <br />
           {features.headingLine2}
         </h2>
-        <p className={`${BODY} max-w-[760px]`}>{features.sub}</p>
+        <p className={`${BODY} mx-auto max-w-[560px]`}>{features.sub}</p>
       </div>
       <div className="grid grid-cols-1 gap-6 md:grid-cols-3">
         {features.cards.map((card) => (

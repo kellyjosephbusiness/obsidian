@@ -13,8 +13,8 @@ export function WhyFundLine({ cards = WHY_CARDS }: { cards?: WhyCard[] } = {}) {
         <div aria-hidden className="pointer-events-none absolute -top-16 -bottom-16 left-0 w-px bg-[#e1e1e1]" />
         <div aria-hidden className="pointer-events-none absolute -top-16 -bottom-16 right-0 w-px bg-[#e1e1e1]" />
 
-        <div className="flex flex-col px-4 md:px-6">
-          <h2 className="font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-none tracking-[-0.032em]">
+        <div className="flex flex-col px-4 text-center md:px-6">
+          <h2 className="mx-auto font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-none tracking-[-0.032em] [text-wrap:balance]">
             {WHY_HEADER.heading}
           </h2>
         </div>

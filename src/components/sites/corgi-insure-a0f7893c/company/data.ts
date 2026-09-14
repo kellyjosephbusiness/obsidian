@@ -582,7 +582,6 @@ export const APPLY_META: CompanyMeta = {
 };
 
 export const APPLY_INTRO = {
-  eyebrow: "Apply",
   headingLine1: "Fill out the form",
   headingLine2: "below to get started.",
   sub: "It takes about 15 minutes. Nothing here affects your credit score until you accept an offer.",

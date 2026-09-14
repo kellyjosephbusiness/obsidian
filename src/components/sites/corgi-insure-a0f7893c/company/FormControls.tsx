@@ -77,9 +77,9 @@ export function FormCard({ children, className, as: Tag = "div" }: { children: R
 
 export function FormTitle({ title, sub }: { title: string; sub?: string }) {
   return (
-    <div className="flex flex-col gap-1.5">
-      <h2 className="font-mono text-[26px] font-medium leading-[1.05] tracking-[-0.04em] text-[#1d1d1d] md:text-[30px]">{title}</h2>
-      {sub ? <p className="text-[14px] leading-[1.35] tracking-[-0.21px] text-[#4e4e4e]">{sub}</p> : null}
+    <div className="flex flex-col items-center gap-1.5 text-center">
+      <h2 className="mx-auto font-mono text-[26px] font-medium leading-[1.05] tracking-[-0.04em] text-[#1d1d1d] md:text-[30px] [text-wrap:balance]">{title}</h2>
+      {sub ? <p className="mx-auto max-w-[560px] text-[14px] leading-[1.35] tracking-[-0.21px] text-[#4e4e4e]">{sub}</p> : null}
     </div>
   );
 }

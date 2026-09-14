@@ -14,8 +14,8 @@ export function TimelineBand({ heading, sub, items }: TimelineBandProps) {
     <section className="relative border-b border-[#e1e1e1] bg-[#191919] px-4 py-16 text-white md:px-6 md:py-20 lg:px-16 lg:py-24">
       <div className="relative mx-auto flex w-full max-w-[1600px] flex-col gap-10 md:gap-14">
         <div className="flex flex-col items-center gap-4 text-center md:gap-6">
-          <h2 className="font-mono font-medium text-white text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]">{heading}</h2>
-          <p className="max-w-[720px] text-body-large text-[#b5b5b5] [&]:text-[#b5b5b5]">{sub}</p>
+          <h2 className="mx-auto font-mono font-medium text-white text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)] [text-wrap:balance]">{heading}</h2>
+          <p className="mx-auto max-w-[560px] text-body-large text-[#b5b5b5] [&]:text-[#b5b5b5]">{sub}</p>
         </div>
 
         <ol className="relative flex flex-col gap-8 lg:grid lg:grid-cols-5 lg:gap-6">

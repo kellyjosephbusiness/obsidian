@@ -41,12 +41,12 @@ export function StartupHero() {
         </div>
 
         <div className="relative z-20 mx-auto flex w-full max-w-[1600px] flex-col gap-12">
-          <div className="flex max-w-3xl flex-col gap-6 px-4 md:px-6">
-            <h1 className="font-medium font-mono text-[#191919] text-[length:var(--h1-font-size)] leading-none tracking-[-0.032em]">
+          <div className="mx-auto flex max-w-3xl flex-col items-center gap-6 px-4 text-center md:px-6">
+            <h1 className="mx-auto font-medium font-mono text-[#191919] text-[length:var(--h1-font-size)] leading-none tracking-[-0.032em] [text-wrap:balance]">
               {STARTUP_HERO.heading}
             </h1>
-            <p className="max-w-lg text-body-large text-[#4a4a4a]">{STARTUP_HERO.sub}</p>
-            <PressableButton variant="primary" size="small" href={STARTUP_HERO.cta.href} className="self-start" dataTrack="cta-startup-hero">
+            <p className="mx-auto max-w-[560px] text-body-large text-[#4a4a4a]">{STARTUP_HERO.sub}</p>
+            <PressableButton variant="primary" size="small" href={STARTUP_HERO.cta.href} className="self-center" dataTrack="cta-startup-hero">
               {STARTUP_HERO.cta.label}
             </PressableButton>
           </div>

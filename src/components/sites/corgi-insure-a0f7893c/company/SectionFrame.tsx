@@ -47,8 +47,15 @@ export interface SectionHeadingProps {
 export function SectionHeading({ heading, sub, align = "center", as: Tag = "h2", className }: SectionHeadingProps) {
   return (
     <div className={cn("flex flex-col gap-4 md:gap-6", align === "center" ? "items-center text-center" : "items-start text-left", className)}>
-      <Tag className="font-mono font-medium text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]">{heading}</Tag>
-      {sub ? <p className={cn("text-body-large text-[#4a4a4a]", align === "center" ? "max-w-[720px]" : "max-w-[640px]")}>{sub}</p> : null}
+      <Tag
+        className={cn(
+          "font-mono font-medium text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]",
+          align === "center" && "mx-auto [text-wrap:balance]",
+        )}
+      >
+        {heading}
+      </Tag>
+      {sub ? <p className={cn("text-body-large text-[#4a4a4a]", align === "center" ? "mx-auto max-w-[560px]" : "max-w-[640px]")}>{sub}</p> : null}
     </div>
   );
 }

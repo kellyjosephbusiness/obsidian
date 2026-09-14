@@ -49,7 +49,7 @@ function AppMock({ mock }: { mock: DetailAppMock }) {
 export function StepsSection({ steps }: { steps: DetailPageContent["steps"] }) {
   return (
     <Frame tone="white" inner="flex flex-col gap-12 md:gap-16">
-      <h2 className={H2}>{steps.heading}</h2>
+      <h2 className={`${H2} mx-auto text-center [text-wrap:balance]`}>{steps.heading}</h2>
       <div className="grid grid-cols-1 items-center gap-12 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] lg:gap-20">
         <AppMock mock={steps.mock} />
         <ol className="flex flex-col divide-y divide-[#e1e1e1]">
