@@ -45,7 +45,7 @@ export function ContactForm() {
         </FormField>
       </div>
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-        <p className="text-[12px] leading-[1.3] tracking-[-0.18px] text-[#7b7b7b]">We reply within one business day. No credit check, no obligation.</p>
+        <p className="text-[12px] leading-[1.3] tracking-[-0.18px] text-[#5c5c5c]">We reply within one business day. No credit check, no obligation.</p>
         <PressableButton type="submit" variant="primary" size="small" className="w-full sm:w-auto" dataTrack="cta-contact-form">
           {CONTACT_FORM.submit}
         </PressableButton>

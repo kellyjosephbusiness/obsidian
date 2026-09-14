@@ -82,7 +82,7 @@ export function ReviewsCarousel({ reviews }: { reviews: DetailPageContent["revie
             ))}
           </div>
           <div className="flex items-center gap-4">
-            <button type="button" aria-label="Previous reviews" onClick={() => step(-1)} disabled={atStart} className="text-[#191919] disabled:opacity-30">
+            <button type="button" aria-label="Previous reviews" onClick={() => step(-1)} disabled={atStart} className="flex size-11 shrink-0 items-center justify-center rounded-[12px] border border-[#e1e1e1] bg-white text-[#191919] transition-colors hover:bg-[#f0f0f0] disabled:cursor-default disabled:opacity-30 disabled:hover:bg-white">
               <MaterialIcon name="chevron_left" size={24} />
             </button>
             <div className="relative h-2 flex-1 overflow-hidden rounded-full bg-white">
@@ -91,7 +91,7 @@ export function ReviewsCarousel({ reviews }: { reviews: DetailPageContent["revie
                 style={{ width: `${Math.max(12, visible * 100)}%`, left: `${progress * (100 - Math.max(12, visible * 100))}%` }}
               />
             </div>
-            <button type="button" aria-label="Next reviews" onClick={() => step(1)} disabled={atEnd} className="text-[#191919] disabled:opacity-30">
+            <button type="button" aria-label="Next reviews" onClick={() => step(1)} disabled={atEnd} className="flex size-11 shrink-0 items-center justify-center rounded-[12px] border border-[#e1e1e1] bg-white text-[#191919] transition-colors hover:bg-[#f0f0f0] disabled:cursor-default disabled:opacity-30 disabled:hover:bg-white">
               <MaterialIcon name="chevron_right" size={24} />
             </button>
           </div>

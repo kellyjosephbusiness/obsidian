@@ -44,8 +44,8 @@ function SlicedImage({ src, alt }: SlicedImageProps) {
 export function HeroSection() {
   return (
     <section className="relative flex flex-col items-center pt-[150px] md:pt-[176px]">
-      {/* Sky background + tint + fade to page grey */}
-      <div className="pointer-events-none absolute inset-0">
+      {/* Sky background + tint + fade to page grey (purely decorative: hidden from assistive tech) */}
+      <div aria-hidden className="pointer-events-none absolute inset-0">
         <Image src={SKY_BG} alt="" fill sizes="100vw" className="object-cover" priority />
         {/* Dithered NYC skyline (1-bit, like the hand) sitting in the clouds above the ticker */}
         <img
@@ -93,8 +93,8 @@ export function HeroSection() {
               {HERO.cta.label}
             </PressableButton>
 
-            {/* Hand */}
-            <div className="pointer-events-none absolute bottom-[-40px] left-[-72px] h-[160px] w-[212px] -rotate-[18deg] [mask-image:linear-gradient(to_bottom,black_45%,transparent_88%)] sm:bottom-[-24px] sm:left-[-64px] sm:h-[180px] sm:w-[238px] md:bottom-[-16px] md:left-[-56px] md:h-[241px] md:w-[318px] md:rotate-0">
+            {/* Hand (decorative dithered illustration) */}
+            <div aria-hidden className="pointer-events-none absolute bottom-[-40px] left-[-72px] h-[160px] w-[212px] -rotate-[18deg] [mask-image:linear-gradient(to_bottom,black_45%,transparent_88%)] sm:bottom-[-24px] sm:left-[-64px] sm:h-[180px] sm:w-[238px] md:bottom-[-16px] md:left-[-56px] md:h-[241px] md:w-[318px] md:rotate-0">
               <div aria-hidden className="absolute inset-0">
                 <SlicedImage src={HAND_SRC} alt="" />
               </div>

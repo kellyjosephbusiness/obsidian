@@ -76,7 +76,7 @@ export function IndustryChips({ heading = AI_INDUSTRIES_HEADING, chips = AI_INDU
               >
                 <span
                   aria-hidden
-                  className="-translate-x-1/2 pointer-events-none absolute top-[-60px] left-1/2 z-20 translate-y-2 scale-95 whitespace-nowrap font-medium font-sans text-[11px] text-[#7a7a7a] uppercase leading-none tracking-[0.18em] opacity-0 blur-[2px] transition-[opacity,transform,filter,color] duration-200 ease-[cubic-bezier(0.2,0,0,1)] group-hover:translate-y-0 group-hover:scale-100 group-hover:text-[#1e3a8a] group-hover:opacity-100 group-hover:blur-0 group-focus-visible:translate-y-0 group-focus-visible:scale-100 group-focus-visible:opacity-100 group-focus-visible:blur-0 md:text-xs"
+                  className="-translate-x-1/2 pointer-events-none absolute top-[-60px] left-1/2 z-20 translate-y-2 scale-95 whitespace-nowrap font-medium font-sans text-[12px] text-[#5c5c5c] uppercase leading-none tracking-[0.18em] opacity-0 blur-[2px] transition-[opacity,transform,filter,color] duration-200 ease-[cubic-bezier(0.2,0,0,1)] group-hover:translate-y-0 group-hover:scale-100 group-hover:text-[#1e3a8a] group-hover:opacity-100 group-hover:blur-0 group-focus-visible:translate-y-0 group-focus-visible:scale-100 group-focus-visible:opacity-100 group-focus-visible:blur-0 md:text-xs"
                 >
                   {chip.label}
                 </span>

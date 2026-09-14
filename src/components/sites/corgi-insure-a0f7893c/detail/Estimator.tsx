@@ -20,7 +20,7 @@ export function Estimator({ estimator }: { estimator: DetailHero["estimator"] })
     <div className="flex w-full flex-col gap-5 rounded-[24px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.08)] md:p-8">
       <div className="flex flex-col gap-1">
         <span className="font-mono text-[24px] font-medium leading-none tracking-[-0.768px] text-[#191919] md:text-[28px]">{estimator.title}</span>
-        <span className="text-[14px] leading-[1.3] tracking-[-0.21px] text-[#7b7b7b]">{estimator.note}</span>
+        <span className="text-[14px] leading-[1.3] tracking-[-0.21px] text-[#5c5c5c]">{estimator.note}</span>
       </div>
       <label className="flex flex-col gap-2">
         <span className="text-[12px] font-medium uppercase tracking-[0.06em] text-[#4a4a4a]">{estimator.label}</span>
@@ -36,18 +36,18 @@ export function Estimator({ estimator }: { estimator: DetailHero["estimator"] })
           style={{ background: `linear-gradient(to right, #1e3a8a ${pct}%, #dde4f6 ${pct}%)` }}
           aria-label={estimator.label}
         />
-        <span className="flex justify-between text-[12px] text-[#7b7b7b]">
+        <span className="flex justify-between text-[12px] text-[#5c5c5c]">
           <span>{money(estimator.min)}</span>
           <span>{money(estimator.max)}</span>
         </span>
       </label>
       <div className="grid grid-cols-2 gap-3 rounded-[16px] bg-[#f6f6f6] p-4">
         <div className="flex flex-col gap-1">
-          <span className="text-[12px] text-[#7b7b7b]">Est. monthly payment</span>
+          <span className="text-[12px] text-[#5c5c5c]">Est. monthly payment</span>
           <span className="font-mono text-[22px] font-medium leading-none text-[#191919]">{money(monthly)}</span>
         </div>
         <div className="flex flex-col gap-1">
-          <span className="text-[12px] text-[#7b7b7b]">Illustrative terms</span>
+          <span className="text-[12px] text-[#5c5c5c]">Illustrative terms</span>
           <span className="text-[14px] font-medium leading-[1.3] text-[#191919]">
             {estimator.apr}% APR · {estimator.termMonths} mo
           </span>

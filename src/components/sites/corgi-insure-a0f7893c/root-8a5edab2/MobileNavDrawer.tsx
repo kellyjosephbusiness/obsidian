@@ -67,7 +67,7 @@ function ItemContent({ item }: { item: NavMenuItem }) {
       <MaterialIcon name={item.icon} size={16} className="shrink-0 text-[#4a4a4a]" />
       <span className="flex-1 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a]">{item.label}</span>
       {item.badge && (
-        <span className="rounded-[4px] bg-[#dde4f6] px-2 py-1 text-[8px] font-medium text-[#1e3a8a]">
+        <span className="rounded-[4px] bg-[#dde4f6] px-2 py-1 text-[12px] font-medium leading-none text-[#1e3a8a]">
           {item.badge}
         </span>
       )}
@@ -86,7 +86,7 @@ function MobileMenuItem({
 }) {
   if (!item.href) {
     return (
-      <div className="flex items-center gap-2 p-2 text-[#4a4a4a]">
+      <div className="flex min-h-[44px] items-center gap-2 p-2 text-[#4a4a4a]">
         <ItemContent item={item} />
       </div>
     );
@@ -95,7 +95,7 @@ function MobileMenuItem({
     return (
       <button
         type="button"
-        className="flex w-full items-center gap-2 rounded-lg p-2 text-left transition-colors hover:bg-[#f6f6f6]"
+        className="flex min-h-[44px] w-full items-center gap-2 rounded-lg p-2 text-left transition-colors hover:bg-[#f6f6f6]"
         onClick={() => onHashNavigate(item.href as string)}
       >
         <ItemContent item={item} />
@@ -106,7 +106,7 @@ function MobileMenuItem({
   return (
     <Link
       href={item.href}
-      className="flex items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]"
+      className="flex min-h-[44px] items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]"
       onClick={onClose}
       {...(external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
     >
@@ -139,7 +139,7 @@ function MobileColumn({
             <Link
               href={column.viewAll.href}
               onClick={onClose}
-              className="text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#1e3a8a] hover:underline"
+              className="inline-flex min-h-[44px] items-center text-[14px] font-medium leading-[1.2] tracking-[-0.21px] text-[#1e3a8a] hover:underline"
             >
               {column.viewAll.label}
             </Link>
@@ -169,10 +169,10 @@ function HighlightCardBody({ card }: { card: NavHighlightCard }) {
         </div>
       )}
       <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-white/0 from-[28%] via-white/[0.55] via-[46%] to-white/90 to-[64%]" />
-      <span className="relative text-[11px] font-bold leading-[1.2] tracking-[-0.17px] text-[#191919] transition-colors group-hover:text-[#1e3a8a]">
+      <span className="relative text-[12px] font-bold leading-[1.2] tracking-[-0.18px] text-[#191919] transition-colors group-hover:text-[#1e3a8a]">
         {card.title}
       </span>
-      <span className="relative text-[11px] leading-[1.2] tracking-[-0.17px] text-[#191919] transition-colors group-hover:text-[#1e3a8a]">
+      <span className="relative text-[12px] leading-[1.2] tracking-[-0.18px] text-[#191919] transition-colors group-hover:text-[#1e3a8a]">
         {card.description}
       </span>
     </>

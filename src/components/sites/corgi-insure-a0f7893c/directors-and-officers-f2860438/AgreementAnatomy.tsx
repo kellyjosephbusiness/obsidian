@@ -10,7 +10,7 @@ function Tile({ title, label, value }: { title: string; label: string; value: st
     <div className="flex flex-col gap-[6px] px-2 md:gap-[14px]">
       <h3 className="-mx-2 w-fit bg-background px-2 font-bold text-[16px] leading-none tracking-[-0.51px] text-[#191919] md:text-[20px]">{title}</h3>
       <div className="flex flex-col items-start sm:flex-row sm:items-end sm:gap-[14px]">
-        <span className="text-[11px] leading-[1.2] tracking-[-0.165px] text-[#4a4a4a] md:text-[12px] md:tracking-[-0.18px]">{label}</span>
+        <span className="text-[12px] leading-[1.2] tracking-[-0.18px] text-[#4a4a4a]">{label}</span>
         <span className="font-medium text-[12px] leading-[1.2] tracking-[-0.18px] text-[#191919] md:text-[14px] md:tracking-[-0.21px]">{value}</span>
       </div>
     </div>
@@ -56,7 +56,7 @@ export function AgreementAnatomy() {
                   </div>
                 </div>
                 <div className="order-first flex flex-col items-start whitespace-nowrap px-2 lg:order-none">
-                  <span className="text-[11px] leading-[1.2] tracking-[-0.165px] text-[#4a4a4a] md:text-[12px] md:tracking-[-0.18px]">{ANATOMY.formCaption.label}</span>
+                  <span className="text-[12px] leading-[1.2] tracking-[-0.18px] text-[#4a4a4a]">{ANATOMY.formCaption.label}</span>
                   <span className="font-medium text-[12px] leading-[1.2] tracking-[-0.18px] text-[#191919] md:text-[14px] md:tracking-[-0.21px]">{ANATOMY.formCaption.value}</span>
                 </div>
               </div>

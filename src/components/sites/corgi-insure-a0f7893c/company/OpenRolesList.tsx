@@ -14,7 +14,7 @@ export function OpenRolesList({ roles }: { roles: OpenRole[] }) {
           >
             <div className="flex min-w-0 flex-1 flex-col gap-1.5">
               <span className="font-mono text-[20px] font-medium leading-[1.15] tracking-[-0.02em] text-[#191919] group-hover:text-[#1e3a8a] md:text-[22px]">{role.title}</span>
-              <span className="text-[14px] leading-[1.2] tracking-[-0.21px] text-[#7b7b7b] md:hidden">
+              <span className="text-[14px] leading-[1.2] tracking-[-0.21px] text-[#5c5c5c] md:hidden">
                 {role.location} · {role.type}
               </span>
             </div>

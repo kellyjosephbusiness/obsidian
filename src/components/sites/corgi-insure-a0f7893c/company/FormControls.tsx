@@ -11,7 +11,7 @@ import { cn } from "@/lib/utils";
  */
 
 export const CONTROL_CLASS =
-  "min-h-[44px] w-full min-w-0 rounded-[10px] border border-[#e1e1e1] bg-white px-3.5 py-2.5 text-[15px] leading-[1.2] tracking-[-0.2px] text-[#1d1d1d] outline-none transition-[border-color,box-shadow] placeholder:text-[#9e9e9e] focus-visible:border-[#1e3a8a] focus-visible:shadow-[0_0_0_3px_rgba(30,58,138,0.25)] disabled:bg-[#f6f6f6] disabled:text-[#9e9e9e]";
+  "min-h-[44px] w-full min-w-0 rounded-[10px] border border-[#e1e1e1] bg-white px-3.5 py-2.5 text-[15px] leading-[1.2] tracking-[-0.2px] text-[#1d1d1d] outline-none transition-[border-color,box-shadow] placeholder:text-[#6b6b6b] focus-visible:border-[#1e3a8a] focus-visible:shadow-[0_0_0_3px_rgba(30,58,138,0.25)] disabled:bg-[#f6f6f6] disabled:text-[#9e9e9e]";
 
 export function FormField({ label, htmlFor, required, hint, children, className }: { label: string; htmlFor: string; required?: boolean; hint?: string; children: ReactNode; className?: string }) {
   return (
@@ -21,7 +21,7 @@ export function FormField({ label, htmlFor, required, hint, children, className 
         {required ? <span aria-hidden> *</span> : null}
       </label>
       {children}
-      {hint ? <span className="text-[12px] leading-[1.3] tracking-[-0.18px] text-[#7b7b7b]">{hint}</span> : null}
+      {hint ? <span className="text-[12px] leading-[1.3] tracking-[-0.18px] text-[#5c5c5c]">{hint}</span> : null}
     </div>
   );
 }
@@ -37,7 +37,7 @@ export function TextArea({ className, ...props }: TextareaHTMLAttributes<HTMLTex
 export function SelectInput({ options, placeholder, className, value, ...props }: SelectHTMLAttributes<HTMLSelectElement> & { options: SelectOption[]; placeholder: string }) {
   return (
     <div className="relative">
-      <select {...props} value={value} className={cn(CONTROL_CLASS, "appearance-none pr-10", value === "" && "text-[#9e9e9e]", className)}>
+      <select {...props} value={value} className={cn(CONTROL_CLASS, "appearance-none pr-10", value === "" && "text-[#6b6b6b]", className)}>
         <option value="" disabled>
           {placeholder}
         </option>

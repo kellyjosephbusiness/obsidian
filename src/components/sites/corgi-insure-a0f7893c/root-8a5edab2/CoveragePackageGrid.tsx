@@ -137,12 +137,20 @@ interface CoveragePackageGridProps {
  */
 export function CoveragePackageGrid({ packages = COVERAGE_PACKAGES, pills = POLICY_PILLS }: CoveragePackageGridProps) {
   return (
-    <div className="relative grid grid-cols-1 gap-6 md:grid-cols-2 xl:grid-cols-4">
+    <div className="relative">
       <div aria-hidden className="-translate-x-1/2 pointer-events-none absolute top-0 left-1/2 h-px w-screen bg-[#e1e1e1]" />
       <div aria-hidden className="-translate-x-1/2 pointer-events-none absolute bottom-0 left-1/2 h-px w-screen bg-[#e1e1e1]" />
-      {packages.map((pkg) => (
-        <CoveragePackageCard key={pkg.id} pkg={pkg} pills={pills} />
-      ))}
+      {/*
+        Phones: a horizontal scroll-snap rail (one ~85vw card per snap, bleeding to the viewport
+        edges via the negative margin). md and up: the original 2/4-column grid.
+      */}
+      <div className="-mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto scroll-pl-4 px-4 pb-2 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden md:mx-0 md:grid md:grid-cols-2 md:gap-6 md:overflow-visible md:px-0 md:pb-0 xl:grid-cols-4">
+        {packages.map((pkg) => (
+          <div key={pkg.id} className="w-[85vw] max-w-[360px] shrink-0 snap-start md:w-auto md:max-w-none md:shrink">
+            <CoveragePackageCard pkg={pkg} pills={pills} />
+          </div>
+        ))}
+      </div>
     </div>
   );
 }

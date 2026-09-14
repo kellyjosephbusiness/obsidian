@@ -80,7 +80,7 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
                     <Link
                       key={link.href}
                       href={link.href}
-                      className="flex w-full cursor-pointer rounded-lg p-2 text-[16px] leading-[1.2] tracking-[-0.24px] text-[#606060] transition-colors hover:bg-[#e8e8e8] hover:text-[#191919]"
+                      className="flex min-h-[44px] w-full cursor-pointer items-center rounded-lg p-2 text-[16px] leading-[1.2] tracking-[-0.24px] text-[#606060] transition-colors hover:bg-[#e8e8e8] hover:text-[#191919]"
                     >
                       {link.label}
                     </Link>
@@ -95,7 +95,7 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
           <div className="mx-auto flex max-w-[1600px] flex-wrap items-center justify-center gap-x-6 gap-y-3 text-[16px] leading-[1.2] tracking-[-0.24px] text-[#4a4a4a]">
             <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
               {FOOTER_LEGAL.map((link) => (
-                <a key={link.href} href={link.href} className="hover:text-[#191919]">
+                <a key={link.href} href={link.href} className="inline-flex min-h-[44px] items-center hover:text-[#191919]">
                   {link.label}
                 </a>
               ))}
@@ -108,7 +108,7 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
                   <a
                     key={link.href}
                     href={link.href}
-                    className="hover:text-[#191919]"
+                    className="inline-flex min-h-[44px] items-center hover:text-[#191919]"
                     target={external ? "_blank" : undefined}
                     rel={external ? "noopener noreferrer" : undefined}
                   >

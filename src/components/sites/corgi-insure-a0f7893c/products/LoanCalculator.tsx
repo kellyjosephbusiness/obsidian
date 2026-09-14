@@ -204,7 +204,7 @@ export function LoanCalculator() {
                       {!showAll && lastRow && lastRow.month > 6 && (
                         <>
                           <tr className="border-t border-[#e1e1e1]">
-                            <td colSpan={5} className="px-4 py-2 text-center text-[12px] text-[#7b7b7b]">
+                            <td colSpan={5} className="px-4 py-2 text-center text-[12px] text-[#5c5c5c]">
                               … {lastRow.month - 7} more payments …
                             </td>
                           </tr>

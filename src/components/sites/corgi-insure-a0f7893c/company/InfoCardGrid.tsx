@@ -16,7 +16,7 @@ export function InfoCardGrid({ items }: { items: InfoCard[] }) {
               </span>
               <h3 className="font-mono text-[22px] font-medium leading-[1.1] tracking-[-0.02em] text-[#191919]">{item.title}</h3>
               {item.badge ? (
-                <span className="ml-auto rounded-full bg-[#1e3a8a] px-2.5 py-1 text-[11px] font-medium uppercase leading-none tracking-[0.08em] text-white">{item.badge}</span>
+                <span className="ml-auto rounded-full bg-[#1e3a8a] px-2.5 py-1 text-[12px] font-medium uppercase leading-none tracking-[0.08em] text-white">{item.badge}</span>
               ) : null}
             </div>
             <ul className="flex flex-col gap-1.5">

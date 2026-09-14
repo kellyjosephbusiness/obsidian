@@ -37,7 +37,7 @@ export function Sup({ text }: { text: string }) {
     <>
       {parts.map((p, i) =>
         /[¹²³⁴⁵]/.test(p) ? (
-          <sup key={i} className="ml-0.5 text-[0.6em] text-[#1e3a8a]">
+          <sup key={i} className="ml-0.5 text-[max(12px,0.6em)] text-[#1e3a8a]">
             {"¹²³⁴⁵".indexOf(p) + 1}
           </sup>
         ) : (
