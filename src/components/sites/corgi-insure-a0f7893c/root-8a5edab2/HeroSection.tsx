@@ -6,7 +6,7 @@ import { PressableButton } from "@/components/sites/corgi-insure-a0f7893c/shared
 import { ASSETS, HERO_TICKER, HERO } from "./data";
 
 const SKY_BG = `${ASSETS}/images/hero/cloud-sky-bg.webp`;
-const HAND_SRC = `${ASSETS}/images/hero/hand-with-offers.png`;
+const HAND_SRC = `${ASSETS}/images/hero/hand-with-gradient.avif`;
 const SKYLINE_SRC = `${ASSETS}/images/hero/nyc-skyline-dither.png`;
 
 /** The site renders each hero illustration as three vertical clip-path thirds of one image. */
@@ -33,7 +33,7 @@ function SlicedImage({ src, alt }: SlicedImageProps) {
           key={clipPath}
           alt={i === 0 ? alt : ""}
           src={src}
-          className="absolute inset-0 h-full w-full max-w-none object-contain"
+          className="absolute inset-0 h-full w-full max-w-none object-cover"
           style={{ clipPath }}
         />
       ))}
@@ -94,7 +94,7 @@ export function HeroSection() {
             </PressableButton>
 
             {/* Hand (decorative dithered illustration) */}
-            <div aria-hidden className="pointer-events-none absolute bottom-[-56px] left-[-40px] h-[200px] w-[200px] [mask-image:linear-gradient(to_bottom,black_55%,transparent_92%)] sm:bottom-[-40px] sm:left-[-48px] sm:h-[230px] sm:w-[230px] md:bottom-[-36px] md:left-[-72px] md:h-[300px] md:w-[300px]">
+            <div aria-hidden className="pointer-events-none absolute bottom-[-40px] left-[-72px] h-[160px] w-[212px] -rotate-[18deg] [mask-image:linear-gradient(to_bottom,black_45%,transparent_88%)] sm:bottom-[-24px] sm:left-[-64px] sm:h-[180px] sm:w-[238px] md:bottom-[-16px] md:left-[-56px] md:h-[241px] md:w-[318px] md:rotate-0">
               <div aria-hidden className="absolute inset-0">
                 <SlicedImage src={HAND_SRC} alt="" />
               </div>
