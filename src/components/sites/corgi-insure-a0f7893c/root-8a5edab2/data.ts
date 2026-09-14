@@ -14,7 +14,7 @@ import type {
 } from "@/types/sites/corgi-insure-a0f7893c/home";
 
 /**
- * FundLine Capital — small-business lending marketplace content.
+ * FundLine Capital — small business funding brokerage content.
  * Layout/components come from the corgi.insure clone; copy is adapted from lendio.com and reworded.
  */
 
@@ -109,12 +109,12 @@ export const NAV_MENUS: NavMenu[] = [
     columnWidth: { base: 240, xl2: 240, w1680: 240 },
     columns: [
       {
-        title: "Embedded financing",
+        title: "Partner tools",
         span: 1,
         items: [
           { label: "Digital application", icon: "phone_iphone", href: "/embedded/digital-application" },
-          { label: "Configurable marketplace", icon: "tune", href: "/embedded/marketplace" },
-          { label: "Smart matching", icon: "auto_awesome", href: "/embedded/matching" },
+          { label: "Partner portal", icon: "tune", href: "/embedded/marketplace" },
+          { label: "Lender matching", icon: "auto_awesome", href: "/embedded/matching" },
           { label: "Prequalify customers", icon: "verified", href: "/embedded/prequalify" },
         ],
       },
@@ -223,7 +223,7 @@ export const HERO = {
   headingAccent: "as You Do.",
   subLine1: "No hidden fees. No impact to your credit score to apply.",
   subLine2: "One application, real offers from a network of lenders.",
-  cta: { label: "Check eligibility", href: LINKS.apply },
+  cta: { label: "Apply now", href: LINKS.apply },
 } as const;
 
 /** Replaces the customer-logo strip: a ticker of proof points rendered as text. */
@@ -239,7 +239,7 @@ export const HERO_TICKER: HeroTickerItem[] = [
 
 export const INTRO = {
   accent: "FundLine Capital",
-  rest: " is a small business lending marketplace built for owners who don’t have time to wait. That means one application, offers from multiple lenders, and a funding team that knows your industry.",
+  rest: " is a small business funding brokerage built for owners who don’t have time to wait. That means one application, offers from multiple lenders, and a funding team that knows your industry.",
   quoteCard: "Get funded!",
   quoteHref: LINKS.apply,
   ellipse: `${ASSETS}/images/journey-hero/ellipse.svg`,
@@ -259,7 +259,7 @@ export const QUOTE_STRIP = {
 export const JOURNEY = {
   heading: "Funding Designed Around Your Business’s Journey",
   sub: "From your first invoice to your next expansion, we’ve built funding packages for every phase.",
-  ctaLabel: "Check eligibility",
+  ctaLabel: "Apply now",
   hint: { before: "Click any", chip: "Product", chipHref: "#explore-coverages", after: "to see how it works" },
 } as const;
 
@@ -366,10 +366,10 @@ export const ADVANTAGE = {
   },
   corgi: {
     title: "FundLine Capital",
-    descriptionBefore: "FundLine Capital is the small business lending marketplace built for owners in a hurry. FundLine is faster, more transparent, and built to get you a yes because ",
+    descriptionBefore: "FundLine Capital is the small business funding brokerage built for owners in a hurry. FundLine is faster, more transparent, and built to get you a yes because ",
     descriptionStrong: "we are one application",
     descriptionAfter:
-      ". By matching your profile against 75+ lenders at once, we surface real offers in days and let you pick the terms that fit.",
+      ". We take that one application, shop it to the lenders that fit your business, and bring back real offers in days so you can pick the terms that work.",
   },
 } as const;
 
@@ -544,7 +544,7 @@ export const POLICIES_HEADER = {
   learnMore: "Learn more",
   seeSpecialized: { label: "See all financing types", href: LINKS.allFinancing },
   turnaround: "1-14 days to fund",
-  cta: { label: "Check eligibility", href: LINKS.apply },
+  cta: { label: "Apply now", href: LINKS.apply },
 } as const;
 
 export const POLICIES: Policy[] = [
@@ -638,7 +638,7 @@ export const FAQ: FaqItem[] = [
   {
     question: "Is FundLine Capital a direct lender or a bank?",
     answerHtml:
-      'No. FundLine Capital is a small business lending marketplace. We work with more than 75 lenders and funders to give you more options from a single application, but we do not make loans directly. See <a class="underline" href="/how-it-works">how it works</a>.',
+      'No. FundLine Capital is a small business funding brokerage. We work with more than 75 lenders and funders to give you more options from a single application, but we do not make loans directly. See <a class="underline" href="/how-it-works">how it works</a>.',
   },
   {
     question: "How fast can I actually get funded?",
@@ -658,7 +658,7 @@ export const FAQ: FaqItem[] = [
   {
     question: "How is FundLine different from going to my bank?",
     answerHtml:
-      'No single point of failure: one application reaches 75+ lenders at once, so you compare real offers instead of waiting weeks for one answer. Read more about <a class="underline" href="/blog/marketplace-vs-bank">marketplace lending vs. banks</a>. No juggling three applications, no waiting for callbacks, no explaining your business five different times.',
+      'One application, shopped by a broker who knows the lenders: you compare real offers instead of waiting weeks for one answer. Read more about <a class="underline" href="/blog/marketplace-vs-bank">working with a funding broker vs. banks</a>. No juggling three applications, no waiting for callbacks, no explaining your business five different times.',
   },
   {
     question: "Do I need to be profitable to qualify?",

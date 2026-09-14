@@ -241,7 +241,7 @@ export const GUIDES: EditorialArticle[] = [
         tocLabel: "Week 4: the ask",
         heading: "Week four: make the ask",
         paragraphs: [
-          { text: "Size the request to the job plus a 10% cushion, and check that the payment fits: as a rule, total loan payments should stay under about 10% of monthly deposits for online products and well under your operating cash flow for bank products. Decide which product fits the job using the financing guide, but do not over-think it; a marketplace will match you to several. Apply early in the week and early in the day so lenders can decide and fund before their cutoffs. Then compare offers on APR, total payback, payment frequency and prepayment terms, not on the headline rate." },
+          { text: "Size the request to the job plus a 10% cushion, and check that the payment fits: as a rule, total loan payments should stay under about 10% of monthly deposits for online products and well under your operating cash flow for bank products. Decide which product fits the job using the financing guide, but do not over-think it; a broker will match you to several. Apply early in the week and early in the day so lenders can decide and fund before their cutoffs. Then compare offers on APR, total payback, payment frequency and prepayment terms, not on the headline rate." },
         ],
       },
       {

@@ -44,7 +44,7 @@ export const PRODUCT_LINKS: Record<string, string> = {
   "Real Estate": "/loan-types#commercial-real-estate",
 };
 
-const CTA_LABEL = "Check eligibility";
+const CTA_LABEL = "Apply now";
 
 export const STAGE_PACKAGES: StagePackage[] = [
   {
@@ -197,7 +197,7 @@ export const STARTUP_FAQ: FaqItem[] = [
   {
     question: "How much does startup funding cost?",
     answerHtml:
-      "Starter packages are typically smaller and priced higher than established-business programs. First-year businesses often see lines of credit from $5K to $50K, while growing companies with 12+ months of revenue commonly qualify for $50K to $500K at lower rates. Cost depends on time in business, revenue, credit history, and the products you select. Check eligibility to see actual offers, no sales call required.",
+      "Starter packages are typically smaller and priced higher than established-business programs. First-year businesses often see lines of credit from $5K to $50K, while growing companies with 12+ months of revenue commonly qualify for $50K to $500K at lower rates. Cost depends on time in business, revenue, credit history, and the products you select. Apply now to see actual offers, no sales call required.",
   },
   {
     question: "When should a startup apply?",
@@ -217,7 +217,7 @@ export const STARTUP_FAQ: FaqItem[] = [
   {
     question: "What makes FundLine different from a bank?",
     answerHtml:
-      'FundLine Capital is a small business lending marketplace, not a single lender. One application reaches 75+ lenders at once, so you compare real offers instead of waiting weeks for one answer. Read more about <a class="underline" href="/blog/marketplace-vs-bank">marketplace lending vs. banks</a>.',
+      'FundLine Capital is a small business funding brokerage, not a single lender. One application goes to the lenders that fit your profile, so you compare real offers instead of waiting weeks for one answer. Read more about <a class="underline" href="/blog/marketplace-vs-bank">working with a funding broker vs. banks</a>.',
   },
   {
     question: "Does applying affect my credit?",

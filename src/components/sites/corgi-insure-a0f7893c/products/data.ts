@@ -17,7 +17,7 @@ import { LINKS } from "../root-8a5edab2/data";
 /**
  * FundLine Capital — products, partners and legal content (Group D).
  * Every figure, name, date and address is a fictional placeholder. Legal pages are placeholder
- * copy written for a lending marketplace and are not legal advice.
+ * copy written for a funding brokerage and are not legal advice.
  */
 
 /* ------------------------------------------------------------------ */
@@ -35,7 +35,7 @@ export const LOAN_TYPES_HERO: HeroContent = {
   headingLine1: "Every Way to Fund",
   headingLine2: "a Small Business. One Application.",
   sub: "Eight core products, a dozen specialty programs, and 75+ lenders behind them. Pick the product that fits the job, or let us match you.",
-  primary: { label: "Check eligibility", href: LINKS.apply },
+  primary: { label: "Apply now", href: LINKS.apply },
   secondary: { label: "Compare products", href: "#compare" },
 };
 
@@ -227,7 +227,7 @@ export const CALCULATORS_HERO: HeroContent = {
   headingLine1: "Run the Numbers",
   headingLine2: "Before You Apply.",
   sub: "Two quick tools: what a loan will cost each month, and how much funding a business like yours typically qualifies for. No sign-up, nothing saved.",
-  primary: { label: "Check eligibility", href: LINKS.apply },
+  primary: { label: "Apply now", href: LINKS.apply },
   secondary: { label: "Jump to qualification", href: "#qualify" },
 };
 
@@ -435,12 +435,12 @@ export const FEATURE_PAGES: FeaturePageContent[] = [
   {
     slug: "digital-application",
     meta: {
-      title: "Embedded Digital Application | FundLine Capital",
+      title: "Partner Application Link | FundLine Capital",
       description:
         "Drop a complete small business loan application into your product. Bank connection, document upload and identity verification included, funded by 75+ lenders.",
     },
     hero: {
-      eyebrow: "Embedded financing",
+      eyebrow: "Partner tools",
       headingLine1: "A Complete Loan Application,",
       headingLine2: "Inside Your Product.",
       sub: "One embeddable flow collects everything a lender needs in about 15 minutes: business basics, bank connection, statements and identity. Your brand on the outside, the FundLine network on the inside.",
@@ -486,7 +486,7 @@ app.on("submitted", ({ applicationId }) => {
     },
     faq: [
       { question: "How long does integration take?", answerHtml: "Most partners ship the hosted version in an afternoon and the fully themed component in one to two weeks, including review of copy and consent screens." },
-      { question: "Who is the lender of record?", answerHtml: "The lender that issues the offer. FundLine Capital is a marketplace, not a lender, and the partner is never the creditor unless they choose to fund on their own paper." },
+      { question: "Who is the lender of record?", answerHtml: "The lender that issues the offer. FundLine Capital is a broker, not a lender, and the partner is never the creditor unless they choose to fund on their own paper." },
       { question: "Can we hide products we do not want to promote?", answerHtml: "Yes. The application can be limited to specific products, amounts and terms from the partner dashboard." },
       { question: "Is the flow accessible?", answerHtml: "The component targets WCAG 2.2 AA: full keyboard support, screen-reader labels and reduced-motion handling are built in." },
     ],
@@ -500,21 +500,21 @@ app.on("submitted", ({ applicationId }) => {
   {
     slug: "marketplace",
     meta: {
-      title: "Configurable Lending Marketplace | FundLine Capital",
+      title: "Partner Portal | FundLine Capital",
       description:
-        "Offer your customers a white-label lending marketplace. Choose the lenders, products and amounts to show, and let owners compare real offers side by side.",
+        "Offer your customers a white-label funding brokerage. Choose the lenders, products and amounts to show, and let owners compare real offers side by side.",
     },
     hero: {
-      eyebrow: "Embedded financing",
-      headingLine1: "A Marketplace You Configure.",
+      eyebrow: "Partner tools",
+      headingLine1: "A Partner Portal You Configure.",
       headingLine2: "Offers Your Customers Compare.",
       sub: "Turn on the products and lenders that fit your audience, set amount and term guardrails, and present offers side by side with APR, payment and time to fund. The comparison does the selling.",
-      primary: { label: "Configure a marketplace", href: LINKS.bookCall },
+      primary: { label: "Set up a portal", href: LINKS.bookCall },
       secondary: { label: "See the docs", href: "#snippet" },
     },
     mock: "marketplace",
     benefits: {
-      heading: "Why a Configurable Marketplace",
+      heading: "Why a Partner Portal",
       sub: "The right offers for your customers, not every offer for everyone.",
       cards: [
         { icon: "tune", title: "Control what is shown", body: "Toggle products, lenders, amount ranges and term lengths. A payroll platform can show only lines of credit; an equipment dealer can show only equipment financing." },
@@ -529,7 +529,7 @@ app.on("submitted", ({ applicationId }) => {
         { title: "Pick your mix", body: "Select products and lenders in the partner dashboard. Defaults are tuned to your customer base." },
         { title: "Set guardrails", body: "Minimum and maximum amounts, allowed terms and which industries to include." },
         { title: "Customers compare", body: "Offers appear as cards sorted by total cost, payment or speed. Filters let owners narrow by what matters to them." },
-        { title: "Accept and fund", body: "The owner accepts inside the marketplace and the lender closes. You see status at every step." },
+        { title: "Accept and fund", body: "The owner accepts inside the portal and the lender closes. You see status at every step." },
       ],
     },
     snippet: {
@@ -555,7 +555,7 @@ FundLine.marketplace({
       { question: "Can owners save and return?", answerHtml: "Offers stay valid for the lender’s stated window, typically 7 to 14 days. Owners get a link to return and accept from any device." },
     ],
     cta: {
-      heading: "Launch a Marketplace Your Customers Trust.",
+      heading: "Give Your Customers a Funding Desk They Trust.",
       sub: "A partnerships specialist can configure a sandbox for your product this week.",
       primary: { label: "Book a configuration call", href: LINKS.bookCall },
       secondary: { label: "Apply as a business", href: LINKS.apply },
@@ -564,21 +564,21 @@ FundLine.marketplace({
   {
     slug: "matching",
     meta: {
-      title: "Smart Lender Matching | FundLine Capital",
+      title: "Lender Matching | FundLine Capital",
       description:
-        "Route every application to the lenders most likely to approve it. FundLine's matching engine scores fit on 40+ signals so your customers see offers, not declines.",
+        "Send every application to the lenders most likely to approve it. Our funding team checks fit against each lender's criteria so your customers see offers, not declines.",
     },
     hero: {
-      eyebrow: "Embedded financing",
-      headingLine1: "Smart Matching That Finds",
+      eyebrow: "Partner tools",
+      headingLine1: "Lender Matching That Finds",
       headingLine2: "the Yes Faster.",
-      sub: "Every lender in the network publishes a credit box. Our engine scores each application against all of them on 40+ signals and routes it only where an approval is likely. Fewer declines, faster offers, no shotgun submissions.",
+      sub: "Each lender we work with tells us what it will approve. Our team reviews each application against the lenders we work with and sends it only where an approval is likely. Fewer declines, faster offers, no shotgun submissions.",
       primary: { label: "See matching in action", href: LINKS.bookCall },
       secondary: { label: "See the docs", href: "#snippet" },
     },
     mock: "matching",
     benefits: {
-      heading: "Why Smart Matching",
+      heading: "Why Our Lender Matching",
       sub: "Submitting everywhere wastes lender time and owner goodwill. Matching sends the right file to the right desk.",
       cards: [
         { icon: "auto_awesome", title: "Scored on 40+ signals", body: "Time in business, deposits, balance volatility, industry, geography, existing debt and more, weighted by what each lender actually approves." },
@@ -591,7 +591,7 @@ FundLine.marketplace({
       sub: "What happens in the seconds after an owner hits submit.",
       items: [
         { title: "Enrich", body: "Bank data is parsed into cash-flow metrics; business and identity records are verified." },
-        { title: "Score", body: "The application is compared against every lender’s published box and ranked by approval likelihood." },
+        { title: "Score", body: "The application is reviewed against each lender's criteria and ranked by approval likelihood." },
         { title: "Route", body: "The top matches receive the file, usually three to five lenders. Nothing goes to lenders below the threshold." },
         { title: "Explain", body: "Owners and partners see why each lender was matched, and what would change the result." },
       ],
@@ -636,7 +636,7 @@ const { matches } = await res.json();
         "Show customers how much funding they could qualify for before they apply. A lightweight widget with no credit impact that turns browsers into complete applications.",
     },
     hero: {
-      eyebrow: "Embedded financing",
+      eyebrow: "Partner tools",
       headingLine1: "Prequalify Customers",
       headingLine2: "Before They Ever Apply.",
       sub: "Three questions, no credit pull, and a funding range in under ten seconds. The prequalify widget gives owners a reason to start and gives you a warm, sized lead every time.",
@@ -658,7 +658,7 @@ const { matches } = await res.json();
       sub: "From a curious visitor to a submitted application.",
       items: [
         { title: "Three questions", body: "Monthly revenue, time in business and a credit band. Optional: what the money is for." },
-        { title: "Instant range", body: "The widget shows a low and high estimate and the products that fit, using the same rules as our matching engine." },
+        { title: "Instant range", body: "The widget shows a low and high estimate and the products that fit, using the same checklist our funding team uses." },
         { title: "Continue in one tap", body: "The range and answers carry into the full application, so the owner never re-enters them." },
         { title: "You get the lead", body: "A prequalified lead with size and intent lands in your CRM by webhook, whether or not the owner continues." },
       ],
@@ -677,12 +677,12 @@ FundLine.prequalify({
     crm.upsertLead(leadId, { low, high, products });
   },
 });`,
-      notes: ["Compact mode fits a 320px sidebar.", "Results include the product list so you can deep-link into the marketplace.", "Leads are deduplicated by business email."],
+      notes: ["Compact mode fits a 320px sidebar.", "Results include the product list so you can deep-link into the portal.", "Leads are deduplicated by business email."],
     },
     faq: [
       { question: "How accurate is the range?", answerHtml: "It reflects typical offers in the network for similar profiles, roughly ±25% of the eventual median offer. It is labelled as an estimate everywhere it appears." },
       { question: "Is it really a soft check?", answerHtml: "Yes. Prequalification never queries personal credit. Only a full application, and only on acceptance of an offer, can trigger a hard inquiry, which the lender discloses first." },
-      { question: "Can we style it?", answerHtml: "Fully. The widget takes the same theme file as the application and marketplace components." },
+      { question: "Can we style it?", answerHtml: "Fully. The widget takes the same theme file as the application and portal components." },
       { question: "What data do we receive?", answerHtml: "The answers, the range, the fitting products and a lead identifier. Owner contact details are shared only with their consent." },
     ],
     cta: {
@@ -704,7 +704,7 @@ export function featurePageBySlug(slug: string): FeaturePageContent | undefined 
 
 /**
  * PLACEHOLDER LEGAL COPY. The five documents below are original placeholder text written for a
- * fictional lending marketplace so the routes render realistically. They are not legal advice and
+ * fictional funding brokerage so the routes render realistically. They are not legal advice and
  * must be replaced by counsel-reviewed documents before any real use.
  */
 
@@ -714,16 +714,16 @@ const LEGAL_ADDRESS = "FundLine Capital, Inc., 400 Market Street, Suite 1200, Sa
 export const LEGAL_PAGES: LegalPageContent[] = [
   {
     slug: "terms",
-    meta: { title: "Terms of Use | FundLine Capital", description: "The terms that govern use of the FundLine Capital website, application and lending marketplace." },
+    meta: { title: "Terms of Use | FundLine Capital", description: "The terms that govern use of the FundLine Capital website, application and funding brokerage." },
     title: "Terms of Use",
     lastUpdated: "March 3, 2026",
-    intro: "These Terms of Use govern your access to and use of the FundLine Capital website, application and marketplace services. By using the services you agree to these terms. If you are using the services on behalf of a business, you represent that you are authorized to bind that business.",
+    intro: "These Terms of Use govern your access to and use of the FundLine Capital website, application and brokerage services. By using the services you agree to these terms. If you are using the services on behalf of a business, you represent that you are authorized to bind that business.",
     sections: [
       {
         id: "who-we-are",
         title: "Who we are and what we do",
         paragraphs: [
-          `${LEGAL_ENTITY} operates an online marketplace that connects small business owners with third-party lenders and funders. FundLine is not a lender, does not make credit decisions and does not guarantee that any application will receive an offer.`,
+          `${LEGAL_ENTITY} operates as a commercial loan broker that connects small business owners with third-party lenders and funders. FundLine is not a lender, does not make credit decisions and does not guarantee that any application will receive an offer.`,
           "All financing is provided by participating lenders under their own agreements. Any loan, line of credit, advance or card you accept is a contract between you and that lender, and its terms control.",
         ],
       },
@@ -758,7 +758,7 @@ export const LEGAL_PAGES: LegalPageContent[] = [
         id: "compensation",
         title: "How FundLine is paid",
         paragraphs: [
-          "FundLine receives a fee from lenders when a loan is funded through the marketplace. Fees may vary by lender and product and may influence which lenders participate. Fees do not change the ordering of offers shown to you, which you control through the sort options provided.",
+          "FundLine receives a fee from lenders when a loan is funded through our brokerage. Fees may vary by lender and product and may influence which lenders participate. Fees do not change the ordering of offers shown to you, which you control through the sort options provided.",
         ],
       },
       {
@@ -816,10 +816,10 @@ export const LEGAL_PAGES: LegalPageContent[] = [
   },
   {
     slug: "privacy",
-    meta: { title: "Privacy Policy | FundLine Capital", description: "How FundLine Capital collects, uses, shares and protects information when you use the lending marketplace." },
+    meta: { title: "Privacy Policy | FundLine Capital", description: "How FundLine Capital collects, uses, shares and protects information when you use the funding brokerage." },
     title: "Privacy Policy",
     lastUpdated: "March 3, 2026",
-    intro: "This policy explains what information FundLine Capital collects when you use our website and marketplace, how we use and share it, and the choices you have. It applies to business owners, lender and broker partners and visitors.",
+    intro: "This policy explains what information FundLine Capital collects when you use our website and brokerage services, how we use and share it, and the choices you have. It applies to business owners, lender and broker partners and visitors.",
     sections: [
       {
         id: "information-we-collect",
@@ -936,10 +936,10 @@ export const LEGAL_PAGES: LegalPageContent[] = [
   },
   {
     slug: "licenses",
-    meta: { title: "Licenses | FundLine Capital", description: "Licensing and registration information for FundLine Capital's marketplace and broker activities." },
+    meta: { title: "Licenses | FundLine Capital", description: "Licensing and registration information for FundLine Capital's broker activities." },
     title: "Licenses and Registrations",
     lastUpdated: "January 15, 2026",
-    intro: "FundLine Capital operates as a commercial loan broker and marketplace, not as a lender. Where state law requires a license or registration for that activity, the details are listed here. Placeholder license numbers are shown for layout purposes.",
+    intro: "FundLine Capital operates as a commercial loan broker, not as a lender. Where state law requires a license or registration for that activity, the details are listed here. Placeholder license numbers are shown for layout purposes.",
     sections: [
       {
         id: "entity",
@@ -949,7 +949,7 @@ export const LEGAL_PAGES: LegalPageContent[] = [
       {
         id: "state-licenses",
         title: "State licenses and registrations",
-        paragraphs: ["Commercial financing broker and marketplace registrations (placeholder numbers):"],
+        paragraphs: ["Commercial financing broker registrations (placeholder numbers):"],
         bullets: [
           "California — Commercial Financing Provider registration, No. CFL-000000.",
           "New York — Commercial Finance Disclosure compliance filing, No. NY-CFD-000000.",
@@ -971,13 +971,13 @@ export const LEGAL_PAGES: LegalPageContent[] = [
       {
         id: "complaints",
         title: "Complaints",
-        paragraphs: ["If you have a complaint about FundLine’s marketplace services, email compliance@fundlinecapital.com or write to the address above. You may also contact the regulator in your state; contact details are available from the state agencies listed on the offer disclosure."],
+        paragraphs: ["If you have a complaint about FundLine’s brokerage services, email compliance@fundlinecapital.com or write to the address above. You may also contact the regulator in your state; contact details are available from the state agencies listed on the offer disclosure."],
       },
     ],
   },
   {
     slug: "disclosures",
-    meta: { title: "Disclosures | FundLine Capital", description: "Important disclosures about how FundLine Capital's lending marketplace works, how we are paid, and how to read the figures on this site." },
+    meta: { title: "Disclosures | FundLine Capital", description: "Important disclosures about how FundLine Capital's funding brokerage works, how we are paid, and how to read the figures on this site." },
     title: "Disclosures",
     lastUpdated: "March 3, 2026",
     intro: "Read this page to understand what FundLine Capital is, how we make money, what the numbers on our site mean and what happens to your credit when you apply.",
@@ -985,12 +985,12 @@ export const LEGAL_PAGES: LegalPageContent[] = [
       {
         id: "not-a-lender",
         title: "FundLine is not a lender",
-        paragraphs: ["FundLine Capital is a marketplace and broker. We do not make loans, issue credit or set rates. Every offer is made by a third-party lender under its own agreement, and that lender is your creditor."],
+        paragraphs: ["FundLine Capital is a commercial loan broker. We do not make loans, issue credit or set rates. Every offer is made by a third-party lender under its own agreement, and that lender is your creditor."],
       },
       {
         id: "compensation",
         title: "How we are compensated",
-        paragraphs: ["Lenders pay FundLine a referral fee when a loan closes through the marketplace. Fees vary by lender and product. This compensation may affect which lenders choose to participate in the network but does not change the sort order of offers you see, which you control."],
+        paragraphs: ["Lenders pay FundLine a referral fee when a loan closes through our brokerage. Fees vary by lender and product. This compensation may affect which lenders choose to participate in the network but does not change the sort order of offers you see, which you control."],
       },
       {
         id: "illustrative-figures",

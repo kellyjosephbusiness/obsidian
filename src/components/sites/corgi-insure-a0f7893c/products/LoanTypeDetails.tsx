@@ -62,7 +62,7 @@ export function LoanTypeDetails({ items = LOAN_TYPE_DETAILS }: { items?: LoanTyp
                       </Link>
                     )}
                     <PressableButton variant="primary" size="small" href={LINKS.apply} dataTrack={`cta-loan-types-${item.id}`}>
-                      Check eligibility
+                      Apply now
                     </PressableButton>
                   </div>
                 </div>

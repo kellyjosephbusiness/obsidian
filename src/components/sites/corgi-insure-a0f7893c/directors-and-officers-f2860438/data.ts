@@ -223,7 +223,7 @@ export const TERM_FAQ: FaqItem[] = [
   { question: "When does the first payment start?", answerHtml: "Most schedules begin one week (weekly plans) or one month (monthly plans) after disbursement. The exact first-payment date, the payment amount and the full amortization schedule are printed in the agreement before you sign." },
   { question: "What are the key limits or fees?", answerHtml: 'Amounts run from $5,000 to $5,000,000 with terms of 6 to 60 months. Origination fees of 1–4% are deducted from proceeds. Offers under form FLC-TL-0100 have no prepayment penalty. Late payments carry a cure period before fees apply. See the <a class="underline" href="#glossary">glossary</a> for definitions.' },
   { question: "Are add-ons available for term loans?", answerHtml: "Depending on the lender: Payment Holiday (skip one payment per 12 months), Rate Lock (hold your offer 30 days) and Top-Up Draw (re-borrow up to 25% after six on-time payments). Available features are shown on each offer." },
-  { question: "Are FundLine's lenders licensed?", answerHtml: "Yes. Every lender in the network is a licensed bank, credit union or state-licensed commercial lender. FundLine Capital is not a lender and does not make credit decisions; the lender you choose issues the agreement and services the loan." },
+  { question: "Are FundLine's lenders licensed?", answerHtml: "Yes. Every lender we work with is a licensed bank, credit union or state-licensed commercial lender. FundLine Capital is not a lender and does not make credit decisions; the lender you choose issues the agreement and services the loan." },
 ];
 
 export const INDUSTRIES = {

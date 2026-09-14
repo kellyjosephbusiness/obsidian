@@ -53,7 +53,7 @@ export const ARTICLE_BLOCKS: ArticleBlock[] = [
     paragraphs: [
       {
         lead: "SAN FRANCISCO, CA",
-        text: " – FundLine Capital announced today it has raised $160 million in Series B funding at a $1.3 billion valuation, advancing its mission to build the first AI-native lending marketplace for small businesses. The company was founded by Maya Chen and Daniel Okoro.",
+        text: " – FundLine Capital announced today it has raised $160 million in Series B funding at a $1.3 billion valuation, advancing its mission to build the first business funding brokerage for small businesses. The company was founded by Maya Chen and Daniel Okoro.",
       },
     ],
   },
@@ -66,7 +66,7 @@ export const ARTICLE_BLOCKS: ArticleBlock[] = [
         text: "The round was led by Harbor Peak Growth, with participation from both existing and new investors including Meridian Ridge Partners, Blue Cedar Ventures, Northgate Capital Fund, Lantern Row, Sable Point Ventures, Copperfield Growth, Redwood Ledger, Tidewater Angels, Highline Seed Fund, Granite Harbor Partners, Willow Creek Capital, Summit Fork Ventures, and other strategic investors.",
       },
       {
-        text: "This financing builds on FundLine Capital's previously announced $108 million across its seed and Series A rounds, backed by investors including Blue Cedar Ventures, Lantern Row, Highline Seed Fund, and more. Since opening its marketplace in July 2025, FundLine has connected owners with offers from more than 75 lenders through a single application.",
+        text: "This financing builds on FundLine Capital's previously announced $108 million across its seed and Series A rounds, backed by investors including Blue Cedar Ventures, Lantern Row, Highline Seed Fund, and more. Since opening its doors in July 2025, FundLine has connected owners with offers from more than 75 lenders through a single application.",
       },
       { text: "This new funding brings FundLine Capital's total amount raised to over $268 million." },
     ],
@@ -74,10 +74,10 @@ export const ARTICLE_BLOCKS: ArticleBlock[] = [
   {
     id: "expansion",
     tocLabel: "Expansion",
-    heading: "Expanding the Marketplace",
+    heading: "Expanding the Brokerage",
     paragraphs: [
       {
-        text: "The new capital will support the continued expansion of FundLine Capital's small-business loan products, including a broader lender network, embedded financing for the platforms owners already use, and ongoing investment in the AI matching engine that pairs each application with the right offers.",
+        text: "The new capital will support the continued expansion of FundLine Capital's small-business loan products, including a broader lender network, partner tools for the platforms owners already use, and ongoing investment in the hands-on lender matching that pairs each application with the right offers.",
       },
       {
         text: "The company is also moving into new verticals, beginning with trucking, where it plans to bring faster offers, more adaptive credit models, and financing aligned with how fleets actually operate.",
@@ -106,7 +106,7 @@ export const ARTICLE_BLOCKS: ArticleBlock[] = [
     heading: "About FundLine Capital",
     paragraphs: [
       {
-        text: "FundLine Capital is an AI-native lending marketplace built for small businesses. With one application, owners receive offers from a network of more than 75 lenders, compare real terms side by side, and accept the one that fits, with no impact to their credit score to apply.",
+        text: "FundLine Capital is an business funding brokerage built for small businesses. With one application, owners receive offers from a network of more than 75 lenders, compare real terms side by side, and accept the one that fits, with no impact to their credit score to apply.",
       },
       { text: "The company delivers fast, flexible financing tailored to how small businesses operate and grow." },
     ],
@@ -169,7 +169,7 @@ export const LATEST_ARTICLES: ArticleCard[] = [
     date: "Aug. 27 2026",
     readTime: "4 min read",
     title: "Where Owners Can Accept a Funding Offer the Same Day",
-    excerpt: "FundLine is the AI-native lending marketplace that empowers owners to compare offers and accept funding the same day.",
+    excerpt: "FundLine is the business funding brokerage that empowers owners to compare offers and accept funding the same day.",
     author: "The FundLine team",
     href: "/blog/where-owners-can-accept-a-funding-offer-the-same-day",
   },

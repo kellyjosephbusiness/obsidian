@@ -74,7 +74,7 @@ export const WORKFLOW_STEPS: WorkflowStep[] = [
     icon: "request_quote",
     punctuation: ",",
     connector: " ",
-    caption: "One submission reaches 75+ lenders. Real offers with rates, terms, and amounts land in the workspace.",
+    caption: "One submission, shopped to the lenders that fit. Real offers with rates, terms, and amounts land in the workspace.",
   },
   {
     id: "esign",

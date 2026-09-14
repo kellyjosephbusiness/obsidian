@@ -59,14 +59,14 @@ export const DEFAULT_CTA: CtaBandContent = {
 export const ABOUT_META: CompanyMeta = {
   title: "About FundLine Capital | Built by Owners, for Owners",
   description:
-    "FundLine Capital is a small-business lending marketplace: one application, real offers from 75+ lenders, and a specialist who picks up the phone.",
+    "FundLine Capital is a small business funding brokerage: one application, real offers from 75+ lenders, and a specialist who picks up the phone.",
 };
 
 export const ABOUT_HERO: CompanyHeroContent = {
   eyebrow: "About FundLine",
   headingLine1: "Built by owners,",
   headingLine2: "for owners.",
-  sub: "FundLine Capital is a lending marketplace. One application, real offers from 75+ lenders, and a specialist who picks up the phone. We started it because borrowing for a small business should not take a month.",
+  sub: "FundLine Capital is a funding brokerage. One application, real offers from 75+ lenders, and a specialist who picks up the phone. We started it because borrowing for a small business should not take a month.",
   primary: APPLY,
   secondary: { label: "Meet the team", href: "#leadership" },
 };
@@ -75,7 +75,7 @@ export const ABOUT_MISSION = {
   heading: "Why we exist",
   paragraphs: [
     "In 2011 our founders were running a two-truck delivery company and could not get a $40,000 loan from the bank they had used for six years. The paperwork took five weeks. The answer was no. A second lender said yes in three days; they had simply never heard of it. FundLine exists to close that gap.",
-    "Today we work with 75+ banks, credit unions and online lenders. You fill out one application in about 15 minutes, we match it against every lender's criteria, and you compare real offers side by side. Checking eligibility never touches your credit score.",
+    "Today we work with 75+ banks, credit unions and online lenders. You fill out one application in about 15 minutes, we check it against the criteria of the lenders we work with, and you compare real offers side by side. Checking eligibility never touches your credit score.",
     "We are paid by the lender when a loan funds, never by application fees. That keeps us on the owner's side of the table. Our job is to find the offer you would choose if you had time to talk to every lender yourself.",
   ],
   pull: "Borrowing for a small business should take an afternoon, not a month.",
@@ -100,12 +100,12 @@ export const LEADERS: Leader[] = [
   {
     name: "Daniel Okoro",
     role: "Co-founder & COO",
-    bio: "Fifteen years in commercial credit at two community banks. Built the first version of our matching rules by hand.",
+    bio: "Fifteen years in commercial credit at two community banks. Wrote the first version of our lender fit checklist by hand.",
   },
   {
     name: "Renee Castillo",
     role: "Head of Lender Partnerships",
-    bio: "Onboards and audits every lender in the network. Her rule: if she would not take the offer, it does not get listed.",
+    bio: "Onboards and audits every lender we work with. Her rule: if she would not take the offer, it does not get listed.",
   },
   {
     name: "Jordan Blake",
@@ -395,7 +395,7 @@ export const HOW_STEPS: ProcessStep[] = [
     number: "02",
     icon: "hub",
     title: "Match",
-    description: "We run your application against the criteria of 75+ lenders at once: industry, time in business, revenue, credit band and use of funds.",
+    description: "We check your application against the criteria of the lenders that fit your profile: industry, time in business, revenue, credit band and use of funds.",
     facts: ["75+ banks, credit unions and online lenders", "Most matches in under an hour", "Only lenders likely to say yes"],
   },
   {
@@ -576,8 +576,8 @@ export const APPLY_META: CompanyMeta = {
 export const APPLY_INTRO = {
   eyebrow: "Apply",
   headingLine1: "One application.",
-  headingLine2: "Every lender.",
-  sub: "Three short steps. Save and come back any time; nothing here affects your credit score until you accept an offer.",
+  headingLine2: "The right lenders.",
+  sub: "One short form. Nothing here affects your credit score until you accept an offer, and you can send this page to anyone on your team to finish it.",
   bullets: [
     { icon: "timer", text: "About 15 minutes" },
     { icon: "credit_score", text: "Soft inquiry only" },

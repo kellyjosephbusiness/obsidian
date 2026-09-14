@@ -10,15 +10,15 @@ export const BLOG_POSTS: EditorialArticle[] = [
   {
     slug: "marketplace-vs-bank",
     kind: "blog",
-    title: "Marketplace Lending vs. Banks: What Actually Changes for Owners",
-    excerpt: "A bank decides one file at a time. A marketplace sends one application to dozens of lenders. Here is what that means for speed, approval odds and cost.",
+    title: "Working With a Funding Broker vs. Banks: What Actually Changes for Owners",
+    excerpt: "A bank decides one file at a time. A broker shops one application to the lenders that fit. Here is what that means for speed, approval odds and cost.",
     date: "April 14th 2026",
     cardDate: "Apr. 14 2026",
     isoDate: "2026-04-14",
     readTime: "6 min read",
     author: AUTHOR,
     tags: ["Compare", "Getting started"],
-    thumbnail: { stat: "75+", statLabel: "lenders, one application", footLead: "Compare:", footTail: " marketplace vs. bank", footTitle: "Marketplace" },
+    thumbnail: { stat: "75+", statLabel: "lenders, one application", footLead: "Compare:", footTail: " broker vs. bank", footTitle: "Broker" },
     inlineCtaAfter: "marketplace",
     related: ["/blog/funding-guide-for-owners", "/blog/which-online-lenders-still-fund-businesses-under-two-years-old", "/guides/business-financing"],
     blocks: [
@@ -27,7 +27,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "Overview",
         paragraphs: [
           {
-            text: "If you have ever walked into a branch with a folder of statements and walked out with \"we'll be in touch,\" you already know what this article is about. Banks are not bad at lending. They are slow at it, and they decline most small-business applications under $250,000 because a small file costs them about as much to process as a large one. A lending marketplace does not replace your bank. It changes how many answers you get, and how fast you get them.",
+            text: "If you have ever walked into a branch with a folder of statements and walked out with \"we'll be in touch,\" you already know what this article is about. Banks are not bad at lending. They are slow at it, and they decline most small-business applications under $250,000 because a small file costs them about as much to process as a large one. A funding brokerage does not replace your bank. It changes how many answers you get, and how fast you get them.",
           },
         ],
       },
@@ -46,14 +46,14 @@ export const BLOG_POSTS: EditorialArticle[] = [
       },
       {
         id: "marketplace",
-        tocLabel: "How a marketplace decides",
-        heading: "How a marketplace decides",
+        tocLabel: "How a broker decides",
+        heading: "How a broker decides",
         paragraphs: [
           {
-            text: "On a marketplace, you complete one application. It captures the same facts every lender asks about: time in business, monthly revenue, industry, credit band, existing debt and recent bank activity. A matching engine compares that profile against each lender's stated criteria, and only the lenders whose box you fit see the file.",
+            text: "With a broker, you complete one application. It captures the same facts every lender asks about: time in business, monthly revenue, industry, credit band, existing debt and recent bank activity. A funding team compares that profile against each lender's stated criteria, and only the lenders whose box you fit see the file.",
           },
           {
-            text: "Several of them respond with offers, often within hours, and you compare them side by side. On FundLine that means one 15-minute application, a network of more than 75 lenders, and no impact to your credit score to see what you qualify for. The lender you accept is still the lender; the marketplace is the front door.",
+            text: "Several of them respond with offers, often within hours, and you compare them side by side. On FundLine that means one 15-minute application, a network of more than 75 lenders, and no impact to your credit score to see what you qualify for. The lender you accept is still the lender; the broker is the front door.",
           },
         ],
       },
@@ -62,14 +62,14 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "Where the bank wins",
         heading: "Where the bank still wins",
         paragraphs: [
-          { text: "Be honest about the trade. A bank or credit union will usually beat a marketplace offer on price when you qualify for it. Their term loans price close to prime plus one to three points, SBA 7(a) loans stretch to ten years, and commercial real estate almost always runs through a bank. A deposit relationship can also earn you goodwill on the next request." },
+          { text: "Be honest about the trade. A bank or credit union will usually beat a broker-sourced offer on price when you qualify for it. Their term loans price close to prime plus one to three points, SBA 7(a) loans stretch to ten years, and commercial real estate almost always runs through a bank. A deposit relationship can also earn you goodwill on the next request." },
           { text: "If you have the profile and the time, there is nothing wrong with running a bank application in parallel. Just do not let it be your only application." },
         ],
       },
       {
         id: "marketplace-wins",
-        tocLabel: "Where the marketplace wins",
-        heading: "Where the marketplace wins",
+        tocLabel: "Where the broker wins",
+        heading: "Where the broker wins",
         paragraphs: [
           { text: "Speed is the obvious one, but it is not the only one." },
         ],
@@ -95,7 +95,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "Running both",
         heading: "A practical way to run both",
         paragraphs: [
-          { text: "Apply on the marketplace first; it takes fifteen minutes and tells you where you stand today. Keep the bank conversation going if you have the runway. Accept the marketplace offer when timing demands it, and if the bank comes back cheaper later, most term loans can be refinanced without a penalty. The goal is not to pick a side. It is to never be waiting on a single answer." },
+          { text: "Apply through the broker first; it takes fifteen minutes and tells you where you stand today. Keep the bank conversation going if you have the runway. Accept the broker's offer when timing demands it, and if the bank comes back cheaper later, most term loans can be refinanced without a penalty. The goal is not to pick a side. It is to never be waiting on a single answer." },
         ],
       },
     ],
@@ -246,7 +246,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "Apply once",
         heading: "How to apply once instead of five times",
         paragraphs: [
-          { text: "Applying to lenders one at a time means re-entering the same facts, uploading the same statements and answering the same calls five times over, with a hard credit pull at the end of each. A marketplace collects the application once, matches it to the lenders whose criteria you fit, and returns their offers together. Checking eligibility on FundLine does not affect your credit score; a hard inquiry only happens when you accept an offer and the lender finalizes it." },
+          { text: "Applying to lenders one at a time means re-entering the same facts, uploading the same statements and answering the same calls five times over, with a hard credit pull at the end of each. A broker collects the application once, matches it to the lenders whose criteria you fit, and returns their offers together. Checking eligibility on FundLine does not affect your credit score; a hard inquiry only happens when you accept an offer and the lender finalizes it." },
         ],
       },
       {
@@ -571,7 +571,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "No broker calls",
         heading: "Doing it without broker calls",
         paragraphs: [
-          { text: "A traditional broker shops your file by phone and comes back with what they were paid to sell. A marketplace does the shopping in software. On FundLine, one fifteen-minute application is matched to the lenders whose criteria fit your revenue, season and time in business, and their offers for both lines and term loans land in the same dashboard, priced in APR so you can compare them. Lines of credit up to $250,000 now receive same-day decisions when you connect a bank account." },
+          { text: "A good broker shops your file to the lenders that actually fit and comes back with real options, not the one product it was paid to sell. On FundLine, one fifteen-minute application is matched to the lenders whose criteria fit your revenue, season and time in business, and their offers for both lines and term loans land in the same dashboard, priced in APR so you can compare them. Lines of credit up to $250,000 now receive same-day decisions when you connect a bank account." },
         ],
       },
       {
@@ -588,7 +588,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
     slug: "where-owners-can-accept-a-funding-offer-the-same-day",
     kind: "blog",
     title: "Where Owners Can Accept a Funding Offer the Same Day",
-    excerpt: "FundLine is the AI-native lending marketplace that empowers owners to compare offers and accept funding the same day.",
+    excerpt: "FundLine is the business funding brokerage that empowers owners to compare offers and accept funding the same day.",
     date: "August 27th 2026",
     cardDate: "Aug. 27 2026",
     isoDate: "2026-08-27",
@@ -604,7 +604,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "Overview",
         paragraphs: [
           {
-            text: "FundLine is the AI-native lending marketplace that lets owners compare offers and accept funding the same day. That sentence gets used a lot, so this post explains what \"same day\" actually requires, which products can move that fast, what a realistic timeline looks like hour by hour, and what quietly slows it down.",
+            text: "FundLine is the business funding brokerage that lets owners compare offers and accept funding the same day. That sentence gets used a lot, so this post explains what \"same day\" actually requires, which products can move that fast, what a realistic timeline looks like hour by hour, and what quietly slows it down.",
           },
         ],
       },
@@ -633,7 +633,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "The timeline",
         heading: "From application to funds, hour by hour",
         paragraphs: [
-          { text: "9:00 a.m., you start the application and connect your business checking account; fifteen minutes later it is submitted. By 9:30 the matching engine has routed it to the lenders whose criteria you fit. Between 10:00 and 1:00 offers arrive in your dashboard, each with APR, total payback and payment frequency. You pick one, sign electronically and confirm the deposit account by 2:00. The lender initiates the transfer before its cutoff, and funds land the same afternoon or first thing the next morning. That is the 24-hour path on the FundLine ticker." },
+          { text: "9:00 a.m., you start the application and connect your business checking account; fifteen minutes later it is submitted. By 9:30 the funding team has routed it to the lenders whose criteria you fit. Between 10:00 and 1:00 offers arrive in your dashboard, each with APR, total payback and payment frequency. You pick one, sign electronically and confirm the deposit account by 2:00. The lender initiates the transfer before its cutoff, and funds land the same afternoon or first thing the next morning. That is the 24-hour path on the FundLine ticker." },
         ],
       },
       {
@@ -727,7 +727,7 @@ export const BLOG_POSTS: EditorialArticle[] = [
         tocLabel: "Finding them",
         heading: "How to find them without applying ten times",
         paragraphs: [
-          { text: "Applying lender by lender means ten forms and, at some of them, a hard credit pull. A marketplace filters by your time in business before any lender sees the file, so a fourteen-month-old company is only shown to lenders that fund fourteen-month-old companies. On FundLine that is one application, offers from every lender whose criteria you meet, and no impact to your credit score to look." },
+          { text: "Applying lender by lender means ten forms and, at some of them, a hard credit pull. A broker filters by your time in business before any lender sees the file, so a fourteen-month-old company is only shown to lenders that fund fourteen-month-old companies. On FundLine that is one application, offers from the lenders whose criteria you meet, and no impact to your credit score to look." },
         ],
       },
       {

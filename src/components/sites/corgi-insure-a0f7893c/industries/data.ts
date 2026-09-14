@@ -460,7 +460,7 @@ const RESTAURANTS: IndustryDefinition = {
     {
       question: "Are restaurants harder to fund than other businesses?",
       answerHtml:
-        "Some banks avoid the category, which is exactly why a marketplace helps. Several lenders in our network specialize in food service and look at daily card sales, time in business and how you handled past slow seasons rather than just the industry label.",
+        "Some banks avoid the category, which is exactly why a broker helps. Several lenders in our network specialize in food service and look at daily card sales, time in business and how you handled past slow seasons rather than just the industry label.",
     },
     {
       question: "Can we repay from daily card sales?",

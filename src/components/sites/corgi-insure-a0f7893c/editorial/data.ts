@@ -68,7 +68,7 @@ export const SERIES_B_CARD: ArticleCard = {
   date: "May 7 2026",
   readTime: "4 min read",
   title: "FundLine Capital Raises $160M Series B at $1.3B Valuation",
-  excerpt: "New funding supports a broader lender network, embedded financing and the AI matching engine behind every application.",
+  excerpt: "New funding supports a broader lender network, partner tools and the funding team behind every application.",
   author: "FundLine Capital",
   href: "/newsroom/series-b",
 };
@@ -166,7 +166,7 @@ export const PRODUCT_UPDATES: ProductUpdate[] = [
   {
     date: "Jul. 28 2026",
     tag: "New",
-    title: "Equipment financing offers inside the marketplace",
+    title: "Equipment financing offers inside the partner portal",
     description:
       "Twelve equipment lenders joined the network. Owners can add a quote or invoice to an application and compare equipment offers next to term loans and lines.",
   },

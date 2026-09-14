@@ -10,7 +10,7 @@ import { PressHero } from "@/components/sites/corgi-insure-a0f7893c/press-releas
 export const metadata: Metadata = {
   title: "FundLine Capital Raises $160M Series B | Newsroom",
   description:
-    "New funding values FundLine Capital at $1.3B and supports expansion of its AI-native small-business lending marketplace.",
+    "New funding values FundLine Capital at $1.3B and supports expansion of its small-business funding brokerage.",
 };
 
 /**

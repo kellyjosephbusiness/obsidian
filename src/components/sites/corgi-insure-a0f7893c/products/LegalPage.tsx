@@ -9,7 +9,7 @@ import { SiteShell } from "./SiteShell";
  * page" rail beside numbered sections. `showPreferences` appends the privacy preferences form.
  *
  * NOTE: the copy rendered here (see `LEGAL_PAGES` in ./data.ts) is placeholder legal text written
- * for a fictional lending marketplace. It is not legal advice and must be replaced by counsel.
+ * for a fictional funding brokerage. It is not legal advice and must be replaced by counsel.
  */
 export function LegalPage({ content }: { content: LegalPageContent }) {
   return (

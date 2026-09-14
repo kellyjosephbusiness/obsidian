@@ -33,7 +33,7 @@ export default function NotFound() {
               </p>
               <div className="flex flex-col items-stretch gap-3 sm:flex-row">
                 <PressableButton variant="primary" size="large" href={LINKS.apply}>
-                  Check eligibility
+                  Apply now
                 </PressableButton>
                 <PressableButton variant="white" size="large" href="/">
                   Back to home
