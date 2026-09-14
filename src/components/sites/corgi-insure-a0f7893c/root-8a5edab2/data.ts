@@ -7,9 +7,9 @@ import type {
   GetQuotedProof,
   HeroTickerItem,
   NavMenu,
-  OrbLogo,
   Policy,
   PolicyPill,
+  ProcessStep,
   SpecializedCoverage,
   Testimonial,
 } from "@/types/sites/corgi-insure-a0f7893c/home";
@@ -163,16 +163,6 @@ export const HERO_TICKER: HeroTickerItem[] = [
   { value: "$5K–$5M", label: "funding range" },
 ];
 
-export const INTRO = {
-  accent: "FundLine Capital",
-  rest: " is a small business funding brokerage built for business owners who don’t have time to wait. That means one application, offers from multiple lenders, and a funding team that knows your industry.",
-  quoteCard: "Get funded!",
-  quoteHref: LINKS.apply,
-  ellipse: `${ASSETS}/images/journey-hero/ellipse.svg`,
-  label: `${ASSETS}/images/journey-hero/boring-document-label.png`,
-  document: `${ASSETS}/images/journey-hero/document.png`,
-} as const;
-
 export const QUOTE_STRIP = {
   quote: "“I expected months of back-and-forth like with a bank. With FundLine Capital, real offers showed up in a couple of days.”",
   mobileQuote: "“I expected months like with a bank. With FundLine Capital, offers showed up in days.”",
@@ -188,6 +178,18 @@ export const JOURNEY = {
   ctaLabel: "Apply now",
   hint: { before: "Click any", chip: "Product", chipHref: "#explore-coverages", after: "to see how it works" },
 } as const;
+
+export const PROCESS = {
+  heading: "How our process works",
+  sub: "One application, a specialist who knows your industry, and real offers you can compare before you sign anything.",
+} as const;
+
+export const PROCESS_STEPS: ProcessStep[] = [
+  { icon: "schedule", title: "Apply in 15 minutes", body: "One short application, no impact to your credit score." },
+  { icon: "handshake", title: "We shop your file", body: "Your specialist takes it to the lenders that fit." },
+  { icon: "compare_arrows", title: "Compare real offers", body: "See rate, term and total cost side by side." },
+  { icon: "payments", title: "Funded in 24 hours", body: "Accept the offer that fits and the money lands." },
+];
 
 export const POLICY_PILLS: PolicyPill[] = [
   { label: "Term Loan", href: "/term-loans", description: "A lump sum repaid over a fixed schedule. Best for one-time investments like a build-out, a big order, or an acquisition." },
@@ -276,43 +278,6 @@ export const COVERAGE_PACKAGES: CoveragePackage[] = [
   },
 ];
 
-export const ADVANTAGE = {
-  heading: "Our unique advantage",
-  legacy: {
-    chips: [
-      { icon: "store", label: "Branch appointment" },
-      { icon: "description", label: "Paper application" },
-      { icon: "groups", label: "Credit committee" },
-      { icon: "edit_square", label: "Underwriting (30+ days)" },
-    ],
-    certificateTitle: "Loan Agreement",
-    title: "Traditional bank lending",
-    description:
-      "The old way: branch appointments, paper applications, credit committees, and underwriting cycles that often run several weeks. One lender, one product, one answer, and a lot of waiting.",
-  },
-  corgi: {
-    title: "FundLine Capital",
-    descriptionBefore: "FundLine Capital is the small business funding brokerage built for business owners in a hurry. FundLine is faster, more transparent, and built to get you a yes because ",
-    descriptionStrong: "we are one application",
-    descriptionAfter:
-      ". We take that one application, shop it to the lenders that fit your business, and bring back real offers in days so you can pick the terms that work.",
-  },
-} as const;
-
-/** Orbs flowing through the "tunnel": industries we fund, drawn as icons. */
-export const ORB_LOGOS: OrbLogo[] = [
-  { icon: "construction" },
-  { icon: "restaurant", fill: true },
-  { icon: "storefront" },
-  { icon: "medical_services" },
-  { icon: "local_shipping" },
-  { icon: "factory" },
-  { icon: "shopping_cart", fill: true },
-  { icon: "agriculture" },
-  { icon: "fitness_center", fill: true },
-  { icon: "design_services" },
-];
-
 /** Proof bullets under the "Apply in 15 minutes" heading. */
 export const GET_QUOTED_PROOF: GetQuotedProof[] = [
   { icon: "schedule", label: "About 15 minutes" },
@@ -354,8 +319,9 @@ export interface Review {
 }
 
 export const REVIEWS_HEADER = {
-  headingLine1: "100s of happy business owners",
-  headingLine2: "and counting.",
+  headingLine1: "See what 1,000+ business owners",
+  headingLine2: "have to say.",
+  cta: { label: "Read customer stories", href: LINKS.customers },
 } as const;
 
 /** Illustrative reviews (names and places are fictional). */
@@ -369,14 +335,6 @@ export const REVIEWS: Review[] = [
   { name: "Kevin L", photo: 12, city: "Spokane, WA", quote: "We financed two trucks through FundLine. The lender they matched us with understood freight, and the paperwork was done in a week." },
   { name: "Dana W", photo: 11, city: "Burlington, VT", quote: "Jack checked in after funding just to see how the expansion was going. That kind of follow-through is why we'll use FundLine again." },
 ];
-
-export const TESTIMONIALS_HEADER = {
-  headingBefore: "Built for ",
-  headingItalic: "business owners",
-  headingAfter: "who build",
-  sub: "Why small businesses get funded with FundLine Capital.",
-  cta: { label: "Read customer stories", href: LINKS.customers },
-} as const;
 
 /** Illustrative customer stories (names and businesses are fictional). */
 export const TESTIMONIALS: Testimonial[] = [
@@ -605,6 +563,26 @@ export const SPECIALIZED_COVERAGES: SpecializedCoverage[] = [
     image: `${ASSETS}/images/products/specialty/healthcare-practice-loans.png`,
   },
 ];
+
+/** Copy for the estimated-rates band; the figures themselves come from products/LOAN_TYPE_DETAILS. */
+export const RATES = {
+  heading: "Estimated rates, before you apply.",
+  sub: "Typical starting points across the lenders we work with, so you know roughly where you stand before you spend fifteen minutes on an application.",
+  /** LOAN_TYPE_DETAILS ids, in the order shown. */
+  productIds: ["term-loans", "line-of-credit", "sba-loans", "equipment-financing", "invoice-financing"],
+  columns: { product: "Product", rate: "Typical starting rate", term: "Term", speed: "Speed to fund" },
+  footnote:
+    "Illustrative only. FundLine Capital is a commercial loan broker, not a lender: your rate, term and payment are set by the lender whose offer you accept and are shown in that lender's disclosure before you sign anything.",
+  cta: { label: "Apply now", href: LINKS.apply },
+  seeAll: { label: "Compare every loan type", href: LINKS.loanTypes },
+} as const;
+
+/** Copy for the blog teaser; the three cards come from editorial/articlesOfKind("blog"). */
+export const BLOG_TEASER = {
+  heading: "Straight answers on small business funding.",
+  sub: "How lenders decide, what financing really costs, and how to get to a yes faster — written by the FundLine team for business owners.",
+  cta: { label: "Read the blog", href: "/blog" },
+} as const;
 
 export const FAQ_HEADER = {
   heading: "Questions, answered",

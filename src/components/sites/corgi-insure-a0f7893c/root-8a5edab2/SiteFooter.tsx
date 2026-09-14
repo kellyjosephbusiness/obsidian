@@ -14,8 +14,9 @@ import { FundLineBadge } from "@/components/sites/corgi-insure-a0f7893c/shared/F
 const isExternal = (href: string) => /^(https?:)?\/\//.test(href);
 
 /**
- * Site footer: dark CTA band (heading + "Apply now"), 5-column link grid with hairline dividers,
- * legal/social row, the cloud-and-skyline landscape band and the black disclaimer block.
+ * Site footer: dark CTA band (heading + "Apply now"), then the 5-column link grid and legal/social
+ * row layered over the cloud-and-skyline landscape (same treatment as the hero), and the black
+ * disclaimer block.
  * Server component.
  */
 export interface FooterCta {
@@ -57,8 +58,28 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
         </div>
       </section>
 
-      {/* 2. Link grid, legal row and landscape band */}
-      <div className="relative w-full">
+      {/* 2. Link grid and legal row, layered over the landscape */}
+      <div className="relative w-full overflow-hidden">
+        {/* Landscape backdrop: light sky gradient, the hero's clouds and the dithered NYC skyline,
+            with a scrim on top so the links and legal text keep full contrast. */}
+        <div aria-hidden className="pointer-events-none absolute inset-0 overflow-hidden bg-gradient-to-b from-[#f6f6f6] via-[#eef2fb] to-[#e7edfa]">
+          <Image
+            alt=""
+            src={FOOTER_IMAGES.sky}
+            fill
+            sizes="100vw"
+            className="object-cover object-bottom opacity-55 [mask-image:linear-gradient(to_top,black_20%,transparent_95%)]"
+          />
+          <Image
+            alt=""
+            src={FOOTER_IMAGES.skyline}
+            width={2400}
+            height={872}
+            sizes="100vw"
+            className="absolute bottom-0 left-1/2 h-auto w-[1400px] max-w-none -translate-x-1/2 opacity-[0.3] [mask-image:linear-gradient(to_bottom,transparent_0%,black_45%)] md:w-[1800px] lg:w-[2100px]"
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#f6f6f6] from-0% via-[rgba(246,246,246,0.82)] via-55% to-[rgba(246,246,246,0.55)]" />
+        </div>
         <div
           aria-hidden
           className="pointer-events-none absolute top-0 bottom-0 left-[max(16px,calc((100%-1600px)/2))] z-0 w-px bg-[#e1e1e1] md:left-[max(24px,calc((100%-1600px)/2))] lg:left-[max(64px,calc((100%-1600px)/2))]"
@@ -67,7 +88,7 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
           aria-hidden
           className="pointer-events-none absolute top-0 bottom-0 right-[max(16px,calc((100%-1600px)/2))] z-0 w-px bg-[#e1e1e1] md:right-[max(24px,calc((100%-1600px)/2))] lg:right-[max(64px,calc((100%-1600px)/2))]"
         />
-        <div className="border-b border-[#e1e1e1] px-4 md:px-6 lg:px-16">
+        <div className="relative z-10 border-b border-[#e1e1e1] px-4 md:px-6 lg:px-16">
           <div className="relative mx-auto grid max-w-[1600px] grid-cols-1 divide-x divide-y divide-[#e1e1e1] sm:grid-cols-2 md:grid-cols-5">
             <div className="col-span-1 flex items-center justify-center p-6 sm:col-span-2 md:col-span-1">
               <FundLineBadge className="w-[168px]" />
@@ -91,7 +112,7 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
           </div>
         </div>
 
-        <div className="w-full px-4 py-6 md:px-6 lg:px-16">
+        <div className="relative z-10 w-full px-4 pt-6 pb-14 md:px-6 md:pb-24 lg:px-16 lg:pb-32">
           <div className="mx-auto flex max-w-[1600px] flex-wrap items-center justify-center gap-x-6 gap-y-3 text-[16px] leading-[1.2] tracking-[-0.24px] text-[#4a4a4a]">
             <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
               {FOOTER_LEGAL.map((link) => (
@@ -120,31 +141,6 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
           </div>
         </div>
 
-        {/* Landscape band: light sky gradient, the hero's clouds, and the dithered NYC skyline at reduced opacity */}
-        <div aria-hidden className="relative z-10 aspect-[390/300] w-full md:aspect-[1440/534] overflow-hidden bg-gradient-to-b from-[#eef2fb] to-white">
-          <Image
-            alt=""
-            src={FOOTER_IMAGES.sky}
-            fill
-            sizes="100vw"
-            className="object-cover object-bottom opacity-60 [mask-image:linear-gradient(to_top,black_30%,transparent_100%)]"
-          />
-          <Image
-            alt=""
-            src={FOOTER_IMAGES.skyline}
-            width={2400}
-            height={872}
-            sizes="100vw"
-            className="absolute bottom-0 left-1/2 h-auto w-[1400px] max-w-none -translate-x-1/2 opacity-[0.26] [mask-image:linear-gradient(to_bottom,transparent_0%,black_55%)] md:w-[1800px] lg:w-[2100px]"
-          />
-          <Image
-            alt=""
-            src={FOOTER_IMAGES.sky}
-            fill
-            sizes="100vw"
-            className="object-cover object-bottom opacity-70 [mask-image:linear-gradient(to_top,black_20%,transparent_70%)]"
-          />
-        </div>
       </div>
 
       {/* 3. Disclaimer */}
