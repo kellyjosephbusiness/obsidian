@@ -125,6 +125,8 @@ export interface GetQuotedProof {
 export interface SpecializedCoverage {
   title: string;
   desc: string;
+  /** 1-bit stipple illustration for the program (public path). */
+  image: string;
 }
 
 export interface FaqItem {

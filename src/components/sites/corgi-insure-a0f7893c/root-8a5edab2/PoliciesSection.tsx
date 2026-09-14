@@ -23,6 +23,11 @@ export interface PoliciesSectionProps {
   cta?: { label: string; href: string } | null;
   /** Decorative mascots hanging off the section edges (home page only by default). */
   showMascots?: boolean;
+  /**
+   * Render the flickable specialty peek card in the last grid cell (and the matching mobile row).
+   * `/loan-types` turns it off and renders every program in its own SpecialtyPrograms section.
+   */
+  showSpecialtyStack?: boolean;
   dataTrack?: string;
 }
 
@@ -34,6 +39,7 @@ export function PoliciesSection({
   specialized = SPECIALIZED_COVERAGES,
   cta = POLICIES_HEADER.cta,
   showMascots = false,
+  showSpecialtyStack = true,
   dataTrack = "cta-homepage-policies",
 }: PoliciesSectionProps = {}) {
   return (
@@ -76,14 +82,16 @@ export function PoliciesSection({
             <div aria-hidden className="pointer-events-none absolute left-1/2 top-0 h-px w-screen max-w-[2400px] -translate-x-1/2 bg-[#e1e1e1]" />
             <div aria-hidden className="pointer-events-none absolute left-1/2 bottom-0 h-px w-screen max-w-[2400px] -translate-x-1/2 bg-[#e1e1e1]" />
             {/* Phones: one compact list card. md and up: the full card grid with the specialty stack. */}
-            <PolicyListMobile policies={policies} specialized={specialized} className="relative z-20 md:hidden" />
+            <PolicyListMobile policies={policies} specialized={showSpecialtyStack ? specialized : []} className="relative z-20 md:hidden" />
             <div className="relative z-20 hidden gap-6 md:grid md:grid-cols-2 lg:grid-cols-3">
               {policies.map((policy) => (
                 <PolicyCard key={policy.href} policy={policy} />
               ))}
-              <div className="md:col-span-2 md:mx-auto md:w-[calc(50%-12px)] lg:col-span-1 lg:mx-0 lg:w-auto">
-                <SpecializedCoveragesStack coverages={specialized} />
-              </div>
+              {showSpecialtyStack && (
+                <div className="md:col-span-2 md:mx-auto md:w-[calc(50%-12px)] lg:col-span-1 lg:mx-0 lg:w-auto">
+                  <SpecializedCoveragesStack coverages={specialized} />
+                </div>
+              )}
             </div>
           </div>
 

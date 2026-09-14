@@ -17,7 +17,7 @@ export function CtaSection({ heading, sub, primary, secondary, dataTrack }: CtaS
       <Rails />
       <div className="relative mx-auto max-w-[1200px]">
         <Hairlines zIndex="z-0" />
-        <div className="relative z-10 flex flex-col items-center gap-8 rounded-[24px] bg-[#191919] px-6 py-12 text-center md:px-12 md:py-16">
+        <div className="relative z-10 flex flex-col items-center gap-8 rounded-[8px] bg-[#191919] px-6 py-12 text-center md:px-12 md:py-16">
           <div className="flex max-w-[720px] flex-col gap-4">
             <h2 className="font-mono font-medium text-white text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]">{heading}</h2>
             <p className="text-body-large text-[#ddd]">{sub}</p>

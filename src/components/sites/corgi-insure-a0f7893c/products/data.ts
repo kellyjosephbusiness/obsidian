@@ -8,7 +8,7 @@ import type {
   PageMeta,
   TenureOption,
 } from "@/types/sites/corgi-insure-a0f7893c/products";
-import { LINKS } from "../root-8a5edab2/data";
+import { ASSETS, LINKS } from "../root-8a5edab2/data";
 
 /**
  * FundLine Capital — products, partners and legal content (Group D).
@@ -37,7 +37,12 @@ export const LOAN_TYPES_HERO: HeroContent = {
 
 export const LOAN_TYPES_PRODUCTS_HEADER = {
   heading: "All financing types",
-  sub: "Start with the eight products most owners use. Flip through the specialty stack for industry and stage-specific programs.",
+  sub: "Start with the eight products most owners use, then scroll on for the industry and stage-specific programs.",
+} as const;
+
+export const SPECIALTY_PROGRAMS_HEADER = {
+  heading: "Specialty programs",
+  sub: "Twelve industry and stage-specific programs, sourced from the lenders that write them most. One application covers all of them.",
 } as const;
 
 export const LOAN_TYPES_DETAILS_HEADER = {
@@ -56,6 +61,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
     speed: "1 – 3 days",
     bestFor: "One-time projects with a known cost",
     rate: "Fixed APR from 7.99%",
+    image: `${ASSETS}/images/products/term-loan.png`,
     href: "/term-loans",
   },
   {
@@ -68,6 +74,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
     speed: "Same day – 2 days",
     bestFor: "Smoothing seasonal cash flow and payroll",
     rate: "Variable APR from 9.5%",
+    image: `${ASSETS}/images/products/line-of-credit.png`,
   },
   {
     id: "sba-loans",
@@ -79,6 +86,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
     speed: "3 – 8 weeks",
     bestFor: "Established businesses with two or more years of returns",
     rate: "Prime + 2.25% – 4.75%",
+    image: `${ASSETS}/images/products/sba-7a.png`,
   },
   {
     id: "equipment-financing",
@@ -90,6 +98,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
     speed: "2 – 5 days",
     bestFor: "Owners replacing or adding revenue-producing assets",
     rate: "Fixed APR from 6.5%",
+    image: `${ASSETS}/images/products/equipment-financing.png`,
   },
   {
     id: "invoice-financing",
@@ -101,6 +110,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
     speed: "1 – 2 days",
     bestFor: "B2B companies with slow-paying customers",
     rate: "1% – 3% per 30 days",
+    image: `${ASSETS}/images/products/invoice-financing.png`,
   },
   {
     id: "merchant-cash-advance",
@@ -112,6 +122,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
     speed: "Same day – 1 day",
     bestFor: "Card-heavy businesses that need money this week",
     rate: "Factor rate 1.1 – 1.5",
+    image: `${ASSETS}/images/products/merchant-cash-advance.png`,
   },
   {
     id: "commercial-real-estate",
@@ -123,6 +134,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
     speed: "30 – 60 days",
     bestFor: "Owner-occupied purchases and refinances",
     rate: "Fixed or variable from 6.75%",
+    image: `${ASSETS}/images/products/commercial-real-estate.png`,
   },
   {
     id: "business-credit-card",
@@ -134,6 +146,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
     speed: "Instant decision",
     bestFor: "Separating expenses and building business credit",
     rate: "0% intro to 24.99% APR",
+    image: `${ASSETS}/images/products/business-credit-card.png`,
   },
   {
     id: "working-capital",
@@ -145,6 +158,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
     speed: "Same day – 2 days",
     bestFor: "Bridging a known gap without touching your credit line",
     rate: "Fixed APR from 10.9%",
+    image: `${ASSETS}/images/products/specialty/working-capital-loans.png`,
   },
   {
     id: "franchise-financing",
@@ -156,6 +170,7 @@ export const LOAN_TYPE_DETAILS: LoanTypeDetail[] = [
     speed: "1 – 4 weeks",
     bestFor: "New franchisees and multi-unit operators",
     rate: "Fixed APR from 7.5%",
+    image: `${ASSETS}/images/products/specialty/franchise-financing.png`,
   },
 ];
 

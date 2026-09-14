@@ -14,10 +14,10 @@ export function PolicyCard({ policy }: { policy: Policy }) {
   const learnMoreLabel = `${POLICIES_HEADER.learnMore} about ${policy.title}`;
 
   return (
-    <div className="flex flex-col overflow-hidden rounded-[24px] border border-[#e1e1e1] bg-white">
+    <div className="flex flex-col overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-white">
       <div className="relative flex h-[240px] items-start border-b border-[#e1e1e1] bg-white p-3">
         <Image alt={policy.title} className="pointer-events-none object-contain p-6" fill sizes="384px" src={policy.image} />
-        <div className="relative z-10 flex items-center justify-center rounded-[12px] bg-[#dde4f6] px-3 py-1.5">
+        <div className="relative z-10 flex items-center justify-center rounded-[4px] bg-[#dde4f6] px-3 py-1.5">
           <span className="text-[12px] font-medium leading-[1.2] tracking-[-0.18px] text-[#1e3a8a]">{policy.speed}</span>
         </div>
       </div>

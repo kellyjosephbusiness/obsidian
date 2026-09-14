@@ -3,7 +3,12 @@ import type { ComparisonRow } from "@/types/sites/corgi-insure-a0f7893c/products
 import { H2_CLASS, Hairlines, Rails } from "../directors-and-officers-f2860438/rails";
 import { COMPARISON_HEADER, COMPARISON_ROWS } from "./data";
 
-/** The eight core products side by side. The table scrolls inside its card below 900px. */
+const CELL = "px-5 py-4 text-[14px] leading-[1.25] tracking-[-0.21px] text-[#4a4a4a]";
+
+/**
+ * The eight core products side by side. Squared header cells over zebra-striped rows inside an
+ * 8px-cornered card; the table scrolls sideways below 900px with the product column pinned left.
+ */
 export function ComparisonTable({ rows = COMPARISON_ROWS }: { rows?: ComparisonRow[] } = {}) {
   return (
     <section id="compare" className="relative scroll-mt-[120px] border-b border-[#e1e1e1] px-4 py-16 md:px-6 md:py-20 lg:px-16 lg:py-24">
@@ -15,16 +20,18 @@ export function ComparisonTable({ rows = COMPARISON_ROWS }: { rows?: ComparisonR
         </div>
         <div className="relative">
           <Hairlines zIndex="z-0" />
-          <div className="relative z-10 overflow-hidden rounded-[24px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
+          <div className="relative z-10 overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
             <div className="overflow-x-auto">
               <table className="w-full min-w-[820px] border-collapse text-left">
                 <thead>
-                  <tr className="bg-[#f6f6f6]">
+                  <tr>
                     {COMPARISON_HEADER.columns.map((col, i) => (
                       <th
                         key={col}
                         scope="col"
-                        className={`px-5 py-3 text-[12px] font-medium leading-[1.2] tracking-[-0.18px] text-[#4a4a4a] ${i === 0 ? "w-[220px]" : ""}`}
+                        className={`bg-[#ededed] px-5 py-3 text-[12px] font-medium uppercase leading-[1.2] tracking-[0.06em] text-[#4a4a4a] ${
+                          i === 0 ? "sticky left-0 z-20 w-[220px] shadow-[1px_0_0_0_#e1e1e1]" : ""
+                        }`}
                       >
                         {col}
                       </th>
@@ -32,19 +39,25 @@ export function ComparisonTable({ rows = COMPARISON_ROWS }: { rows?: ComparisonR
                   </tr>
                 </thead>
                 <tbody>
-                  {rows.map((row) => (
-                    <tr key={row.product} className="border-t border-[#e1e1e1] align-top">
-                      <th scope="row" className="px-5 py-4 text-[14px] font-medium leading-[1.25] tracking-[-0.21px] text-[#191919]">
-                        <Link href={row.anchor} className="hover:text-[#1e3a8a] hover:underline">
-                          {row.product}
-                        </Link>
-                      </th>
-                      <td className="px-5 py-4 text-[14px] leading-[1.25] tracking-[-0.21px] text-[#4a4a4a]">{row.amount}</td>
-                      <td className="px-5 py-4 text-[14px] leading-[1.25] tracking-[-0.21px] text-[#4a4a4a]">{row.term}</td>
-                      <td className="px-5 py-4 text-[14px] leading-[1.25] tracking-[-0.21px] text-[#4a4a4a]">{row.speed}</td>
-                      <td className="px-5 py-4 text-[14px] leading-[1.25] tracking-[-0.21px] text-[#4a4a4a]">{row.bestFor}</td>
-                    </tr>
-                  ))}
+                  {rows.map((row, i) => {
+                    const zebra = i % 2 === 1 ? "bg-[#f6f6f6]" : "bg-white";
+                    return (
+                      <tr key={row.product} className={`border-t border-[#e1e1e1] align-top ${zebra}`}>
+                        <th
+                          scope="row"
+                          className={`sticky left-0 z-10 px-5 py-4 text-[14px] font-bold leading-[1.25] tracking-[-0.21px] text-[#191919] shadow-[1px_0_0_0_#e1e1e1] ${zebra}`}
+                        >
+                          <Link href={row.anchor} className="hover:text-[#1e3a8a] hover:underline">
+                            {row.product}
+                          </Link>
+                        </th>
+                        <td className={CELL}>{row.amount}</td>
+                        <td className={CELL}>{row.term}</td>
+                        <td className={CELL}>{row.speed}</td>
+                        <td className={CELL}>{row.bestFor}</td>
+                      </tr>
+                    );
+                  })}
                 </tbody>
               </table>
             </div>

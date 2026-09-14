@@ -20,7 +20,7 @@ const ROW_CLASS =
 
 function IconBox({ name }: { name: MaterialIconName }) {
   return (
-    <div className="flex size-14 shrink-0 items-center justify-center rounded-[14px] bg-[#dde4f6] text-[#1e3a8a]">
+    <div className="flex size-14 shrink-0 items-center justify-center rounded-[8px] bg-[#dde4f6] text-[#1e3a8a]">
       <MaterialIcon name={name} size={28} />
     </div>
   );
@@ -48,7 +48,7 @@ export function PolicyListMobile({ policies = POLICIES, specialized = SPECIALIZE
   const specialtyPreview = remaining > 0 ? `${preview.join(", ")} and ${remaining} more` : preview.join(", ");
 
   return (
-    <ul className={`flex flex-col divide-y divide-[#e1e1e1] overflow-hidden rounded-[24px] border border-[#e1e1e1] bg-white ${className ?? ""}`.trim()}>
+    <ul className={`flex flex-col divide-y divide-[#e1e1e1] overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-white ${className ?? ""}`.trim()}>
       {policies.map((policy) => (
         <li key={policy.href}>
           <Link href={policy.href} className={ROW_CLASS}>
