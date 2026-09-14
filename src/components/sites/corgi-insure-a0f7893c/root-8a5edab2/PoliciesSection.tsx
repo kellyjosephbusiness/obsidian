@@ -69,11 +69,11 @@ export function PoliciesSection({
         <div aria-hidden className="pointer-events-none absolute -top-16 -bottom-16 left-0 z-[5] w-px bg-[#e1e1e1] md:-top-20 md:-bottom-20" />
         <div aria-hidden className="pointer-events-none absolute -top-16 -bottom-16 right-0 z-[5] w-px bg-[#e1e1e1] md:-top-20 md:-bottom-20" />
 
-        <div className="flex flex-col gap-6 px-4 md:px-6">
-          <h2 className="font-mono font-medium text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)]">
+        <div className="flex flex-col gap-6 px-4 text-center md:px-6">
+          <h2 className="font-mono font-medium text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)] [text-wrap:balance]">
             {heading}
           </h2>
-          {sub && <p className="text-body-large">{sub}</p>}
+          {sub && <p className="mx-auto max-w-[560px] text-body-large">{sub}</p>}
         </div>
 
         <div className="flex flex-col gap-12">

@@ -32,14 +32,14 @@ export function RatesSection() {
       />
 
       <div className="relative mx-auto flex w-full max-w-[1600px] flex-col gap-8 px-4 md:gap-10 md:px-6">
-        <div className="flex flex-col gap-4">
+        <div className="flex flex-col gap-4 text-center">
           <h2
             id="rates-heading"
-            className="max-w-[20ch] font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)] [text-wrap:balance]"
+            className="mx-auto max-w-[20ch] font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)] [text-wrap:balance]"
           >
             {RATES.heading}
           </h2>
-          <p className="max-w-[640px] text-body-large text-[#4a4a4a]">{RATES.sub}</p>
+          <p className="mx-auto max-w-[560px] text-body-large text-[#4a4a4a]">{RATES.sub}</p>
         </div>
 
         {/* Phones: one card per product. */}

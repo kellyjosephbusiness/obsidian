@@ -27,11 +27,11 @@ export function JourneySection({ heading = JOURNEY.heading, sub = JOURNEY.sub, p
       />
 
       <div className="relative mx-auto flex w-full max-w-[1600px] flex-col gap-4 md:gap-6">
-        <div className="flex flex-col gap-6 px-4 md:px-6">
-          <h2 className="font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-none tracking-[-0.032em]">
+        <div className="flex flex-col gap-6 px-4 text-center md:px-6">
+          <h2 className="font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-none tracking-[-0.032em] [text-wrap:balance]">
             {heading}
           </h2>
-          <p className="text-body-large text-[#4a4a4a]">{sub}</p>
+          <p className="mx-auto max-w-[560px] text-body-large text-[#4a4a4a]">{sub}</p>
         </div>
 
         <CoveragePackageGrid packages={packages} pills={pills} />

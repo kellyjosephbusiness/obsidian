@@ -29,14 +29,14 @@ export function ProcessSection() {
       />
 
       <div className="relative mx-auto flex w-full max-w-[1600px] flex-col gap-10 px-4 md:gap-14 md:px-6">
-        <div className="flex flex-col gap-4">
+        <div className="flex flex-col gap-4 text-center">
           <h2
             id="process-heading"
-            className="max-w-[18ch] font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)] [text-wrap:balance]"
+            className="mx-auto max-w-[18ch] font-medium font-mono text-[#191919] text-[length:var(--h2-font-size)] leading-[var(--h2-line-height)] tracking-[var(--h2-tracking)] [text-wrap:balance]"
           >
             {PROCESS.heading}
           </h2>
-          <p className="max-w-[620px] text-body-large text-[#4a4a4a]">{PROCESS.sub}</p>
+          <p className="mx-auto max-w-[560px] text-body-large text-[#4a4a4a]">{PROCESS.sub}</p>
         </div>
 
         <ol className="grid grid-cols-1 gap-8 md:grid-cols-4 md:gap-6">
