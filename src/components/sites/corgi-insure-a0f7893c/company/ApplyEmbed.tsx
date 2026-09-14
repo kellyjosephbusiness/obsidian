@@ -13,7 +13,7 @@ export function ApplyEmbed() {
       <div className="relative mx-auto grid w-full max-w-[1200px] grid-cols-1 gap-6 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] lg:gap-16">
         <div className="flex flex-col gap-4 lg:sticky lg:top-[116px] lg:gap-6 lg:self-start">
           <Eyebrow>{APPLY_INTRO.eyebrow}</Eyebrow>
-          <h1 className="font-mono font-medium text-[#191919] text-[32px] leading-none tracking-[-0.032em] md:text-[48px] lg:text-[length:var(--h1-font-size)] lg:leading-[var(--h1-line-height)]">
+          <h1 className="font-mono font-medium text-[#191919] text-balance text-[32px] leading-none tracking-[-0.032em] md:text-[44px] lg:text-[34px] xl:text-[42px]">
             <span className="block">{APPLY_INTRO.headingLine1}</span>
             <span className="block">{APPLY_INTRO.headingLine2}</span>
           </h1>

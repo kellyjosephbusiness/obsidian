@@ -585,9 +585,9 @@ export const APPLY_META: CompanyMeta = {
 
 export const APPLY_INTRO = {
   eyebrow: "Apply",
-  headingLine1: "One application.",
-  headingLine2: "The right lenders.",
-  sub: "Tap your funding goal below to start. Nothing here affects your credit score until you accept an offer.",
+  headingLine1: "Fill out the form",
+  headingLine2: "below to get started.",
+  sub: "It takes about 15 minutes. Nothing here affects your credit score until you accept an offer.",
   bullets: [
     { icon: "timer", text: "About 15 minutes" },
     { icon: "credit_score", text: "Soft inquiry only" },
