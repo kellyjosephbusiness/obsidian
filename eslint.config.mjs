@@ -15,6 +15,8 @@ const eslintConfig = defineConfig([
     // Research artifacts copied from cloned sites and one-off asset scripts are not app code.
     "docs/**",
     "scripts/**",
+    // Transient agent worktrees carry their own checkout and node_modules.
+    ".claude/worktrees/**",
   ]),
 ]);
 
