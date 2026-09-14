@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
-import { InitialsAvatar } from "@/components/sites/corgi-insure-a0f7893c/shared/InitialsAvatar";
+import { CustomerPhoto } from "@/components/sites/corgi-insure-a0f7893c/shared/CustomerPhoto";
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
 import { REVIEWS, REVIEWS_HEADER } from "./data";
 
@@ -73,7 +73,7 @@ export function ReviewsSection() {
               className="flex w-[320px] shrink-0 snap-start flex-col gap-8 rounded-[24px] border border-[#e1e1e1] bg-white p-8 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:w-[560px] md:p-12"
             >
               <div className="flex items-center gap-4">
-                <InitialsAvatar name={review.name} className="size-14 shrink-0 rounded-full md:size-16" textClassName="text-[20px]" />
+                <CustomerPhoto name={review.name} index={review.photo} className="size-14 shrink-0 rounded-full md:size-16" sizes="64px" />
                 <div className="flex min-w-0 flex-col gap-1.5 md:flex-row md:items-center md:gap-4">
                   <span className="whitespace-nowrap font-mono text-[20px] font-medium leading-none tracking-[-0.02em] text-[#191919] md:text-[22px]">{review.name}</span>
                   <span className="whitespace-nowrap text-[15px] leading-none tracking-[-0.24px] text-[#7b7b7b] md:text-[18px]">{review.city}</span>

@@ -89,6 +89,8 @@ export interface CoveragePackage {
 }
 
 export interface Testimonial {
+  /** 1-based index into the customer portrait pool. */
+  photo?: number;
   quote: string;
   author: string;
   role: string;

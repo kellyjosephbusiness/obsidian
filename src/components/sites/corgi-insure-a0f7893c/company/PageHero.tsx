@@ -43,7 +43,7 @@ export function PageHero({ content, children, dataTrack }: PageHeroProps) {
                 <MaterialIcon name="arrow_forward" size={20} />
               </PressableButton>
             ) : null}
-            {content.secondary ? (
+            {content.secondary && content.secondary.href !== content.primary?.href ? (
               <PressableButton variant="white" size="large" href={content.secondary.href} dataTrack={dataTrack ? `${dataTrack}-secondary` : undefined}>
                 {content.secondary.label}
               </PressableButton>

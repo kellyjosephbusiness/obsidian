@@ -1,4 +1,4 @@
-import { InitialsAvatar } from "@/components/sites/corgi-insure-a0f7893c/shared/InitialsAvatar";
+import { CustomerPhoto } from "@/components/sites/corgi-insure-a0f7893c/shared/CustomerPhoto";
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
 import type { ReviewEntry } from "@/types/sites/corgi-insure-a0f7893c/company";
 import { RatingSummary, StarRow } from "./RatingSummary";
@@ -12,7 +12,7 @@ export function ReviewsGrid({ reviews }: { reviews: ReviewEntry[] }) {
         <Reveal key={`${review.name}-${review.city}`} index={i} className="flex">
           <li className="flex w-full flex-col gap-6 rounded-[24px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
             <div className="flex items-center gap-4">
-              <InitialsAvatar name={review.name} className="size-12 shrink-0 rounded-full md:size-14" textClassName="text-[18px]" />
+              <CustomerPhoto name={review.name} index={review.photo} className="size-12 shrink-0 rounded-full md:size-14" sizes="48px" />
               <div className="flex min-w-0 flex-col gap-1">
                 <span className="truncate font-mono text-[20px] font-medium leading-none tracking-[-0.02em] text-[#191919]">{review.name}</span>
                 <span className="truncate text-[14px] leading-none tracking-[-0.21px] text-[#7b7b7b]">{review.city}</span>

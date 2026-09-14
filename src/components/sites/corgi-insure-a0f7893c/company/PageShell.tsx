@@ -5,7 +5,7 @@ import { SiteFooter, type FooterCta } from "@/components/sites/corgi-insure-a0f7
 
 export interface PageShellProps {
   children: ReactNode;
-  /** Header account actions (defaults to Sign in / Book a call / Apply now). */
+  /** Header action (defaults to Apply now). */
   actions?: HeaderActions;
   /** Footer CTA band content (defaults to the home footer CTA). */
   footerCta?: FooterCta;

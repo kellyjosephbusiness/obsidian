@@ -204,7 +204,7 @@ export const LOAN_TYPES_FAQ: FaqItem[] = [
   {
     question: "What if none of the offers fit?",
     answerHtml:
-      'You are never obligated to accept. A funding specialist can walk through why offers came back the way they did and what would change them, usually more time in business or stronger deposits. <a class="underline" href="/book-a-call">Book a call</a> any day of the week.',
+      'You are never obligated to accept. A funding specialist can walk through why offers came back the way they did and what would change them, usually more time in business or stronger deposits. <a class="underline" href="/apply">Book a call</a> any day of the week.',
   },
 ];
 

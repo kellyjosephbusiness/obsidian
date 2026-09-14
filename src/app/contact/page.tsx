@@ -22,7 +22,7 @@ export default function ContactPage() {
           </div>
         </div>
       </SectionFrame>
-      <FaqSection items={CONTACT_FAQ} heading="Contact FAQ" footer={{ text: "Still stuck?", link: { label: "Book a call", href: "/book-a-call" } }} />
+      <FaqSection items={CONTACT_FAQ} heading="Contact FAQ" footer={{ text: "Still stuck?", link: { label: "Apply now", href: "/apply" } }} />
     </PageShell>
   );
 }

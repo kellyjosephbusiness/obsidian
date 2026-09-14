@@ -27,9 +27,11 @@ export function CtaBand({ content = DEFAULT_CTA, dataTrack }: { content?: CtaBan
               <p className="text-body-large" style={{ color: "#d9d9d9" }}>{content.sub}</p>
             </div>
             <div className="flex w-full flex-col items-stretch gap-3 sm:w-auto sm:flex-row sm:items-center">
-              <PressableButton variant="white" size="large" href={content.secondary.href} dataTrack={dataTrack ? `${dataTrack}-secondary` : undefined}>
-                {content.secondary.label}
-              </PressableButton>
+              {content.secondary.href !== content.primary.href && (
+                <PressableButton variant="white" size="large" href={content.secondary.href} dataTrack={dataTrack ? `${dataTrack}-secondary` : undefined}>
+                  {content.secondary.label}
+                </PressableButton>
+              )}
               <PressableButton variant="primary" size="large" href={content.primary.href} dataTrack={dataTrack ? `${dataTrack}-primary` : undefined}>
                 {content.primary.label}
               </PressableButton>

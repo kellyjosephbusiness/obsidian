@@ -30,7 +30,7 @@ export interface MobileNavDrawerProps {
   onToggleGroup: (id: string) => void;
   /** Closes the drawer (link clicks). */
   onClose: () => void;
-  /** Account-action buttons (Sign in / secondary / primary). */
+  /** Account action (Apply now). */
   actions?: HeaderActions;
   /** In-page hash links navigate through this (closes the drawer first). */
   onHashNavigate: (href: string) => void;
@@ -342,28 +342,9 @@ export function MobileNavDrawer({ open, group, onToggleGroup, onClose, onHashNav
               </Link>
             ))}
             <div
-              className="grid grid-cols-2 gap-2 border-b-[1px] border-[#e1e1e1] bg-[rgba(255,255,255,0.85)] p-3 backdrop-blur-[6px] md:p-4"
+              className="grid grid-cols-1 gap-2 border-b-[1px] border-[#e1e1e1] bg-[rgba(255,255,255,0.85)] p-3 backdrop-blur-[6px] md:p-4"
               data-mobile-account-actions="true"
             >
-              <PressableButton
-                className="min-w-0"
-                faceClassName="w-full text-[14px] leading-[1.2] tracking-[-0.21px]"
-                href={actions.signIn.href}
-                size="small"
-                variant="black"
-              >
-                {actions.signIn.label}
-              </PressableButton>
-              <PressableButton
-                className="min-w-0"
-                faceClassName="w-full whitespace-nowrap text-[16px] leading-[1.2] tracking-[-0.21px]"
-                faceStyle={FACE_16PX_STYLE}
-                href={actions.secondary.href}
-                size="small"
-                variant="black"
-              >
-                {actions.secondary.label}
-              </PressableButton>
               <PressableButton
                 className="col-span-2"
                 faceClassName="w-full text-[16px] leading-[1.2] tracking-[-0.21px]"

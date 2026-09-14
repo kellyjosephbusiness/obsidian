@@ -6,7 +6,7 @@ import type { DetailPageContent } from "@/types/sites/corgi-insure-a0f7893c/deta
  */
 
 const APPLY = "/apply";
-const BOOK_A_CALL = "/book-a-call";
+const BOOK_A_CALL = "/apply";
 
 const FINEPRINT =
   "FundLine Capital is a commercial loan broker, not a lender. Offers are made by the lenders we work with.";
@@ -147,7 +147,7 @@ const AI: DetailPageContent = {
     headingLine1: "Talk to someone who has",
     headingLine2: "funded a model team before.",
     body: "Our advisors have placed compute lines, pilot invoices and hiring loans for software companies at every stage from seed to Series C. Bring your ARR and your cloud bill; we will tell you which products fit before you apply.",
-    link: { label: "Book a call", href: BOOK_A_CALL },
+    link: { label: "Apply now", href: BOOK_A_CALL },
   },
   reviews: {
     heading: "What software founders say",
@@ -381,7 +381,7 @@ const CONSTRUCTION: DetailPageContent = {
     headingLine1: "Talk to someone who can",
     headingLine2: "read a schedule of values.",
     body: "Our advisors have placed mobilization lines, equipment loans and retainage bridges for framers, site contractors and GCs. Bring your backlog and your slowest-paying owner; we will tell you which products fit before you apply.",
-    link: { label: "Book a call", href: BOOK_A_CALL },
+    link: { label: "Apply now", href: BOOK_A_CALL },
   },
   reviews: {
     heading: "What contractors say",
@@ -618,7 +618,7 @@ const HEALTHCARE: DetailPageContent = {
     headingLine1: "Talk to someone who knows",
     headingLine2: "how a practice gets paid.",
     body: "Our advisors have placed equipment loans, reimbursement lines and buy-in financing for dental, medical, physical therapy and veterinary practices. Bring your payer mix and your equipment wish list; we will tell you what fits before you apply.",
-    link: { label: "Book a call", href: BOOK_A_CALL },
+    link: { label: "Apply now", href: BOOK_A_CALL },
   },
   reviews: {
     heading: "What practice owners say",
@@ -852,7 +852,7 @@ const RETAIL: DetailPageContent = {
     headingLine1: "Talk to someone who knows",
     headingLine2: "the best quarter is bought in the quietest one.",
     body: "Our advisors have placed inventory lines, remodel loans and card-sales advances for boutiques, hardware stores and multi-location chains. Bring your seasonal calendar and your biggest supplier's terms; we will tell you what fits.",
-    link: { label: "Book a call", href: BOOK_A_CALL },
+    link: { label: "Apply now", href: BOOK_A_CALL },
   },
   reviews: {
     heading: "What retailers say",
@@ -1086,7 +1086,7 @@ const RESTAURANTS: DetailPageContent = {
     headingLine1: "Talk to someone who has",
     headingLine2: "replaced a cooler on a Thursday.",
     body: "Our advisors have placed same-week equipment loans, slow-season lines and second-location SBA loans for cafes, bistros, bars and multi-unit groups. Bring your card statements and your lease; we will tell you what fits before you apply.",
-    link: { label: "Book a call", href: BOOK_A_CALL },
+    link: { label: "Apply now", href: BOOK_A_CALL },
   },
   reviews: {
     heading: "What operators say",
@@ -1323,7 +1323,7 @@ const TRUCKING: DetailPageContent = {
     headingLine1: "Talk to someone who knows",
     headingLine2: "what net-60 does to an owner-operator.",
     body: "Our advisors have placed truck loans, freight advances and fleet lines for single-truck operators and 40-unit carriers. Bring your settlement statements and your slowest shipper; we will tell you which products fit before you apply.",
-    link: { label: "Book a call", href: BOOK_A_CALL },
+    link: { label: "Apply now", href: BOOK_A_CALL },
   },
   reviews: {
     heading: "What carriers say",
@@ -1560,7 +1560,7 @@ const ECOMMERCE: DetailPageContent = {
     headingLine1: "Talk to someone who knows",
     headingLine2: "what a healthy sell-through looks like.",
     body: "Our advisors have placed inventory lines, ad-spend loans and supplier-paid financing for DTC brands and multi-channel sellers. Bring your margins, your sell-through and the next purchase order; we will tell you which products fit before you apply.",
-    link: { label: "Book a call", href: BOOK_A_CALL },
+    link: { label: "Apply now", href: BOOK_A_CALL },
   },
   reviews: {
     heading: "What online sellers say",
@@ -1794,7 +1794,7 @@ const MANUFACTURING: DetailPageContent = {
     headingLine1: "Talk to someone who can",
     headingLine2: "read a purchase order and an equipment list.",
     body: "Our advisors have placed mill and press financing, PO funding and building loans for job shops, contract manufacturers and food processors. Bring your backlog and your biggest customer's terms; we will tell you which products fit before you apply.",
-    link: { label: "Book a call", href: BOOK_A_CALL },
+    link: { label: "Apply now", href: BOOK_A_CALL },
   },
   reviews: {
     heading: "What manufacturers say",
@@ -2031,7 +2031,7 @@ const PROFESSIONAL_SERVICES: DetailPageContent = {
     headingLine1: "Talk to someone who knows",
     headingLine2: "the gap between billed and collected.",
     body: "Our advisors have placed payroll lines, invoice advances and acquisition loans for agencies, consultancies, law practices and accounting firms. Bring your AR aging and your largest client's terms; we will tell you which products fit before you apply.",
-    link: { label: "Book a call", href: BOOK_A_CALL },
+    link: { label: "Apply now", href: BOOK_A_CALL },
   },
   reviews: {
     heading: "What firm owners say",
@@ -2265,7 +2265,7 @@ const FINTECH: DetailPageContent = {
     headingLine1: "Talk to someone who knows",
     headingLine2: "what a bank-partner audit costs.",
     body: "Our advisors have placed licensing loans, launch lines and runway extensions for payments, lending-software and embedded-finance companies. Bring your volume, take rate and partner agreements; we will tell you which products fit before you apply.",
-    link: { label: "Book a call", href: BOOK_A_CALL },
+    link: { label: "Apply now", href: BOOK_A_CALL },
   },
   reviews: {
     heading: "What fintech founders say",
@@ -2499,7 +2499,7 @@ const MARKETPLACES: DetailPageContent = {
     headingLine1: "Talk to someone who reads",
     headingLine2: "GMV and take rate, not just revenue.",
     body: "Our advisors have placed payout lines, city-launch loans and buyer-acquisition capital for services, goods and B2B marketplaces. Bring your take rate and your weekly payout number; we will tell you which products fit before you apply.",
-    link: { label: "Book a call", href: BOOK_A_CALL },
+    link: { label: "Apply now", href: BOOK_A_CALL },
   },
   reviews: {
     heading: "What marketplace founders say",
@@ -2733,7 +2733,7 @@ const SAAS: DetailPageContent = {
     headingLine1: "Talk to someone who reads",
     headingLine2: "net retention before net income.",
     body: "Our advisors have placed hiring loans, annual-invoice advances and runway lines for subscription companies from $500K to $20M in ARR. Bring your ARR, churn and margin; we will tell you which products fit before you apply.",
-    link: { label: "Book a call", href: BOOK_A_CALL },
+    link: { label: "Apply now", href: BOOK_A_CALL },
   },
   reviews: {
     heading: "What SaaS founders say",

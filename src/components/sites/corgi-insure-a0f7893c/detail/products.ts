@@ -6,7 +6,7 @@ import type { DetailPageContent } from "@/types/sites/corgi-insure-a0f7893c/deta
  */
 
 const APPLY = { label: "Apply now", href: "/apply" } as const;
-const BOOK_CALL = { label: "Book a call", href: "/book-a-call" } as const;
+const BOOK_CALL = { label: "Apply now", href: "/apply" } as const;
 const FINEPRINT =
   "FundLine Capital is a commercial loan broker, not a lender. Offers are made by the lenders we work with.";
 const ESTIMATOR_NOTE =

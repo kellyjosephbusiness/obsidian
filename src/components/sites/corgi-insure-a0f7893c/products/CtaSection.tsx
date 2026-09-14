@@ -26,7 +26,7 @@ export function CtaSection({ heading, sub, primary, secondary, dataTrack }: CtaS
             <PressableButton variant="primary" size="large" href={primary.href} dataTrack={dataTrack}>
               {primary.label}
             </PressableButton>
-            {secondary && (
+            {secondary && secondary.href !== primary.href && (
               <PressableButton variant="white" size="large" href={secondary.href}>
                 {secondary.label}
               </PressableButton>

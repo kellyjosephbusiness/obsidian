@@ -25,7 +25,7 @@ const isExternal = (href: string) => /^(https?:)?\/\//.test(href);
 export interface FooterCta {
   headingLine1: string;
   headingLine2: string;
-  buttons: { demo: { label: string; href: string }; insured: { label: string; href: string } };
+  buttons: { insured: { label: string; href: string } };
 }
 
 export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
@@ -52,9 +52,6 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
                 {cta.headingLine2}
               </h2>
               <div className="flex flex-col items-stretch gap-3 sm:flex-row sm:items-start">
-                <PressableButton variant="white" size="large" href={cta.buttons.demo.href}>
-                  {cta.buttons.demo.label}
-                </PressableButton>
                 <PressableButton variant="primary" size="large" href={cta.buttons.insured.href}>
                   {cta.buttons.insured.label}
                 </PressableButton>

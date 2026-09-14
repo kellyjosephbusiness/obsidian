@@ -38,7 +38,6 @@ export function ReviewsCarousel({ reviews }: { reviews: DetailPageContent["revie
   useEffect(() => {
     const el = trackRef.current;
     if (!el) return;
-    update();
     el.addEventListener("scroll", update, { passive: true });
     const ro = new ResizeObserver(update);
     ro.observe(el);

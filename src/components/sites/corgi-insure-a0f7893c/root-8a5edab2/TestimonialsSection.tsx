@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { InitialsAvatar } from "@/components/sites/corgi-insure-a0f7893c/shared/InitialsAvatar";
+import { CustomerPhoto } from "@/components/sites/corgi-insure-a0f7893c/shared/CustomerPhoto";
 import { useEffect, useRef, useState, type PointerEvent as ReactPointerEvent } from "react";
 import type { Testimonial } from "@/types/sites/corgi-insure-a0f7893c/home";
 import { CursorChip } from "@/components/sites/corgi-insure-a0f7893c/shared/CursorChip";
@@ -43,7 +44,7 @@ function TestimonialCard({ testimonial }: { testimonial: Testimonial }) {
             src={testimonial.image}
           />
         ) : (
-          <InitialsAvatar name={testimonial.company} className="absolute inset-0" textClassName="text-[96px] opacity-90" />
+          <CustomerPhoto name={testimonial.author} index={testimonial.photo} className="absolute inset-0" sizes="(min-width: 768px) 382px, 320px" />
         )}
         <div
           className="absolute inset-0"

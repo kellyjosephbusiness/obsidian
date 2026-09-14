@@ -26,7 +26,7 @@ import { LINKS, REVIEWS, TESTIMONIALS } from "@/components/sites/corgi-insure-a0
  */
 
 const APPLY: CompanyCta = { label: "Apply now", href: LINKS.apply };
-const BOOK: CompanyCta = { label: "Book a call", href: LINKS.bookCall };
+const BOOK: CompanyCta = { label: "Apply now", href: LINKS.apply };
 
 export const CONTACT_DETAILS = {
   supportEmail: "support@fundlinecapital.com",
@@ -487,10 +487,10 @@ const REVIEW_FALLBACK: Pick<ReviewEntry, "rating" | "product" | "date"> = { rati
 /** The eight home-page reviews, plus four more, with rating, product and date. */
 export const REVIEW_ENTRIES: ReviewEntry[] = [
   ...REVIEWS.map((review, i) => ({ ...review, ...(REVIEW_EXTRAS[i] ?? REVIEW_FALLBACK) })),
-  { name: "Grace O", city: "Portland, OR", rating: 4, product: "SBA loan", date: "Apr 2026", quote: "The SBA route took six weeks, which they told me on day one. What I did not expect was a specialist chasing the bank for me every step of the way." },
-  { name: "Miguel S", city: "El Paso, TX", rating: 5, product: "Invoice financing", date: "Apr 2026", quote: "We had $180K in unpaid invoices and payroll due Friday. Applied Tuesday, funded Thursday. That is the whole review." },
-  { name: "Hannah P", city: "Des Moines, IA", rating: 5, product: "Line of credit", date: "Mar 2026", quote: "Two banks turned down our farm supply store. FundLine matched us with a credit union that understood seasonal cash flow. Draws are instant." },
-  { name: "Victor N", city: "Raleigh, NC", rating: 3, product: "Merchant cash advance", date: "Mar 2026", quote: "Fast money, and the specialist was honest that it was the expensive option. I took it anyway because I needed it, but read the total cost line twice." },
+  { name: "Grace O", photo: 1, city: "Portland, OR", rating: 4, product: "SBA loan", date: "Apr 2026", quote: "The SBA route took six weeks, which they told me on day one. What I did not expect was a specialist chasing the bank for me every step of the way." },
+  { name: "Miguel S", photo: 2, city: "El Paso, TX", rating: 5, product: "Invoice financing", date: "Apr 2026", quote: "We had $180K in unpaid invoices and payroll due Friday. Applied Tuesday, funded Thursday. That is the whole review." },
+  { name: "Hannah P", photo: 7, city: "Des Moines, IA", rating: 5, product: "Line of credit", date: "Mar 2026", quote: "Two banks turned down our farm supply store. FundLine matched us with a credit union that understood seasonal cash flow. Draws are instant." },
+  { name: "Victor N", photo: 8, city: "Raleigh, NC", rating: 3, product: "Merchant cash advance", date: "Mar 2026", quote: "Fast money, and the specialist was honest that it was the expensive option. I took it anyway because I needed it, but read the total cost line twice." },
 ];
 
 export const REVIEWS_GRID_HEADER = {
@@ -545,6 +545,7 @@ const STORY_FALLBACK: Pick<CustomerStory, "industry" | "product" | "amount" | "o
 
 /** The eleven home-page testimonials expanded into full stories. */
 export const CUSTOMER_STORIES: CustomerStory[] = TESTIMONIALS.map((t, i) => ({
+  photo: t.photo,
   author: t.author,
   role: t.role,
   company: t.company,
@@ -576,15 +577,15 @@ export const APPLY_INTRO = {
   eyebrow: "Apply",
   headingLine1: "One application.",
   headingLine2: "The right lenders.",
-  sub: "One short form. Nothing here affects your credit score until you accept an offer, and you can send this page to anyone on your team to finish it.",
+  sub: "Tap your funding goal below to start. Nothing here affects your credit score until you accept an offer.",
   bullets: [
     { icon: "timer", text: "About 15 minutes" },
     { icon: "credit_score", text: "Soft inquiry only" },
     { icon: "lock", text: "Encrypted end to end" },
     { icon: "support_agent", text: "A specialist can finish it with you" },
   ],
-  helpText: "Prefer to talk it through?",
-  helpLink: BOOK,
+  helpText: "Questions first?",
+  helpLink: { label: "Contact us", href: "/contact" },
 } as const;
 
 export const APPLY_STEPS: ApplyStep[] = [

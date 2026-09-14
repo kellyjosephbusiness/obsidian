@@ -100,7 +100,7 @@ export function SubmittedState({ title, body, action, secondary, children }: { t
         <PressableButton variant="primary" size="small" href={action.href}>
           {action.label}
         </PressableButton>
-        {secondary ? (
+        {secondary && secondary.href !== action.href ? (
           <PressableButton variant="white" size="small" href={secondary.href}>
             {secondary.label}
           </PressableButton>

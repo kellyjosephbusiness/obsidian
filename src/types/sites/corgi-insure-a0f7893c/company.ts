@@ -70,6 +70,7 @@ export interface TimelineItem {
 
 export interface ReviewEntry {
   name: string;
+  photo?: number;
   city: string;
   quote: string;
   /** 1–5 */
@@ -92,6 +93,7 @@ export interface RatingSummaryContent {
 }
 
 export interface CustomerStory {
+  photo?: number;
   author: string;
   role: string;
   company: string;

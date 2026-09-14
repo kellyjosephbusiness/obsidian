@@ -126,8 +126,6 @@ interface UnderlineState {
 }
 
 export interface HeaderActions {
-  signIn: { label: string; href: string };
-  secondary: { label: string; href: string };
   primary: { label: string; href: string };
 }
 
@@ -453,20 +451,6 @@ export function SiteHeader({ actions = NAV_ACTIONS }: { actions?: HeaderActions 
 
           <div className="flex items-center gap-2">
             <nav aria-label="Account actions" className="hidden h-[39px] items-center gap-2 xl:flex">
-              <a
-                href={actions.signIn.href}
-                className="hidden h-full items-center whitespace-nowrap rounded-[12px] px-4 text-[14px] font-normal leading-[1.2] tracking-[-0.21px] text-[#4a4a4a] hover:text-[#191919] xl:flex"
-              >
-                {actions.signIn.label}
-              </a>
-              <PressableButton
-                faceClassName="h-[35px] min-w-[96px] whitespace-nowrap px-2 py-0 text-[16px] leading-[1.2] tracking-[-0.21px] md:min-w-[112px] md:px-4"
-                href={actions.secondary.href}
-                size="small"
-                variant="black"
-              >
-                {actions.secondary.label}
-              </PressableButton>
               <PressableButton
                 faceClassName="h-[35px] min-w-[100px] whitespace-nowrap px-3 py-0 text-[16px] leading-[1.2] tracking-[-0.21px] md:min-w-[119px] md:px-4"
                 href={actions.primary.href}

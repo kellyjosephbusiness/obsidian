@@ -30,8 +30,7 @@ export const BRAND = {
 
 export const LINKS = {
   apply: "/apply",
-  signIn: "/sign-in",
-  bookCall: "/book-a-call",
+  contact: "/contact",
   customers: "/customer-stories",
   loanTypes: "/loan-types",
   allFinancing: "/loan-types#all-financing",
@@ -48,7 +47,7 @@ const HIGHLIGHTS: NavMenu["highlights"] = [
   {
     title: "Talk to a specialist",
     description: "For owners who want a guided funding plan.",
-    href: LINKS.bookCall,
+    href: LINKS.apply,
     imageAlt: "Talk to a funding specialist",
     icon: "support_agent",
   },
@@ -176,8 +175,6 @@ export const NAV_MENUS: NavMenu[] = [
 export const NAV_PLAIN_LINKS: FooterLink[] = [{ label: "Customer stories", href: LINKS.customers }];
 
 export const NAV_ACTIONS = {
-  signIn: { label: "Sign in", href: LINKS.signIn },
-  secondary: { label: "Book a call", href: LINKS.bookCall },
   primary: { label: "Apply now", href: LINKS.apply },
 } as const;
 
@@ -363,13 +360,13 @@ export const GET_QUOTED = {
     cta: { label: "Start your application", href: LINKS.apply, icon: "arrow_forward" },
   },
   demo: {
-    heading: "Talk to a Specialist: Build a funding plan before you commit.",
+    heading: "Prefer a hand? Apply and a specialist takes it from there.",
     bodyBefore:
       "We’ll walk you through your options, help you compare rates and terms, and answer any questions so you can move forward with confidence. ",
     bodyStrong: "Our funding specialists are available any day of the week, including weekends!",
     bestForLabel: "Best for:",
     bestFor: "Owners who want guidance, have a more complex situation, or prefer a hands-on approach.",
-    cta: { label: "Book a call", href: LINKS.bookCall, icon: "call" },
+    cta: { label: "Apply now", href: LINKS.apply, icon: "arrow_forward" },
   },
   form: {
     title: "Business financials",
@@ -402,6 +399,8 @@ export const GET_QUOTED = {
 
 export interface Review {
   name: string;
+  /** 1-based index into the customer portrait pool. */
+  photo?: number;
   city: string;
   quote: string;
 }
@@ -413,14 +412,14 @@ export const REVIEWS_HEADER = {
 
 /** Illustrative reviews (names and places are fictional). */
 export const REVIEWS: Review[] = [
-  { name: "Samuel K", city: "Asheville, NC", quote: "Derek at FundLine Capital really helped me out. He took the time to get what my business needed, and it felt personal, not just like another deal." },
-  { name: "Linda F", city: "Boulder, CO", quote: "I worked with Jack from FundLine, and he was great. He really listened to what we needed and gave us solid advice. You can tell he cares." },
-  { name: "Rajesh P", city: "Madison, WI", quote: "FundLine's been awesome for my business. Derek gave me practical advice, and I felt he really got what we were about." },
-  { name: "Maria G", city: "Tucson, AZ", quote: "Three offers in two days and a specialist who explained every line. We picked a term loan and had the money before our supplier's deadline." },
-  { name: "Tom B", city: "Duluth, MN", quote: "I expected a runaround like at the bank. Instead one application, a quick call with Priya, and a line of credit that actually fits our slow months." },
-  { name: "Aisha R", city: "Savannah, GA", quote: "The bank statement upload took five minutes. No credit hit to apply, and the offers were laid out side by side so I could compare real APRs." },
-  { name: "Kevin L", city: "Spokane, WA", quote: "We financed two trucks through FundLine. The lender they matched us with understood freight, and the paperwork was done in a week." },
-  { name: "Dana W", city: "Burlington, VT", quote: "Jack checked in after funding just to see how the expansion was going. That kind of follow-through is why we'll use FundLine again." },
+  { name: "Samuel K", photo: 2, city: "Asheville, NC", quote: "Derek at FundLine Capital really helped me out. He took the time to get what my business needed, and it felt personal, not just like another deal." },
+  { name: "Linda F", photo: 7, city: "Boulder, CO", quote: "I worked with Jack from FundLine, and he was great. He really listened to what we needed and gave us solid advice. You can tell he cares." },
+  { name: "Rajesh P", photo: 10, city: "Madison, WI", quote: "FundLine's been awesome for my business. Derek gave me practical advice, and I felt he really got what we were about." },
+  { name: "Maria G", photo: 9, city: "Tucson, AZ", quote: "Three offers in two days and a specialist who explained every line. We picked a term loan and had the money before our supplier's deadline." },
+  { name: "Tom B", photo: 4, city: "Duluth, MN", quote: "I expected a runaround like at the bank. Instead one application, a quick call with Priya, and a line of credit that actually fits our slow months." },
+  { name: "Aisha R", photo: 1, city: "Savannah, GA", quote: "The bank statement upload took five minutes. No credit hit to apply, and the offers were laid out side by side so I could compare real APRs." },
+  { name: "Kevin L", photo: 12, city: "Spokane, WA", quote: "We financed two trucks through FundLine. The lender they matched us with understood freight, and the paperwork was done in a week." },
+  { name: "Dana W", photo: 11, city: "Burlington, VT", quote: "Jack checked in after funding just to see how the expansion was going. That kind of follow-through is why we'll use FundLine again." },
 ];
 
 export const TESTIMONIALS_HEADER = {
@@ -436,66 +435,77 @@ export const TESTIMONIALS: Testimonial[] = [
   {
     quote: "I made payroll on time for the first month in a year. The line of credit was approved in two days and I only pay for what I draw.",
     author: "Marcus Reed",
+    photo: 4,
     role: "Owner @ Reed Custom Cabinets",
     company: "Reed Custom Cabinets",
   },
   {
     quote: "Getting a loan for our new location used to mean weeks of meetings and waiting on callbacks. FundLine had three offers in my inbox so fast I double-checked they were real.",
     author: "Priya Natarajan",
+    photo: 3,
     role: "Co-founder @ Sunrise Pediatric Therapy",
     company: "Sunrise Pediatric Therapy",
   },
   {
     quote: "We got all new equipment for the shop without draining our cash. The financing was tied to the machines, and the terms were clearer than anything the bank showed us.",
     author: "Luis Herrera",
+    photo: 2,
     role: "CEO @ Herrera Metalworks",
     company: "Herrera Metalworks",
   },
   {
     quote: "The FundLine team, in a matter of days, lined up the working capital I needed to land our first seven-figure wholesale order.",
     author: "Tasha Bell",
+    photo: 1,
     role: "Founder @ Bell & Barrel Sauces",
     company: "Bell & Barrel Sauces",
   },
   {
     quote: "I was procrastinating on financing because of how tedious it seemed. Who knew you could get a real offer for your business in 15 minutes.",
     author: "Devon Okafor",
+    photo: 10,
     role: "Owner @ Okafor Fitness Studios",
     company: "Okafor Fitness Studios",
   },
   {
     quote: "We run trucks in six states and most lenders didn’t understand the business. FundLine matched us with a lender who did, and we financed two rigs in a week.",
     author: "Carla Jensen",
+    photo: 9,
     role: "Co-owner @ Jensen Freight",
     company: "Jensen Freight",
   },
   {
     quote: "The minute I hit submit, offers came back, a specialist reached out, and I had funding for our expansion inside a week. It’s that simple.",
     author: "Andre Whitfield",
+    photo: 6,
     role: "Owner @ Whitfield Family BBQ",
     company: "Whitfield Family BBQ",
   },
   {
     quote: "FundLine took the guesswork out of borrowing. Between a clean online application and a real person on the phone, I got back to running the launch.",
     author: "Elena Petrova",
+    photo: 5,
     role: "Founder @ Petrova Bakehouse",
     company: "Petrova Bakehouse",
   },
   {
     quote: "We needed capital to close a large retail contract. FundLine delivered offers fast, with zero back-and-forth, and we kept the deal moving.",
     author: "Samuel Kim",
+    photo: 12,
     role: "CEO @ Northwind Apparel",
     company: "Northwind Apparel",
   },
   {
     quote: "We hired four employees off the back of the term loan. The specialist helped us size it so we never over-borrowed.",
     author: "Nadia Haddad",
+    photo: 11,
     role: "Owner @ Haddad Dental Group",
     company: "Haddad Dental Group",
   },
   {
     quote: "Kudos to the team for building this from the ground up. It’s the first financing experience that felt like it was designed for owners, not banks.",
     author: "Owen Gallagher",
+    photo: 8,
     role: "Managing Partner @ Gallagher Construction",
     company: "Gallagher Construction",
   },
@@ -595,7 +605,7 @@ export const SPECIALIZED_COVERAGES: SpecializedCoverage[] = [
 
 export const FAQ_HEADER = {
   heading: "FAQ",
-  footer: { text: "Can’t find an answer to your question?", link: { label: "Get in touch", href: LINKS.bookCall } },
+  footer: { text: "Can’t find an answer to your question?", link: { label: "Get in touch", href: LINKS.contact } },
 } as const;
 
 export const FAQ: FaqItem[] = [
@@ -647,7 +657,6 @@ export const FOOTER_CTA = {
     { alt: "FundLine bull in a suit", src: `${ASSETS}/images/mascot/bull-fly-right.png`, flip: false },
   ],
   buttons: {
-    demo: { label: "Book a call", href: LINKS.bookCall },
     insured: { label: "Apply now", href: LINKS.apply },
   },
 } as const;

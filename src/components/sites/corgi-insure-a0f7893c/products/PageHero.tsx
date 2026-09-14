@@ -35,7 +35,7 @@ export function PageHero({ content, dataTrack }: PageHeroProps) {
           <PressableButton variant="primary" size="large" href={content.primary.href} dataTrack={dataTrack}>
             {content.primary.label}
           </PressableButton>
-          {content.secondary && (
+          {content.secondary && content.secondary.href !== content.primary.href && (
             <PressableButton variant="white" size="large" href={content.secondary.href}>
               {content.secondary.label}
             </PressableButton>

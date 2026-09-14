@@ -134,7 +134,7 @@ export const ARTICLE_END_CTA = { label: "Start your application", href: LINKS.ap
 export const RAIL_CTA: RailCta = {
   button: { label: "Start application", href: LINKS.apply },
   helpText: "Not familiar with business lending or need guidance?",
-  helpLink: { label: "Book a call", href: LINKS.bookCall },
+  helpLink: { label: "Apply now", href: LINKS.apply },
 };
 
 export const LATEST_LABEL = "Latest articles";

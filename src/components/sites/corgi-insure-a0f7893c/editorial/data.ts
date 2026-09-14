@@ -36,7 +36,7 @@ export const ARTICLE_END_CTA = { label: "Start your application", href: LINKS.ap
 export const RAIL_CTA: RailCta = {
   button: { label: "Start application", href: LINKS.apply },
   helpText: "Not familiar with business lending or need guidance?",
-  helpLink: { label: "Book a call", href: LINKS.bookCall },
+  helpLink: { label: "Apply now", href: LINKS.apply },
 };
 
 export const RELATED_LABEL = "Related articles";
@@ -136,7 +136,7 @@ export const INDEX_CTA = {
   heading: "Ready to see real offers?",
   sub: "Fifteen minutes to apply. Offers from 75+ lenders. No impact to your credit score to check eligibility.",
   primary: { label: "Apply now", href: LINKS.apply },
-  secondary: { label: "Book a call", href: LINKS.bookCall },
+  secondary: { label: "Apply now", href: LINKS.apply },
 } as const;
 
 export const PRESS_CONTACT = {

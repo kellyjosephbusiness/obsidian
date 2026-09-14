@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { InitialsAvatar } from "@/components/sites/corgi-insure-a0f7893c/shared/InitialsAvatar";
+import { CustomerPhoto } from "@/components/sites/corgi-insure-a0f7893c/shared/CustomerPhoto";
 import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/MaterialIcon";
 import type { CustomerStory } from "@/types/sites/corgi-insure-a0f7893c/company";
 import { cn } from "@/lib/utils";
@@ -44,7 +44,7 @@ export function StoryCards({ stories }: { stories: CustomerStory[] }) {
         {visible.map((story) => (
           <li key={story.company} className="flex flex-col overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
             <div className="relative -mx-px -mt-px flex flex-col justify-end overflow-clip rounded-[24px] border border-[#e1e1e1] shadow-[0_0_24px_0_rgba(25,25,25,0.35)]">
-              <InitialsAvatar name={story.company} className="h-[160px] w-full" textClassName="text-[64px] opacity-90" />
+              <CustomerPhoto name={story.author} index={story.photo} className="h-[160px] w-full" sizes="400px" />
               <div aria-hidden className="absolute inset-0" style={{ backgroundImage: "linear-gradient(200deg, rgba(255,255,255,0) 45%, rgba(255,255,255,0.75) 72%, #ffffff 100%)" }} />
               <div className="absolute inset-x-0 bottom-0 flex items-end justify-between gap-3 p-5">
                 <div className="flex min-w-0 flex-col gap-1">
