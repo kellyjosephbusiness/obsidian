@@ -14,8 +14,7 @@ import type { TaggedArticleCard } from "./ArticleIndex";
 export { AUTHOR } from "./constants";
 
 export const BYLINE_SOCIAL: SocialLink[] = [
-  { label: "FundLine Capital on LinkedIn", href: "https://www.linkedin.com/", icon: "linkedin" },
-  { label: "FundLine Capital on X", href: "https://x.com/", icon: "x" },
+  { label: "FundLine Capital on LinkedIn", href: "https://www.linkedin.com/company/fundline-capital", icon: "linkedin" },
 ];
 
 /** Per-kind route prefix, breadcrumb label and back-link copy. */
