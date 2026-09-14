@@ -47,7 +47,7 @@ export function LoanTypeDetails({ items = LOAN_TYPE_DETAILS }: { items?: LoanTyp
                 <dl className="grid grid-cols-2 gap-3">
                   {SPECS.map((spec) => (
                     <div key={spec.key} className="flex flex-col gap-1 rounded-[12px] border border-[#e1e1e1] bg-[#f9f9f9] px-3 py-2.5">
-                      <dt className="text-[11px] leading-[1.2] tracking-[0.02em] text-[#606060]">{spec.label}</dt>
+                      <dt className="text-[12px] leading-[1.2] tracking-[0.02em] text-[#606060]">{spec.label}</dt>
                       <dd className="text-[14px] font-medium leading-[1.25] tracking-[-0.21px] text-[#191919]">{item[spec.key]}</dd>
                     </div>
                   ))}

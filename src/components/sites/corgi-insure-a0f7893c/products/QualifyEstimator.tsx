@@ -84,10 +84,10 @@ export function QualifyEstimator() {
                 <span className="text-[12px] leading-[1.2] tracking-[-0.18px] text-[#4a4a4a]">{results.range}</span>
                 {estimate ? (
                   <p className="font-mono text-[32px] font-medium leading-none tracking-[-1.02px] text-[#191919] md:text-[44px] md:tracking-[-1.41px]">
-                    {usd.format(estimate.low)} <span className="text-[#7b7b7b]">–</span> {usd.format(estimate.high)}
+                    {usd.format(estimate.low)} <span className="text-[#5c5c5c]">–</span> {usd.format(estimate.high)}
                   </p>
                 ) : (
-                  <p className="text-body-large text-[#7b7b7b]">{results.empty}</p>
+                  <p className="text-body-large text-[#5c5c5c]">{results.empty}</p>
                 )}
               </div>
 
@@ -95,7 +95,7 @@ export function QualifyEstimator() {
                 <div className="relative h-3 w-full overflow-hidden rounded-full bg-[#e1e1e1]">
                   <div className="absolute inset-y-0 rounded-full bg-[#1e3a8a] transition-[left,width] duration-300" style={{ left: `${lowShare}%`, width: `${Math.max(1.5, highShare - lowShare)}%` }} />
                 </div>
-                <div className="flex justify-between text-[11px] leading-[1.2] tracking-[-0.16px] text-[#7b7b7b]">
+                <div className="flex justify-between text-[12px] leading-[1.2] tracking-[-0.16px] text-[#5c5c5c]">
                   <span>$5K</span>
                   <span>$250K</span>
                   <span>$500K+</span>

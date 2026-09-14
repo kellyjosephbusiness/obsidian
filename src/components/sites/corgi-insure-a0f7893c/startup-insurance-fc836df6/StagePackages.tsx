@@ -83,7 +83,7 @@ function StageCard({ pkg, className }: { pkg: StagePackage; className: string })
       {/* Checklist table or pill cloud */}
       {pkg.lines ? (
         <div className="flex flex-1 flex-col gap-3 p-5">
-          <div className="flex items-start justify-between px-1 text-[#4a4a4a] text-[11.5px] leading-[1.5]">
+          <div className="flex items-start justify-between px-1 text-[#4a4a4a] text-[12px] leading-[1.5]">
             <span>{PACKAGES_HEADER.tableHead.what}</span>
             <span>{PACKAGES_HEADER.tableHead.product}</span>
           </div>

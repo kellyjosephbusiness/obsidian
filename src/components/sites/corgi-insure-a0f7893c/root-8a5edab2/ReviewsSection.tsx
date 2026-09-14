@@ -76,7 +76,7 @@ export function ReviewsSection() {
                 <CustomerPhoto name={review.name} index={review.photo} className="size-14 shrink-0 rounded-full md:size-16" sizes="64px" />
                 <div className="flex min-w-0 flex-col gap-1.5 md:flex-row md:items-center md:gap-4">
                   <span className="whitespace-nowrap font-mono text-[20px] font-medium leading-none tracking-[-0.02em] text-[#191919] md:text-[22px]">{review.name}</span>
-                  <span className="whitespace-nowrap text-[15px] leading-none tracking-[-0.24px] text-[#7b7b7b] md:text-[18px]">{review.city}</span>
+                  <span className="whitespace-nowrap text-[15px] leading-none tracking-[-0.24px] text-[#5c5c5c] md:text-[18px]">{review.city}</span>
                 </div>
                 <MaterialIcon name="format_quote" size={48} className="ml-auto shrink-0 text-[#1e3a8a]" fill={1} />
               </div>

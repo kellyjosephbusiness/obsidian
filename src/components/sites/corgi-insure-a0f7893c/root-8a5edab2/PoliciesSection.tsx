@@ -3,6 +3,7 @@ import { PressableButton } from "@/components/sites/corgi-insure-a0f7893c/shared
 import type { Policy, SpecializedCoverage } from "@/types/sites/corgi-insure-a0f7893c/home";
 import { ASSETS, POLICIES, POLICIES_HEADER, SPECIALIZED_COVERAGES } from "./data";
 import { PolicyCard } from "./PolicyCard";
+import { PolicyListMobile } from "./PolicyListMobile";
 import { SpecializedCoveragesStack } from "./SpecializedCoveragesStack";
 
 const MASCOT = `${ASSETS}/images/mascot/bull-fly-right.png`;
@@ -74,7 +75,9 @@ export function PoliciesSection({
             {/* Full-bleed hairlines above and below the grid */}
             <div aria-hidden className="pointer-events-none absolute left-1/2 top-0 h-px w-screen max-w-[2400px] -translate-x-1/2 bg-[#e1e1e1]" />
             <div aria-hidden className="pointer-events-none absolute left-1/2 bottom-0 h-px w-screen max-w-[2400px] -translate-x-1/2 bg-[#e1e1e1]" />
-            <div className="relative z-20 grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+            {/* Phones: one compact list card. md and up: the full card grid with the specialty stack. */}
+            <PolicyListMobile policies={policies} specialized={specialized} className="relative z-20 md:hidden" />
+            <div className="relative z-20 hidden gap-6 md:grid md:grid-cols-2 lg:grid-cols-3">
               {policies.map((policy) => (
                 <PolicyCard key={policy.href} policy={policy} />
               ))}

@@ -10,7 +10,7 @@ import { MaterialIcon } from "@/components/sites/corgi-insure-a0f7893c/shared/Ma
 export const FORM_CARD_CLASS = "flex flex-col gap-6 rounded-[24px] border border-[#e1e1e1] bg-[#f9f9f9] p-6 md:p-8";
 
 export const INPUT_CLASS =
-  "min-h-[44px] w-full rounded-[10px] border border-[#e1e1e1] bg-white px-3 py-2 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#1d1d1d] outline-none transition-[border-color,box-shadow] duration-200 placeholder:text-[#9e9e9e] focus-visible:border-[#1e3a8a] focus-visible:shadow-[0_0_0_3px_rgba(30,58,138,0.25)]";
+  "min-h-[44px] w-full rounded-[10px] border border-[#e1e1e1] bg-white px-3 py-2 text-[14px] leading-[1.2] tracking-[-0.21px] text-[#1d1d1d] outline-none transition-[border-color,box-shadow] duration-200 placeholder:text-[#6b6b6b] focus-visible:border-[#1e3a8a] focus-visible:shadow-[0_0_0_3px_rgba(30,58,138,0.25)]";
 
 export const LABEL_CLASS = "text-[12px] font-medium leading-[1.2] tracking-[-0.18px] text-[#1d1d1d]";
 

@@ -56,7 +56,7 @@ export function FundingMoments({ heading = AI_MOMENTS_HEADING, items = AI_MOMENT
         <div className="px-6">
           <h2 className="text-balance font-mono font-normal text-[#191919] text-[34px] leading-none tracking-[-1.088px] md:text-[42px] md:tracking-[-1.344px] lg:text-[48px] lg:tracking-[-1.536px]">
             <span className="block">{heading.line1}</span>
-            <span className="block text-[#b1b1b1]">{heading.line2}</span>
+            <span className="block text-[#5c5c5c]">{heading.line2}</span>
           </h2>
         </div>
 

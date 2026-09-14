@@ -32,19 +32,19 @@ interface Sample {
 function TestimonialCard({ testimonial }: { testimonial: Testimonial }) {
   const company = testimonial.company;
   return (
-    <article className="flex h-[500px] w-[320px] shrink-0 flex-col overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white md:h-[560px] md:w-[382px]">
-      <div className="relative -mx-px -mt-px flex h-[280px] shrink-0 flex-col justify-end overflow-clip rounded-[24px] border border-[#e1e1e1] p-4 shadow-[0px_0px_16px_0px_rgba(25,25,25,0.3)] transition-transform duration-300 ease-out has-[a:hover]:-rotate-[1.2deg] md:h-[320px]">
+    <article className="flex h-auto w-[300px] shrink-0 flex-col overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white md:h-[560px] md:w-[382px]">
+      <div className="relative -mx-px -mt-px flex h-[200px] shrink-0 flex-col justify-end overflow-clip rounded-[24px] border border-[#e1e1e1] p-4 shadow-[0px_0px_16px_0px_rgba(25,25,25,0.3)] transition-transform duration-300 ease-out has-[a:hover]:-rotate-[1.2deg] md:h-[320px]">
         <div className="absolute inset-0 bg-[#191919]" />
         {testimonial.image ? (
           <Image
             alt={testimonial.author}
             className="absolute inset-0 object-cover object-top"
             fill
-            sizes="(min-width: 768px) 382px, 320px"
+            sizes="(min-width: 768px) 382px, 300px"
             src={testimonial.image}
           />
         ) : (
-          <CustomerPhoto name={testimonial.author} index={testimonial.photo} className="absolute inset-0" sizes="(min-width: 768px) 382px, 320px" />
+          <CustomerPhoto name={testimonial.author} index={testimonial.photo} className="absolute inset-0" sizes="(min-width: 768px) 382px, 300px" />
         )}
         <div
           className="absolute inset-0"
@@ -81,8 +81,9 @@ function TestimonialCard({ testimonial }: { testimonial: Testimonial }) {
           </div>
         </a>
       </div>
-      <div className="flex flex-1 items-center p-3 md:p-5">
-        <p className="text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4a4a4a] md:text-[16px] md:tracking-[-0.24px]">
+      {/* Phones: the quote sits directly under the photo; md+: vertically centred in the fixed-height card. */}
+      <div className="flex flex-1 items-start p-4 md:items-center md:p-5">
+        <p className="text-[14px] leading-[1.35] tracking-[-0.21px] text-[#4a4a4a] md:text-[16px] md:leading-[1.2] md:tracking-[-0.24px]">
           &ldquo;{testimonial.quote}&rdquo;
         </p>
       </div>
@@ -281,7 +282,7 @@ export function TestimonialsSection() {
     "pointer-events-none absolute right-[max(16px,calc((100%-1600px)/2))] w-px bg-[#e1e1e1] md:right-[max(24px,calc((100%-1600px)/2))] lg:right-[max(64px,calc((100%-1600px)/2))]";
 
   return (
-    <section className="relative flex h-screen flex-col justify-center overflow-hidden border-b border-[#e1e1e1] bg-[#f6f6f6]">
+    <section className="relative flex h-auto flex-col justify-center overflow-hidden border-b border-[#e1e1e1] bg-[#f6f6f6] py-16 md:h-screen md:py-0">
       <div className="relative px-4 md:px-6 lg:px-16">
         <div aria-hidden="true" className={railLeft} style={{ top: "-100vh", bottom: "-24px" }} />
         <div aria-hidden="true" className={railRight} style={{ top: "-100vh", bottom: "-24px" }} />

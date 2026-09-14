@@ -23,7 +23,7 @@ export function RatingSummary({ content }: { content: RatingSummaryContent }) {
         <span className="font-mono text-[72px] font-medium leading-none tracking-[-0.04em] text-[#191919] md:text-[96px]">{content.average}</span>
         <StarRow value={avg} size={28} />
         <span className="text-[16px] font-medium leading-[1.2] tracking-[-0.24px] text-[#191919]">{content.count}</span>
-        <span className="text-[14px] leading-[1.2] tracking-[-0.21px] text-[#7b7b7b]">{content.caption}</span>
+        <span className="text-[14px] leading-[1.2] tracking-[-0.21px] text-[#5c5c5c]">{content.caption}</span>
       </div>
       <ul className="flex flex-col justify-center gap-3.5 p-8 md:p-12">
         {content.bars.map((bar) => (

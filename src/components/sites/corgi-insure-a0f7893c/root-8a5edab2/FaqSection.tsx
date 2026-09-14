@@ -46,7 +46,7 @@ function FaqRow({ item, open, onToggle }: FaqRowProps) {
         aria-expanded={open}
         aria-controls={panelId}
         onClick={onToggle}
-        className="flex min-h-[24px] w-full cursor-pointer items-center justify-between gap-4 text-left"
+        className="flex min-h-[44px] w-full cursor-pointer items-center justify-between gap-4 text-left"
       >
         <span className="font-bold text-[#4a4a4a] text-[16px] leading-[1.2] tracking-[-0.24px]">{item.question}</span>
         <MaterialIcon

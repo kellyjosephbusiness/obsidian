@@ -33,7 +33,7 @@ export function LegalPage({ content }: { content: LegalPageContent }) {
               {content.sections.map((s, i) => (
                 <li key={s.id}>
                   <a href={`#${s.id}`} className="-ml-px flex gap-2 border-l border-transparent pl-4 text-[14px] leading-[1.3] tracking-[-0.21px] text-[#4a4a4a] hover:border-[#1e3a8a] hover:text-[#1e3a8a]">
-                    <span className="w-5 shrink-0 tabular-nums text-[#7b7b7b]">{i + 1}.</span>
+                    <span className="w-5 shrink-0 tabular-nums text-[#5c5c5c]">{i + 1}.</span>
                     {s.title}
                   </a>
                 </li>
@@ -41,7 +41,7 @@ export function LegalPage({ content }: { content: LegalPageContent }) {
               {content.showPreferences && (
                 <li>
                   <a href="#preferences" className="-ml-px flex gap-2 border-l border-transparent pl-4 text-[14px] leading-[1.3] tracking-[-0.21px] text-[#1e3a8a] hover:border-[#1e3a8a]">
-                    <span className="w-5 shrink-0 text-[#7b7b7b]">→</span>
+                    <span className="w-5 shrink-0 text-[#5c5c5c]">→</span>
                     Manage preferences
                   </a>
                 </li>
