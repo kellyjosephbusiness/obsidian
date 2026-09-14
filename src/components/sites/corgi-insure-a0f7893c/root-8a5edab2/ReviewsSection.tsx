@@ -70,7 +70,7 @@ export function ReviewsSection() {
             <article
               key={review.name}
               data-review-card
-              className="flex w-[320px] shrink-0 snap-start flex-col gap-8 rounded-[24px] border border-[#e1e1e1] bg-white p-8 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:w-[560px] md:p-12"
+              className="flex w-[320px] shrink-0 snap-start flex-col gap-8 rounded-[8px] border border-[#e1e1e1] bg-white p-8 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:w-[560px] md:p-12"
             >
               <div className="flex items-center gap-4">
                 <CustomerPhoto name={review.name} index={review.photo} className="size-14 shrink-0 rounded-full md:size-16" sizes="64px" />
@@ -91,7 +91,7 @@ export function ReviewsSection() {
             aria-label="Previous reviews"
             onClick={() => scrollByCard(-1)}
             disabled={atStart}
-            className="flex size-[52px] items-center justify-center rounded-[12px] border border-[#e1e1e1] bg-white text-[#191919] shadow-[0_0_16px_0_rgba(25,25,25,0.08)] transition-[background-color,opacity] hover:bg-[#f0f0f0] disabled:cursor-default disabled:opacity-40 disabled:hover:bg-white"
+            className="flex size-[52px] items-center justify-center rounded-[8px] border border-[#e1e1e1] bg-white text-[#191919] shadow-[0_0_16px_0_rgba(25,25,25,0.08)] transition-[background-color,opacity] hover:bg-[#f0f0f0] disabled:cursor-default disabled:opacity-40 disabled:hover:bg-white"
           >
             <MaterialIcon name="arrow_back" size={24} />
           </button>
@@ -100,7 +100,7 @@ export function ReviewsSection() {
             aria-label="Next reviews"
             onClick={() => scrollByCard(1)}
             disabled={atEnd}
-            className="flex size-[52px] items-center justify-center rounded-[12px] border border-[#e1e1e1] bg-white text-[#191919] shadow-[0_0_16px_0_rgba(25,25,25,0.08)] transition-[background-color,opacity] hover:bg-[#f0f0f0] disabled:cursor-default disabled:opacity-40 disabled:hover:bg-white"
+            className="flex size-[52px] items-center justify-center rounded-[8px] border border-[#e1e1e1] bg-white text-[#191919] shadow-[0_0_16px_0_rgba(25,25,25,0.08)] transition-[background-color,opacity] hover:bg-[#f0f0f0] disabled:cursor-default disabled:opacity-40 disabled:hover:bg-white"
           >
             <MaterialIcon name="arrow_forward" size={24} />
           </button>

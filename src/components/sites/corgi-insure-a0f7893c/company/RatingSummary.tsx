@@ -18,7 +18,7 @@ export function StarRow({ value, size = 20 }: { value: number; size?: number }) 
 export function RatingSummary({ content }: { content: RatingSummaryContent }) {
   const avg = Number(content.average);
   return (
-    <div className="grid grid-cols-1 overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:grid-cols-[minmax(0,2fr)_minmax(0,3fr)]">
+    <div className="grid grid-cols-1 overflow-clip rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:grid-cols-[minmax(0,2fr)_minmax(0,3fr)]">
       <div className="flex flex-col items-center justify-center gap-3 border-b border-[#e1e1e1] p-8 text-center md:border-r md:border-b-0 md:p-12">
         <span className="font-mono text-[72px] font-medium leading-none tracking-[-0.04em] text-[#191919] md:text-[96px]">{content.average}</span>
         <StarRow value={avg} size={28} />

@@ -30,7 +30,7 @@ export function StoryCards({ stories }: { stories: CustomerStory[] }) {
               aria-selected={selected}
               onClick={() => setActive(product)}
               className={cn(
-                "shrink-0 rounded-full border px-4 py-2 text-[14px] font-medium leading-[1.2] tracking-[-0.21px] transition-colors",
+                "shrink-0 rounded-[4px] border px-4 py-2 text-[14px] font-medium leading-[1.2] tracking-[-0.21px] transition-colors",
                 selected ? "border-[#1e3a8a] bg-[#1e3a8a] text-white" : "border-[#e1e1e1] bg-white text-[#4a4a4a] hover:border-[#1e3a8a] hover:text-[#1e3a8a]",
               )}
             >
@@ -42,8 +42,8 @@ export function StoryCards({ stories }: { stories: CustomerStory[] }) {
 
       <ul className="grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-6 xl:grid-cols-3">
         {visible.map((story) => (
-          <li key={story.company} className="flex flex-col overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
-            <div className="relative -mx-px -mt-px flex flex-col justify-end overflow-clip rounded-[24px] border border-[#e1e1e1] shadow-[0_0_24px_0_rgba(25,25,25,0.35)]">
+          <li key={story.company} className="flex flex-col overflow-clip rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
+            <div className="relative -mx-px -mt-px flex flex-col justify-end overflow-clip rounded-[8px] border border-[#e1e1e1] shadow-[0_0_24px_0_rgba(25,25,25,0.35)]">
               <CustomerPhoto name={story.author} index={story.photo} className="h-[160px] w-full" sizes="400px" />
               <div aria-hidden className="absolute inset-0" style={{ backgroundImage: "linear-gradient(200deg, rgba(255,255,255,0) 45%, rgba(255,255,255,0.75) 72%, #ffffff 100%)" }} />
               <div className="absolute inset-x-0 bottom-0 flex items-end justify-between gap-3 p-5">
@@ -51,7 +51,7 @@ export function StoryCards({ stories }: { stories: CustomerStory[] }) {
                   <span className="truncate text-[16px] font-medium leading-[1.2] tracking-[-0.24px] text-[#1d1d1d]">{story.author}</span>
                   <span className="truncate text-[14px] leading-[1.2] tracking-[-0.21px] text-[#4e4e4e]">{story.role}</span>
                 </div>
-                <span className="shrink-0 rounded-full bg-white/90 px-2.5 py-1 text-[12px] font-medium uppercase leading-none tracking-[0.06em] text-[#4a4a4a] shadow-[0_0_8px_0_rgba(25,25,25,0.08)]">{story.industry}</span>
+                <span className="shrink-0 rounded-[4px] bg-white/90 px-2.5 py-1 text-[12px] font-medium uppercase leading-none tracking-[0.06em] text-[#4a4a4a] shadow-[0_0_8px_0_rgba(25,25,25,0.08)]">{story.industry}</span>
               </div>
             </div>
             <div className="flex flex-1 flex-col gap-5 p-6">

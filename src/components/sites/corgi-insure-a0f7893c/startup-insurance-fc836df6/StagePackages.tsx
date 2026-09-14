@@ -39,9 +39,9 @@ function StageText({ pkg, className }: { pkg: StagePackage; className: string })
 function StageCard({ pkg, className }: { pkg: StagePackage; className: string }) {
   const { art } = pkg;
   return (
-    <div className={`flex w-full flex-1 flex-col overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)] ${className}`}>
+    <div className={`flex w-full flex-1 flex-col overflow-clip rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)] ${className}`}>
       {/* Header: art + title (160px below lg, 200px from lg) */}
-      <div className="-mx-px -mt-px relative flex h-[160px] flex-col justify-end gap-3 overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white p-5 shadow-[0_0_24px_0_rgba(25,25,25,0.35)] lg:h-[200px]">
+      <div className="-mx-px -mt-px relative flex h-[160px] flex-col justify-end gap-3 overflow-clip rounded-[8px] border border-[#e1e1e1] bg-white p-5 shadow-[0_0_24px_0_rgba(25,25,25,0.35)] lg:h-[200px]">
         <div
           aria-hidden
           className="pointer-events-none absolute flex items-center justify-center"

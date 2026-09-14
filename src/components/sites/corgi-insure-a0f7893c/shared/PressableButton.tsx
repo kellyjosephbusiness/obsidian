@@ -47,7 +47,7 @@ const SIZE: Record<PressableSize, string> = {
 /**
  * corgi.insure "pressable" button: a colored base sits 4px below a face; on :active the
  * face drops onto the base (margin-top:4px; padding-bottom:0; 75ms) — see .pressable-button
- * in globals.css. Face corners use border-radius 16px + corner-shape superellipse(1.6).
+ * in globals.css. Face and base corners use a squared 6px border-radius for every variant and size.
  */
 export function PressableButton({
   children,

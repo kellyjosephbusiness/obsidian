@@ -135,17 +135,17 @@ export function LoanCalculator() {
             </form>
 
             {/* Results */}
-            <div className="flex flex-col gap-6 rounded-[24px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
+            <div className="flex flex-col gap-6 rounded-[8px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
               <dl className="grid grid-cols-1 gap-4 sm:grid-cols-3">
-                <div className="flex flex-col gap-2 rounded-[16px] bg-[#1e3a8a] p-4 text-white">
+                <div className="flex flex-col gap-2 rounded-[8px] bg-[#1e3a8a] p-4 text-white">
                   <dt className="text-[12px] leading-[1.2] tracking-[-0.18px] text-[#dde4f6]">{results.payment}</dt>
                   <dd className="font-mono text-[32px] font-medium leading-none tracking-[-1.02px]">{usdCents.format(result.payment)}</dd>
                 </div>
-                <div className="flex flex-col gap-2 rounded-[16px] border border-[#e1e1e1] bg-[#f9f9f9] p-4">
+                <div className="flex flex-col gap-2 rounded-[8px] border border-[#e1e1e1] bg-[#f9f9f9] p-4">
                   <dt className="text-[12px] leading-[1.2] tracking-[-0.18px] text-[#4a4a4a]">{results.interest}</dt>
                   <dd className="font-mono text-[28px] font-medium leading-none tracking-[-0.9px] text-[#191919]">{usd.format(result.totalInterest)}</dd>
                 </div>
-                <div className="flex flex-col gap-2 rounded-[16px] border border-[#e1e1e1] bg-[#f9f9f9] p-4">
+                <div className="flex flex-col gap-2 rounded-[8px] border border-[#e1e1e1] bg-[#f9f9f9] p-4">
                   <dt className="text-[12px] leading-[1.2] tracking-[-0.18px] text-[#4a4a4a]">{results.total}</dt>
                   <dd className="font-mono text-[28px] font-medium leading-none tracking-[-0.9px] text-[#191919]">{usd.format(result.totalRepaid)}</dd>
                 </div>
@@ -180,7 +180,7 @@ export function LoanCalculator() {
                     {showAll ? preview.toggleLess : preview.toggleMore}
                   </button>
                 </div>
-                <div className={`overflow-x-auto rounded-[16px] border border-[#e1e1e1] ${showAll ? "max-h-[420px] overflow-y-auto" : ""}`}>
+                <div className={`overflow-x-auto rounded-[8px] border border-[#e1e1e1] ${showAll ? "max-h-[420px] overflow-y-auto" : ""}`}>
                   <table className="w-full min-w-[520px] border-collapse text-left tabular-nums">
                     <thead className="sticky top-0 bg-[#f6f6f6]">
                       <tr>

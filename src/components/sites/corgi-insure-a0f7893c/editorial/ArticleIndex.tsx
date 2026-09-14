@@ -38,7 +38,7 @@ export function ArticleIndex({ label, articles, tags }: ArticleIndexProps) {
                   aria-pressed={selected}
                   onClick={() => setTag(chip)}
                   className={cn(
-                    "rounded-full border px-4 py-2 text-[14px] leading-[1.2] font-medium tracking-[-0.14px] transition-colors",
+                    "rounded-[4px] border px-4 py-2 text-[14px] leading-[1.2] font-medium tracking-[-0.14px] transition-colors",
                     selected
                       ? "border-[#1e3a8a] bg-[#dde4f6] text-[#1e3a8a]"
                       : "border-[#e1e1e1] bg-white text-[#4a4a4a] hover:bg-[#f3f3f3] hover:text-[#191919] active:bg-[#c5d1f0]",

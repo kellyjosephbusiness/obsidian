@@ -24,8 +24,8 @@ export function QualifyCards() {
         >
           <Hairlines zIndex="z-0" />
           {QUALIFY.cards.map((card) => (
-            <motion.article key={card.title} variants={item} className="relative z-20 flex flex-col gap-5 overflow-hidden rounded-[24px] bg-[#313131] p-5">
-              <div className="flex size-9 shrink-0 items-center justify-center rounded-full bg-[#5b7fff]">
+            <motion.article key={card.title} variants={item} className="relative z-20 flex flex-col gap-5 overflow-hidden rounded-[8px] bg-[#313131] p-5">
+              <div className="flex size-9 shrink-0 items-center justify-center rounded-[8px] bg-[#5b7fff]">
                 <MaterialIcon name={card.icon} size={24} className="text-white" />
               </div>
               <div className="flex flex-col gap-3">

@@ -10,8 +10,8 @@ import { ArrowLeftIcon } from "./icons";
 function ThumbnailCard() {
   const { thumbnail } = HERO;
   return (
-    <div className="relative w-full overflow-hidden rounded-[24px] border border-[#e1e1e1] bg-[#191919] lg:justify-self-end">
-      <div className="@container relative aspect-[519/264] w-full overflow-hidden rounded-[24px] outline outline-1 outline-black/10">
+    <div className="relative w-full overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-[#191919] lg:justify-self-end">
+      <div className="@container relative aspect-[519/264] w-full overflow-hidden rounded-[8px] outline outline-1 outline-black/10">
         {/* Soft navy glow behind the mark */}
         <div
           aria-hidden

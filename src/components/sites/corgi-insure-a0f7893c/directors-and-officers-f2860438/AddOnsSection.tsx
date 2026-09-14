@@ -13,8 +13,8 @@ export function AddOnsSection() {
           <Hairlines zIndex="z-0" />
           <div className="relative z-10 grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
             {ADD_ONS.cards.map((card) => (
-              <article key={card.title} className="flex flex-col overflow-hidden rounded-[24px] border border-[#e1e1e1] bg-white shadow-[0_0_16px_0_rgba(25,25,25,0.05)]">
-                <div className="flex items-center justify-center rounded-[24px] bg-white py-12 shadow-[0_0_16px_0_rgba(25,25,25,0.15)]">
+              <article key={card.title} className="flex flex-col overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_16px_0_rgba(25,25,25,0.05)]">
+                <div className="flex items-center justify-center rounded-[8px] bg-white py-12 shadow-[0_0_16px_0_rgba(25,25,25,0.15)]">
                   <MaterialIcon name={card.icon} size={24} className="text-[#1e3a8a]" />
                 </div>
                 <div className="flex flex-col gap-[10px] p-5">

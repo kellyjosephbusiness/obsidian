@@ -11,8 +11,8 @@ export function LeadershipGrid({ leaders }: { leaders: Leader[] }) {
     <ul className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:gap-6 lg:grid-cols-3">
       {leaders.map((leader, i) => (
         <Reveal key={leader.name} index={i} className="flex">
-          <li className="flex w-full flex-col overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
-            <div className="relative -mx-px -mt-px overflow-clip rounded-[24px] border border-[#e1e1e1] shadow-[0_0_24px_0_rgba(25,25,25,0.35)]">
+          <li className="flex w-full flex-col overflow-clip rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
+            <div className="relative -mx-px -mt-px overflow-clip rounded-[8px] border border-[#e1e1e1] shadow-[0_0_24px_0_rgba(25,25,25,0.35)]">
               {leader.photo ? (
                 <div className={PORTRAIT_BOX_CLASS}>
                   <Image

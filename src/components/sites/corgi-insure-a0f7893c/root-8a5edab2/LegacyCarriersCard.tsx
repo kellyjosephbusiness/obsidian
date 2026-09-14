@@ -35,7 +35,7 @@ function ChipRow({ copy }: { copy: number }) {
         return (
           <div key={`${copy}-${chip.label}`} className="contents">
             <div
-              className="flex shrink-0 items-center gap-3 rounded-[24px] border-2 border-[#d9c2c2] bg-[#f8f2f2] p-4 shadow-[0_0_0_4px_#ecdcdc] motion-safe:[animation:var(--pulse)]"
+              className="flex shrink-0 items-center gap-3 rounded-[8px] border-2 border-[#d9c2c2] bg-[#f8f2f2] p-4 shadow-[0_0_0_4px_#ecdcdc] motion-safe:[animation:var(--pulse)]"
               style={pulse}
             >
               <MaterialIcon name={chip.icon} size={24} className="shrink-0 text-[#8a4b4b]" />
@@ -60,8 +60,8 @@ export function LegacyCarriersCard() {
   const { certificateTitle, title, description } = ADVANTAGE.legacy;
 
   return (
-    <div className="flex flex-col overflow-hidden rounded-[24px] bg-white">
-      <div className="@container relative aspect-[724/322] overflow-hidden rounded-[24px] bg-[#f6f6f6] shadow-[0_8px_28px_0_rgba(0,0,0,0.4)]">
+    <div className="flex flex-col overflow-hidden rounded-[8px] bg-white">
+      <div className="@container relative aspect-[724/322] overflow-hidden rounded-[8px] bg-[#f6f6f6] shadow-[0_8px_28px_0_rgba(0,0,0,0.4)]">
         <div className="absolute top-0 left-0 h-[322px] w-[724px] origin-top-left" style={CANVAS_STYLE}>
           {/* Chip marquee row */}
           <div className="absolute top-[57px] right-0 left-0 overflow-x-clip">

@@ -14,7 +14,7 @@ export function ContinueReading() {
         </div>
         <div className="relative">
           <Hairlines zIndex="z-0" />
-          <div className="relative z-10 grid grid-cols-1 gap-px overflow-clip rounded-[24px] border border-[#e1e1e1] bg-[#e1e1e1] md:grid-cols-2">
+          <div className="relative z-10 grid grid-cols-1 gap-px overflow-clip rounded-[8px] border border-[#e1e1e1] bg-[#e1e1e1] md:grid-cols-2">
             {READING_CARDS.map((card) => (
               <Link key={card.href} href={card.href} className="group flex flex-col gap-6 bg-white p-6 transition-colors hover:bg-gray-50">
                 <h3 className="font-mono text-[24px] leading-none tracking-[-1.024px] text-[#191919] transition-colors group-hover:text-[#1e3a8a] md:text-[32px]">{card.title}</h3>

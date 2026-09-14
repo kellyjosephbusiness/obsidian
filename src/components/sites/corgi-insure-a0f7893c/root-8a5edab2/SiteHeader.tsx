@@ -27,9 +27,9 @@ const SCROLL_HIDE_THRESHOLD = 50;
 const DESKTOP_QUERY = "(min-width: 1280px)";
 
 const TRIGGER_BASE_CLASS =
-  "flex h-[39px] cursor-pointer items-center gap-1 rounded-[12px] px-4 text-[14px] leading-[1.2] tracking-[-0.21px]";
+  "flex h-[39px] cursor-pointer items-center gap-1 rounded-[8px] px-4 text-[14px] leading-[1.2] tracking-[-0.21px]";
 const PLAIN_LINK_CLASS =
-  "flex h-[39px] items-center whitespace-nowrap rounded-[12px] px-4 text-[14px] leading-[1.2] tracking-[-0.21px]";
+  "flex h-[39px] items-center whitespace-nowrap rounded-[8px] px-4 text-[14px] leading-[1.2] tracking-[-0.21px]";
 const ACTIVE_TEXT_CLASS = "font-medium text-[#191919]";
 const IDLE_TEXT_CLASS = "font-normal text-[#4a4a4a] hover:text-[#191919]";
 

@@ -65,7 +65,7 @@ export function FundingMoments({ heading = AI_MOMENTS_HEADING, items = AI_MOMENT
           <div aria-hidden className="-translate-x-1/2 pointer-events-none absolute bottom-0 left-1/2 h-px w-screen bg-[#e1e1e1]" />
 
           {/* Glyph card */}
-          <div className="relative flex min-h-[320px] items-center justify-center overflow-hidden rounded-[24px] bg-[#313131] p-8 shadow-[0_0_12px_rgba(25,25,25,0.05)] md:min-h-[440px] lg:h-[640px]">
+          <div className="relative flex min-h-[320px] items-center justify-center overflow-hidden rounded-[8px] bg-[#313131] p-8 shadow-[0_0_12px_rgba(25,25,25,0.05)] md:min-h-[440px] lg:h-[640px]">
             <div
               aria-hidden
               className="pointer-events-none absolute inset-0 bg-[radial-gradient(rgba(255,255,255,0.14)_1px,transparent_1.5px)] bg-[size:24px_24px] bg-center"
@@ -113,7 +113,7 @@ export function FundingMoments({ heading = AI_MOMENTS_HEADING, items = AI_MOMENT
                     "relative flex min-h-[130px] flex-1 flex-col items-start overflow-hidden px-6 pt-7 pb-6 text-left transition-[background-color,box-shadow,transform] duration-300 active:scale-[0.99]",
                     EASE,
                     isActive
-                      ? "rounded-[24px] bg-[#eaeaea] shadow-[0_0_0_1px_rgba(225,225,225,0.2)]"
+                      ? "rounded-[8px] bg-[#eaeaea] shadow-[0_0_0_1px_rgba(225,225,225,0.2)]"
                       : "bg-transparent hover:bg-white/45",
                   )}
                 >

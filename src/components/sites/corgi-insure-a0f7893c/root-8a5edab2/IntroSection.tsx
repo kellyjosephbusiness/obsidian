@@ -26,7 +26,7 @@ export function IntroSection() {
         className="pointer-events-none absolute inset-y-0 right-[max(16px,calc((100vw-1600px)/2))] w-px bg-[#e1e1e1] md:right-[max(24px,calc((100vw-1600px)/2))] lg:right-[max(64px,calc((100vw-1600px)/2))]"
       />
 
-      <div className="relative mx-auto max-w-[1600px] overflow-hidden rounded-[24px] bg-[#313131] p-5 pb-[260px] md:p-16">
+      <div className="relative mx-auto max-w-[1600px] overflow-hidden rounded-[8px] bg-[#313131] p-5 pb-[260px] md:p-16">
         {/* Radial ellipse glow, bottom center */}
         <div
           aria-hidden

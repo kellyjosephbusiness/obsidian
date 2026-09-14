@@ -70,7 +70,7 @@ export function IndustryChips({ heading = AI_INDUSTRIES_HEADING, chips = AI_INDU
                 href={chip.href}
                 aria-label={`Explore ${chip.label} funding`}
                 className={cn(
-                  "group relative flex min-h-20 min-w-20 items-end justify-center rounded-[20px] outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a8a] focus-visible:ring-offset-4 focus-visible:ring-offset-[#f6f6f6]",
+                  "group relative flex min-h-20 min-w-20 items-end justify-center rounded-[8px] outline-none focus-visible:ring-2 focus-visible:ring-[#1e3a8a] focus-visible:ring-offset-4 focus-visible:ring-offset-[#f6f6f6]",
                   i < last && "md:mr-3 lg:mr-4",
                 )}
               >
@@ -80,7 +80,7 @@ export function IndustryChips({ heading = AI_INDUSTRIES_HEADING, chips = AI_INDU
                 >
                   {chip.label}
                 </span>
-                <div className="relative flex h-24 w-28 origin-bottom items-center justify-center rounded-[24px] px-2 transition-transform duration-300 ease-[cubic-bezier(0.2,0,0,1)] group-hover:scale-[1.08] group-focus-visible:scale-[1.08]">
+                <div className="relative flex h-24 w-28 origin-bottom items-center justify-center rounded-[8px] px-2 transition-transform duration-300 ease-[cubic-bezier(0.2,0,0,1)] group-hover:scale-[1.08] group-focus-visible:scale-[1.08]">
                   <ChipArt chip={chip} />
                 </div>
               </Link>

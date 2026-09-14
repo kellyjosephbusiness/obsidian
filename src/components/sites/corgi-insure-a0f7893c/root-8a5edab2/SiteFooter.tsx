@@ -80,7 +80,7 @@ export function SiteFooter({ cta = FOOTER_CTA }: { cta?: FooterCta } = {}) {
                     <Link
                       key={link.href}
                       href={link.href}
-                      className="flex min-h-[44px] w-full cursor-pointer items-center rounded-lg p-2 text-[16px] leading-[1.2] tracking-[-0.24px] text-[#606060] transition-colors hover:bg-[#e8e8e8] hover:text-[#191919]"
+                      className="flex min-h-[44px] w-full cursor-pointer items-center rounded-[8px] p-2 text-[16px] leading-[1.2] tracking-[-0.24px] text-[#606060] transition-colors hover:bg-[#e8e8e8] hover:text-[#191919]"
                     >
                       {link.label}
                     </Link>

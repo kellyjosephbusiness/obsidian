@@ -32,8 +32,8 @@ interface Sample {
 function TestimonialCard({ testimonial }: { testimonial: Testimonial }) {
   const company = testimonial.company;
   return (
-    <article className="flex h-auto w-[300px] shrink-0 flex-col overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white md:h-[560px] md:w-[382px]">
-      <div className="relative -mx-px -mt-px flex h-[200px] shrink-0 flex-col justify-end overflow-clip rounded-[24px] border border-[#e1e1e1] p-4 shadow-[0px_0px_16px_0px_rgba(25,25,25,0.3)] transition-transform duration-300 ease-out has-[a:hover]:-rotate-[1.2deg] md:h-[320px]">
+    <article className="flex h-auto w-[300px] shrink-0 flex-col overflow-clip rounded-[8px] border border-[#e1e1e1] bg-white md:h-[560px] md:w-[382px]">
+      <div className="relative -mx-px -mt-px flex h-[200px] shrink-0 flex-col justify-end overflow-clip rounded-[8px] border border-[#e1e1e1] p-4 shadow-[0px_0px_16px_0px_rgba(25,25,25,0.3)] transition-transform duration-300 ease-out has-[a:hover]:-rotate-[1.2deg] md:h-[320px]">
         <div className="absolute inset-0 bg-[#191919]" />
         {testimonial.image ? (
           <Image
@@ -63,11 +63,11 @@ function TestimonialCard({ testimonial }: { testimonial: Testimonial }) {
           className="group/link relative flex items-start gap-3"
           aria-label={`Visit ${company}`}
         >
-          <div className="flex items-center rounded-[12px] [transition-property:background-color,box-shadow] [transition-duration:0ms,300ms] [transition-delay:300ms,0ms] group-hover/link:bg-[#f6f6f6] group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)] group-hover/link:[transition-delay:0ms,0ms] group-hover/link:[transition-duration:0ms,0ms]">
+          <div className="flex items-center rounded-[8px] [transition-property:background-color,box-shadow] [transition-duration:0ms,300ms] [transition-delay:300ms,0ms] group-hover/link:bg-[#f6f6f6] group-hover/link:shadow-[0_0_8px_0_rgba(25,25,25,0.2)] group-hover/link:[transition-delay:0ms,0ms] group-hover/link:[transition-duration:0ms,0ms]">
             <div className="flex w-0 items-center justify-center overflow-hidden transition-[width,padding] duration-300 ease-out group-hover/link:w-[42px] group-hover/link:pl-[10px] group-hover/link:pr-[8px]">
               <MaterialIcon name="north_east" size={24} className="shrink-0 text-[#191919]" />
             </div>
-            <div className="relative size-11 shrink-0 overflow-hidden rounded-[12px] shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]">
+            <div className="relative size-11 shrink-0 overflow-hidden rounded-[8px] shadow-[0px_0px_4px_0px_rgba(29,29,29,0.25)]">
               {testimonial.companyLogo ? (
                 <Image alt="" className="object-cover" fill sizes="44px" src={testimonial.companyLogo} />
               ) : (

@@ -49,14 +49,18 @@ const HIGHLIGHTS: NavMenu["highlights"] = [
     title: "Talk to a specialist",
     description: "For owners who want a guided funding plan.",
     href: LINKS.apply,
+    image: "/sites/corgi-insure-a0f7893c/shared/art/nav/specialist.png",
     imageAlt: "Talk to a funding specialist",
+    imagePositionClass: "object-contain p-3 pb-10",
     icon: "support_agent",
   },
   {
     title: "$1.2B+ matched to small businesses",
     description: "Through our lender network, one application at a time.",
     href: "/customer-stories",
+    image: "/sites/corgi-insure-a0f7893c/shared/art/nav/offers.png",
     imageAlt: "$1.2B+ matched to small businesses",
+    imagePositionClass: "object-contain p-3 pb-10",
     icon: "trending_up",
   },
 ];

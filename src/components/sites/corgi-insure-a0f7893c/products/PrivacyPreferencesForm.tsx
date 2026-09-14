@@ -51,7 +51,7 @@ export function PrivacyPreferencesForm() {
         <p className="text-[14px] leading-[1.3] tracking-[-0.21px] text-[#4a4a4a]">{PRIVACY_PREFERENCES.sub}</p>
       </div>
 
-      <ul className="flex flex-col overflow-hidden rounded-[16px] border border-[#e1e1e1] bg-white">
+      <ul className="flex flex-col overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-white">
         {PRIVACY_PREFERENCES.toggles.map((t, i) => (
           <li key={t.id} className={`flex items-start justify-between gap-4 p-4 ${i > 0 ? "border-t border-[#e1e1e1]" : ""}`}>
             <div className="flex flex-col gap-1">

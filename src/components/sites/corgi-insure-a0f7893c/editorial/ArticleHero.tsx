@@ -9,8 +9,8 @@ import type { ArticleThumbnail } from "./types";
  */
 function ThumbnailCard({ thumbnail }: { thumbnail: ArticleThumbnail }) {
   return (
-    <div className="relative w-full overflow-hidden rounded-[24px] border border-[#e1e1e1] bg-[#191919] lg:justify-self-end">
-      <div className="@container relative aspect-[519/264] w-full overflow-hidden rounded-[24px] outline outline-1 outline-black/10">
+    <div className="relative w-full overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-[#191919] lg:justify-self-end">
+      <div className="@container relative aspect-[519/264] w-full overflow-hidden rounded-[8px] outline outline-1 outline-black/10">
         <div
           aria-hidden
           className="pointer-events-none absolute top-1/2 right-[2cqw] size-[60cqw] -translate-y-1/2 rounded-full bg-[radial-gradient(circle,rgba(91,117,196,0.7)_0%,rgba(30,58,138,0.3)_40%,rgba(25,25,25,0)_70%)]"

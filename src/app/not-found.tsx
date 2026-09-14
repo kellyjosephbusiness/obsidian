@@ -24,7 +24,7 @@ export default function NotFound() {
         <main id="main-content" className="relative z-0 flex-grow">
           <section className="relative flex min-h-[70vh] items-center border-b border-[#e1e1e1] px-4 pt-[160px] pb-16 md:px-6 lg:px-16">
             <div className="mx-auto flex w-full max-w-[760px] flex-col items-center gap-8 text-center">
-              <span className="rounded-full border border-[#e1e1e1] bg-white px-4 py-1.5 text-[12px] font-medium uppercase tracking-[0.08em] text-[#4a4a4a]">Coming soon</span>
+              <span className="rounded-[4px] border border-[#e1e1e1] bg-white px-4 py-1.5 text-[12px] font-medium uppercase tracking-[0.08em] text-[#4a4a4a]">Coming soon</span>
               <h1 className="font-mono font-medium text-[#191919] text-[length:var(--h1-font-size)] leading-[var(--h1-line-height)] tracking-[var(--h1-tracking)]">
                 This page is still being built.
               </h1>
@@ -41,7 +41,7 @@ export default function NotFound() {
               </div>
               <nav aria-label="Available pages" className="flex flex-wrap justify-center gap-2 pt-4">
                 {SHORTCUTS.map((s) => (
-                  <Link key={s.href} href={s.href} className="rounded-full border border-[#e1e1e1] bg-white px-4 py-2 text-[14px] font-medium text-[#191919] transition-colors hover:border-[#1e3a8a] hover:text-[#1e3a8a]">
+                  <Link key={s.href} href={s.href} className="rounded-[4px] border border-[#e1e1e1] bg-white px-4 py-2 text-[14px] font-medium text-[#191919] transition-colors hover:border-[#1e3a8a] hover:text-[#1e3a8a]">
                     {s.label}
                   </Link>
                 ))}

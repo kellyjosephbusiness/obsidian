@@ -17,11 +17,11 @@ function ProductTable({ label, children }: { label: string; children: React.Reac
   return (
     <div className="relative flex w-full flex-col">
       <div aria-hidden className="-translate-x-1/2 pointer-events-none absolute top-0 left-1/2 h-px w-[200vw] bg-[#e1e1e1]" />
-      <div className="relative flex flex-col overflow-hidden rounded-3xl border border-[#e1e1e1]">
+      <div className="relative flex flex-col overflow-hidden rounded-[8px] border border-[#e1e1e1]">
         <div className="px-4 py-2 lg:px-6 lg:py-3">
           <span className="text-[#4a4a4a] text-[12px] uppercase leading-[18px] tracking-tight">{label}</span>
         </div>
-        <div className="grid grid-cols-1 gap-px overflow-hidden rounded-t-[23px] border-[#e1e1e1] border-t bg-[#e1e1e1] md:grid-cols-2 lg:grid-cols-3">
+        <div className="grid grid-cols-1 gap-px overflow-hidden rounded-t-[8px] border-[#e1e1e1] border-t bg-[#e1e1e1] md:grid-cols-2 lg:grid-cols-3">
           {children}
         </div>
       </div>
@@ -36,7 +36,7 @@ function ProductListCell({ policy }: { policy: Policy }) {
     <Link href={policy.href} className="group flex flex-col bg-white transition-colors hover:bg-gray-50">
       <div className="relative flex h-[120px] items-start p-3">
         <Image alt={policy.title} src={policy.image} fill sizes="436px" className="pointer-events-none object-contain" />
-        <div className={`relative z-10 flex items-center justify-center rounded-[12px] px-3 py-1.5 ${BADGE_GRADIENT}`}>
+        <div className={`relative z-10 flex items-center justify-center rounded-[8px] px-3 py-1.5 ${BADGE_GRADIENT}`}>
           <span className="text-[12px] text-[#1e3a8a] leading-[1.2] tracking-[-0.18px]">{ESSENTIAL_HEADER.instant.badge}</span>
         </div>
       </div>
@@ -56,7 +56,7 @@ function SpecialtyCell({ item }: { item: SpecializedCoverage }) {
     <div className="flex flex-col bg-white">
       <div className="flex flex-1 flex-col gap-2 p-3 lg:p-5">
         <div className="mb-4 flex">
-          <div className="flex items-center justify-center rounded-[12px] border border-[#e1e1e1] bg-[#f6f6f6] px-3 py-1.5">
+          <div className="flex items-center justify-center rounded-[8px] border border-[#e1e1e1] bg-[#f6f6f6] px-3 py-1.5">
             <span className="text-[#4a4a4a] text-[12px] leading-[1.2] tracking-[-0.18px]">{ESSENTIAL_HEADER.specialty.turnaround}</span>
           </div>
         </div>
