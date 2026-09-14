@@ -8,10 +8,10 @@ export function StepsSection({ steps }: { steps: ProcessStep[] }) {
     <ol className="grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-6 xl:grid-cols-4">
       {steps.map((step, i) => (
         <Reveal key={step.number} index={i} className="flex">
-          <li className="flex w-full flex-col gap-6 rounded-[24px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
+          <li className="flex w-full flex-col gap-6 rounded-[8px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
             <div className="flex items-center justify-between">
               <span className="font-mono text-[40px] font-medium leading-none tracking-[-0.04em] text-[#1e3a8a] md:text-[48px]">{step.number}</span>
-              <span className="flex size-12 items-center justify-center rounded-[12px] bg-[#dde4f6] text-[#1e3a8a]">
+              <span className="flex size-12 items-center justify-center rounded-[8px] bg-[#dde4f6] text-[#1e3a8a]">
                 <MaterialIcon name={step.icon} size={24} />
               </span>
             </div>

@@ -21,7 +21,7 @@ export function ApplyEmbed() {
           <ul className="hidden flex-col gap-3 lg:flex">
             {APPLY_INTRO.bullets.map((b) => (
               <li key={b.text} className="flex items-center gap-3 text-[15px] leading-[1.2] tracking-[-0.2px] text-[#191919]">
-                <span className="flex size-9 shrink-0 items-center justify-center rounded-[10px] bg-[#dde4f6] text-[#1e3a8a]">
+                <span className="flex size-9 shrink-0 items-center justify-center rounded-[8px] bg-[#dde4f6] text-[#1e3a8a]">
                   <MaterialIcon name={b.icon} size={20} />
                 </span>
                 {b.text}
@@ -30,7 +30,7 @@ export function ApplyEmbed() {
           </ul>
 
           {/* Trust strip (desktop only; on phones the first form question stays visible under the headline). */}
-          <div className="hidden max-w-[520px] flex-col gap-4 rounded-[20px] border border-[#e1e1e1] bg-white p-5 lg:flex">
+          <div className="hidden max-w-[520px] flex-col gap-4 rounded-[8px] border border-[#e1e1e1] bg-white p-5 lg:flex">
             <ul className="flex flex-wrap gap-x-5 gap-y-2">
               {APPLY_TRUST.map((item) => (
                 <li key={item.text} className="flex items-center gap-1.5 text-[13px] leading-[1.2] tracking-[-0.2px] text-[#4a4a4a]">
@@ -58,7 +58,7 @@ export function ApplyEmbed() {
           </p>
         </div>
 
-        <div className="overflow-hidden rounded-[24px] border border-[#e1e1e1] bg-white p-2 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-5">
+        <div className="overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-white p-2 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-5">
           <LendTrackEmbed />
         </div>
       </div>

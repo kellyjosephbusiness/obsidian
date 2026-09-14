@@ -55,7 +55,7 @@ export function MenuColumnWidthStyle(menu: NavMenu): string {
 }
 
 const COLUMN_HEADER_CLASS = "text-[12px] uppercase tracking-[-0.18px] text-[#4a4a4a]";
-const ITEM_ROW_CLASS = "flex items-center gap-2 rounded-lg p-2";
+const ITEM_ROW_CLASS = "flex items-center gap-2 rounded-[8px] p-2";
 const HAIRLINE_V_CLASS =
   "pointer-events-none absolute top-1/2 flex h-[2400px] -translate-y-1/2 items-center justify-center";
 
@@ -185,14 +185,18 @@ function HighlightCardBody({ card }: { card: NavHighlightCard }) {
   return (
     <>
       {card.image ? (
-        <Image
-          alt={card.imageAlt}
-          className={cn("absolute inset-0 h-full w-full object-cover", card.imagePositionClass)}
-          fetchPriority="low"
-          fill
-          sizes="200px"
-          src={card.image}
-        />
+        <>
+          {/* Nav art is a transparent 1-bit stipple drawing, so it sits on a navy tint plate, contained not cropped. */}
+          <div aria-hidden className="absolute inset-0 bg-[#dde4f6]" />
+          <Image
+            alt={card.imageAlt}
+            className={cn("absolute inset-0 h-full w-full object-cover", card.imagePositionClass)}
+            fetchPriority="low"
+            fill
+            sizes="200px"
+            src={card.image}
+          />
+        </>
       ) : (
         <div aria-hidden className="absolute inset-0 flex items-start justify-end p-3" style={gradientFor(card.title)}>
           <MaterialIcon name={card.icon ?? "trending_up"} size={40} className="text-white/90" />
@@ -217,7 +221,7 @@ function Highlights({ cards }: { cards: NavHighlightCard[] }) {
       <div className="flex h-[30px] items-center pl-2">
         <span className={COLUMN_HEADER_CLASS}>Highlights</span>
       </div>
-      <div className="flex min-h-[240px] flex-1 overflow-hidden rounded-[20px] border-[1px] border-[#e1e1e1]">
+      <div className="flex min-h-[240px] flex-1 overflow-hidden rounded-[8px] border-[1px] border-[#e1e1e1]">
         <Link
           href={first.href}
           className="group relative flex flex-1 flex-col items-start justify-end gap-1 overflow-hidden border-r-[1px] border-[#e1e1e1] p-2"

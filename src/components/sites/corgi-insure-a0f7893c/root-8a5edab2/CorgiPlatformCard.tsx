@@ -459,10 +459,10 @@ export function CorgiPlatformCard() {
   const { title, descriptionBefore, descriptionStrong, descriptionAfter } = ADVANTAGE.corgi;
 
   return (
-    <div className="flex flex-col overflow-hidden rounded-[24px] bg-white">
+    <div className="flex flex-col overflow-hidden rounded-[8px] bg-white">
       <div
         ref={panelRef}
-        className="relative aspect-[724/322] overflow-hidden rounded-[24px] bg-[#2d3957] shadow-[0_8px_28px_0_rgba(0,0,0,0.4)]"
+        className="relative aspect-[724/322] overflow-hidden rounded-[8px] bg-[#2d3957] shadow-[0_8px_28px_0_rgba(0,0,0,0.4)]"
       >
         <div
           ref={canvasRef}

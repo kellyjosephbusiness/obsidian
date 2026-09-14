@@ -25,7 +25,7 @@ export function ContactForm() {
   }
 
   return (
-    <form onSubmit={onSubmit} noValidate className="flex flex-col gap-6 rounded-[24px] border border-[#e1e1e1] bg-[#f9f9f9] p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
+    <form onSubmit={onSubmit} noValidate className="flex flex-col gap-6 rounded-[8px] border border-[#e1e1e1] bg-[#f9f9f9] p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
       <FormTitle title={CONTACT_FORM.title} sub={CONTACT_FORM.sub} />
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
         <FormField label={fields.name} htmlFor="contact-name" required>

@@ -116,8 +116,8 @@ export function FaqSection({ items = FAQ, heading = FAQ_HEADER.heading, footer =
             className="-translate-x-1/2 pointer-events-none absolute bottom-0 left-1/2 h-px w-screen bg-[#e1e1e1]"
           />
 
-          <div className="relative w-full overflow-clip rounded-[24px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
-            <div className="-m-px relative flex flex-col justify-center gap-4 overflow-clip rounded-[24px] bg-[#f6f6f6] p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
+          <div className="relative w-full overflow-clip rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
+            <div className="-m-px relative flex flex-col justify-center gap-4 overflow-clip rounded-[8px] bg-[#f6f6f6] p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
               {items.map((item, i) => (
                 <Fragment key={item.question}>
                   <FaqRow

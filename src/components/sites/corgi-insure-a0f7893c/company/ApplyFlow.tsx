@@ -144,7 +144,7 @@ export function ApplyFlow() {
           <ul className="flex flex-col gap-3">
             {APPLY_INTRO.bullets.map((b) => (
               <li key={b.text} className="flex items-center gap-3 text-[15px] leading-[1.2] tracking-[-0.2px] text-[#191919]">
-                <span className="flex size-9 shrink-0 items-center justify-center rounded-[10px] bg-[#dde4f6] text-[#1e3a8a]">
+                <span className="flex size-9 shrink-0 items-center justify-center rounded-[8px] bg-[#dde4f6] text-[#1e3a8a]">
                   <MaterialIcon name={b.icon} size={20} />
                 </span>
                 {b.text}
@@ -162,7 +162,7 @@ export function ApplyFlow() {
         {submitted ? (
           <FormCard>
             <SubmittedState title={APPLY_FIELDS.done.title} body={APPLY_FIELDS.done.body} action={APPLY_FIELDS.done.action} secondary={APPLY_FIELDS.done.secondary}>
-              <dl className="grid grid-cols-[auto_1fr] gap-x-4 gap-y-2 rounded-[10px] border border-[#e1e1e1] bg-white px-5 py-4 text-left text-[14px] leading-[1.3] tracking-[-0.21px]">
+              <dl className="grid grid-cols-[auto_1fr] gap-x-4 gap-y-2 rounded-[8px] border border-[#e1e1e1] bg-white px-5 py-4 text-left text-[14px] leading-[1.3] tracking-[-0.21px]">
                 <dt className="text-[#5c5c5c]">{APPLY_FIELDS.done.reference}</dt>
                 <dd className="font-mono font-medium text-[#191919]">{reference}</dd>
                 <dt className="text-[#5c5c5c]">Business</dt>
@@ -173,7 +173,7 @@ export function ApplyFlow() {
             </SubmittedState>
           </FormCard>
         ) : (
-          <form onSubmit={onSubmit} noValidate className="flex flex-col gap-6 rounded-[24px] border border-[#e1e1e1] bg-[#f9f9f9] p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
+          <form onSubmit={onSubmit} noValidate className="flex flex-col gap-6 rounded-[8px] border border-[#e1e1e1] bg-[#f9f9f9] p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8">
             <ProgressBar index={index} steps={APPLY_STEPS} />
             <FormTitle title={step.title} sub={step.sub} />
 

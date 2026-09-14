@@ -22,7 +22,7 @@ export function PressByline() {
                   aria-label={link.label}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex h-12 w-12 items-center justify-center rounded-full border border-[#e1e1e1] text-[#4a4a4a] transition-colors hover:bg-[#f3f3f3]"
+                  className="flex h-12 w-12 items-center justify-center rounded-[8px] border border-[#e1e1e1] text-[#4a4a4a] transition-colors hover:bg-[#f3f3f3]"
                 >
                   <Icon className="h-5 w-5" />
                 </a>

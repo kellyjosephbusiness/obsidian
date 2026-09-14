@@ -12,7 +12,7 @@ export function CtaBand({ content = DEFAULT_CTA, dataTrack }: { content?: CtaBan
     <section className="relative border-b border-[#e1e1e1] bg-[#f6f6f6] px-4 py-16 md:px-6 md:py-20 lg:px-16 lg:py-24">
       <Rails />
       <div className="relative mx-auto w-full max-w-[1600px]">
-        <div className="relative overflow-hidden rounded-[24px] bg-[#313131] px-6 py-12 text-white md:px-16 md:py-20">
+        <div className="relative overflow-hidden rounded-[8px] bg-[#313131] px-6 py-12 text-white md:px-16 md:py-20">
           <div
             aria-hidden
             className="pointer-events-none absolute -bottom-40 left-1/2 h-[420px] w-[820px] -translate-x-1/2 rounded-full opacity-60 blur-3xl"

@@ -14,12 +14,12 @@ export function LatestArticles() {
         <div aria-hidden className="pointer-events-none absolute top-0 left-1/2 h-px w-[2400px] -translate-x-1/2 bg-[#e1e1e1]" />
         <div aria-hidden className="pointer-events-none absolute bottom-0 left-1/2 h-px w-[2400px] -translate-x-1/2 bg-[#e1e1e1]" />
 
-        <div className="relative flex flex-col rounded-t-3xl border-x border-t border-[#e1e1e1]">
+        <div className="relative flex flex-col rounded-t-[8px] border-x border-t border-[#e1e1e1]">
           <div className="px-6 py-3">
             <span className="text-[12px] leading-[18px] tracking-tight text-[#4a4a4a] uppercase">{LATEST_LABEL}</span>
           </div>
-          <div className="overflow-hidden rounded-3xl bg-[#e1e1e1] py-px">
-            <div className="grid grid-cols-1 gap-px overflow-hidden rounded-[23px] md:grid-cols-2">
+          <div className="overflow-hidden rounded-[8px] bg-[#e1e1e1] py-px">
+            <div className="grid grid-cols-1 gap-px overflow-hidden rounded-[8px] md:grid-cols-2">
               {LATEST_ARTICLES.map((article) => (
                 <Link
                   key={article.href}

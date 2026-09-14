@@ -80,8 +80,6 @@ export function LoanTypeDetails({ items = LOAN_TYPE_DETAILS }: { items?: LoanTyp
                       variant="primary"
                       size="small"
                       href={LINKS.apply}
-                      className="rounded-[6px]"
-                      faceClassName="rounded-[6px] [corner-shape:round]"
                       dataTrack={`cta-loan-types-${item.id}`}
                     >
                       Apply now

@@ -113,7 +113,7 @@ export function QuoteStripSection() {
         <div className="flex justify-center px-4 pt-16 pb-8 md:px-6 lg:px-16">
           <motion.div
             animate={step >= 1 ? "visible" : "hidden"}
-            className="relative size-12 shrink-0 overflow-hidden rounded-[11.52px] shadow-[0_0_3.84px_0_rgba(29,29,29,0.25)]"
+            className="relative size-12 shrink-0 overflow-hidden rounded-[8px] shadow-[0_0_3.84px_0_rgba(29,29,29,0.25)]"
             initial="hidden"
             style={WILL_CHANGE}
             variants={logoVariants}
@@ -150,14 +150,14 @@ export function QuoteStripSection() {
         <div className="flex justify-center px-4 pt-4 pb-16 md:px-6 lg:px-16">
           <motion.div
             animate={step >= 3 ? "visible" : "hidden"}
-            className="flex flex-col overflow-hidden rounded-[24px] border border-[#e1e1e1] bg-white shadow-[0_0_16px_0_rgba(25,25,25,0.05)]"
+            className="flex flex-col overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_16px_0_rgba(25,25,25,0.05)]"
             initial="hidden"
             style={WILL_CHANGE}
             variants={cardVariants}
           >
-            <div className="-mt-px -mx-px flex items-stretch overflow-hidden rounded-[24px] border border-[#e1e1e1] bg-white shadow-[0_0_16px_0_rgba(25,25,25,0.3)]">
+            <div className="-mt-px -mx-px flex items-stretch overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_16px_0_rgba(25,25,25,0.3)]">
               <div className="flex items-center self-stretch">
-                <div className="relative h-20 w-20 shrink-0 overflow-hidden rounded-[24px]">
+                <div className="relative h-20 w-20 shrink-0 overflow-hidden rounded-[8px]">
                   <div className="absolute inset-0 bg-[#191919]" />
                   <InitialsAvatar name={QUOTE_STRIP.author} className="absolute inset-0" textClassName="text-[28px]" />
                 </div>

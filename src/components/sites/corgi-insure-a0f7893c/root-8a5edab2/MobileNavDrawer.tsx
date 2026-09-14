@@ -95,7 +95,7 @@ function MobileMenuItem({
     return (
       <button
         type="button"
-        className="flex min-h-[44px] w-full items-center gap-2 rounded-lg p-2 text-left transition-colors hover:bg-[#f6f6f6]"
+        className="flex min-h-[44px] w-full items-center gap-2 rounded-[8px] p-2 text-left transition-colors hover:bg-[#f6f6f6]"
         onClick={() => onHashNavigate(item.href as string)}
       >
         <ItemContent item={item} />
@@ -106,7 +106,7 @@ function MobileMenuItem({
   return (
     <Link
       href={item.href}
-      className="flex min-h-[44px] items-center gap-2 rounded-lg p-2 transition-colors hover:bg-[#f6f6f6]"
+      className="flex min-h-[44px] items-center gap-2 rounded-[8px] p-2 transition-colors hover:bg-[#f6f6f6]"
       onClick={onClose}
       {...(external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
     >
@@ -155,14 +155,18 @@ function HighlightCardBody({ card }: { card: NavHighlightCard }) {
   return (
     <>
       {card.image ? (
-        <Image
-          alt={card.imageAlt}
-          className={cn("absolute inset-0 h-full w-full object-cover", card.imagePositionClass)}
-          fetchPriority="low"
-          fill
-          sizes="(min-width: 768px) 360px, 190px"
-          src={card.image}
-        />
+        <>
+          {/* Nav art is a transparent 1-bit stipple drawing, so it sits on a navy tint plate, contained not cropped. */}
+          <div aria-hidden className="absolute inset-0 bg-[#dde4f6]" />
+          <Image
+            alt={card.imageAlt}
+            className={cn("absolute inset-0 h-full w-full object-cover", card.imagePositionClass)}
+            fetchPriority="low"
+            fill
+            sizes="(min-width: 768px) 360px, 190px"
+            src={card.image}
+          />
+        </>
       ) : (
         <div aria-hidden className="absolute inset-0 flex items-start justify-end p-3" style={gradientFor(card.title)}>
           <MaterialIcon name={card.icon ?? "trending_up"} size={40} className="text-white/90" />
@@ -187,7 +191,7 @@ function MobileHighlights({ cards, onClose }: { cards: NavHighlightCard[]; onClo
       <ColumnHeader title="Highlights" />
       <div className="relative flex h-[120px] md:h-[160px]">
         <div aria-hidden className={HAIRLINE_TOP_CLASS} />
-        <div className="flex flex-1 overflow-hidden rounded-[20px] border-[1px] border-[#e1e1e1]">
+        <div className="flex flex-1 overflow-hidden rounded-[8px] border-[1px] border-[#e1e1e1]">
           <Link
             href={first.href}
             onClick={onClose}

@@ -23,8 +23,8 @@ export function WhyFundLine({ cards = WHY_CARDS }: { cards?: WhyCard[] } = {}) {
           <div aria-hidden className="-translate-x-1/2 pointer-events-none absolute top-0 left-1/2 h-px w-[200vw] bg-[#e1e1e1]" />
           <div aria-hidden className="-translate-x-1/2 pointer-events-none absolute bottom-0 left-1/2 h-px w-[200vw] bg-[#e1e1e1]" />
           {cards.map((card) => (
-            <div key={card.title} className="flex flex-col items-start justify-center gap-5 overflow-hidden rounded-[24px] bg-[#313131] p-5">
-              <div className={`flex size-9 items-center justify-center rounded-full ${card.tileClass}`}>
+            <div key={card.title} className="flex flex-col items-start justify-center gap-5 overflow-hidden rounded-[8px] bg-[#313131] p-5">
+              <div className={`flex size-9 items-center justify-center rounded-[8px] ${card.tileClass}`}>
                 <MaterialIcon name={card.icon} size={24} className={card.iconClass} />
               </div>
               <div className="flex flex-col gap-3">

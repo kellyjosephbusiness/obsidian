@@ -189,10 +189,10 @@
 }
 
 @layer components {
-  /* corgi.insure button corner treatment */
+  /* Enterprise button corner treatment: a squared 6px radius on every pressable face and base. */
   .pressable-smooth-corner {
-    corner-shape: superellipse(1.6);
-    border-radius: 16px;
+    corner-shape: round;
+    border-radius: 6px;
   }
 }
 

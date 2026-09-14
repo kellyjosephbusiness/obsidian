@@ -15,14 +15,14 @@ export function CompareSection() {
         <div className="relative flex flex-col gap-3">
           <Hairlines zIndex="z-0" />
           {COMPARE_CARDS.map((card) => (
-            <article key={card.title} className="relative z-10 flex items-stretch overflow-hidden rounded-[16px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
+            <article key={card.title} className="relative z-10 flex items-stretch overflow-hidden rounded-[8px] border border-[#e1e1e1] bg-white shadow-[0_0_24px_0_rgba(25,25,25,0.05)]">
               <div className="relative w-[110px] shrink-0 self-stretch sm:w-[180px] md:w-[250px]">
-                <div className="relative h-full w-full overflow-hidden rounded-tr-[16px] rounded-br-[16px]">
+                <div className="relative h-full w-full overflow-hidden rounded-tr-[8px] rounded-br-[8px]">
                   <Image alt="" src={card.image} fill sizes="250px" className="object-contain p-3" />
                 </div>
-                <div aria-hidden className="pointer-events-none absolute top-0 right-0 size-[16px] rounded-tr-[16px] border-t border-r border-[#e1e1e1]" />
+                <div aria-hidden className="pointer-events-none absolute top-0 right-0 size-[16px] rounded-tr-[8px] border-t border-r border-[#e1e1e1]" />
                 <div aria-hidden className="pointer-events-none absolute top-[16px] right-0 bottom-[16px] w-px bg-[#e1e1e1]" />
-                <div aria-hidden className="pointer-events-none absolute right-0 bottom-0 size-[16px] rounded-br-[16px] border-r border-b border-[#e1e1e1]" />
+                <div aria-hidden className="pointer-events-none absolute right-0 bottom-0 size-[16px] rounded-br-[8px] border-r border-b border-[#e1e1e1]" />
               </div>
               <div className="flex flex-1 flex-col gap-2 p-4 md:p-6">
                 <h3 className="font-mono text-[18px] leading-none tracking-[-0.58px] text-[#191919] md:text-[24px] md:tracking-[-0.77px]">{card.title}</h3>

@@ -17,12 +17,12 @@ export function PlainEnglishTable() {
         </div>
 
         <div className="relative">
-          <div className="relative z-10 flex flex-col rounded-[24px] border border-[#e1e1e1] bg-[#f6f6f6] shadow-[0_0_12px_rgba(25,25,25,0.05)]">
+          <div className="relative z-10 flex flex-col rounded-[8px] border border-[#e1e1e1] bg-[#f6f6f6] shadow-[0_0_12px_rgba(25,25,25,0.05)]">
             <div className="flex items-center justify-between px-6 py-3 text-[12px] leading-[1.2] tracking-[-0.18px] text-[#4a4a4a]">
               <span>{PLAIN_ENGLISH.colLeft}</span>
               <span className="hidden lg:inline">{PLAIN_ENGLISH.colRight}</span>
             </div>
-            <div className="overflow-hidden rounded-[24px] border-t border-[#e1e1e1] bg-white">
+            <div className="overflow-hidden rounded-[8px] border-t border-[#e1e1e1] bg-white">
               {SCENARIOS.map((s, i) => (
                 <div key={s.note} className={`flex flex-col lg:flex-row lg:items-stretch ${i > 0 ? "border-t border-[#e1e1e1]" : ""}`}>
                   <div className="flex flex-1 items-start p-5">

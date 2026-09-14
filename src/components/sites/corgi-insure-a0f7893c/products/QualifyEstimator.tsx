@@ -79,7 +79,7 @@ export function QualifyEstimator() {
               <p className="text-[12px] leading-[1.3] tracking-[-0.18px] text-[#606060]">{QUALIFY_CALC.note}</p>
             </form>
 
-            <div className="flex flex-col gap-6 rounded-[24px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8" aria-live="polite">
+            <div className="flex flex-col gap-6 rounded-[8px] border border-[#e1e1e1] bg-white p-6 shadow-[0_0_24px_0_rgba(25,25,25,0.05)] md:p-8" aria-live="polite">
               <div className="flex flex-col gap-2">
                 <span className="text-[12px] leading-[1.2] tracking-[-0.18px] text-[#4a4a4a]">{results.range}</span>
                 {estimate ? (

@@ -14,7 +14,7 @@ export interface PageHeroProps {
 /** Small uppercase pill used above headings (matches the not-found page's "Coming soon" chip). */
 export function Eyebrow({ children }: { children: ReactNode }) {
   return (
-    <span className="rounded-full border border-[#e1e1e1] bg-white px-4 py-1.5 text-[12px] font-medium uppercase leading-[1.2] tracking-[0.08em] text-[#4a4a4a]">
+    <span className="rounded-[4px] border border-[#e1e1e1] bg-white px-4 py-1.5 text-[12px] font-medium uppercase leading-[1.2] tracking-[0.08em] text-[#4a4a4a]">
       {children}
     </span>
   );

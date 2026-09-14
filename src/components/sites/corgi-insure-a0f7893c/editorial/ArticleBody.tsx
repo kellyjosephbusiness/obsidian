@@ -73,7 +73,7 @@ function TableOfContents({ blocks }: { blocks: EditorialBlock[] }) {
 
 function InlineCtaCard({ cta }: { cta: InlineCta }) {
   return (
-    <div className="rounded-3xl bg-[#191919] py-3 pr-3 pl-6">
+    <div className="rounded-[8px] bg-[#191919] py-3 pr-3 pl-6">
       <div className="flex flex-col items-start gap-4 md:flex-row md:items-center md:justify-between">
         <div className="flex flex-col gap-1">
           <span className="text-body font-medium text-white">{cta.title}</span>
@@ -160,7 +160,7 @@ function StickyRail({ rail }: { rail: RailCta }) {
   return (
     <div className="hidden w-[360px] shrink-0 lg:flex lg:flex-col lg:items-center lg:gap-3">
       <div className="sticky top-[116px] flex flex-col items-center gap-3 transition-[top] duration-300">
-        <div className="flex w-[360px] flex-col overflow-hidden rounded-[24px] border border-[#e1e1e1]">
+        <div className="flex w-[360px] flex-col overflow-hidden rounded-[8px] border border-[#e1e1e1]">
           <div className="relative h-[280px] overflow-hidden bg-white">
             <div aria-hidden inert className="@container pointer-events-none absolute top-[-84px] left-[-118px] w-[500px] select-none">
               <FinancialFormMock />

@@ -26,7 +26,7 @@ export function StatsBand({ headingLine1, headingLine2, items = HERO_TICKER }: S
           <span className="block">{headingLine1}</span>
           <span className="block text-[#8ea6f0]">{headingLine2}</span>
         </h2>
-        <dl className="grid grid-cols-2 gap-px overflow-hidden rounded-[24px] border border-[#585858] bg-[#585858] md:grid-cols-3 lg:grid-cols-4">
+        <dl className="grid grid-cols-2 gap-px overflow-hidden rounded-[8px] border border-[#585858] bg-[#585858] md:grid-cols-3 lg:grid-cols-4">
           {items.map((item, i) => (
             <div
               key={item.label}
